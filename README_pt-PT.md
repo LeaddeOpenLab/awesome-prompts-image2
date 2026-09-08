@@ -1,20 +1,8 @@
-# Image2 · Biblioteca de prompts · Leadde.ai
+# image2 · Biblioteca de prompts
 
-[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-brightgreen)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Current-brightgreen)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> **Prompts de qualidade selecionados diariamente**
-
-Descubra prompts completos para imagens, vídeos e criações 3D com IA. Explore por estilo, consulte versões multilingues e conheça os autores e as fontes.
-
-[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-## Conheça a Leadde.ai
-
-A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em vídeos empresariais com IA para formação, integração e marketing.
-
-Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
-
-**9** Prompts · Adição mais recente: **2026-09-08**
+**9** Prompts
 
 <a name="catalog"></a>
 
@@ -38,7 +26,7 @@ Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
 
 **Resumo:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
-<img src="images/2096809673378967588-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2096809673378967588-1.jpg" alt="封面" width="480" />
 
 **Prompt**
 
@@ -60,9 +48,9 @@ Fotografia · Item de Moda · Distribuição pendente
 
 **Resumo:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
-<img src="images/2096601368114937969-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2096601368114937969-1.jpg" alt="图片 1" width="480" />
 
-<img src="images/2096601368114937969-2.jpg" alt="Imagem 2" width="480" />
+<img src="images/2096601368114937969-2.jpg" alt="图片 2" width="480" />
 
 **Prompt**
 
@@ -82,13 +70,13 @@ Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Contexto · Distribuição pendente
 
-Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096269909076623535)
+引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
 
 **Resumo:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
 
-<img src="images/2096631729410986083-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
 
-<img src="images/2096631729410986083-2.jpg" alt="Imagem 2" width="480" />
+<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
 
 **Prompt**
 
@@ -124,7 +112,7 @@ Fotografia · Comida / Bebida · Distribuição pendente
 
 **Resumo:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
-<img src="covers/2096555489073279173.jpg" alt="Imagem 1" width="480" />
+<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
 
 **Prompt**
 
@@ -156,7 +144,7 @@ Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
 
 **Resumo:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
-<img src="images/2097159277937115208-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
 
 **Prompt**
 
@@ -183,7 +171,7 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Resumo / Context
 
 **Resumo:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
-<img src="images/2096808538534514913-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2096808538534514913-1.jpg" alt="封面" width="480" />
 
 **Prompt**
 
@@ -209,13 +197,13 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda
 
 **Resumo:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
-<img src="images/2097185580224491672-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
 
-<img src="images/2097185580224491672-2.jpg" alt="Imagem 2" width="480" />
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
 
-<img src="images/2097185580224491672-3.jpg" alt="Imagem 3" width="480" />
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
 
-<img src="images/2097185580224491672-4.jpg" alt="Imagem 4" width="480" />
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
 
 **Prompt**
 
@@ -243,9 +231,9 @@ Pôster / Folheto · Ilustração · Minimalismo · Distribuição pendente
 
 **Resumo:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
-<img src="images/2096807576168169628-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
 
-<img src="images/2096807576168169628-2.jpg" alt="Imagem 2" width="480" />
+<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
 
 **Prompt**
 
@@ -291,7 +279,7 @@ Retrato / Selfie · Personagem · Comida / Bebida · Distribuição pendente
 
 **Resumo:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
-<img src="images/2097157373936935051-1.jpg" alt="Imagem 1" width="480" />
+<img src="images/2097157373936935051-1.jpg" alt="封面" width="480" />
 
 **Prompt**
 
@@ -303,6 +291,4 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 
 ---
 
-[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
