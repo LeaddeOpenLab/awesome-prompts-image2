@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**9** Prompt · Son eklenen: **2026-09-08**
+**10** Prompt · Son eklenen: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097269715966230876"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2097269715966230876)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097269715966230876-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096809673378967588"></a>
 

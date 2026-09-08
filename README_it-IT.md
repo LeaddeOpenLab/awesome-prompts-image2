@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**9** Prompt · Ultima aggiunta: **2026-09-08**
+**10** Prompt · Ultima aggiunta: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097269715966230876"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2097269715966230876)
+
+Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097269715966230876-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2096809673378967588"></a>
 

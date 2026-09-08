@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-08**
+**10** Prompts · Latest addition: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,50 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097269715966230876"></a>
+
+### A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2097269715966230876)
+
+Photography · Portrait / Selfie · Character · Pending distribution
+
+**Summary:** A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
+
+<img src="images/2097269715966230876-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Translucent White Under the Evening Moon
+
+Main Subject:
+A full-body vertical photograph of an adult woman standing in the center of the frame in shallow water among coastal rocks at dusk, wrapped from chest to feet in a wet, translucent white cloth.
+
+Person & Expression:
+A quiet, near-profile expression with her head tilted toward the lower right of the frame and her gaze lowered toward the hand holding the fabric. Slender oval face contour, downcast elongated eyes, a slender nasal bridge, and softly parted pale lips. Wet, dark-brown below-the-shoulder hair is side-parted, with thin strands clinging to her cheek and neck.
+
+Attire & Pose:
+Wrapped from the chest in a long, strapless, dress-like sheer white cloth, with diagonal drapery overlapping across the torso and legs. Standing barefoot in the shallows, her own right hand is lowered by her side, her left hand pinches the cloth in front of her waist, and one leg is stepped slightly forward.
+
+Background & Lighting:
+A slender crescent moon in the blue-violet sky at the upper left of the frame, an orange sunset glow on the right horizon, and the water surface and black rocks across the lower half. Low evening sunlight from the rear right of the frame golden-rims the wet cloth and body, while soft blue twilight illuminates the front.
+
+Composition & Camera:
+A 3:4 vertical composition, full-body shot taken from a slight three-quarter front angle with the camera positioned slightly below waist height. The subject is framed prominently in the center, capturing the evening sky and crescent moon in the upper half, and the wet hem and feet at the bottom edge. Sharp focus on the subject and translucent cloth, with a gentle blur on the distant background.
+
+Texture & Style:
+Photorealistic live-action photograph. Meticulously captures the wet sheer cloth clinging to the skin, fine water droplets, reflections on the rocks and water surface, and the gradations of orange and blue-violet in the evening scene.
+
+Negative:
+Do not make the white cloth opaque; do not omit the crescent moon and the sunset glow
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096809673378967588"></a>
 
