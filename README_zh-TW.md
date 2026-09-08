@@ -170,21 +170,21 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### 南亞男性的雙重元素肖像，一側是迸發的水花，另一側是熾熱的火焰。
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [查看 X 原帖](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 攝影 · 人像 / 自拍 · 角色 · 待推送
 
-**概括:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**概括:** 南亞男性的雙重元素肖像，一側是迸發的水花，另一側是熾熱的火焰。
 
 <img src="images/2097159277937115208-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+以所上傳的面部作為參考。
+一位23歲南亞男性的高解析度肖像，雙眼微閉，頭部微仰，神情寧靜詳和，凌亂的黑髮，以上傳的鬍鬚作為參考。戲劇性的分裂元素效果：他臉部和身體的左側迸發著動態的水花、流體水霧與漂浮的水滴；右側則被熾熱耀眼的橘色火焰、熾烈火光以及燃燒的餘燼微粒所包圍吞噬。身穿深色合身T恤。超現實雙重元素美學，電影級光影，高對比單色與火焰色彩配置，攝影棚佈光，極致逼真的細節，柔和淺灰背景，以85mm人像鏡頭拍攝，8k解析度，逼真寫實的傑作。
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -285,20 +285,20 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### 在黃金時刻，一位韓國女性和一位戴希賈布的小女孩在戶外咖啡館享用咖啡，周圍點綴著手繪塗鴉。
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2097157373936935051)
 
 人像 / 自拍 · 角色 · 食物 / 飲品 · 待推送
 
-**概括:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**概括:** 在黃金時刻，一位韓國女性和一位戴希賈布的小女孩在戶外咖啡館享用咖啡，周圍點綴著手繪塗鴉。
 
 <img src="images/2097157373936935051-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+一位留著柔順深棕色長髮的韓國女孩在溫暖的金色時刻坐在一家溫馨的戶外咖啡館裡，輕輕地將一杯陶瓷咖啡湊近唇邊。她穿著一件優雅的米白色羅紋開襟衫，搭配合身的方領，以及一條相稱的高腰米色長褲，營造出柔和而高級的氣質。當她舒適地坐在漂亮的編織藤椅上時，一個小巧的米色單肩包自然地掛在肩頭。她身旁坐著一位可愛的小女孩，戴著米色希賈布頭巾，身穿飾有精緻蕾絲細節的典雅米色襯衫和飄逸的棕色長裙。小女孩手裡也拿著一杯熱飲，開心地看著韓國女孩。她們面前是一張大理石圓桌，上面放著一杯咖啡、新鮮出爐的糕點，以及一個插著嬌嫩白花的小玻璃花瓶。背景中是鬱鬱蔥蔥的綠樹、迷人的咖啡館外觀、溫暖的陽光和美麗的電影感散景。在她們周圍加入精緻的白色手繪愛心、閃爍光點和一個微笑的太陽，營造出可愛夢幻的氛圍，具有高度細緻的面容、自然的表情、柔和的光線、逼真的照片質感和溫馨的美感。
 ```
 
 [↑ 返回分類目錄](#catalog)

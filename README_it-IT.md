@@ -170,21 +170,21 @@ Composizione verticale 9:16, fotografia gastronomica commerciale di prima qualit
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### Ritratto a doppio elemento di un uomo sudasiatico diviso con schizzi d'acqua che esplodono da un lato e fuoco incandescente dall'altro.
 
 Autore：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Post originale](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
 
-**Riepilogo:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**Riepilogo:** Ritratto a doppio elemento di un uomo sudasiatico diviso con schizzi d'acqua che esplodono da un lato e fuoco incandescente dall'altro.
 
 <img src="images/2097159277937115208-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+Utilizzando il viso caricato come riferimento. 
+Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chiusi e la testa reclinata all'indietro in un'espressione serena, disordinati capelli neri, barba caricata come riferimento. Drammatico effetto elementale diviso: il lato sinistro del suo viso e del suo corpo esplode con dinamici schizzi d'acqua, spruzzi fluidi e goccioline d'acqua fluttuanti; il lato destro è avvolto da fiamme arancioni incandescenti, feroci scie di fuoco e particelle di braci ardenti. Indossa una maglietta scura attillata. Estetica surreale a doppio elemento, illuminazione cinematografica, tavolozza di colori ad alto contrasto monocromatica e di fuoco, illuminazione da studio, dettagli iperrealistici, sfondo grigio chiaro tenue, scattato con obiettivo per ritratti da 85 mm, risoluzione 8k, capolavoro fotorealistico.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -305,20 +305,20 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### Una donna coreana e una bambina con l'hijab gustano un caffè all'aperto durante l'ora d'oro, con decorazioni di scarabocchi disegnati a mano.
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2097157373936935051)
 
 Ritratto / Selfie · Personaggio · Cibo / Bevande · Distribuzione in attesa
 
-**Riepilogo:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**Riepilogo:** Una donna coreana e una bambina con l'hijab gustano un caffè all'aperto durante l'ora d'oro, con decorazioni di scarabocchi disegnati a mano.
 
 <img src="images/2097157373936935051-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+Una ragazza coreana con lunghi e morbidi capelli castano scuro è seduta in un accogliente caffè all'aperto durante la calda ora d'oro, tenendo delicatamente una tazza di caffè in ceramica vicino alle labbra. Indossa un elegante cardigan a costine color crema con uno scollo squadrato aderente e pantaloni a vita alta coordinati color crema, creando un look morbido e di classe. Una piccola borsa a tracolla color crema pende naturalmente dalla sua spalla mentre è comodamente seduta su una splendida sedia in rattan intrecciato. Accanto a lei siede una graziosa bambina che indossa un hijab beige, una modesta camicetta color crema con delicati dettagli in pizzo e una gonna fluida marrone. Anche la bambina tiene in mano una tazza calda e guarda felice verso la ragazza coreana. Davanti a loro c'è un tavolino da caffè rotondo in marmo con una tazza di caffè, un dolce appena sfornato e un piccolo vaso di vetro pieno di delicati fiori bianchi. Lo sfondo presenta alberi verdeggianti, l'incantevole esterno di un caffè, calda luce solare e un meraviglioso bokeh cinematografico. Aggiungi delicati cuori bianchi disegnati a mano, luccichii e un sole sorridente intorno a loro per un'atmosfera carina e sognante, con volti altamente dettagliati, espressioni naturali, illuminazione morbida, qualità fotorealistica e un'estetica accogliente.
 ```
 
 [↑ Torna alle categorie](#catalog)

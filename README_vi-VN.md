@@ -170,21 +170,21 @@ Bố cục dọc 9:16, chụp ảnh thương mại thực phẩm cao cấp, họ
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### Bức chân dung hai nguyên tố của một người đàn ông Nam Á với một bên là tia nước bùng nổ và bên kia là ngọn lửa rực sáng.
 
 Tác giả：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Bài gốc](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân phối
 
-**Tóm tắt:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**Tóm tắt:** Bức chân dung hai nguyên tố của một người đàn ông Nam Á với một bên là tia nước bùng nổ và bên kia là ngọn lửa rực sáng.
 
 <img src="images/2097159277937115208-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+Sử dụng khuôn mặt đã tải lên làm tài liệu tham khảo.
+Bức chân dung độ phân giải cao của một người đàn ông Nam Á 23 tuổi nhắm nghiền mắt và ngửa đầu ra sau với vẻ mặt thanh thản, mái tóc đen rối, sử dụng bộ râu đã tải lên làm tài liệu tham khảo. Hiệu ứng phân chia nguyên tố đầy kịch tính: nửa bên trái khuôn mặt và cơ thể anh ấy bùng nổ với những tia nước bắn năng động, làn sương lỏng và những giọt nước lơ lửng; nửa bên phải bị nhấn chìm trong ngọn lửa màu cam rực rỡ, những dải lửa dữ dội và các hạt tàn lửa đang cháy rực. Mặc một chiếc áo thun ôm vừa vặn màu tối. Thẩm mỹ hai nguyên tố siêu thực, ánh sáng điện ảnh, bảng màu đơn sắc tương phản cao cùng sắc lửa, ánh sáng studio, các chi tiết chân thực đến từng milimét, nền xám nhạt dịu nhẹ, chụp bằng ống kính chân dung 85mm, độ phân giải 8k, kiệt tác chân thực như ảnh chụp.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -285,20 +285,20 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### Một người phụ nữ Hàn Quốc và một bé gái đội khăn hijab thưởng thức cà phê tại quán cà phê ngoài trời trong giờ vàng, được trang trí bằng các hình vẽ nguệch ngoạc bằng tay.
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2097157373936935051)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Chờ phân phối
 
-**Tóm tắt:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**Tóm tắt:** Một người phụ nữ Hàn Quốc và một bé gái đội khăn hijab thưởng thức cà phê tại quán cà phê ngoài trời trong giờ vàng, được trang trí bằng các hình vẽ nguệch ngoạc bằng tay.
 
 <img src="images/2097157373936935051-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+Một cô gái Hàn Quốc với mái tóc dài màu nâu sẫm mềm mại đang ngồi tại một quán cà phê ngoài trời ấm cúng trong khung giờ vàng ấm áp, nhẹ nhàng nâng tách cà phê gốm gần môi. Cô diện chiếc áo cardigan gân màu kem thanh lịch với cổ vuông vừa vặn cùng quần dài cạp cao màu kem đồng điệu, tạo nên vẻ ngoài mềm mại và sang trọng. Một chiếc túi đeo vai nhỏ màu kem buông nhẹ tự nhiên trên vai khi cô ngồi thoải mái trên chiếc ghế mây đan tuyệt đẹp. Bên cạnh cô là một bé gái dễ thương đội khăn hijab màu be, mặc áo blouse màu kem kín đáo với chi tiết ren tinh xảo và chiếc chân váy màu nâu thướt tha. Bé gái cũng cầm một tách nước ấm và nhìn cô gái Hàn Quốc với ánh mắt rạng rỡ hạnh phúc. Trước mặt họ là chiếc bàn cà phê đá cẩm thạch tròn bày một tách cà phê, chiếc bánh ngọt mới nướng và một bình hoa thủy tinh nhỏ cắm những bông hoa trắng mỏng manh. Phông nền là hàng cây xanh mướt, ngoại cảnh quán cà phê duyên dáng, ánh nắng ấm áp và hiệu ứng bokeh điện ảnh đẹp mắt. Thêm vào xung quanh họ những nét vẽ tay tinh tế màu trắng gồm hình trái tim, ánh lấp lánh và ông mặt trời mỉm cười để tạo bầu không khí mơ màng dễ thương, với gương mặt vô cùng chi tiết, biểu cảm tự nhiên, ánh sáng dịu nhẹ, chất lượng chân thực như ảnh chụp và mang tính thẩm mỹ ấm cúng.
 ```
 
 [↑ Về danh mục](#catalog)

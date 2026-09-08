@@ -170,21 +170,21 @@ Vertikale 9:16-Komposition, erstklassige kommerzielle Food-Fotografie, realistis
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### Doppel-Element-Porträt eines südasiatischen Mannes, geteilt mit hervorbrechenden Wasserspritzern auf der einen Seite und glühendem Feuer auf der anderen.
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Originalbeitrag](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
-**Zusammenfassung:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**Zusammenfassung:** Doppel-Element-Porträt eines südasiatischen Mannes, geteilt mit hervorbrechenden Wasserspritzern auf der einen Seite und glühendem Feuer auf der anderen.
 
 <img src="images/2097159277937115208-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+Verwendung des hochgeladenen Gesichts als Referenz. 
+Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlossenen Augen und nach hinten geneigtem Kopf in einem gelassenen Ausdruck, unordentlichem schwarzem Haar, hochgeladenem Bart als Referenz. Dramatischer geteilter Elementareffekt: Die linke Seite seines Gesichts und Körpers birst vor dynamischen Wasserspritzern, flüssiger Gischt und schwebenden Wassertropfen; die rechte Seite ist von glühenden orangefarbenen Flammen, wilden Feuersträngen und brennenden Glutpartikeln umhüllt. Trägt ein dunkles, eng anliegendes T-Shirt. Surrealistische Doppel-Element-Ästhetik, filmische Beleuchtung, kontrastreiche monochrome und feurige Farbpalette, Studiobeleuchtung, hyperrealistische Details, gedeckter hellgrauer Hintergrund, aufgenommen mit einem 85-mm-Porträtobjektiv, 8k-Auflösung, fotorealistisches Meisterwerk.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -305,20 +305,20 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### Eine koreanische Frau und ein junges Mädchen im Hidschab genießen während der goldenen Stunde Kaffee in einem Straßencafé, verziert mit handgezeichneten Doodles.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2097157373936935051)
 
 Porträt / Selfie · Charakter · Essen / Trinken · Verteilung ausstehend
 
-**Zusammenfassung:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**Zusammenfassung:** Eine koreanische Frau und ein junges Mädchen im Hidschab genießen während der goldenen Stunde Kaffee in einem Straßencafé, verziert mit handgezeichneten Doodles.
 
 <img src="images/2097157373936935051-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+Ein koreanisches Mädchen mit langem, weichem, dunkelbraunem Haar sitzt während der warmen goldenen Stunde in einem gemütlichen Straßencafé und hält sanft eine Keramiktasse Kaffee an ihre Lippen. Sie trägt eine elegante cremefarbene gerippte Strickjacke mit figurbetontem eckigem Ausschnitt und dazu passende cremefarbene Hosen mit hoher Taille, was für einen sanften und edlen Look sorgt. Eine kleine cremefarbene Umhängetasche hängt ganz natürlich an ihrer Schulter, während sie bequem auf einem wunderschönen geflochtenen Rattanstuhl sitzt. Neben ihr sitzt ein süßes kleines Mädchen mit einem beigen Hidschab, einer dezenten cremefarbenen Bluse mit zarten Spitzendetails und einem fließenden braunen Rock. Das kleine Mädchen hält ebenfalls eine warme Tasse und blickt die koreanische junge Frau glücklich an. Vor ihnen steht ein runder Marmorcafétisch mit einer Tasse Kaffee, einem frisch gebackenen Gebäckstück und einer kleinen Glasvase voller zarter weißer Blumen. Der Hintergrund zeigt üppig grüne Bäume, eine bezaubernde Café-Fassade, warmes Sonnenlicht und ein wunderschönes filmisches Bokeh. Füge dezente, weiße, handgezeichnete Herzen, Funkeln und eine lachende Sonne um sie herum hinzu, um eine niedliche, verträumte Atmosphäre zu schaffen, mit hochdetaillierten Gesichtern, natürlichen Gesichtsausdrücken, sanfter Beleuchtung, fotorealistischer Qualität und einer gemütlichen Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

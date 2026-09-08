@@ -170,21 +170,21 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### 한쪽에는 터져 나오는 물보라, 다른 한쪽에는 타오르는 불길이 나뉜 남아시아 남성의 이중 원소 인물 사진.
 
 작성자：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [원본 게시물](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
 
-**요약:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**요약:** 한쪽에는 터져 나오는 물보라, 다른 한쪽에는 타오르는 불길이 나뉜 남아시아 남성의 이중 원소 인물 사진.
 
 <img src="images/2097159277937115208-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+업로드된 얼굴을 참조로 사용.
+눈을 감고 머리를 뒤로 젖힌 채 평온한 표정을 짓고 있는 23세 남아시아 남성의 고해상도 인물 사진, 헝클어진 검은 머리, 업로드된 수염을 참조로 사용. 극적인 분할 원소 효과: 얼굴과 몸의 왼쪽에서는 역동적인 물보라, 액체 스프레이, 떠다니는 물방울이 터져 나오고, 오른쪽은 빛나는 주황색 불꽃, 맹렬한 불길 줄기, 타오르는 잔불 입자에 휩싸여 있음. 짙은 색의 슬림핏 티셔츠 착용. 초현실적인 이중 원소 미학, 영화 같은 조명, 고대비 모노크롬 및 화염 컬러 팔레트, 스튜디오 조명, 극도로 사실적인 디테일, 차분한 밝은 회색 배경, 85mm 인물 렌즈로 촬영, 8k 해상도, 사실적인 걸작.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -285,20 +285,20 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### 골든 아워에 야외 카페에서 손그림 낙서로 장식된 가운데 커피를 즐기는 한국인 여성과 히잡을 쓴 어린 소녀.
 
 작성자：[@Lianaalane](https://x.com/Lianaalane) · [원본 게시물](https://x.com/Lianaalane/status/2097157373936935051)
 
 인물 사진 / 셀카 · 캐릭터 · 음식 / 음료 · 배포 대기
 
-**요약:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**요약:** 골든 아워에 야외 카페에서 손그림 낙서로 장식된 가운데 커피를 즐기는 한국인 여성과 히잡을 쓴 어린 소녀.
 
 <img src="images/2097157373936935051-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+부드럽고 긴 짙은 갈색 머리를 한 한국 여성이 따스한 골든 아워에 아늑한 야외 카페에 앉아 세라믹 커피잔을 입술 근처에 살며시 들고 있습니다. 그녀는 피트되는 스퀘어 넥라인의 우아한 크림색 골지 카디건과 어울리는 하이웨이스트 크림색 바지를 입어 부드럽고 세련된 분위기를 연출합니다. 아름다운 라탄 의자에 편안하게 앉아 있는 그녀의 어깨에는 작은 크림색 숄더백이 자연스럽게 걸쳐져 있습니다. 그녀 옆에는 베이지색 히잡과 섬세한 레이스 디테일이 들어간 단아한 크림색 블라우스, 찰랑거리는 갈색 스커트를 입은 귀여운 어린 소녀가 앉아 있습니다. 어린 소녀 역시 따뜻한 컵을 들고 한국 여성을 행복하게 바라보고 있습니다. 그들 앞에는 커피 한 잔, 갓 구운 페이스트리, 섬세한 흰 꽃이 꽂힌 작은 유리 꽃병이 놓인 원형 대리석 카페 테이블이 있습니다. 배경에는 푸르른 나무들, 매력적인 카페 외관, 따스한 햇살, 그리고 아름다운 시네마틱 보케가 어우러져 있습니다. 그들 주위로 작고 은은한 흰색 손그림 하트, 반짝임, 웃는 태양을 더해 귀엽고 몽환적인 분위기를 자아내며, 디테일이 살아있는 얼굴, 자연스러운 표정, 부드러운 조명, 사실적인 퀄리티, 아늑한 감성을 연출합니다.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

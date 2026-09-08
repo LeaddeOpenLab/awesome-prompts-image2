@@ -170,21 +170,21 @@ Dikey 9:16 kompozisyon, birinci sınıf ticari yemek fotoğrafçılığı, gerç
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### Bir tarafında patlayan su sıçramaları, diğer tarafında parıldayan ateş bulunan iki elementli bölünmüş Güney Asyalı bir adam portresi.
 
 Yazar：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Orijinal gönderi](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
 
-**Özet:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**Özet:** Bir tarafında patlayan su sıçramaları, diğer tarafında parıldayan ateş bulunan iki elementli bölünmüş Güney Asyalı bir adam portresi.
 
 <img src="images/2097159277937115208-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+Yüklenen yüz referans olarak kullanılarak. 
+Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siyah saçlı, yüklenen sakalı referans alınmış 23 yaşında Güney Asyalı bir adamın yüksek çözünürlüklü portresi. Çarpıcı bölünmüş elementsel etki: yüzünün ve vücudunun sol tarafı dinamik su sıçramaları, akışkan püskürmeler ve süzülen su damlacıklarıyla patlıyor; sağ tarafı ise parıldayan turuncu alevler, hırçın ateş şeritleri ve yanan kor parçacıklarıyla sarılmış durumda. Üzerinde koyu renk dar kesim bir tişört var. Sürrealist çift element estetiği, sinematik aydınlatma, yüksek kontrastlı monokrom ve ateş rengi paleti, stüdyo aydınlatması, hiper gerçekçi ayrıntılar, yumuşak açık gri arka plan, 85 mm portre lensiyle çekilmiş, 8k çözünürlük, fotogerçekçi şaheser.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -305,20 +305,20 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### Koreli bir kadın ve başörtülü küçük bir kız, altın saatte elle çizilmiş karalamalarla süslenmiş bir açık hava kafesinde kahve keyfi yapıyor.
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2097157373936935051)
 
 Portre / Selfie · Karakter · Yiyecek / İçecek · Dağıtım bekliyor
 
-**Özet:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**Özet:** Koreli bir kadın ve başörtülü küçük bir kız, altın saatte elle çizilmiş karalamalarla süslenmiş bir açık hava kafesinde kahve keyfi yapıyor.
 
 <img src="images/2097157373936935051-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+Uzun, yumuşak, koyu kahverengi saçlı Koreli bir kız, ılık altın saatte samimi bir açık hava kafesinde oturuyor ve seramik bir kahve fincanını nazikçe dudaklarına doğru tutuyor. Üzerinde vücuda oturan kare yakalı, krem rengi zarif fitilli bir hırka ve uyumlu krem rengi yüksek belli pantolon var; bu da ona yumuşak ve şık bir görünüm katıyor. Güzel bir hasır sandalyede rahatça otururken krem rengi küçük bir omuz çantası omzundan doğal bir şekilde sarkıyor. Yanında ise bej bir başörtüsü, narin dantel detaylarına sahip sade krem rengi bir bluz ve uçuşan kahverengi bir etek giymiş sevimli küçük bir kız oturuyor. Küçük kız da sıcak bir fincan tutuyor ve neşeyle Koreli kıza bakıyor. Önlerinde bir fincan kahve, taze pişmiş bir hamur işi ve narin beyaz çiçeklerle dolu küçük bir cam vazonun bulunduğu yuvarlak mermer bir kafe masası yer alıyor. Arka planda gür yeşil ağaçlar, büyüleyici bir kafe dış cephesi, sıcak güneş ışığı ve harika bir sinematik bokeh bulunuyor. Son derece ayrıntılı yüzler, doğal ifadeler, yumuşak ışıklandırma, fotogerçekçi kalite ve sıcacık bir estetikle sevimli ve rüya gibi bir atmosfer oluşturmak için çevrelerine elle çizilmiş zarif beyaz kalpler, ışıltılar ve gülümseyen bir güneş ekleyin.
 ```
 
 [↑ Kategorilere dön](#catalog)

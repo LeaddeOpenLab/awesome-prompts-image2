@@ -170,21 +170,21 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### एक दक्षिण एशियाई व्यक्ति का दोहरा तत्व पोर्ट्रेट, जिसके एक तरफ पानी के छींटे फूट रहे हैं और दूसरी तरफ जलती हुई आग है।
 
 लेखक：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [मूल पोस्ट](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशन लंबित
 
-**सारांश:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**सारांश:** एक दक्षिण एशियाई व्यक्ति का दोहरा तत्व पोर्ट्रेट, जिसके एक तरफ पानी के छींटे फूट रहे हैं और दूसरी तरफ जलती हुई आग है।
 
 <img src="images/2097159277937115208-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+अपलोड किए गए चेहरे को संदर्भ के रूप में उपयोग करते हुए।
+23 वर्षीय दक्षिण एशियाई व्यक्ति का उच्च-रिज़ॉल्यूशन वाला पोर्ट्रेट, जिसकी आँखें बंद हैं और सिर शांत अभिव्यक्ति के साथ पीछे झुका हुआ है, बिखरे हुए काले बाल, संदर्भ के रूप में अपलोड की गई दाढ़ी। नाटकीय विभाजनकारी तत्व प्रभाव: उसके चेहरे और शरीर का बायां हिस्सा गतिशील पानी के छींटों, तरल फुहारों और तैरती पानी की बूंदों के साथ फूट रहा है; दायां हिस्सा चमकती नारंगी लपटों, भयंकर आग की लपटों और जलते अंगारों के कणों से घिरा हुआ है। गहरे रंग की फिटेड टी-शर्ट पहने हुए। अतियथार्थवादी दोहरा तत्व सौंदर्य, सिनेमाई प्रकाश व्यवस्था, उच्च-विपरीत मोनोक्रोम और अग्नि रंग पैलेट, स्टूडियो प्रकाश व्यवस्था, अत्यधिक यथार्थवादी विवरण, मौन हल्का धूसर पृष्ठभूमि, 85 मिमी पोर्ट्रेट लेंस पर शॉट, 8k रिज़ॉल्यूशन, फोटोरियलिस्टिक मास्टरपीस।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)
@@ -285,20 +285,20 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### एक कोरियाई महिला और हिजाब पहने एक छोटी बच्ची सुनहरे समय में एक आउटडोर कैफ़े में हाथ से बने डूडल से सजे माहौल में कॉफ़ी का आनंद ले रही हैं।
 
 लेखक：[@Lianaalane](https://x.com/Lianaalane) · [मूल पोस्ट](https://x.com/Lianaalane/status/2097157373936935051)
 
 पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · भोजन / पेय · प्रकाशन लंबित
 
-**सारांश:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**सारांश:** एक कोरियाई महिला और हिजाब पहने एक छोटी बच्ची सुनहरे समय में एक आउटडोर कैफ़े में हाथ से बने डूडल से सजे माहौल में कॉफ़ी का आनंद ले रही हैं।
 
 <img src="images/2097157373936935051-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+लंबे, मुलायम, गहरे भूरे बालों वाली एक कोरियाई लड़की सुनहरी शाम की गुनगुनी धूप में एक आरामदायक आउटडोर कैफ़े में बैठी है, और अपने होठों के पास एक सेरेमिक कॉफ़ी कप को धीरे से पकड़े हुए है। उसने एक फिटेड चौकोर नेकलाइन वाला सुरुचिपूर्ण क्रीम-रंग का रिब्ड कार्डिगन और उससे मेल खाती हाई-वेस्टेड क्रीम पैंट पहनी हुई है, जो एक सौम्य और क्लासी लुक देती है। जब वह एक सुंदर बुनी हुई बेंत की कुर्सी पर आराम से बैठी है, तो एक छोटा क्रीम रंग का शोल्डर बैग स्वाभाविक रूप से उसके कंधे से लटक रहा है। उसके पास एक प्यारी सी छोटी लड़की बैठी है जिसने बेज रंग का हिजाब, नाजुक लेस के विवरण वाला एक शालीन क्रीम ब्लाउज़ और लहराता हुआ भूरा स्कर्ट पहना है। छोटी लड़की ने भी एक गर्म कप पकड़ा हुआ है और वह खुशी से कोरियाई लड़की की ओर देख रही है। उनके सामने एक गोल संगमरमर की कैफ़े टेबल है जिस पर एक कप कॉफ़ी, एक ताज़ा बेक की गई पेस्ट्री और नाजुक सफेद फूलों से भरा एक छोटा कांच का फूलदान रखा है। पृष्ठभूमि में हरे-भरे पेड़, एक आकर्षक कैफ़े का बाहरी हिस्सा, गर्म धूप और सुंदर सिनेमाई बोकेह शामिल हैं। एक प्यारा और स्वप्निल माहौल बनाने के लिए उनके चारों ओर हाथ से बनाए गए हल्के सफेद दिल, चमकते सितारे और मुस्कुराता हुआ सूरज जोड़ें, जिसमें अत्यधिक विस्तृत चेहरे, स्वाभाविक भाव, कोमल रोशनी, फोटोरियलिस्टिक गुणवत्ता और एक आरामदायक सौंदर्य हो।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

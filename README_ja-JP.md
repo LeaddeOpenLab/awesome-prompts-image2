@@ -170,21 +170,21 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### 片側に弾ける水しぶき、もう片側に輝く炎を配した、南アジア系男性のデュアルエレメント・ポートレート。
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [元の投稿](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
 
-**概要:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**概要:** 片側に弾ける水しぶき、もう片側に輝く炎を配した、南アジア系男性のデュアルエレメント・ポートレート。
 
 <img src="images/2097159277937115208-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+アップロードされた顔を参照として使用。
+穏やかな表情で目を閉じ、頭を少し後ろに傾けた23歳の南アジア系男性の高解像度ポートレート。無造作な黒髪、アップロードされた髭を参照。ドラマチックなエレメンタルの二分割エフェクト：顔と体の左側からはダイナミックな水しぶき、水流のスプレー、浮遊する水滴が弾け飛び、右側は輝くオレンジ色の炎、激しい火の筋、燃える燃え殻の粒子に包まれている。ダークカラーのフィットしたTシャツを着用。シュールなデュアルエレメントの美学、映画のようなライティング、ハイコントラストなモノクロと炎のカラーパレット、スタジオ照明、超リアルなディテール、落ち着いたライトグレーの背景、85mmポートレートレンズで撮影、8k解像度、フォトリアリスティックな傑作。
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -285,20 +285,20 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### ゴールデンアワーの屋外カフェで、韓国人女性とヒジャブを身に着けた幼い少女が手描きの落書きに囲まれながらコーヒーを楽しむ様子。
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [元の投稿](https://x.com/Lianaalane/status/2097157373936935051)
 
 ポートレート / セルフィー · キャラクター · 食品・飲料 · 配信待ち
 
-**概要:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**概要:** ゴールデンアワーの屋外カフェで、韓国人女性とヒジャブを身に着けた幼い少女が手描きの落書きに囲まれながらコーヒーを楽しむ様子。
 
 <img src="images/2097157373936935051-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+柔らかく長いダークブラウンの髪をした韓国人女性が、暖かいゴールデンアワーの居心地の良いオープンカフェに座り、陶器のコーヒーカップを唇の近くにそっと持っています。彼女は体にフィットしたスクエアネックのエレガントなクリーム色のリブカーディガンと、それに合わせたハイウエストのクリーム色のパンツを身に着け、柔らかく上品な装いを演出しています。美しい籐編みの椅子に心地よく座る彼女の肩からは、小さなクリーム色のショルダーバッグが自然に掛けられています。彼女の隣には、ベージュのヒジャブ、繊細なレースがあしらわれた控えめなクリーム色のブラウス、揺れるブラウンのスカートを身にまとった可愛い幼い女の子が座っています。その少女も温かいカップを持ち、嬉しそうに韓国人女性を見つめています。彼女たちの前には大理石の丸いカフェテーブルがあり、コーヒーが1杯、焼き立てのペストリー、可憐な白い花が生けられた小さなガラスの一輪挿しが置かれています。背景には青々とした木々、魅力的なカフェの外観、暖かい陽光、そして美しいシネマティックなボケ味が広がっています。愛らしく夢幻的な雰囲気を演出するために、手描きの繊細な白いハート、輝き、笑顔の太陽を周囲にあしらい、細部まで描き込まれた顔立ち、自然な表情、柔らかな照明、フォトリアリスティックな品質、そして居心地の良い美学を備えています。
 ```
 
 [↑ カテゴリに戻る](#catalog)

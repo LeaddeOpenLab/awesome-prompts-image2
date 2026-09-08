@@ -170,21 +170,21 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2097159277937115208"></a>
 
-### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+### ภาพพอร์ตเทรตสองธาตุของชายชาวเอเชียใต้ แบ่งครึ่งด้วยละอองน้ำที่พวยพุ่งในด้านหนึ่งและเปลวไฟที่ส่องสว่างในอีกด้านหนึ่ง
 
 ผู้เขียน：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [โพสต์ต้นฉบับ](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
 การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · รอเผยแพร่
 
-**สรุป:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+**สรุป:** ภาพพอร์ตเทรตสองธาตุของชายชาวเอเชียใต้ แบ่งครึ่งด้วยละอองน้ำที่พวยพุ่งในด้านหนึ่งและเปลวไฟที่ส่องสว่างในอีกด้านหนึ่ง
 
 <img src="images/2097159277937115208-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Using uploaded face as reference. 
-High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+ใช้ใบหน้าที่อัปโหลดเป็นข้อมูลอ้างอิง
+ภาพพอร์ตเทรตความละเอียดสูงของชายชาวเอเชียใต้วัย 23 ปี หลับตาและเงยศีรษะไปด้านหลังด้วยสีหน้าสงบ ผมสีดำยุ่ง ใช้เคราที่อัปโหลดเป็นข้อมูลอ้างอิง เอฟเฟกต์การแบ่งธาตุอย่างดราม่า: ใบหน้าและร่างกายซีกซ้ายระเบิดออกด้วยละอองน้ำที่เคลื่อนไหวอย่างทรงพลัง สายน้ำที่พวยพุ่ง และหยดน้ำที่ลอยอยู่ ซีกขวาถูกล้อมรอบด้วยเปลวไฟสีส้มที่ส่องประกาย เปลวเพลิงที่โหมกระหน่ำ และละอองสะเก็ดไฟที่ลุกไหม้ สวมเสื้อยืดพอดีตัวสีเข้ม สุนทรียศาสตร์แบบสองธาตุเหนือจริง แสงแบบภาพยนตร์ โทนสีคอนทราสต์สูงแบบโมโนโครมผสมสีเพลิง แสงสตูดิโอ รายละเอียดสมจริงระดับไฮเปอร์เรียลลิสติก พื้นหลังสีเทาอ่อนแบบหม่น ถ่ายด้วยเลนส์พอร์ตเทรต 85 มม. ความละเอียด 8k ผลงานชิ้นเอกที่สมจริงราวกับภาพถ่าย
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
@@ -285,20 +285,20 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2097157373936935051"></a>
 
-### A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+### หญิงสาวชาวเกาหลีและเด็กหญิงตัวน้อยสวมฮิญาบกำลังเพลิดเพลินกับกาแฟที่คาเฟ่กลางแจ้งในช่วงเวลาแสงสีทอง ตกแต่งด้วยภาพวาดลายเส้นดูเดิลแบบวาดมือ
 
 ผู้เขียน：[@Lianaalane](https://x.com/Lianaalane) · [โพสต์ต้นฉบับ](https://x.com/Lianaalane/status/2097157373936935051)
 
 ภาพบุคคล / เซลฟี่ · ตัวละคร · อาหาร / เครื่องดื่ม · รอเผยแพร่
 
-**สรุป:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
+**สรุป:** หญิงสาวชาวเกาหลีและเด็กหญิงตัวน้อยสวมฮิญาบกำลังเพลิดเพลินกับกาแฟที่คาเฟ่กลางแจ้งในช่วงเวลาแสงสีทอง ตกแต่งด้วยภาพวาดลายเส้นดูเดิลแบบวาดมือ
 
 <img src="images/2097157373936935051-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
+หญิงสาวชาวเกาหลีผมยาวสลวยสีน้ำตาลเข้มนั่งอยู่ที่คาเฟ่กลางแจ้งแสนอบอุ่นในช่วงเวลาแสงสีทองอันอบอุ่น ค่อยๆ ถือถ้วยกาแฟเซรามิกไว้ใกล้ริมฝีปาก เธอสวมเสื้อคาร์ดิแกนผ้าถักลอนสีครีมสุดสง่างามที่มีคอสี่เหลี่ยมพอดีตัวและกางเกงเอวสูงสีครีมเข้าชุดกัน สร้างลุคที่ดูนุ่มนวลและมีระดับ กระเป๋าสะพายไหล่ใบเล็กสีครีมห้อยอยู่อย่างเป็นธรรมชาติบนไหล่ของเธอขณะที่เธอนั่งสบายๆ บนเก้าอี้หวายสานแสนสวย ข้างๆ เธอมีเด็กหญิงตัวน้อยน่ารักสวมฮิญาบสีเบจ เสื้อเบลาส์สีครีมเรียบร้อยประดับลูกไม้ประณีต และกระโปรงยาวสีน้ำตาลพริ้วไหว เด็กหญิงตัวน้อยก็ถือถ้วยอุ่นๆ ไว้และมองไปยังหญิงสาวชาวเกาหลีอย่างมีความสุข ด้านหน้าของพวกเธอคือโต๊ะคาเฟ่หินอ่อนทรงกลมที่มีถ้วยกาแฟ ขนมอบสดใหม่ และแจกันแก้วใบเล็กที่มีดอกไม้สีขาวบอบบาง พื้นหลังเต็มไปด้วยต้นไม้เขียวชอุ่ม อาคารคาเฟ่ที่มีเสน่ห์ แสงแดดอบอุ่น และโบเก้สวยงามระดับภาพยนตร์ เพิ่มลายเส้นรูปหัวใจสีขาว แสงระยิบระยับ และดวงอาทิตย์ยิ้มแบบวาดมือบางเบารอบตัวพวกเธอเพื่อสร้างบรรยากาศชวนฝันน่ารัก รายละเอียดใบหน้าชัดเจนเป็นพิเศษ การแสดงออกอย่างเป็นธรรมชาติ แสงนุ่มนวล คุณภาพสมจริงแบบภาพถ่าย และสุนทรียภาพที่อบอุ่น
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
