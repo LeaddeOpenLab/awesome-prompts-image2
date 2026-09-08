@@ -2,9 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Current-brightgreen)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> แปลเมนูนำทาง ชื่อใช้สรุปจาก Gemini และคงพรอมต์ต้นฉบับไว้
-
-**3** รายการ
+**4** รายการ
 
 <a name="catalog"></a>
 
@@ -29,14 +27,15 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ย้อนยุค / วินเทจ](#category-retro-vintage)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>การถ่ายภาพ · 2</summary>
+<summary>การถ่ายภาพ · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 
@@ -63,20 +62,30 @@
 - ภาพวาดสีน้ำมัน · 0
 - สีน้ำ · 0
 - หมึก / สไตล์จีน · 0
-- ย้อนยุค / วินเทจ · 0
+
+<a name="category-retro-vintage"></a>
+
+<details open>
+<summary>ย้อนยุค / วินเทจ · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - ไซเบอร์พังก์ / ไซไฟ · 0
 - มินิมอลลิสต์ · 0
 
 ### เนื้อหาหลัก
 
-[ภาพบุคคล / เซลฟี่](#category-portrait-selfie) · [ตัวละคร](#category-character) · [อาหาร / เครื่องดื่ม](#category-food-drink) · [บทคัดย่อ / ความเป็นมา](#category-abstract-background)
+[ภาพบุคคล / เซลฟี่](#category-portrait-selfie) · [ตัวละคร](#category-character) · [อาหาร / เครื่องดื่ม](#category-food-drink) · [ไอเทมแฟชั่น](#category-fashion-item) · [ยานพาหนะ](#category-vehicle) · [ทิวทัศน์เมือง / ถนน](#category-cityscape-street) · [บทคัดย่อ / ความเป็นมา](#category-abstract-background)
 
 
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>ภาพบุคคล / เซลฟี่ · 2</summary>
+<summary>ภาพบุคคล / เซลฟี่ · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -87,8 +96,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>ตัวละคร · 2</summary>
+<summary>ตัวละคร · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -106,20 +116,48 @@
 
 </details>
 
-- ไอเทมแฟชั่น · 0
+
+<a name="category-fashion-item"></a>
+
+<details open>
+<summary>ไอเทมแฟชั่น · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - สัตว์ / สิ่งมีชีวิต · 0
-- ยานพาหนะ · 0
+
+<a name="category-vehicle"></a>
+
+<details open>
+<summary>ยานพาหนะ · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - สถาปัตยกรรม / การตกแต่งภายใน · 0
 - ทิวทัศน์ / ธรรมชาติ · 0
-- ทิวทัศน์เมือง / ถนน · 0
+
+<a name="category-cityscape-street"></a>
+
+<details open>
+<summary>ทิวทัศน์เมือง / ถนน · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - แผนภาพ / แผนภูมิ · 0
 - ข้อความ / การจัดพิมพ์ · 0
 
 <a name="category-abstract-background"></a>
 
 <details open>
-<summary>บทคัดย่อ / ความเป็นมา · 1</summary>
+<summary>บทคัดย่อ / ความเป็นมา · 2</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -128,6 +166,36 @@
 <a name="all-prompts"></a>
 
 ## พรอมต์ทั้งหมด
+
+<a name="prompt-2097185580224491672"></a>
+
+### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+ผู้เขียน：[@harboriis](https://x.com/harboriis) · [โพสต์ต้นฉบับ](https://x.com/harboriis/status/2097185580224491672)
+
+การถ่ายภาพ · ย้อนยุค / วินเทจ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · ยานพาหนะ · ทิวทัศน์เมือง / ถนน · บทคัดย่อ / ความเป็นมา · รอเผยแพร่
+
+**สรุป:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2096555489073279173"></a>
 

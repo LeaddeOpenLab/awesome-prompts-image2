@@ -2,9 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Current-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> ナビゲーションを翻訳。見出しは Gemini の要約、プロンプトは原文のままです。
-
-**3** 件
+**4** 件
 
 <a name="catalog"></a>
 
@@ -29,14 +27,15 @@
 
 ### スタイル
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [レトロ / ヴィンテージ](#category-retro-vintage)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>写真撮影 · 2</summary>
+<summary>写真撮影 · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 
@@ -63,20 +62,30 @@
 - 油絵 · 0
 - 水彩 · 0
 - 墨 / 中国風 · 0
-- レトロ / ヴィンテージ · 0
+
+<a name="category-retro-vintage"></a>
+
+<details open>
+<summary>レトロ / ヴィンテージ · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - サイバーパンク / SF · 0
 - ミニマリズム · 0
 
 ### 本文
 
-[ポートレート / セルフィー](#category-portrait-selfie) · [キャラクター](#category-character) · [食品・飲料](#category-food-drink) · [要旨 / 背景](#category-abstract-background)
+[ポートレート / セルフィー](#category-portrait-selfie) · [キャラクター](#category-character) · [食品・飲料](#category-food-drink) · [ファッションアイテム](#category-fashion-item) · [車両](#category-vehicle) · [街並み / ストリート](#category-cityscape-street) · [要旨 / 背景](#category-abstract-background)
 
 
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>ポートレート / セルフィー · 2</summary>
+<summary>ポートレート / セルフィー · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -87,8 +96,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>キャラクター · 2</summary>
+<summary>キャラクター · 3</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -106,20 +116,48 @@
 
 </details>
 
-- ファッションアイテム · 0
+
+<a name="category-fashion-item"></a>
+
+<details open>
+<summary>ファッションアイテム · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - 動物 / 生き物 · 0
-- 車両 · 0
+
+<a name="category-vehicle"></a>
+
+<details open>
+<summary>車両 · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - 建築 / インテリア · 0
 - 風景 / 自然 · 0
-- 街並み / ストリート · 0
+
+<a name="category-cityscape-street"></a>
+
+<details open>
+<summary>街並み / ストリート · 1</summary>
+
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
+
+</details>
+
 - 図 / チャート · 0
 - テキスト / タイポグラフィ · 0
 
 <a name="category-abstract-background"></a>
 
 <details open>
-<summary>要旨 / 背景 · 1</summary>
+<summary>要旨 / 背景 · 2</summary>
 
+- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -128,6 +166,36 @@
 <a name="all-prompts"></a>
 
 ## すべてのプロンプト
+
+<a name="prompt-2097185580224491672"></a>
+
+### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+作者：[@harboriis](https://x.com/harboriis) · [元の投稿](https://x.com/harboriis/status/2097185580224491672)
+
+写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 車両 · 街並み / ストリート · 要旨 / 背景 · 配信待ち
+
+**概要:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2096555489073279173"></a>
 
