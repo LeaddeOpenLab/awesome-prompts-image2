@@ -1,8 +1,20 @@
-# image2 · プロンプト集
+# Image2 · プロンプト集 · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Current-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**9** 件
+> **高品質なプロンプトを毎日厳選**
+
+AI画像・動画・3D制作の完全なプロンプトを紹介します。スタイル別に探し、多言語版と原作者の出典を確認できます。
+
+[Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+## Leadde.ai について
+
+Leadde.ai は文書、スライド、テキストから、研修、新入社員教育、マーケティング向けのAIビジネス動画を作成するチームを支援します。
+
+リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
+
+**9** 件 · 最新の追加: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -26,9 +38,9 @@
 
 **概要:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
-<img src="images/2096809673378967588-1.jpg" alt="封面" width="480" />
+<img src="images/2096809673378967588-1.jpg" alt="画像 1" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
@@ -48,11 +60,11 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 **概要:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
-<img src="images/2096601368114937969-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096601368114937969-1.jpg" alt="画像 1" width="480" />
 
-<img src="images/2096601368114937969-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096601368114937969-2.jpg" alt="画像 2" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 ミニマリストで温かみのあるベージュのスタジオで撮影された、超写実的なラグジュアリー・ファッション・エディトリアル。長く柔らかなウェーブヘアを持つグラマラスな大人のブロンド女性モデルが、繊細なゴールドの金具があしらわれたリアルな黒革の頭絡を付けた雄大な実物大の純白の馬の隣でエレガントにポーズをとっている。モデルは、流れるような長いケープが付いた洗練されたアイボリーホワイトのノースリーブ仕立てのワイドレッグ衣装、エレガントなヒール、洗練されたジュエリーを着用している。馬の横に立って手綱を握ったり、幾何学的なクリーム色のブロックに優美に腰掛け、その背後や横に馬が穏やかに佇んでいたりするような、エレガントなモデルのポーズによるプレミアムなハイファッション・キャンペーンルック。温かみのあるベージュのシームレスな背景と床、柔らかな指向性スタジオ照明、リアルな肌の質感、リアルな馬の解剖学的構造と毛並み、自然な影、流れるようなファブリック、洗練されたニュートラルカラーパレット、フォトリアリスティック、贅沢なエディトリアル美学、全身構図、高精細、縦型 2:3。
@@ -70,15 +82,15 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 要旨 / 背景 · 配信待ち
 
-引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
+元の投稿：[@liyue\_ai](https://x.com/liyue_ai) · [元の投稿](https://x.com/liyue_ai/status/2096269909076623535)
 
 **概要:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
 
-<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096631729410986083-1.jpg" alt="画像 1" width="480" />
 
-<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096631729410986083-2.jpg" alt="画像 2" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 9:16 縦構図、古風な夜のビューティーポートレート、東洋古典の貴婦人ポートレート、バストアップのクローズアップ、正面アングル、化粧台の前に端然と座る人物、体はカメラに正対し、頭部は自然に真っ直ぐ、優しく情愛を湛えた眼差しで静かにカメラを見つめる、奥ゆかしく柔らかで内省的な表情、何かを言いかけて躊躇うような夜の風情を帯びている。全体の気品は名門の令嬢のようで、優雅で華麗、繊細で控えめ、かつ趣があり、夜に化粧を整え終えたばかりの貴婦人のようである。
@@ -112,9 +124,9 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 **概要:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
-<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
+<img src="covers/2096555489073279173.jpg" alt="画像 1" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
@@ -144,9 +156,9 @@ Vertical 9:16 composition, premium commercial food photography, realistic textur
 
 **概要:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
-<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
+<img src="images/2097159277937115208-1.jpg" alt="画像 1" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Using uploaded face as reference. 
@@ -171,9 +183,9 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 **概要:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
-<img src="images/2096808538534514913-1.jpg" alt="封面" width="480" />
+<img src="images/2096808538534514913-1.jpg" alt="画像 1" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
@@ -197,15 +209,15 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 
 **概要:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+<img src="images/2097185580224491672-1.jpg" alt="画像 1" width="480" />
 
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+<img src="images/2097185580224491672-2.jpg" alt="画像 2" width="480" />
 
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+<img src="images/2097185580224491672-3.jpg" alt="画像 3" width="480" />
 
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+<img src="images/2097185580224491672-4.jpg" alt="画像 4" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
@@ -231,11 +243,11 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 **概要:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096807576168169628-1.jpg" alt="画像 1" width="480" />
 
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096807576168169628-2.jpg" alt="画像 2" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
@@ -279,9 +291,9 @@ Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and hi
 
 **概要:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
-<img src="images/2097157373936935051-1.jpg" alt="封面" width="480" />
+<img src="images/2097157373936935051-1.jpg" alt="画像 1" width="480" />
 
-**Prompt**
+**プロンプト**
 
 ```text
 A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
@@ -291,4 +303,6 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

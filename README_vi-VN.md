@@ -1,8 +1,20 @@
-# image2 · Thư viện Prompt
+# Image2 · Thư viện Prompt · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Current-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**9** Prompt
+> **Tuyển chọn câu lệnh chất lượng cao mỗi ngày**
+
+Khám phá câu lệnh đầy đủ để tạo ảnh, video và 3D bằng AI. Duyệt theo phong cách, đọc nhiều ngôn ngữ và xem tác giả cùng nguồn gốc.
+
+[Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+## Giới thiệu Leadde.ai
+
+Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn bản thành video kinh doanh bằng AI cho đào tạo, hội nhập nhân viên và tiếp thị.
+
+Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
+
+**9** Prompt · Bổ sung mới nhất: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -26,9 +38,9 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân ph
 
 **Tóm tắt:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
-<img src="images/2096809673378967588-1.jpg" alt="封面" width="480" />
+<img src="images/2096809673378967588-1.jpg" alt="Hình ảnh 1" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
@@ -48,11 +60,11 @@ Nhiếp ảnh · Mặt hàng thời trang · Chờ phân phối
 
 **Tóm tắt:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
-<img src="images/2096601368114937969-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096601368114937969-1.jpg" alt="Hình ảnh 1" width="480" />
 
-<img src="images/2096601368114937969-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096601368114937969-2.jpg" alt="Hình ảnh 2" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Bài biên tập thời trang cao cấp siêu thực trong một studio màu be ấm áp tối giản. Một người mẫu nữ tóc vàng trưởng thành đầy quyến rũ với mái tóc dài gợn sóng mềm mại tạo dáng thanh lịch bên cạnh một chú ngựa bạch thuần khiết to lớn đầy uy nghi, đeo dây cương bằng da màu đen chân thực với các chi tiết kim loại vàng tinh tế. Người mẫu mặc bộ trang phục ống rộng may đo không tay màu trắng ngà tinh tế cùng áo choàng dài thướt tha, giày cao gót thanh lịch và trang sức trang nhã. Tạo nên diện mạo chiến dịch thời trang cao cấp thượng lưu với những tư thế người mẫu thanh lịch, khi thì đứng cạnh ngựa cầm dây cương, khi thì ngồi duyên dáng trên các khối hình học màu kem trong khi chú ngựa đứng điềm tĩnh phía sau hoặc bên cạnh cô ấy. Phông nền và sàn màu be ấm liền mạch, ánh sáng studio định hướng dịu nhẹ, kết cấu da chân thực, giải phẫu và lông ngựa chân thực, bóng đổ tự nhiên, chất vải bay bổng, bảng màu trung tính tinh tế, chân thực như ảnh chụp, thẩm mỹ biên tập sang trọng, bố cục toàn thân, độ chi tiết cao, tỉ lệ dọc 2:3.
@@ -70,15 +82,15 @@ Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Chờ phân phối
 
-引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
+Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096269909076623535)
 
 **Tóm tắt:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
 
-<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096631729410986083-1.jpg" alt="Hình ảnh 1" width="480" />
 
-<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096631729410986083-2.jpg" alt="Hình ảnh 2" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Khổ dọc 9:16, ảnh chân dung trang điểm cổ phong về đêm, chân dung quý nữ cổ điển phương Đông, cận cảnh ngang ngực, góc nhìn chính diện, nhân vật ngồi đoan trang trước bàn trang điểm, cơ thể hướng thẳng về phía ống kính, đầu thẳng tự nhiên, ánh mắt dịu dàng chan chứa tình cảm, yên lặng nhìn vào ống kính, thần thái e ấp, mềm mại, cảm xúc nội tâm lắng đọng, phảng phất chút tâm trạng muốn nói lại thôi trong màn đêm. Khí chất tổng thể toát lên vẻ tiểu thư danh gia vọng tộc, dịu dàng, cao quý, tinh tế, kín đáo mà đầy ý vị, tựa như một quý nữ vừa dừng tay chải chuốt trong đêm.
@@ -112,9 +124,9 @@ Nhiếp ảnh · Thực phẩm / Đồ uống · Chờ phân phối
 
 **Tóm tắt:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
-<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
+<img src="covers/2096555489073279173.jpg" alt="Hình ảnh 1" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
@@ -144,9 +156,9 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân ph
 
 **Tóm tắt:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
-<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
+<img src="images/2097159277937115208-1.jpg" alt="Hình ảnh 1" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Using uploaded face as reference. 
@@ -171,9 +183,9 @@ Tác giả：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Bài gốc](https:/
 
 **Tóm tắt:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
-<img src="images/2096808538534514913-1.jpg" alt="封面" width="480" />
+<img src="images/2096808538534514913-1.jpg" alt="Hình ảnh 1" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
@@ -197,15 +209,15 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 
 **Tóm tắt:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+<img src="images/2097185580224491672-1.jpg" alt="Hình ảnh 1" width="480" />
 
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+<img src="images/2097185580224491672-2.jpg" alt="Hình ảnh 2" width="480" />
 
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+<img src="images/2097185580224491672-3.jpg" alt="Hình ảnh 3" width="480" />
 
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+<img src="images/2097185580224491672-4.jpg" alt="Hình ảnh 4" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
@@ -231,11 +243,11 @@ Tác giả：[@Sairah\_0](https://x.com/Sairah_0) · [Bài gốc](https://x.com/
 
 **Tóm tắt:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096807576168169628-1.jpg" alt="Hình ảnh 1" width="480" />
 
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096807576168169628-2.jpg" alt="Hình ảnh 2" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
@@ -279,9 +291,9 @@ Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống ·
 
 **Tóm tắt:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
-<img src="images/2097157373936935051-1.jpg" alt="封面" width="480" />
+<img src="images/2097157373936935051-1.jpg" alt="Hình ảnh 1" width="480" />
 
-**Prompt**
+**Câu lệnh**
 
 ```text
 A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor café during warm golden hour, gently holding a ceramic cup of coffee near her lips. She is wearing an elegant cream-colored ribbed cardigan with a fitted square neckline and matching high-waisted cream trousers, creating a soft and classy look. A small cream shoulder bag hangs naturally from her shoulder while she sits comfortably on a beautiful woven rattan chair. Beside her sits a cute little girl wearing a beige hijab, a modest cream blouse with delicate lace details, and a flowing brown skirt. The little girl is also holding a warm cup and looking happily toward the Korean girl. In front of them is a round marble café table with a cup of coffee, a freshly baked pastry, and a small glass vase filled with delicate white flowers. The background features lush green trees, a charming café exterior, warm sunlight, and beautiful cinematic bokeh. Add subtle white hand-drawn hearts, sparkles, and a smiling sun around them for a cute dreamy atmosphere, with highly detailed faces, natural expressions, soft lighting, photorealistic quality, and a cozy aesthetic.
@@ -291,4 +303,6 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
