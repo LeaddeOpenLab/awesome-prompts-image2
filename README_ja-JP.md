@@ -218,7 +218,7 @@
 **Prompt**
 
 ```text
-Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.
+ミニマリストで温かみのあるベージュのスタジオで撮影された、超写実的なラグジュアリー・ファッション・エディトリアル。長く柔らかなウェーブヘアを持つグラマラスな大人のブロンド女性モデルが、繊細なゴールドの金具があしらわれたリアルな黒革の頭絡を付けた雄大な実物大の純白の馬の隣でエレガントにポーズをとっている。モデルは、流れるような長いケープが付いた洗練されたアイボリーホワイトのノースリーブ仕立てのワイドレッグ衣装、エレガントなヒール、洗練されたジュエリーを着用している。馬の横に立って手綱を握ったり、幾何学的なクリーム色のブロックに優美に腰掛け、その背後や横に馬が穏やかに佇んでいたりするような、エレガントなモデルのポーズによるプレミアムなハイファッション・キャンペーンルック。温かみのあるベージュのシームレスな背景と床、柔らかな指向性スタジオ照明、リアルな肌の質感、リアルな馬の解剖学的構造と毛並み、自然な影、流れるようなファブリック、洗練されたニュートラルカラーパレット、フォトリアリスティック、贅沢なエディトリアル美学、全身構図、高精細、縦型 2:3。
 ```
 
 [↑ カテゴリに戻る](#catalog)
