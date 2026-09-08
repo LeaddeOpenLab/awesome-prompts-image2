@@ -30,20 +30,20 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### काली बीएमडब्ल्यू के सामने पोज़ देती एक स्टाइलिश महिला का यथार्थवादी 9:16 पोर्ट्रेट।
 
 लेखक：[@Lianaalane](https://x.com/Lianaalane) · [मूल पोस्ट](https://x.com/Lianaalane/status/2096809673378967588)
 
 फोटोग्राफी · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशन लंबित
 
-**सारांश:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**सारांश:** काली बीएमडब्ल्यू के सामने पोज़ देती एक स्टाइलिश महिला का यथार्थवादी 9:16 पोर्ट्रेट।
 
 <img src="images/2096809673378967588-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+एक आधुनिक शहर की सड़क पर एक शानदार काली बीएमडब्ल्यू (BMW) के सामने आत्मविश्वास से पोज़ देती हुई एक स्टाइलिश युवती की 9:16 अनुपात में यथार्थवादी तस्वीर बनाएं। उसके लंबे, चिकने, सीधे काले बाल हैं जिसमें साफ-सुथरी कोरियाई शैली की बीच की मांग और चेहरे को धीरे से छूती लटें हैं। उसका चेहरा स्वाभाविक और अपरिवर्तित रहना चाहिए, जिसमें ताजा कोरियाई शैली का मेकअप, चमकदार ओस जैसी त्वचा, हल्का ब्लश, सूक्ष्म आईलाइनर और चमकदार न्यूड-गुलाबी होंठ हों। उसने एक उत्तम दर्जे के आधुनिक लुक के लिए हाई-वेस्टेड सफेद पतलून के साथ फैशनेबल लाल और सफेद गिंगहैम पफ-स्लीव टॉप पहना हुआ है। काले कंगनों की जगह एक सुंदर लक्जरी कलाई घड़ी लगाएं जो परिष्कार का अहसास दे। एक हाथ स्वाभाविक रूप से कार के हुड पर टिका हुआ है जबकि दूसरा हाथ उसकी पतलून की जेब में है। पृष्ठभूमि में धुंधली शहर की इमारतें, हरियाली, ट्रैफिक, सड़क के बैरियर और हल्की दिन की रोशनी है। वही आत्मविश्वासी मुद्रा, यथार्थवादी अनुपात, सिनेमाई डेप्थ ऑफ फील्ड, प्रीमियम फैशन-संपादकीय शैली, अति-यथार्थवादी विवरण और प्राकृतिक फोटोग्राफी गुणवत्ता बनाए रखें।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### भावपूर्ण पृष्ठभूमि में गर्म सुनहरी रिम लाइटिंग के साथ बेज स्वेटर पहने एक व्यक्ति का सिनेमाई चित्र।
 
 लेखक：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [मूल पोस्ट](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · सार / पृष्ठभूमि · प्रकाशन लंबित
 
-**सारांश:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**सारांश:** भावपूर्ण पृष्ठभूमि में गर्म सुनहरी रिम लाइटिंग के साथ बेज स्वेटर पहने एक व्यक्ति का सिनेमाई चित्र।
 
 <img src="images/2096808538534514913-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+मध्यम लंबाई के बिखरे भूरे बालों और करीने से तराशी गई दाढ़ी वाले एक सुंदर वयस्क पुरुष का फोटोरियलिस्टिक सिनेमाई चित्र, जिसने मुलायम बेज रंग का बुना हुआ क्रूनेक स्वेटर पहना हुआ है। वह शांत, आत्मविश्वासी और हल्के चिंतनशील भाव के साथ कैमरे की ओर देख रहा है। गर्म सुनहरी रिम लाइटिंग उसके बालों और कंधों के चारों ओर एक चमकता हुआ प्रभामंडल बनाती है, साथ ही एक मजबूत कोमल की-लाइट उसके चेहरे को रोशन करती है। सूक्ष्म एम्बर धुंध और वायुमंडलीय धुएं के साथ गहरा, भावपूर्ण पृष्ठभूमि, नाटकीय उच्च-विपरीत प्रकाश व्यवस्था, प्राकृतिक त्वचा की बनावट, तीखी आंखें, यथार्थवादी चेहरे के विवरण, उथली क्षेत्र गहराई, पेशेवर स्टूडियो फोटोग्राफी, 85mm पोर्ट्रेट लेंस, f/1.8, मखमली बोकेह, गर्म सिनेमाई रंग ग्रेडिंग, लक्जरी संपादकीय सौंदर्यशास्त्र, अत्यंत विस्तृत, फोटोरियलिस्टिक, 8K।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

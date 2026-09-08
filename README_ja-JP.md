@@ -30,20 +30,20 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### 黒のBMWの前でポーズをとるスタイリッシュな女性のフォトリアリスティックな9:16ポートレート。
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [元の投稿](https://x.com/Lianaalane/status/2096809673378967588)
 
 写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
 
-**概要:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**概要:** 黒のBMWの前でポーズをとるスタイリッシュな女性のフォトリアリスティックな9:16ポートレート。
 
 <img src="images/2096809673378967588-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+現代の都市の道路で、高級な黒のBMWの前で自信に満ちたポーズをとるスタイリッシュな若い女性の、フォトリアリスティックな9:16の画像を作成してください。彼女は、韓国風のすっきりとしたセンターパートと顔周りを柔らかく縁取る毛束を持つ、艶やかでまっすぐな長い黒髪をしています。顔立ちは自然のまま変えず、みずみずしい肌、ソフトなチーク、控えめなアイライン、ツヤのあるヌードピンクの唇といった爽やかな韓国風メイクを施します。上品でモダンなスタイルとして、おしゃれな赤と白のギンガムチェックのパフスリーブトップスにハイウエストの白いトラウザーを着用しています。黒のバングルは上品で高級感のある腕時計に置き換え、洗練された印象を与えます。片手は車のボンネットに自然に添えられ、もう一方の手はズボンのポケットに入れられています。背景にはぼかした街の建物、緑、行き交う車、街路のバリケード、柔らかな自然光が広がっています。同じ自信にあふれるポーズ、リアルなプロポーション、映画のような被写界深度、高級ファッションエディトリアルスタイル、超リアルなディテール、そして自然な写真の質感を維持してください。
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### ムーディーな背景をバックに温かみのある金色のリムライトが輝く、ベージュのセーターを着た男性のシネマティックなポートレート。
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [元の投稿](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信待ち
 
-**概要:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**概要:** ムーディーな背景をバックに温かみのある金色のリムライトが輝く、ベージュのセーターを着た男性のシネマティックなポートレート。
 
 <img src="images/2096808538534514913-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+無造作なミディアム丈の茶髪と綺麗に整えられた髭を持つハンサムな大人の男性の、フォトリアリスティックでシネマティックなポートレート。柔らかいベージュのニットクルーネックセーターを着用。穏やかで自信に満ち、わずかに物思いに沈んだ表情でカメラを見つめている。温かみのある金色のリムライトが髪と肩の周りに輝くハローを作り出し、強力で柔らかいキーライトが彼の顔を照らしている。かすかな琥珀色の霞と大気中のスモークが漂う暗くムーディーな背景、劇的な高コントラストのライティング、自然な肌の質感、鮮明な瞳、リアルな顔のディテール、浅い被写界深度、プロフェッショナルなスタジオ撮影、85mmポートレートレンズ、f/1.8、クリーミーなボケ味、温かみのあるシネマティックなカラーグレーディング、ラグジュアリーなエディトリアル美学、超高精細、写実的、8K。
 ```
 
 [↑ カテゴリに戻る](#catalog)

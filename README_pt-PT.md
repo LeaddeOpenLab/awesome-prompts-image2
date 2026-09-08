@@ -30,20 +30,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### Retrato fotorrealista 9:16 de uma mulher elegante a posar em frente a um BMW preto.
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2096809673378967588)
 
 Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
 
-**Resumo:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**Resumo:** Retrato fotorrealista 9:16 de uma mulher elegante a posar em frente a um BMW preto.
 
 <img src="images/2096809673378967588-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+Cria uma imagem fotorrealista em formato 9:16 de uma jovem elegante a posar com confiança em frente a um luxuoso BMW preto numa moderna estrada urbana. Tem cabelo comprido, liso, preto e brilhante, com uma risca ao meio bem definida de inspiração coreana e madeixas suaves a emoldurar o rosto. O seu rosto deve permanecer natural e inalterado, com uma maquilhagem fresca de estilo coreano, pele luminosa, blush suave, delineador subtil e lábios rosa-nude com brilho. Veste um top moderno com padrão vichy vermelho e branco de mangas tufadas e calças brancas de cintura subida para um visual moderno e elegante. Substitui as pulseiras pretas por um elegante relógio de pulso de luxo para um toque sofisticado. Uma mão repousa naturalmente sobre o capô do carro, enquanto a outra está no bolso das calças. O fundo apresenta edifícios citadinos desfocados, vegetação, trânsito, barreiras de trânsito e luz diurna suave. Mantém a mesma pose confiante, proporções realistas, profundidade de campo cinematográfica, estilo editorial de moda de topo, detalhes ultrarrealistas e qualidade fotográfica natural.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### Retrato cinematográfico de um homem com uma camisola bege e luz de contorno dourada e quente sobre um fundo atmosférico.
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Publicação original](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Resumo / Contexto · Distribuição pendente
 
-**Resumo:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**Resumo:** Retrato cinematográfico de um homem com uma camisola bege e luz de contorno dourada e quente sobre um fundo atmosférico.
 
 <img src="images/2096808538534514913-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castanho de comprimento médio despenteado e uma barba cuidadosamente aparada, vestindo uma camisola de malha bege macia com gola redonda. Ele olha diretamente para a câmara com uma expressão calma, confiante e ligeiramente contemplativa. Uma luz de contorno dourada e quente cria uma auréola brilhante à volta do seu cabelo e ombros, enquanto uma luz principal suave e intensa ilumina o seu rosto. Fundo escuro e atmosférico com uma subtil névoa âmbar e fumo ambiental, iluminação dramática de elevado contraste, textura de pele natural, olhos nítidos, detalhes faciais realistas, profundidade de campo reduzida, fotografia profissional de estúdio, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradação de cores cinematográfica e quente, estética editorial de luxo, ultradetalhado, fotorrealista, 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)

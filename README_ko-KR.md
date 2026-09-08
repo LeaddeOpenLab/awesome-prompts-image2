@@ -30,20 +30,20 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### 블랙 BMW 앞에서 포즈를 취하고 있는 세련된 여성의 포토리얼리스틱 9:16 인물 사진.
 
 작성자：[@Lianaalane](https://x.com/Lianaalane) · [원본 게시물](https://x.com/Lianaalane/status/2096809673378967588)
 
 사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
 
-**요약:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**요약:** 블랙 BMW 앞에서 포즈를 취하고 있는 세련된 여성의 포토리얼리스틱 9:16 인물 사진.
 
 <img src="images/2096809673378967588-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+현대적인 도시 도로 위 고급스러운 블랙 BMW 앞에서 자신감 넘치는 포즈를 취하고 있는 세련된 젊은 여성의 포토리얼리스틱 9:16 사진을 생성하세요. 그녀는 깔끔한 한국 스타일의 5:5 가르마와 얼굴선을 부드럽게 감싸는 잔머리가 돋보이는 길고 윤기 나는 스트레이트 블랙 헤어를 하고 있습니다. 얼굴은 자연스럽고 변함없이 유지되어야 하며, 촉촉한 피부 표현, 은은한 블러셔, 정교한 아이라인, 윤기 있는 누드 핑크빛 립의 산뜻한 한국식 메이크업을 연출합니다. 세련되고 현대적인 룩을 위해 스타일리시한 레드 앤 화이트 깅엄 체크 퍼프소매 상의와 하이웨이스트 화이트 팬츠를 착용하고 있습니다. 검은색 뱅글 대신 우아한 럭셔리 손목시계로 교체하여 고급스러운 느낌을 더합니다. 한 손은 보닛 위에 자연스럽게 얹고 다른 한 손은 바지 주머니에 넣고 있습니다. 배경에는 흐릿하게 아웃포커싱된 도시 빌딩, 녹지, 차량, 도로 방호벽, 부드러운 자연광이 나타납니다. 동일한 자신감 있는 포즈, 현실적인 비율, 영화 같은 피사계 심도, 프리미엄 패션 에디토리얼 스타일, 초현실적인 디테일, 자연스러운 사진 퀄리티를 유지하세요.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### 분위기 있는 배경 속 따뜻한 황금빛 림 라이트가 비추는 베이지색 스웨터를 입은 남성의 시네마틱 초상화.
 
 작성자：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [원본 게시물](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 대기
 
-**요약:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**요약:** 분위기 있는 배경 속 따뜻한 황금빛 림 라이트가 비추는 베이지색 스웨터를 입은 남성의 시네마틱 초상화.
 
 <img src="images/2096808538534514913-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+헝클어진 중간 길이의 갈색 머리와 단정하게 다듬어진 수염을 가진 잘생긴 성인 남성의 사실적인 시네마틱 초상화. 부드러운 베이지색 니트 크루넥 스웨터를 착용하고 있다. 차분하고 자신감 넘치며 약간 사색적인 표정으로 카메라를 응시하고 있다. 따뜻한 황금빛 림 라이트가 그의 머리카락과 어깨 주변에 빛나는 헤일로를 만들어내며, 강렬하고 부드러운 키 라이트가 그의 얼굴을 밝힌다. 은은한 호박색 연무와 대기 중 연기가 있는 어둡고 분위기 있는 배경, 드라마틱한 고대비 조명, 자연스러운 피부 질감, 또렷한 눈매, 사실적인 얼굴 디테일, 얕은 심도, 전문 스튜디오 사진, 85mm 인물 렌즈, f/1.8, 크리미한 보케, 따뜻한 시네마틱 컬러 그레이딩, 럭셔리 에디토리얼 미학, 초정밀 디테일, 실사 수준, 8K.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

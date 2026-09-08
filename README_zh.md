@@ -30,20 +30,20 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### 站在黑色宝马前摆姿势的时髦女性逼真 9:16 肖像。
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2096809673378967588)
 
 摄影 · 人像 / 自拍 · 角色 · 待推流
 
-**Summary (English):** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**概括:** 站在黑色宝马前摆姿势的时髦女性逼真 9:16 肖像。
 
 <img src="images/2096809673378967588-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+创建一张逼真的 9:16 照片，展现一位时髦年轻女性在现代城市道路上一辆豪华黑色宝马前自信摆姿势。她留着柔顺修长的黑色直发，带有清爽的韩系中分发型和柔和修饰脸型的发丝。她的面容应保持自然且不变，化着清新韩系妆容，水光肌、柔和腮红、精致眼线和水嫩裸粉色双唇。她身穿一件时尚的红白格子泡泡袖上衣，搭配高腰白色长裤，呈现高雅现代的造型。将黑色手镯替换为优雅的奢华腕表，增添精致感。她的一只手自然搭在汽车引擎盖上，另一只手插在裤兜里。背景为虚化的城市建筑、绿植、车流、街道护栏和柔和日光。保持同样的自信姿势、写实比例、电影级景深、高级时尚大片风格、超逼真细节和自然摄影质感。
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -177,20 +177,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### 穿着米色毛衣的男士电影感肖像，在深沉氛围背景下带有温暖的金黄色轮廓光。
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [查看 X 原帖](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 电影 / 电影剧照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 待推流
 
-**Summary (English):** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**概括:** 穿着米色毛衣的男士电影感肖像，在深沉氛围背景下带有温暖的金黄色轮廓光。
 
 <img src="images/2096808538534514913-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+逼真的电影质感肖像，英俊的成年男性，留着蓬松的中长棕色头发和修剪整齐的胡茬，身穿柔软的米色针织圆领毛衣。他面向镜头，神情平静、自信且略带沉思。温暖的金黄色轮廓光在他的头发和肩膀周围形成发光的光晕，强烈的柔和主光照亮他的面部。黑暗且充满氛围感的背景，带有微妙的琥珀色薄雾和大气烟雾，戏剧性的高对比度光影，自然的皮肤纹理，犀利的眼神，逼真的面部细节，浅景深，专业摄影棚摄影，85mm人像镜头，f/1.8，奶油般虚化，温暖的电影色彩分级，奢华时尚杂志大片美学，极致细节，照片级真实，8K。
 ```
 
 [↑ 返回分类目录](#catalog)

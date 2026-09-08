@@ -30,20 +30,20 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### ภาพถ่ายบุคคลแบบสมจริงขนาด 9:16 ของหญิงสาวมีสไตล์โพสท่าอยู่หน้ารถบีเอ็มดับเบิลยูสีดำ
 
 ผู้เขียน：[@Lianaalane](https://x.com/Lianaalane) · [โพสต์ต้นฉบับ](https://x.com/Lianaalane/status/2096809673378967588)
 
 การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · รอเผยแพร่
 
-**สรุป:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**สรุป:** ภาพถ่ายบุคคลแบบสมจริงขนาด 9:16 ของหญิงสาวมีสไตล์โพสท่าอยู่หน้ารถบีเอ็มดับเบิลยูสีดำ
 
 <img src="images/2096809673378967588-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+สร้างภาพถ่ายแบบสมจริงขนาด 9:16 ของหญิงสาวมีสไตล์ที่โพสท่าอย่างมั่นใจอยู่หน้ารถยนต์บีเอ็มดับเบิลยู (BMW) สีดำสุดหรูบนถนนในเมืองยุคใหม่ เธอมีผมตรงยาวสีดำสลวยเป็นเงางาม แสกกลางสไตล์เกาหลีที่ดูสะอาดตาพร้อมปอยผมล้อมกรอบใบหน้าอย่างนุ่มนวล ใบหน้าของเธอควรคงความเป็นธรรมชาติและไม่เปลี่ยนแปลง ด้วยการแต่งหน้าสไตล์เกาหลีที่สดใส ผิวฉ่ำวาว ปัดแก้มระเรื่อ กรีดอายไลเนอร์บางเบา และริมฝีปากสีนู้ดชมพูฉ่ำวาว เธอสวมเสื้อแขนพองลายตารางกิงแฮมสีแดงสลับขาวสุดเก๋คู่กับกางเกงขายาวเอวสูงสีขาวเพื่อลุคทันสมัยที่ดูมีระดับ เปลี่ยนกำไลสีดำเป็นนาฬิกาข้อมือหรูหราสง่างามเพื่อเพิ่มความประณีต มือข้างหนึ่งวางบนฝากระโปรงรถอย่างเป็นธรรมชาติ ส่วนอีกข้างล้วงอยู่ในกระเป๋ากางเกง ฉากหลังประกอบด้วยอาคารในเมืองที่เบลอ พื้นที่สีเขียว การจราจร แผงกั้นถนน และแสงธรรมชาติที่นุ่มนวล คงไว้ซึ่งท่าทางที่มั่นใจ สัดส่วนที่สมจริง ความชัดลึกระดับภาพยนตร์ สไตล์แฟชั่นระดับพรีเมียม รายละเอียดที่สมจริงอย่างยิ่ง และคุณภาพการถ่ายภาพที่เป็นธรรมชาติ
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### ภาพพอร์ตเทรตสไตล์ภาพยนตร์ของชายในเสื้อสเวตเตอร์สีเบจพร้อมแสงริมไลท์สีทองอบอุ่นตัดกับพื้นหลังที่มีบรรยากาศลึกลับ
 
 ผู้เขียน：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [โพสต์ต้นฉบับ](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · รอเผยแพร่
 
-**สรุป:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**สรุป:** ภาพพอร์ตเทรตสไตล์ภาพยนตร์ของชายในเสื้อสเวตเตอร์สีเบจพร้อมแสงริมไลท์สีทองอบอุ่นตัดกับพื้นหลังที่มีบรรยากาศลึกลับ
 
 <img src="images/2096808538534514913-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+ภาพพอร์ตเทรตสไตล์ภาพยนตร์ที่สมจริงของชายหนุ่มรูปหล่อ ผมสีน้ำตาลยาวปานกลางจัดทรงยุ่งอย่างมีสไตล์และเคราที่เล็มอย่างประณีต สวมเสื้อสเวตเตอร์ถักคอกลมสีเบจเนื้อนุ่ม เขาหันหน้าเข้าหากล้องด้วยสีหน้าสงบ มั่นใจ และครุ่นคิดเล็กน้อย แสงริมไลท์สีทองอบอุ่นสร้างรัศมีเรืองรองรอบเส้นผมและไหล่ของเขา พร้อมแสงคีย์ไลท์ที่นุ่มนวลและทรงพลังส่องสว่างใบหน้า พื้นหลังสีเข้มให้อารมณ์ลึกลับพร้อมหมอกควันสีอำพันจางๆ แสงคอนทราสต์สูงที่น่าทึ่ง ผิวสัมผัสที่เป็นธรรมชาติ ดวงตาคมชัด รายละเอียดใบหน้าที่สมจริง ระยะชัดตื้น การถ่ายภาพในสตูดิโอมืออาชีพ เลนส์พอร์ตเทรต 85 มม. f/1.8 โบเก้นุ่มละมุน การเกรดสีสไตล์ภาพยนตร์โทนอบอุ่น สุนทรียศาสตร์แบบนิตยสารแฟชั่นหรูหรา รายละเอียดสูงเป็นพิเศษ สมจริงเหมือนภาพถ่าย 8K
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

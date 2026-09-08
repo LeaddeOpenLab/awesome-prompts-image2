@@ -30,20 +30,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2096809673378967588"></a>
 
-### Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+### Siyah bir BMW'nin önünde poz veren şık bir kadının fotogerçekçi 9:16 portresi.
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2096809673378967588)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
 
-**Özet:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
+**Özet:** Siyah bir BMW'nin önünde poz veren şık bir kadının fotogerçekçi 9:16 portresi.
 
 <img src="images/2096809673378967588-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.
+Modern bir şehir yolunda lüks siyah bir BMW'nin önünde özgüvenle poz veren şık ve genç bir kadının 9:16 formatında fotogerçekçi bir resmini oluşturun. Kore tarzından ilham alan düzgün bir orta ayrıma ve yüzünü çerçeveleyen yumuşak tutamlara sahip, uzun, parlak ve düz siyah saçları var. Yüzü doğal ve değişmemiş kalmalı; taze Kore tarzı makyaj, nemli ve canlı bir cilt, hafif allık, ince bir göz kalemi ve parlak nude-pembe dudaklar içermelidir. Klas ve modern bir görünüm için yüksek belli beyaz pantolonla birlikte kırmızı-beyaz pötikare desenli, kabarık kollu, modaya uygun bir üst giyiyor. Sofistike bir dokunuş için siyah bilezikleri zarif ve lüks bir kol saatiyle değiştirin. Bir eli arabanın kaputunda doğal bir şekilde dururken diğer eli pantolonunun cebindedir. Arka planda bulanık şehir binaları, yeşillikler, trafik, sokak bariyerleri ve yumuşak gün ışığı yer alıyor. Aynı özgüvenli pozu, gerçekçi oranları, sinematik alan derinliğini, birinci sınıf moda editoryal stilini, ultra gerçekçi ayrıntıları ve doğal fotoğraf kalitesini koruyun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -175,20 +175,20 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 <a name="prompt-2096808538534514913"></a>
 
-### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+### Kasvetli bir arka plana karşı sıcak altın kenar aydınlatmalı, bej kazaklı bir adamın sinematik portresi.
 
 Yazar：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Orijinal gönderi](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Dağıtım bekliyor
 
-**Özet:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
+**Özet:** Kasvetli bir arka plana karşı sıcak altın kenar aydınlatmalı, bej kazaklı bir adamın sinematik portresi.
 
 <img src="images/2096808538534514913-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, yumuşak bej renkli örgü bisiklet yaka kazak giymiş yakışıklı bir yetişkin erkeğin fotogerçekçi sinematik portresi. Sakin, kendinden emin ve hafif düşünceli bir ifadeyle kameraya bakıyor. Sıcak altın sarısı kenar aydınlatması saçlarının ve omuzlarının etrafında parlayan bir hale oluştururken, güçlü ve yumuşak bir ana ışık yüzünü aydınlatıyor. İnce kehribar rengi pus ve atmosferik duman içeren karanlık, karamsar arka plan, dramatik yüksek kontrastlı aydınlatma, doğal cilt dokusu, keskin gözler, gerçekçi yüz ayrıntıları, sığ alan derinliği, profesyonel stüdyo fotoğrafçılığı, 85 mm portre lensi, f/1.8, kremsi bokeh, sıcak sinematik renk derecelendirmesi, lüks editoryal estetik, ultra detaylı, fotogerçekçi, 8K.
 ```
 
 [↑ Kategorilere dön](#catalog)
