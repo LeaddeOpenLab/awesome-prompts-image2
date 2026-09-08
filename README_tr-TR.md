@@ -116,30 +116,30 @@ Işıklandırma, hafif altın tonlu sıcak beyaz mum ışığı ile saray fenerl
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### Aydınlık ve modern bir mutfakta, ahşap sunum tahtası üzerinde pembe orman meyveli smoothie kavanozları, bir kavanoz organik fıstık ezmesi ve kavrulmuş fıstıkların yer aldığı ticari yemek fotoğrafçılığı sahnesi.
 
 Yazar：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Orijinal gönderi](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 Fotoğrafçılık · Yiyecek / İçecek · Dağıtım bekliyor
 
-**Özet:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**Özet:** Aydınlık ve modern bir mutfakta, ahşap sunum tahtası üzerinde pembe orman meyveli smoothie kavanozları, bir kavanoz organik fıstık ezmesi ve kavrulmuş fıstıkların yer aldığı ticari yemek fotoğrafçılığı sahnesi.
 
 <img src="covers/2096555489073279173.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+Aydınlık, samimi ve modern bir mutfakta son derece gerçekçi, üst düzey bir yemek fotoğrafçılığı sahnesi oluşturun. Canlı, koyu kıvamlı pembe bir orman meyveli smoothie, temiz beyaz yuvarlak bir masanın sol tarafına dikey olarak dizilmiş üç küçük şeffaf cam kavanoz yığınında servis ediliyor. Smoothie, ince meyve tanecikleri ve parlak ışıltılarla zengin, kremsi bir dokuya sahiptir.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+Sağ tarafa, altın kahvesi kremsi fıstık ezmesi ile dolu, yeşil kapaklı, şeffaf bir organik fıstık ezmesi kavanozu yerleştirin. Ürün ambalajını, etiket yerleşimini, renkleri ve oranları aslına uygun olarak koruyun. Kavanozun yanına doğal bir şekilde birkaç bütün yer fıstığı serpiştirin.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+Ön planda, karışık kavrulmuş yer fıstığı ile dolu küçük seramik bir kase ve cömert bir kaşık dolusu kremsi fıstık ezmesi bulunan bej seramik bir tabak ekleyin. Smoothie'nin yanına birkaç zarif yeşil ot dalı ekleyin.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+Arka plan: temiz beyaz metro seramik mutfak duvarı, yandan gelen yumuşak doğal güneş ışığı, hafif gölgeler, sıcak ve samimi atmosfer. Yiyecekleri, altında eski tarz baskılı bir kağıt bulunan küçük ahşap bir sunum tahtasının üzerine yerleştirin.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+Sol üst alana “Smoothies” yazan şık, el yazısı tarzında beyaz bir metin ve altına “Tingi Kalori” yazan daha küçük el yazısı bir metin ekleyin.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+Dikey 9:16 kompozisyon, birinci sınıf ticari yemek fotoğrafçılığı, gerçekçi dokular, doğal gün ışığı, sığ alan derinliği, yumuşak bokeh, net ürün detayları, dengeli kompozisyon, sıcak yaşam tarzı estetiği, fotogerçekçi, yüksek çözünürlük, insan yok
 ```
 
 [↑ Kategorilere dön](#catalog)

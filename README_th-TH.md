@@ -116,30 +116,30 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### ฉากภาพถ่ายอาหารเชิงพาณิชย์ในห้องครัวโมเดิร์นที่สว่างสดใส นำเสนอขวดสมูทตี้เบอร์รี่สีชมพูวางซ้อนกัน โหลเนยถั่วออร์แกนิก และถั่วลิสงอบบนถาดไม้เสิร์ฟ
 
 ผู้เขียน：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [โพสต์ต้นฉบับ](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 การถ่ายภาพ · อาหาร / เครื่องดื่ม · รอเผยแพร่
 
-**สรุป:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**สรุป:** ฉากภาพถ่ายอาหารเชิงพาณิชย์ในห้องครัวโมเดิร์นที่สว่างสดใส นำเสนอขวดสมูทตี้เบอร์รี่สีชมพูวางซ้อนกัน โหลเนยถั่วออร์แกนิก และถั่วลิสงอบบนถาดไม้เสิร์ฟ
 
 <img src="covers/2096555489073279173.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+สร้างฉากภาพถ่ายอาหารระดับไฮเอนด์ที่สมจริงอย่างยิ่งในห้องครัวสไตล์โมเดิร์นที่สว่างและอบอุ่น สมูทตี้เบอร์รี่สีชมพูเข้มข้นสดใสเสิร์ฟในขวดแก้วใสขนาดเล็กสามใบวางซ้อนกันในแนวตั้งทางด้านซ้ายของโต๊ะกลมสีขาวสะอาดตา สมูทตี้มีเนื้อเนียนนุ่มเข้มข้นพร้อมจุดเบอร์รี่เล็กๆ และไฮไลต์มันเงา
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+ทางด้านขวา วางขวดโหลใสใส่เนยถั่วออร์แกนิกที่มีฝาสีเขียว บรรจุเนยถั่วเนื้อเนียนสีน้ำตาลทอง รักษารูปแบบบรรจุภัณฑ์ ตำแหน่งฉลาก สี และสัดส่วนของผลิตภัณฑ์อย่างถูกต้อง วางเมล็ดถั่วลิสงทั้งเปลือกกระจายอยู่ข้างขวดโหลอย่างเป็นธรรมชาติ
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+ในเบื้องหน้า ให้มีชามเซรามิกใบเล็กที่เต็มไปด้วยถั่วลิสงอบรวมมิตร และจานเซรามิกสีเบจที่มีช้อนตักเนยถั่วเนื้อเนียนคำโตวางอยู่ เพิ่มกิ่งสมุนไพรสีเขียวประณีตสองสามกิ่งใกล้กับสมูทตี้
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+พื้นหลัง: ผนังห้องครัวกระเบื้องสับเวย์สีขาวสะอาดตา แสงแดดธรรมชาติที่นุ่มนวลส่องเข้ามาจากด้านข้าง เงาจางๆ บรรยากาศอบอุ่นสบาย วางรายการอาหารไว้บนถาดไม้เสิร์ฟขนาดเล็กที่มีกระดาษพิมพ์ลายวินเทจรองอยู่ด้านล่าง
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+เพิ่มข้อความสีขาวสไตล์ลายมือที่สง่างามบริเวณมุมซ้ายบนเขียนว่า “Smoothies” พร้อมข้อความตัวเขียนขนาดเล็กกว่าด้านล่างเขียนว่า “Tingi Kalori
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+องค์ประกอบแนวตั้ง 9:16, การถ่ายภาพอาหารเชิงพาณิชย์ระดับพรีเมียม, พื้นผิวที่สมจริง, แสงธรรมชาติ, ระยะชัดตื้น, โบเก้นุ่มนวลพร้อมรายละเอียดผลิตภัณฑ์ที่คมชัด, การจัดองค์ประกอบที่สมดุล, สุนทรียภาพแห่งการใช้ชีวิตที่อบอุ่น, สมจริงเหมือนภาพถ่าย, ความละเอียดสูง, ไม่มีผู้คน
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

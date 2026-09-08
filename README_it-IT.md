@@ -116,30 +116,30 @@ Obiettivo da ritratto 85mm, texture fotografica autentica e realistica, servizio
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### Scena di fotografia gastronomica commerciale in una luminosa cucina moderna con barattoli impilati di frullato rosa ai frutti di bosco, un barattolo di burro di arachidi biologico e arachidi tostate su un tagliere da portata in legno.
 
 Autore：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Post originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 Fotografia · Cibo / Bevande · Distribuzione in attesa
 
-**Riepilogo:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**Riepilogo:** Scena di fotografia gastronomica commerciale in una luminosa cucina moderna con barattoli impilati di frullato rosa ai frutti di bosco, un barattolo di burro di arachidi biologico e arachidi tostate su un tagliere da portata in legno.
 
 <img src="covers/2096555489073279173.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+Crea una scena di fotografia gastronomica di alta gamma e ultra-realistica in una cucina moderna, luminosa e accogliente. Un vibrante e denso frullato rosa ai frutti di bosco è servito in una pila di tre piccoli barattoli di vetro trasparente, disposti verticalmente sul lato sinistro di un tavolo rotondo bianco e pulito. Il frullato ha una consistenza ricca e cremosa con sottili puntini di frutti di bosco e riflessi lucidi.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+A destra, posiziona un barattolo trasparente di burro di arachidi biologico con coperchio verde, pieno di burro di arachidi cremoso di colore marrone dorato. Preserva accuratamente la confezione del prodotto, la posizione dell'etichetta, i colori e le proporzioni. Spargi alcune arachidi intere in modo naturale accanto al barattolo.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+In primo piano, includi una piccola ciotola in ceramica piena di arachidi tostate miste e un piatto in ceramica beige con un cucchiaio contenente una generosa porzione di burro di arachidi cremoso. Aggiungi qualche delicato rametto di erbe verdi vicino al frullato.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+Sfondo: parete della cucina con piastrelle diamantate bianche pulite, luce naturale morbida proveniente lateralmente, ombre sottili, atmosfera calda e accogliente. Posiziona gli alimenti su un piccolo tagliere da portata in legno con sotto un foglio di carta stampata vintage.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+Aggiungi un elegante testo bianco in stile calligrafico nell'area in alto a sinistra con la scritta “Smoothies”, e sotto un testo in corsivo più piccolo che recita “Tingi Kalori.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+Composizione verticale 9:16, fotografia gastronomica commerciale di prima qualità, texture realistiche, luce naturale, profondità di campo ridotta, bokeh morbido, dettagli del prodotto nitidi, composizione equilibrata, estetica lifestyle calda, fotorealistica, alta risoluzione, nessuna persona
 ```
 
 [↑ Torna alle categorie](#catalog)

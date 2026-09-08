@@ -116,30 +116,30 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### 明るくモダンなキッチンを舞台にした商業フードフォトグラフィーシーン。重ねられたピンクのベリースムージーの瓶、オーガニックピーナッツバターの瓶、木製サービングボードに乗ったローストピーナッツが特徴。
 
 作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [元の投稿](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 写真撮影 · 食品・飲料 · 配信待ち
 
-**概要:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**概要:** 明るくモダンなキッチンを舞台にした商業フードフォトグラフィーシーン。重ねられたピンクのベリースムージーの瓶、オーガニックピーナッツバターの瓶、木製サービングボードに乗ったローストピーナッツが特徴。
 
 <img src="covers/2096555489073279173.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+明るく居心地の良いモダンなキッチンを舞台にした、超リアルで高級感のあるフードフォトグラフィーのシーンを作成してください。清潔な白い円形テーブルの左側に、3つの小さな透明なガラス瓶が縦に重ねて置かれ、中には鮮やかで濃厚なピンクのベリースムージーが入っています。スムージーはリッチでクリーミーな質感を持ち、繊細なベリーの粒々と艶やかなハイライトが見られます。
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+右側には、黄金色のクリーミーなピーナッツバターが入った、緑色の蓋が付いたオーガニックピーナッツバターの透明な瓶を配置してください。製品のパッケージ、ラベルの位置、色、比率を正確に再現してください。瓶の横にはいくつかの丸ごとの落花生を自然に散らします。
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+手前には、ミックスローストピーナッツが入った小さなセラミックボウルと、たっぷりとすくったクリーミーなピーナッツバターを乗せたスプーンを置いたベージュのセラミックプレートを配置します。スムージーの近くには繊細な緑のハーブの小枝をいくつか添えてください。
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+背景：清潔な白いサブウェイタイルのキッチンの壁、側面から差し込む柔らかな自然光、繊細な影、暖かく居心地の良い雰囲気。小さな木製サービングボードの上に食品を並べ、その下にはヴィンテージのプリントペーパーを敷きます。
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+左上のエリアに「Smoothies」と書かれたエレガントな手書き風の白いテキストを追加し、その下に小さめの筆記体で「Tingi Kalori」と添えてください。
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+縦型 9:16 の構図、プレミアムな商業フードフォトグラフィー、リアルなテクスチャ、自然光、浅い被写界深度、柔らかなボケと鮮明な製品のディテール、バランスの取れた構図、温かみのあるライフスタイル美学、フォトリアリスティック、高解像度、人物なし
 ```
 
 [↑ カテゴリに戻る](#catalog)

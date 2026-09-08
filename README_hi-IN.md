@@ -116,30 +116,30 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### एक उज्ज्वल आधुनिक रसोई में वाणिज्यिक खाद्य फोटोग्राफी दृश्य, जिसमें लकड़ी के सर्विंग बोर्ड पर गुलाबी बेरी स्मूदी के स्टैक्ड जार, जैविक पीनट बटर का एक जार और भुनी हुई मूंगफली प्रदर्शित हैं।
 
 लेखक：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [मूल पोस्ट](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 फोटोग्राफी · भोजन / पेय · प्रकाशन लंबित
 
-**सारांश:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**सारांश:** एक उज्ज्वल आधुनिक रसोई में वाणिज्यिक खाद्य फोटोग्राफी दृश्य, जिसमें लकड़ी के सर्विंग बोर्ड पर गुलाबी बेरी स्मूदी के स्टैक्ड जार, जैविक पीनट बटर का एक जार और भुनी हुई मूंगफली प्रदर्शित हैं।
 
 <img src="covers/2096555489073279173.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+एक उज्ज्वल, आरामदायक आधुनिक रसोई में एक अत्यधिक यथार्थवादी, उच्च-स्तरीय खाद्य फ़ोटोग्राफ़ी दृश्य बनाएं। एक साफ सफेद गोल मेज के बाईं ओर तीन छोटे पारदर्शी कांच के जार लंबवत रूप से एक के ऊपर एक रखे हैं, जिनमें गाढ़ा, चमकीला गुलाबी बेरी स्मूदी परोसा गया है। स्मूदी में महीन बेरी के धब्बे और चमकदार हाइलाइट्स के साथ एक समृद्ध मलाईदार बनावट है।
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+दाईं ओर, हरे ढक्कन वाला जैविक मूंगफली के मक्खन (पीनट बटर) का एक पारदर्शी जार रखें, जो सुनहरे-भूरे रंग के मलाईदार पीनट बटर से भरा हो। उत्पाद की पैकेजिंग, लेबल प्लेसमेंट, रंगों और अनुपातों को सटीकता से सुरक्षित रखें। जार के पास कुछ साबुत मूंगफली स्वाभाविक रूप से बिखेरें।
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+अग्रभूमि में, मिश्रित भुनी हुई मूंगफली से भरा एक छोटा सिरेमिक कटोरा और एक बेज रंग की सिरेमिक प्लेट शामिल करें जिस पर मलाईदार पीनट बटर का एक बड़ा स्कूप लिए हुए एक चम्मच रखा हो। स्मूदी के पास कुछ नाजुक हरी जड़ी-बूटियों की टहनियाँ जोड़ें।
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+पृष्ठभूमि: साफ सफेद सबवे-टाइल वाली रसोई की दीवार, किनारे से आती कोमल प्राकृतिक धूप, सूक्ष्म छाया, गर्म आरामदायक माहौल। खाद्य पदार्थों को नीचे विंटेज मुद्रित कागज की एक शीट के साथ एक छोटे लकड़ी के सर्विंग बोर्ड पर रखें।
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+ऊपरी-बाएँ क्षेत्र में सुरुचिपूर्ण हस्तलिखित-शैली का सफेद टेक्स्ट जोड़ें जिसमें “Smoothies” लिखा हो, और नीचे छोटे कर्सिव टेक्स्ट में “Tingi Kalori लिखा हो।
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+लंबवत 9:16 संरचना, प्रीमियम वाणिज्यिक खाद्य फोटोग्राफी, यथार्थवादी बनावट, प्राकृतिक दिन का प्रकाश, उथले क्षेत्र की गहराई (शैलॉ डेप्थ ऑफ फील्ड), स्पष्ट उत्पाद विवरण के साथ नरम बोकेह, संतुलित संरचना, गर्म जीवनशैली सौंदर्य, फ़ोटोरियलिस्टिक, उच्च रिज़ॉल्यूशन, कोई व्यक्ति नहीं
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

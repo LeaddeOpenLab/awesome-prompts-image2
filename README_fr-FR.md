@@ -116,30 +116,30 @@ Objectif portrait 85mm, texture photographique authentique, shooting photo beaut
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### Scène de photographie culinaire commerciale dans une cuisine moderne et lumineuse mettant en scène des bocaux empilés de smoothie rose aux baies, un bocal de beurre de cacahuète bio et des cacahuètes grillées sur une planche de service en bois.
 
 Auteur：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Publication originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 Photographie · Alimentation / Boissons · Diffusion en attente
 
-**Résumé:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**Résumé:** Scène de photographie culinaire commerciale dans une cuisine moderne et lumineuse mettant en scène des bocaux empilés de smoothie rose aux baies, un bocal de beurre de cacahuète bio et des cacahuètes grillées sur une planche de service en bois.
 
 <img src="covers/2096555489073279173.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+Créez une scène de photographie culinaire haut de gamme et ultra-réaliste dans une cuisine moderne, lumineuse et chaleureuse. Un smoothie aux baies rose, vif et épais, est servi dans une pile de trois petits bocaux en verre transparent, disposés verticalement sur le côté gauche d'une table ronde blanche et propre. Le smoothie a une texture riche et onctueuse avec de subtils éclats de baies et des reflets brillants.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+Sur la droite, placez un bocal transparent de beurre de cacahuète biologique au couvercle vert, rempli d'un beurre de cacahuète crémeux brun doré. Préservez avec précision l'emballage du produit, l'emplacement de l'étiquette, les couleurs et les proportions. Éparpillez naturellement quelques cacahuètes entières à côté du bocal.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+Au premier plan, incluez un petit bol en céramique rempli d'un mélange de cacahuètes grillées et une assiette en céramique beige portant une cuillère avec une généreuse boule de beurre de cacahuète crémeux. Ajoutez quelques délicats brins d'herbes vertes près du smoothie.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+Arrière-plan : mur de cuisine propre en carrelage métro blanc, douce lumière naturelle du soleil venant du côté, ombres subtiles, atmosphère chaleureuse et cosy. Disposez les aliments sur une petite planche de service en bois avec une feuille de papier imprimé vintage en dessous.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+Ajoutez un texte blanc élégant de style manuscrit dans la zone supérieure gauche indiquant « Smoothies », avec un texte en cursive plus petit en dessous indiquant « Tingi Kalori.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+Composition verticale 9:16, photographie culinaire commerciale haut de gamme, textures réalistes, lumière naturelle du jour, faible profondeur de champ, bokeh doux, détails nets du produit, composition équilibrée, esthétique lifestyle chaleureuse, photoréaliste, haute résolution, sans personnes
 ```
 
 [↑ Retour aux catégories](#catalog)

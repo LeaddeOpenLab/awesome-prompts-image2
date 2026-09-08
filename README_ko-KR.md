@@ -116,30 +116,30 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### 밝고 모던한 주방에서 쌓아 올린 핑크 베리 스무디 병, 유기농 땅콩버터 병, 나무 서빙 보드 위의 볶은 땅콩을 담아낸 상업용 음식 사진 장면.
 
 작성자：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [원본 게시물](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 사진술 · 음식 / 음료 · 배포 대기
 
-**요약:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**요약:** 밝고 모던한 주방에서 쌓아 올린 핑크 베리 스무디 병, 유기농 땅콩버터 병, 나무 서빙 보드 위의 볶은 땅콩을 담아낸 상업용 음식 사진 장면.
 
 <img src="covers/2096555489073279173.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+밝고 아늑한 모던 주방에서 초현실적인 고급 음식 사진 장면을 연출하세요. 깨끗한 흰색 원형 테이블 왼쪽에는 생생하고 진한 핑크색 베리 스무디가 담긴 작은 투명 유리병 세 개가 세로로 쌓여 있습니다. 스무디는 은은한 베리 알갱이와 윤기 나는 하이라이트가 돋보이는 풍부하고 크리미한 질감을 가지고 있습니다.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+오른쪽에는 황갈색의 크리미한 땅콩버터가 가득 찬 초록색 뚜껑이 달린 투명한 유기농 땅콩버터 병을 배치합니다. 제품 포장, 라벨 위치, 색상 및 비율을 정확하게 유지하세요. 병 옆에는 통땅콩 몇 개를 자연스럽게 흩어 놓으세요.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+전경에는 볶은 믹스 땅콩이 담긴 작은 도자기 볼과 크리미한 땅콩버터를 한 스푼 듬뿍 얹은 숟가락이 놓인 베이지색 도자기 접시를 포함합니다. 스무디 근처에는 섬세한 녹색 허브 잔가지 몇 개를 추가하세요.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+배경: 깨끗한 흰색 서브웨이 타일 주방 벽, 옆에서 비쳐 들어오는 부드러운 자연광, 은은한 그림자, 따뜻하고 아늑한 분위기. 음식들은 아래에 빈티지 프린트 종이가 깔린 작은 나무 서빙 보드 위에 놓으세요.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+왼쪽 상단 영역에 “Smoothies”라고 적힌 우아한 손글씨 스타일의 흰색 텍스트를 추가하고, 그 아래에 더 작은 필기체로 “Tingi Kalori”라는 텍스트를 적어 넣으세요.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+세로 9:16 구도, 프리미엄 상업용 음식 사진, 사실적인 질감, 자연 채광, 얕은 심도, 부드러운 보케와 선명한 제품 디테일, 균형 잡힌 구도, 따뜻한 라이프스타일 미학, 사실적 표현, 고해상도, 인물 없음
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

@@ -116,30 +116,30 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### 明亮現代廚房中的商業美食攝影場景，展現了堆疊的粉色莓果奶昔罐、一罐有機花生醬以及木質托盤上的烤花生。
 
 作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [查看 X 原帖](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 攝影 · 食物 / 飲品 · 待推送
 
-**概括:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**概括:** 明亮現代廚房中的商業美食攝影場景，展現了堆疊的粉色莓果奶昔罐、一罐有機花生醬以及木質托盤上的烤花生。
 
 <img src="covers/2096555489073279173.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+在明亮、溫馨的現代廚房中創建一個超逼真、高端的美食攝影場景。在一張乾淨的白色圓桌左側，垂直堆疊著三個小透明玻璃罐，裡面盛放著鮮豔濃稠的粉色莓果奶昔。奶昔質地濃郁滑順，帶有微妙的莓果碎屑和光澤感的高光。
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+在右側放置一個帶有綠色蓋子的透明有機花生醬罐，裝滿金棕色奶油狀花生醬。準確保留產品包裝、標籤位置、顏色和比例。在罐子旁自然散落幾顆完整的花生。
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+在前景中，放置一個小陶瓷碗，裡面裝滿綜合烤花生，以及一個米色陶瓷盤，上面放著一把盛著一大勺綿密花生醬的湯匙。在奶昔旁添加幾株精緻的綠色香草嫩枝。
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+背景：乾淨的白色地鐵磚廚房牆壁，柔和的自然陽光從側面照入，細膩的陰影，溫馨舒適的氛圍。將食物放置在一個小木質托盤上，下方墊著一張復古印花紙。
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+在左上角添加優雅的手寫風格白色文字，內容為“Smoothies”，下方附帶較小的草書文字“Tingi Kalori。
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+豎版 9:16 構圖，高端商業美食攝影，逼真質感，自然採光，淺景深，柔和散景與清晰的產品細節，構圖均衡，溫馨生活方式美學，逼真如相片，高解析度，無人物
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -116,30 +116,30 @@ Die Beleuchtung kombiniert warmweißes, ins Goldene übergehendes Kerzenlicht mi
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### Kommerzielle Food-Fotografie-Szene in einer hellen modernen Küche mit gestapelten Gläsern rosa Beerensmoothie, einem Glas Bio-Erdnussbutter und gerösteten Erdnüssen auf einem Servierbrett aus Holz.
 
 Autor：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Originalbeitrag](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 Fotografie · Essen / Trinken · Verteilung ausstehend
 
-**Zusammenfassung:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**Zusammenfassung:** Kommerzielle Food-Fotografie-Szene in einer hellen modernen Küche mit gestapelten Gläsern rosa Beerensmoothie, einem Glas Bio-Erdnussbutter und gerösteten Erdnüssen auf einem Servierbrett aus Holz.
 
 <img src="covers/2096555489073279173.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+Erstelle eine ultra-realistische High-End-Food-Fotografie-Szene in einer hellen, gemütlichen modernen Küche. Ein leuchtender, dickflüssiger rosa Beerensmoothie wird in einem Stapel aus drei kleinen transparenten Gläsern serviert, die vertikal auf der linken Seite eines sauberen weißen runden Tisches angeordnet sind. Der Smoothie hat eine reichhaltige cremige Textur mit dezenten Beerensprenkeln und glänzenden Glanzlichtern.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+Platziere rechts ein durchsichtiges Glas Bio-Erdnussbutter mit grünem Deckel, gefüllt mit goldbrauner cremiger Erdnussbutter. Bewahre die Produktverpackung, die Platzierung des Etiketts, die Farben und die Proportionen präzise. Streue ganz natürlich ein paar ganze Erdnüsse neben das Glas.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+Füge im Vordergrund eine kleine Keramikschale mit gemischten gerösteten Erdnüssen und einen beigen Keramikteller hinzu, auf dem ein Löffel mit einem großzügigen Löffel voll cremiger Erdnussbutter liegt. Platziere ein paar zarte grüne Kräuterzweige in der Nähe des Smoothies.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+Hintergrund: saubere weiße U-Bahn-Fliesen-Küchenwand, weiches natürliches Sonnenlicht von der Seite, subtile Schatten, warme, gemütliche Atmosphäre. Platziere die Lebensmittel auf einem kleinen hölzernen Servierbrett mit einem Blatt bedrucktem Vintage-Papier darunter.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+Füge im oberen linken Bereich eleganten weißen Text im Handschriftstil hinzu, auf dem „Smoothies“ steht, darunter kleinerer kursiver Text mit „Tingi Kalori.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+Vertikale 9:16-Komposition, erstklassige kommerzielle Food-Fotografie, realistische Texturen, natürliches Tageslicht, geringe Schärfentiefe, sanftes Bokeh, gestochen scharfe Produktdetails, ausgewogene Komposition, warme Lifestyle-Ästhetik, fotorealistisch, hohe Auflösung, keine Menschen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

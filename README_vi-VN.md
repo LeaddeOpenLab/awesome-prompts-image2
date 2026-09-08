@@ -116,30 +116,30 @@ Bối cảnh là gác ấm đèn cung đình / rèm châu / bàn trang điểm g
 
 <a name="prompt-2096555489073279173"></a>
 
-### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+### Cảnh chụp ảnh ẩm thực thương mại trong gian bếp hiện đại sáng sủa với các lọ sinh tố quả mọng màu hồng xếp chồng, một lọ bơ đậu phộng hữu cơ và đậu phộng rang trên khay gỗ.
 
 Tác giả：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Bài gốc](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
 Nhiếp ảnh · Thực phẩm / Đồ uống · Chờ phân phối
 
-**Tóm tắt:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+**Tóm tắt:** Cảnh chụp ảnh ẩm thực thương mại trong gian bếp hiện đại sáng sủa với các lọ sinh tố quả mọng màu hồng xếp chồng, một lọ bơ đậu phộng hữu cơ và đậu phộng rang trên khay gỗ.
 
 <img src="covers/2096555489073279173.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+Tạo một cảnh chụp ảnh món ăn cao cấp, siêu thực trong một gian bếp hiện đại sáng sủa và ấm cúng. Một phần sinh tố quả mọng màu hồng rực rỡ, đậm đặc được đựng trong chồng ba lọ thủy tinh trong suốt nhỏ, xếp theo chiều dọc ở phía bên trái của chiếc bàn tròn màu trắng sạch sẽ. Sinh tố có kết cấu béo ngậy, mịn màng với những đốm nhỏ quả mọng tinh tế cùng điểm sáng bóng bẩy.
 
-On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+Ở bên phải, đặt một lọ bơ đậu phộng hữu cơ trong suốt có nắp màu xanh lá cây, chứa đầy bơ đậu phộng mịn màng màu vàng nâu. Giữ nguyên chính xác bao bì sản phẩm, vị trí nhãn dán, màu sắc và tỷ lệ. Rải một vài hạt đậu phộng nguyên hạt một cách tự nhiên bên cạnh lọ.
 
-In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+Ở tiền cảnh, bao gồm một bát gốm nhỏ đựng đậu phộng rang thập cẩm và một đĩa gốm màu be đặt một chiếc thìa với một muỗng lớn bơ đậu phộng mịn. Thêm vài nhánh thảo mộc xanh mỏng manh gần ly sinh tố.
 
-Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+Nền: tường bếp gạch thẻ màu trắng sạch sẽ, ánh sáng mặt trời tự nhiên dịu nhẹ chiếu vào từ một bên, bóng đổ tinh tế, không khí ấm cúng và thoải mái. Đặt các món đồ ăn trên một khay phục vụ bằng gỗ nhỏ có lót một tờ giấy in họa tiết cổ điển bên dưới.
 
-Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+Thêm dòng chữ màu trắng kiểu viết tay thanh lịch ở góc trên bên trái với nội dung “Smoothies”, cùng dòng chữ nhỏ hơn theo kiểu chữ thảo bên dưới ghi “Tingi Kalori.
 
-Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+Bố cục dọc 9:16, chụp ảnh thương mại thực phẩm cao cấp, họa tiết chân thực, ánh sáng ban ngày tự nhiên, độ sâu trường ảnh nông, hiệu ứng bokeh mềm mại với chi tiết sản phẩm sắc nét, bố cục cân bằng, tính thẩm mỹ phong cách sống ấm áp, chân thực như ảnh chụp, độ phân giải cao, không có người
 ```
 
 [↑ Về danh mục](#catalog)
