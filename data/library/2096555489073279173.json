@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:01:29.742Z",
+  "model": "image2",
+  "prompt": "Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.\n\nOn the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.\n\nIn the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.\n\nBackground: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.\n\nAdd elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.\n\nVertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people",
+  "summary": "Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.",
+  "summaryEn": "Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096555489073279173",
+    "canonicalUrl": "https://x.com/DuaFatimaAi/status/2096555489073279173",
+    "author": {
+      "username": "DuaFatimaAi",
+      "displayName": "Dua Fatima",
+      "profileUrl": "https://x.com/DuaFatimaAi"
+    },
+    "publishedAt": "2026-09-06T11:05:55.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Gpt image 2 via chat gpt \n\nPrompt \n\nPrompt:\n\nCreate an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.\n\nOn the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.\n\nIn the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.\n\nBackground: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.\n\nAdd elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.\n\nVertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/DuaFatimaAi/status/2096555489073279173",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096555393585647616/img/K6x0icep8WV74Uey.jpg",
+        "analysisUrl": "https://x.com/DuaFatimaAi/status/2096555489073279173"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRh2BbAawAAZRGN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRh2BbAawAAZRGN.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 59,
+      "repostCount": 12,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 1284
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DuaFatimaAi/status/2096555489073279173",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096555393585647616/img/K6x0icep8WV74Uey.jpg",
+  "coverPath": "covers/2096555489073279173.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096555393585647616",
+    "x-image:/media/HRh2BbAawAAZRGN",
+    "x-post:2096555489073279173"
+  ],
+  "analysis": {
+    "summary": "Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.",
+    "summaryEn": "Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.\n\nOn the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.\n\nIn the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.\n\nBackground: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.\n\nAdd elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.\n\nVertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people",
+    "sourceRange": {
+      "start": 45,
+      "end": 1512
+    },
+    "translations": {
+      "zh": "在明亮、温馨的现代厨房中创建一个超逼真、高端的食品摄影场景。左侧干净的白色圆桌上，垂直叠放着三个透明小玻璃罐，里面盛放着鲜艳浓稠的粉色莓果奶昔。奶昔质地浓郁柔滑，带有细微的莓果颗粒和光泽的高光。\n\n右侧放置一个带有绿色盖子的有机花生酱透明罐，装满金棕色顺滑的花生酱。准确保留产品包装、标签位置、颜色和比例。在罐子旁自然散落几颗完整的花生。\n\n前景包含一个装有混合烤花生的小陶瓷碗，以及一个米色陶瓷盘，盘中放着一把盛着一大勺顺滑花生酱的勺子。在奶昔旁添加几根精致的绿色香草嫩枝。\n\n背景：干净的白色地铁砖厨房墙面，侧面照射进来的柔和自然阳光，微妙的阴影，温馨舒适的氛围。将食物放在垫有复古印刷纸的小木质餐板上。\n\n在左上角添加优雅的手写风格白色文字“Smoothies”，下方带有较小的草书文字“Tingi Kalori。\n\n竖屏 9:16 构图，高端商业食品摄影，逼真质感，自然日光，浅景深，柔和散景，清晰的产品细节，平衡的构图，温馨的生活方式美学，逼真如照片，高分辨率，无人物",
+      "en": "Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.\n\nOn the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.\n\nIn the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.\n\nBackground: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.\n\nAdd elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.\n\nVertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people"
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "commercial food photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
