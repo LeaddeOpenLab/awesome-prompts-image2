@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:11:22.135Z",
+  "model": "gpt-image",
+  "prompt": "Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.",
+  "promptTranslations": {
+    "en": "Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality."
+  },
+  "summary": "Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.",
+  "summaryEn": "Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096809673378967588",
+    "canonicalUrl": "https://x.com/Lianaalane/status/2096809673378967588",
+    "author": {
+      "username": "Lianaalane",
+      "displayName": "liana",
+      "profileUrl": "https://x.com/Lianaalane"
+    },
+    "publishedAt": "2026-09-07T03:55:57.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "GPT image on chatgpt \n\nPrompt:\n\nCreate a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRldR4ObQAAn50q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRldR4ObQAAn50q.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 167,
+      "repostCount": 2,
+      "replyCount": 59,
+      "quoteCount": 0,
+      "viewCount": 10573
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Lianaalane/status/2096809673378967588",
+  "coverUrl": "https://pbs.twimg.com/media/HRldR4ObQAAn50q.jpg",
+  "coverPath": "images/2096809673378967588-1.jpg",
+  "imagePaths": [
+    "images/2096809673378967588-1.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRldR4ObQAAn50q",
+    "x-post:2096809673378967588"
+  ],
+  "analysis": {
+    "summary": "Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.",
+    "summaryEn": "Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the image: woman in red-and-white gingham puff-sleeve top, white trousers, watch, resting hand on black BMW."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality.",
+    "sourceRange": {
+      "start": 32,
+      "end": 1007
+    },
+    "translations": {
+      "zh": "创建一张时尚年轻女性在现代城市道路上自信地站在一辆豪华黑色宝马前的高清写实9:16图片。她留着黑色顺直长发，韩式中分，面部妆容自然水润。身穿红白格子泡泡袖短上衣和高腰白色长裤，手戴奢华手表。一手扶在车引擎盖上，另一手插在裤袋中。背景为模糊的城市街道与柔和日光。",
+      "en": "Create a photorealistic 9:16 picture of a stylish young woman confidently posing in front of a luxurious black BMW on a modern city road. She has long, sleek, straight black hair with a clean Korean-inspired center part and soft face-framing strands. Her face should remain natural and unchanged, with fresh Korean-style makeup, dewy skin, soft blush, subtle eyeliner, and glossy nude-pink lips. She is wearing a fashionable red-and-white gingham puff-sleeve top with high-waisted white trousers for a classy modern look. Replace the black bangles with an elegant luxury wristwatch for a sophisticated touch. One hand rests naturally on the car hood while the other is placed inside her trouser pocket. The background features blurred city buildings, greenery, traffic, street barriers, and soft daylight. Keep the same confident pose, realistic proportions, cinematic depth of field, premium fashion-editorial style, ultra-realistic details, and natural photography quality."
+    },
+    "targetModels": [
+      "gpt-image"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait photography generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "BMW"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
