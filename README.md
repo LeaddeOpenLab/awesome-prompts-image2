@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
+### Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
 Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
 
 Poster / Flyer · Illustration · Minimalism · Pending distribution
 
-**Summary:** Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
+**Summary:** Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
 <img src="images/2096807576168169628-1.jpg" alt="Image 1" width="480" />
 
@@ -250,27 +250,7 @@ Poster / Flyer · Illustration · Minimalism · Pending distribution
 **Prompt**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
 ```
 
 [↑ Back to categories](#catalog)

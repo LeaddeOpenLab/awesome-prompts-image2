@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Genera un poster editoriale diviso in due in formato 3:4 basato sulle foto caricate: la metà superiore conserva la foto originale, la metà inferiore si trasforma in una piccola illustrazione minimale disegnata a mano.
 
 Autore：[@Sairah\_0](https://x.com/Sairah_0) · [Post originale](https://x.com/Sairah_0/status/2096807576168169628)
 
 Poster / Volantino · Illustrazione · Minimalismo · Distribuzione in attesa
 
-**Riepilogo:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Riepilogo:** Genera un poster editoriale diviso in due in formato 3:4 basato sulle foto caricate: la metà superiore conserva la foto originale, la metà inferiore si trasforma in una piccola illustrazione minimale disegnata a mano.
 
 <img src="images/2096807576168169628-1.jpg" alt="Immagine 1" width="480" />
 
@@ -250,27 +250,27 @@ Poster / Volantino · Illustrazione · Minimalismo · Distribuzione in attesa
 **Prompt**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+Crea UN poster editoriale indipendente di alta gamma per CIASCUNA foto caricata. Non combinare mai le foto. Ogni foto deve diventare un poster separato.
 
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+FORMATO
+Rigorosamente verticale 3:4. Dividi la tela in due sezioni orizzontali esattamente uguali al 50%.
 
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+50% SUPERIORE — FOTO ORIGINALE
+Conserva fedelmente la foto: identità, volto, proporzioni corporee, posa, abbigliamento, oggetti, composizione, illuminazione, ombre, atmosfera e colori. Mantienila fotorealistica con un sottile color grading editoriale premium. Estendi lo sfondo in modo continuo se necessario; non distorcere o alterare mai il soggetto.
 
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+50% INFERIORE — ILLUSTRAZIONE MINIMALE
+Reinterpreta gli elementi più riconoscibili come una piccola illustrazione su carta, centrata e disegnata a mano, che occupa solo il 10-20% della metà inferiore. Conserva il soggetto chiave, la silhouette, la posa, gli oggetti e la narrazione.
 
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+Utilizza linee delicate e imperfette, forme piatte audaci in stile acrilico, grana della carta ruvida, tratti di pennello fatti a mano e bordi organici. Mantieni lo sfondo bianco caldo/bianco sporco con un generoso spazio negativo.
 
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+COLORE
+Estrai i colori dominanti dalla foto originale e riducili a un massimo di 4 colori sobri e armoniosi.
 
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+TIPOGRAFIA
+Testo editoriale minimale opzionale come un breve titolo, luogo, anno o parola chiave. Non forzare il testo se non necessario.
 
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+STILE
+Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, premium e altamente riconoscibile, come un libro d'arte contemporanea o la copertina di un editoriale indipendente.
 ```
 
 [↑ Torna alle categorie](#catalog)

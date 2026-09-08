@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### अपलोड की गई तस्वीर के आधार पर 3:4 स्प्लिट-स्क्रीन संपादकीय पोस्टर बनाएं, जिसमें ऊपरी आधा भाग मूल तस्वीर को सुरक्षित रखता है और निचला आधा भाग एक छोटे न्यूनतम हस्तनिर्मित चित्रण में परिवर्तित होता है।
 
 लेखक：[@Sairah\_0](https://x.com/Sairah_0) · [मूल पोस्ट](https://x.com/Sairah_0/status/2096807576168169628)
 
 पोस्टर / फ़्लायर · चित्रण · मिनिमलिज़्म · प्रकाशन लंबित
 
-**सारांश:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**सारांश:** अपलोड की गई तस्वीर के आधार पर 3:4 स्प्लिट-स्क्रीन संपादकीय पोस्टर बनाएं, जिसमें ऊपरी आधा भाग मूल तस्वीर को सुरक्षित रखता है और निचला आधा भाग एक छोटे न्यूनतम हस्तनिर्मित चित्रण में परिवर्तित होता है।
 
 <img src="images/2096807576168169628-1.jpg" alt="चित्र 1" width="480" />
 
@@ -250,27 +250,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 **प्रॉम्प्ट**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+अपलोड की गई प्रत्येक तस्वीर के लिए एक स्वतंत्र हाई-एंड संपादकीय पोस्टर बनाएं। तस्वीरों को कभी भी एक साथ न मिलाएं। प्रत्येक तस्वीर एक अलग पोस्टर बननी चाहिए।\n\nप्रारूप\nसख्त 3:4 वर्टिकल। कैनवास को क्षैतिज रूप से बिल्कुल बराबर 50% के दो भागों में विभाजित करें।\n\nशीर्ष 50% — मूल तस्वीर\nतस्वीर को निष्ठापूर्वक सुरक्षित रखें: पहचान, चेहरा, शारीरिक अनुपात, मुद्रा, वस्त्र, वस्तुएं, रचना, प्रकाश, छाया, वातावरण और रंग। सूक्ष्म प्रीमियम संपादकीय कलर ग्रेडिंग के साथ इसे फोटोरियलिस्टिक रखें। आवश्यकता पड़ने पर पृष्ठभूमि को निर्बाध रूप से विस्तारित करें; विषय को कभी भी विकृत या परिवर्तित न करें।\n\nनिचला 50% — न्यूनतम चित्रण\nसबसे पहचानने योग्य तत्वों को एक छोटे, केंद्रित, हाथ से बने कागजी चित्रण के रूप में पुनर्व्याख्यायित करें, जो निचले आधे हिस्से का केवल 10-20% भाग ही घेरे। मुख्य विषय, सिल्हूट, मुद्रा, वस्तुओं और कथा को बनाए रखें।\n\nनाजुक अपूर्ण रेखाओं, बोल्ड फ्लैट ऐक्रेलिक-शैली के आकारों, खुरदुरे कागज की बनावट, हस्तनिर्मित ब्रश के निशानों और प्राकृतिक किनारों का उपयोग करें। उदार नकारात्मक स्थान (नेगेटिव स्पेस) के साथ पृष्ठभूमि को वार्म व्हाइट/ऑफ-व्हाइट रखें।\n\nरंग\nमूल तस्वीर से प्रमुख रंगों को निकालें और उन्हें अधिकतम 4 संयमित, सामंजस्यपूर्ण रंगों तक सीमित करें।\n\nटाइपोग्राफी\nवैकल्पिक न्यूनतम संपादकीय पाठ जैसे संक्षिप्त शीर्षक, स्थान, वर्ष या कीवर्ड। अनावश्यक होने पर जबरन पाठ न जोड़ें।\n\nशैली\nशांत, काव्यात्मक, परिष्कृत, न्यूनतम, निष्कलंक, कलात्मक, विचारशील, प्रीमियम और अत्यधिक पहचानने योग्य — जैसे एक समकालीन कला पुस्तक या स्वतंत्र संपादकीय कवर।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

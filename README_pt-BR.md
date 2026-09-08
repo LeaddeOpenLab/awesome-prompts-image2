@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Gere um pôster editorial dividido 3:4 com base nas fotos enviadas: a metade superior preserva a foto original e a metade inferior transforma-se em uma pequena ilustração minimalista feita à mão.
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Publicação original](https://x.com/Sairah_0/status/2096807576168169628)
 
 Pôster / Flyer · Ilustração · Minimalismo · Distribuição pendente
 
-**Resumo:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Resumo:** Gere um pôster editorial dividido 3:4 com base nas fotos enviadas: a metade superior preserva a foto original e a metade inferior transforma-se em uma pequena ilustração minimalista feita à mão.
 
 <img src="images/2096807576168169628-1.jpg" alt="Imagem 1" width="480" />
 
@@ -250,27 +250,27 @@ Pôster / Flyer · Ilustração · Minimalismo · Distribuição pendente
 **Prompt**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+Crie UM pôster editorial independente de alta qualidade para CADA foto enviada. Nunca combine fotos. Cada foto deve se tornar um pôster separado.
 
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+FORMATO
+Estritamente vertical 3:4. Divida a tela em duas seções horizontais exatamente iguais de 50%.
 
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+50% SUPERIOR — FOTO ORIGINAL
+Preserve a foto fielmente: identidade, rosto, proporções corporais, pose, roupas, objetos, composição, iluminação, sombras, atmosfera e cores. Mantenha-a fotorrealista com gradação de cores editorial premium e sutil. Estenda o fundo de forma integrada, se necessário; nunca distorça ou altere o sujeito.
 
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+50% INFERIOR — ILUSTRAÇÃO MINIMALISTA
+Reinterprete os elementos mais reconhecíveis como uma pequena ilustração em papel, centralizada e feita à mão, ocupando apenas de 10 a 20% da metade inferior. Preserve o tema principal, a silhueta, a pose, os objetos e a narrativa.
 
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+Use linhas delicadas e imperfeitas, formas planas e marcantes em estilo acrílico, textura áspera de papel, marcas de pincel artesanais e bordas orgânicas. Mantenha o fundo em branco quente/off-white com espaço negativo generoso.
 
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+COR
+Extraia as cores dominantes da foto original e reduza-as a um máximo de 4 cores comedidas e harmoniosas.
 
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+TIPOGRAFIA
+Texto editorial mínimo opcional, como um título curto, local, ano ou palavra-chave. Não force texto se for desnecessário.
 
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+ESTILO
+Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sofisticado e altamente reconhecível — como um livro de arte contemporânea ou a capa de um editorial independente.
 ```
 
 [↑ Voltar às categorias](#catalog)

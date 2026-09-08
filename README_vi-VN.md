@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Dựa trên ảnh tải lên để tạo áp phích biên tập chia đôi 3:4, nửa trên giữ nguyên ảnh gốc, nửa dưới chuyển thành tranh vẽ tay tối giản khổ nhỏ.
 
 Tác giả：[@Sairah\_0](https://x.com/Sairah_0) · [Bài gốc](https://x.com/Sairah_0/status/2096807576168169628)
 
 Áp phích / Tờ rơi · Minh họa · Chủ nghĩa tối giản · Chờ phân phối
 
-**Tóm tắt:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Tóm tắt:** Dựa trên ảnh tải lên để tạo áp phích biên tập chia đôi 3:4, nửa trên giữ nguyên ảnh gốc, nửa dưới chuyển thành tranh vẽ tay tối giản khổ nhỏ.
 
 <img src="images/2096807576168169628-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -250,27 +250,7 @@ Tác giả：[@Sairah\_0](https://x.com/Sairah_0) · [Bài gốc](https://x.com/
 **Câu lệnh**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh được tải lên. Không bao giờ ghép các bức ảnh lại với nhau. Mỗi bức ảnh phải trở thành một áp phích riêng biệt.\n\nĐỊNH DẠNG\nTỉ lệ dọc 3:4 nghiêm ngặt. Chia khung vẽ thành hai phần bằng nhau chính xác 50% theo chiều ngang.\n\n50% PHÍA TRÊN — ẢNH GỐC\nGiữ nguyên ảnh gốc một cách trung thực: nhận dạng, khuôn mặt, tỉ lệ cơ thể, tư thế, trang phục, đồ vật, bố cục, ánh sáng, bóng đổ, bầu không khí và màu sắc. Duy trì tính chân thực của ảnh chụp với tông màu biên tập cao cấp tinh tế. Mở rộng nền liền mạch nếu cần; tuyệt đối không làm biến dạng hoặc thay đổi chủ thể.\n\n50% PHÍA DƯỚI — HÌNH MINH HỌA TỐI GIẢN\nTái hiện các yếu tố dễ nhận biết nhất thành một hình minh họa vẽ tay nhỏ bằng giấy ở chính giữa, chỉ chiếm 10–20% của nửa dưới. Giữ lại chủ thể chính, hình bóng, tư thế, đồ vật và tính tự sự.\n\nSử dụng các đường nét thanh mảnh không hoàn hảo, các mảng màu phẳng phong cách acrylic táo bạo, vân giấy thô ráp, vệt cọ thủ công và các cạnh tự nhiên. Giữ nền màu trắng ấm/trắng ngà với nhiều không gian âm thoáng đãng.\n\nMÀU SẮC\nTrích xuất các màu chủ đạo từ ảnh gốc và giản lược xuống tối đa 4 màu sắc hài hòa, tiết chế.\n\nCHỮ VIẾT (TYPOGRAPHY)\nVăn bản biên tập tối giản tùy chọn như tiêu đề ngắn, địa điểm, năm hoặc từ khóa. Không ép thêm chữ nếu không cần thiết.\n\nPHONG CÁCH\nYên bình, thơ mộng, tinh tế, tối giản, thuần khiết, đậm chất nghệ thuật, sâu sắc, cao cấp và dễ nhận biết — như một cuốn sách nghệ thuật đương đại hoặc bìa tạp chí độc lập.
 ```
 
 [↑ Về danh mục](#catalog)

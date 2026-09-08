@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### สร้างโปสเตอร์เชิงบรรณาธิการแบบแบ่งครึ่ง 3:4 จากภาพที่อัปโหลด โดยครึ่งบนคงความสมจริงของภาพเดิม ครึ่งล่างเปลี่ยนเป็นภาพวาดมือมินิมอลขนาดเล็ก
 
 ผู้เขียน：[@Sairah\_0](https://x.com/Sairah_0) · [โพสต์ต้นฉบับ](https://x.com/Sairah_0/status/2096807576168169628)
 
 โปสเตอร์ / ใบปลิว · ภาพประกอบ · มินิมอลลิสต์ · รอเผยแพร่
 
-**สรุป:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**สรุป:** สร้างโปสเตอร์เชิงบรรณาธิการแบบแบ่งครึ่ง 3:4 จากภาพที่อัปโหลด โดยครึ่งบนคงความสมจริงของภาพเดิม ครึ่งล่างเปลี่ยนเป็นภาพวาดมือมินิมอลขนาดเล็ก
 
 <img src="images/2096807576168169628-1.jpg" alt="รูปภาพ 1" width="480" />
 
@@ -250,27 +250,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 **พรอมต์**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+สร้างโปสเตอร์เชิงบรรณาธิการระดับไฮเอนด์แยกต่างหากจำนวน 1 แผ่นสำหรับภาพถ่ายที่อัปโหลดแต่ละภาพ ห้ามรวมภาพถ่ายเข้าด้วยกันโดยเด็ดขาด แต่ละภาพจะต้องกลายเป็นโปสเตอร์แยกต่างหาก\n\nรูปแบบ\nแนวตั้ง 3:4 อย่างเคร่งครัด แบ่งผืนผ้าใบออกเป็นสองส่วนเท่าๆ กันในแนวนอนที่ 50%\n\n50% ด้านบน — ภาพถ่ายต้นฉบับ\nรักษาภาพถ่ายไว้อย่างสมจริง: ตัวตน ใบหน้า สัดส่วนร่างกาย ท่าทาง เสื้อผ้า วัตถุ องค์ประกอบภาพ แสง เงา บรรยากาศ และสีสัน คงความสมจริงของภาพถ่ายพร้อมเกรดสีเชิงบรรณาธิการระดับพรีเมียมอย่างประณีต ขยายพื้นหลังอย่างไร้รอยต่อหากจำเป็น ห้ามบิดเบือนหรือเปลี่ยนแปลงตัวแบบเด็ดขาด\n\n50% ด้านล่าง — ภาพประกอบมินิมอล\nตีความองค์ประกอบที่จดจำได้ง่ายที่สุดขึ้นมาใหม่ในรูปแบบภาพวาดมือบนกระดาษขนาดเล็กตรงกึ่งกลาง กินพื้นที่เพียง 10–20% ของครึ่งล่าง รักษาตัวแบบหลัก ภาพเงา ท่าทาง วัตถุ และการเล่าเรื่องไว้\n\nใช้เส้นสายที่ละเอียดอ่อนและไม่สมบูรณ์แบบ รูปทรงสีเรียบสไตล์อะคริลิกที่ชัดเจน ผิวสัมผัสกระดาษหยาบ ร่องรอยฝีแปรงทำมือ และขอบที่มีความเป็นธรรมชาติ คงพื้นหลังเป็นสีขาวอบอุ่น/สีขาวหม่นพร้อมพื้นที่ว่างที่กว้างขวาง\n\nสี\nดึงสีเด่นจากภาพถ่ายต้นฉบับและลดทอนให้เหลือไม่เกิน 4 สีที่กลมกลืนและสุขุม\n\nการจัดวางตัวอักษร\nข้อความเชิงบรรณาธิการแบบมินิมอล (ระบุหรือไม่ก็ได้) เช่น ชื่อเรื่องสั้นๆ สถานที่ ปี หรือคำสำคัญ ไม่ต้องใส่ข้อความโดยไม่จำเป็น\n\nสไตล์\nเงียบสงบ เปี่ยมกวีภาพ ประณีต เรียบง่าย ไร้เดียงสา มีศิลปะ ลึกซึ้ง พรีเมียม และจดจำได้ง่าย — ราวกับหนังสือศิลปะร่วมสมัยหรือปกนิตยสารอิสระ
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

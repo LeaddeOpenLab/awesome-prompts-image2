@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Yüklenen fotoğraflara göre 3:4 çift panelli editoryal poster oluşturun: Üst yarı orijinal fotoğrafı aslına sadık şekilde korur, alt yarı ise küçük ve minimal bir el çizimi illüstrasyona dönüştürülür.
 
 Yazar：[@Sairah\_0](https://x.com/Sairah_0) · [Orijinal gönderi](https://x.com/Sairah_0/status/2096807576168169628)
 
 Poster / El İlanı · İllüstrasyon · Minimalizm · Dağıtım bekliyor
 
-**Özet:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Özet:** Yüklenen fotoğraflara göre 3:4 çift panelli editoryal poster oluşturun: Üst yarı orijinal fotoğrafı aslına sadık şekilde korur, alt yarı ise küçük ve minimal bir el çizimi illüstrasyona dönüştürülür.
 
 <img src="images/2096807576168169628-1.jpg" alt="Görsel 1" width="480" />
 
@@ -250,27 +250,27 @@ Poster / El İlanı · İllüstrasyon · Minimalizm · Dağıtım bekliyor
 **İstem**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+Yüklenen HER fotoğraf için BİR adet bağımsız, üst düzey editoryal poster oluşturun. Fotoğrafları asla birleştirmeyin. Her fotoğraf ayrı bir poster haline gelmelidir.
 
 FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+Kesinlikle 3:4 dikey. Tuvali tam olarak eşit iki %50'lik yatay bölüme ayırın.
 
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+ÜST %50 — ORİJİNAL FOTOĞRAF
+Fotoğrafı aslına sadık kalarak koruyun: kimlik, yüz, vücut oranları, poz, kıyafetler, nesneler, kompozisyon, aydınlatma, gölgeler, atmosfer ve renkler. İnce, birinci sınıf bir editoryal renk derecelendirmesiyle fotogerçekçi tutun. Gerekirse arka planı kusursuz bir şekilde genişletin; özneyi asla deforme etmeyin veya değiştirmeyin.
 
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+ALT %50 — MİNİMAL İLLÜSTRASYON
+En belirgin ögeleri, alt yarının yalnızca %10–20'sini kaplayan küçük, ortalanmış, el çizimi bir kâğıt illüstrasyonu olarak yeniden yorumlayın. Ana özneyi, silüeti, pozu, nesneleri ve anlatıyı koruyun.
 
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+Zarif ve kusurlu çizgiler, cesur ve düz akrilik tarzı şekiller, pürüzlü kâğıt dokusu, el yapımı fırça izleri ve organik kenarlar kullanın. Arka planı, cömert bir negatif alanla birlikte sıcak beyaz/kırık beyaz tutun.
 
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+RENK
+Orijinal fotoğraftan baskın renkleri çıkarın ve bunları en fazla 4 ölçülü, uyumlu renge indirgeyin.
 
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+TİPOGRAFİ
+Kısa bir başlık, konum, yıl veya anahtar kelime gibi isteğe bağlı minimal editoryal metin. Gerekli değilse metin eklemek için zorlamayın.
 
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+TARZ
+Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf ve son derece tanınabilir — çağdaş bir sanat kitabı veya bağımsız bir editoryal dergi kapağı gibi.
 ```
 
 [↑ Kategorilere dön](#catalog)

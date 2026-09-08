@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Genera un póster editorial díptico 3:4 a partir de las fotos subidas: la mitad superior conserva la foto original y la mitad inferior se transforma en una pequeña ilustración minimalista dibujada a mano.
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Publicación original](https://x.com/Sairah_0/status/2096807576168169628)
 
 Póster / Volante · Ilustración · Minimalismo · Pendiente de distribución
 
-**Resumen:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Resumen:** Genera un póster editorial díptico 3:4 a partir de las fotos subidas: la mitad superior conserva la foto original y la mitad inferior se transforma en una pequeña ilustración minimalista dibujada a mano.
 
 <img src="images/2096807576168169628-1.jpg" alt="Imagen 1" width="480" />
 
@@ -250,27 +250,27 @@ Póster / Volante · Ilustración · Minimalismo · Pendiente de distribución
 **Prompt**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+Crea UN póster editorial independiente de alta gama para CADA foto subida. Nunca combines fotos. Cada foto debe convertirse en un póster independiente.
 
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+FORMATO
+Estrictamente vertical 3:4. Divide el lienzo en dos secciones horizontales exactamente iguales del 50%.
 
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+50% SUPERIOR — FOTO ORIGINAL
+Conserva la foto fielmente: identidad, rostro, proporciones corporales, pose, ropa, objetos, composición, iluminación, sombras, atmósfera y colores. Mantenla fotorrealista con una sutil gradación de color editorial prémium. Extiende el fondo de manera fluida si es necesario; nunca distorsiones ni alteres al sujeto.
 
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+50% INFERIOR — ILUSTRACIÓN MÍNIMA
+Reinterpreta los elementos más reconocibles como una ilustración en papel pequeña, centrada y dibujada a mano que ocupe solo del 10 al 20% de la mitad inferior. Conserva el sujeto clave, la silueta, la pose, los objetos y la narrativa.
 
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+Usa líneas delicadas e imperfectas, formas planas y llamativas de estilo acrílico, grano de papel rugoso, trazos de pincel hechos a mano y bordes orgánicos. Mantén el fondo en blanco cálido/blanco roto con un generoso espacio negativo.
 
 COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+Extrae los colores dominantes de la foto original y redúcelos a un máximo de 4 colores sobrios y armoniosos.
 
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+TIPOGRAFÍA
+Texto editorial mínimo opcional, como un título corto, ubicación, año o palabra clave. No fuerces el texto si no es necesario.
 
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+ESTILO
+Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, prémium y altamente reconocible, como el de un libro de arte contemporáneo o la portada de una publicación editorial independiente.
 ```
 
 [↑ Volver a categorías](#catalog)

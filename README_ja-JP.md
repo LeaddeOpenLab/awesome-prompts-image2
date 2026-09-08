@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### アップロードされた写真をもとに3:4の2分割エディトリアルポスターを生成し、上半分は元の写真を忠実に再現、下半分は小さなミニマル手描きイラストへと変換します。
 
 作者：[@Sairah\_0](https://x.com/Sairah_0) · [元の投稿](https://x.com/Sairah_0/status/2096807576168169628)
 
 ポスター / チラシ · イラスト · ミニマリズム · 配信待ち
 
-**概要:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**概要:** アップロードされた写真をもとに3:4の2分割エディトリアルポスターを生成し、上半分は元の写真を忠実に再現、下半分は小さなミニマル手描きイラストへと変換します。
 
 <img src="images/2096807576168169628-1.jpg" alt="画像 1" width="480" />
 
@@ -250,27 +250,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 **プロンプト**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+アップロードされた写真ごとに、独立したハイエンドなエディトリアルポスターを1枚ずつ作成してください。写真を結合しないでください。各写真は必ず個別のポスターにする必要があります。\n\nフォーマット\n厳密な縦型3:4比率。キャンバスを水平方向にきっかり50%ずつの2つの均等なセクションに分割します。\n\n上部50% — 元の写真\n写真の特徴（同一性、顔、プロポーション、ポーズ、服装、オブジェクト、構図、照明、影、雰囲気、色彩）を忠実に再現します。上質なエディトリアルカラーグレーディングを施したフォトリアリスティックな質感を維持してください。必要に応じて背景をシームレスに拡張しますが、被写体を歪めたり変更したりしないでください。\n\n下部50% — ミニマルイラストレーション\n最も特徴的な要素を、下半分の中央にわずか10〜20%だけ配置する小さな手描き紙製イラストとして再解釈します。主要な被写体、シルエット、ポーズ、オブジェクト、物語性を保持してください。\n\n繊細で不完全な線、大胆でフラットなアクリル画風の形状、粗い紙のテクスチャ、手作業の筆跡、有機的なエッジを使用します。背景は温かみのあるオフホワイト/ウォームホワイトにし、たっぷりと余白を設けてください。\n\nカラー\n元の写真から主要な色を抽出し、控えめで調和のとれた最大4色に絞り込みます。\n\nタイポグラフィ\n短いタイトル、場所、年、キーワードなど、最小限のエディトリアルテキスト（任意）。不要な場合は無理にテキストを入れないでください。\n\nスタイル\n静謐、詩的、洗練、ミニマル、無垢、芸術的、思慮深い、プレミアム、そして高い識別性 — 現代のアートブックやインディペンデント誌の表紙のようなスタイル。
 ```
 
 [↑ カテゴリに戻る](#catalog)

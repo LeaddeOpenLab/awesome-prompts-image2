@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### 根據上傳照片生成3:4雙拼編輯海報，上半部分保真原片，下半部分轉為小幅極簡手繪插畫。
 
 作者：[@Sairah\_0](https://x.com/Sairah_0) · [查看 X 原帖](https://x.com/Sairah_0/status/2096807576168169628)
 
 海報／傳單 · 插圖 · 極簡主義 · 待推送
 
-**概括:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**概括:** 根據上傳照片生成3:4雙拼編輯海報，上半部分保真原片，下半部分轉為小幅極簡手繪插畫。
 
 <img src="images/2096807576168169628-1.jpg" alt="圖片 1" width="480" />
 
@@ -250,27 +250,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 **提示詞**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+為每張上傳的照片分別製作一張獨立的高端編輯海報。切勿合併照片。每張照片必須成為一張獨立的海報。\n\n版式\n嚴格採用 3:4 豎向構圖。將畫布水平等分為兩個完全均等的 50% 區域。\n\n上半部分 50% — 原始照片\n如實保留照片：人物身分、面部、身體比例、姿態、服裝、物品、構圖、光影、陰影、氛圍和色彩。保持寫實攝影風格，帶有細膩高級的編輯級調色。必要時無縫延伸背景；切勿變形或改動主體。\n\n下半部分 50% — 極簡插畫\n將最易識別的元素重新演繹為居中的小型手繪紙本插畫，僅占下半區域的 10–20%。保留核心主體、剪影、姿態、物品及敘事感。\n\n運用細膩不規整的線條、醒目的平塗丙烯風格色塊、粗糙紙質紋理、手工筆刷痕跡和有機邊緣。背景保持暖白/米白色，並留出充裕的留白空間。\n\n色彩\n從原片中提取主色調，並精簡至最多 4 種內斂、和諧的色彩。\n\n排版\n可選擇性添加極簡編輯排版文字，如簡短標題、地點、年份或關鍵詞。若非必要切勿強行添加文字。\n\n風格\n沉靜、詩意、精緻、極簡、純真、藝術感、深邃、高端且具高辨識度——猶如當代藝術畫冊或獨立編輯雜誌封面。
 ```
 
 [↑ 返回分類目錄](#catalog)

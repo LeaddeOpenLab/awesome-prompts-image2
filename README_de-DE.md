@@ -235,13 +235,13 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 <a name="prompt-2096807576168169628"></a>
 
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+### Erstelle basierend auf hochgeladenen Fotos ein zweigeteiltes 3:4-Editorial-Poster: Die obere Hälfte bewahrt das Originalfoto originalgetreu, die untere Hälfte wird zu einer kleinen, minimalistischen, handgezeichneten Illustration.
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Originalbeitrag](https://x.com/Sairah_0/status/2096807576168169628)
 
 Plakat / Flyer · Illustration · Minimalismus · Verteilung ausstehend
 
-**Zusammenfassung:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+**Zusammenfassung:** Erstelle basierend auf hochgeladenen Fotos ein zweigeteiltes 3:4-Editorial-Poster: Die obere Hälfte bewahrt das Originalfoto originalgetreu, die untere Hälfte wird zu einer kleinen, minimalistischen, handgezeichneten Illustration.
 
 <img src="images/2096807576168169628-1.jpg" alt="Bild 1" width="480" />
 
@@ -250,27 +250,27 @@ Plakat / Flyer · Illustration · Minimalismus · Verteilung ausstehend
 **Prompt**
 
 ```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+Erstelle EIN eigenständiges High-End-Editorial-Poster für JEDES hochgeladene Foto. Fotos niemals kombinieren. Jedes Foto muss ein separates Poster werden.
 
 FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+Striktes 3:4-Hochformat. Teile die Leinwand in zwei exakt gleiche 50%-horizontale Abschnitte.
 
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+OBERE 50% — ORIGINALFOTO
+Bewahre das Foto originalgetreu: Identität, Gesicht, Körperproportionen, Pose, Kleidung, Objekte, Komposition, Beleuchtung, Schatten, Atmosphäre und Farben. Halte es fotorealistisch mit dezentem, hochwertigem redaktionellem Color-Grading. Erweitere den Hintergrund bei Bedarf nahtlos; verzerre oder verändere das Motiv niemals.
 
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+UNTERE 50% — MINIMALISTISCHE ILLUSTRATION
+Reinterpretiere die am besten wiedererkennbaren Elemente als kleine, zentrierte, handgezeichnete Papierillustration, die nur 10–20% der unteren Hälfte einnimmt. Bewahre das Hauptmotiv, die Silhouette, die Pose, die Objekte und die Narration.
 
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+Verwende zarte, unvollkommene Linien, kräftige, flächige Formen im Acrylstil, raue Papierkörnung, handgemachte Pinselspuren und organische Kanten. Halte den Hintergrund in warmem Weiß/Cremeweiß mit großzügigem Negativraum.
 
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+FARBE
+Extrahiere die dominanten Farben aus dem Originalfoto und reduziere sie auf maximal 4 zurückhaltende, harmonische Farben.
 
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+TYPOGRAFIE
+Optionaler minimaler Editorial-Text wie ein kurzer Titel, Ort, Jahr oder Schlüsselwort. Erzwinge keinen Text, wenn er nicht notwendig ist.
 
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
+STIL
+Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenklich, erstklassig und mit hohem Wiedererkennungswert – wie ein zeitgenössisches Kunstbuch oder das Cover eines unabhängigen Editorial-Magazins.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
