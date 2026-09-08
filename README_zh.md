@@ -8,198 +8,13 @@
 
 ## 分类目录
 
-[所有提示词](#all-prompts)
-
-### 使用场景
-
-[海报 / 传单](#category-poster-flyer)
-
-- 个人资料 / 头像 · 0
-- 社交媒体帖子 · 0
-- 信息图 / 教育视觉图 · 0
-- YouTube 缩略图 · 0
-- 漫画 / 故事板 · 0
-- 产品营销 · 0
-- 电商主图 · 0
-- 游戏素材 · 0
-
-<a name="category-poster-flyer"></a>
-
-<details open>
-<summary>海报 / 传单 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- App / 网页设计 · 0
-
-### 风格
-
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>摄影 · 5</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>电影 / 电影剧照 · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 动漫 / 漫画 · 0
-
-<a name="category-illustration"></a>
-
-<details open>
-<summary>插画 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- 草图 / 线稿 · 0
-- 漫画 / 图画小说 · 0
-- 3D 渲染 · 0
-- Q 版 / Q 萌风 · 0
-- 等距 · 0
-- 像素艺术 · 0
-- 油画 · 0
-- 水彩画 · 0
-- 水墨 / 中国风 · 0
-
-<a name="category-retro-vintage"></a>
-
-<details open>
-<summary>复古 / 怀旧 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 赛博朋克 / 科幻 · 0
-
-<a name="category-minimalism"></a>
-
-<details open>
-<summary>极简主义 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-
-### 主体
-
-[人像 / 自拍](#category-portrait-selfie) · [角色](#category-character) · [食品 / 饮料](#category-food-drink) · [时尚单品](#category-fashion-item) · [车辆](#category-vehicle) · [城市风光 / 街道](#category-cityscape-street) · [摘要 / 背景](#category-abstract-background)
-
-
-<a name="category-portrait-selfie"></a>
-
-<details open>
-<summary>人像 / 自拍 · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 网红 / 模特 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>角色 · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 团体 / 情侣 · 0
-- 产品 · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>食品 / 饮料 · 1</summary>
-
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-
-</details>
-
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>时尚单品 · 3</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 动物 / 生物 · 0
-
-<a name="category-vehicle"></a>
-
-<details open>
-<summary>车辆 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 建筑 / 室内设计 · 0
-- 风景 / 自然 · 0
-
-<a name="category-cityscape-street"></a>
-
-<details open>
-<summary>城市风光 / 街道 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 图表 · 0
-- 文本 / 排版 · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>摘要 / 背景 · 3</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism)
 
 <a name="all-prompts"></a>
 
-## 所有提示词
+<a name="category-photography"></a>
+
+## 摄影
 
 <a name="prompt-2096601368114937969"></a>
 
@@ -267,84 +82,6 @@
 
 ---
 
-<a name="prompt-2096807576168169628"></a>
-
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-作者：[@Sairah\_0](https://x.com/Sairah_0) · [查看 X 原帖](https://x.com/Sairah_0/status/2096807576168169628)
-
-海报 / 传单 · 插画 · 极简主义 · 待推流
-
-**概括（Prompt 原语言）：** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-**English summary:** Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
-
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
-
-**Prompt**
-
-```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
-```
-
-[↑ 返回分类目录](#catalog)
-
----
-
-<a name="prompt-2097185580224491672"></a>
-
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-作者：[@harboriis](https://x.com/harboriis) · [查看 X 原帖](https://x.com/harboriis/status/2097185580224491672)
-
-摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 待推流
-
-**概括（Prompt 原语言）：** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-**English summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
-
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
-
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
-
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
-
-**Prompt**
-
-```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
-```
-
-[↑ 返回分类目录](#catalog)
-
----
-
 <a name="prompt-2096555489073279173"></a>
 
 ### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
@@ -400,6 +137,10 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ---
 
+<a name="category-cinematic-film-still"></a>
+
+## 电影 / 电影剧照
+
 <a name="prompt-2096808538534514913"></a>
 
 ### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
@@ -416,6 +157,92 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 复古 / 怀旧
+
+<a name="prompt-2097185580224491672"></a>
+
+### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+作者：[@harboriis](https://x.com/harboriis) · [查看 X 原帖](https://x.com/harboriis/status/2097185580224491672)
+
+摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 待推流
+
+**概括（Prompt 原语言）：** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+**English summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## 极简主义
+
+<a name="prompt-2096807576168169628"></a>
+
+### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+作者：[@Sairah\_0](https://x.com/Sairah_0) · [查看 X 原帖](https://x.com/Sairah_0/status/2096807576168169628)
+
+海报 / 传单 · 插画 · 极简主义 · 待推流
+
+**概括（Prompt 原语言）：** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+**English summary:** Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
+
+<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+
+FORMAT
+Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+
+TOP 50% — ORIGINAL PHOTO
+Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+
+BOTTOM 50% — MINIMAL ILLUSTRATION
+Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+
+Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+
+COLOR
+Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+
+TYPOGRAPHY
+Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+
+STYLE
+Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
 ```
 
 [↑ 返回分类目录](#catalog)

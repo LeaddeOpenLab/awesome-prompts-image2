@@ -8,198 +8,13 @@
 
 ## श्रेणी के अनुसार देखें
 
-[सभी प्रॉम्प्ट](#all-prompts)
-
-### उपयोग के मामले
-
-[पोस्टर / फ़्लायर](#category-poster-flyer)
-
-- प्रोफ़ाइल / अवतार · 0
-- सोशल मीडिया पोस्ट · 0
-- इन्फोग्राफिक / शैक्षिक विज़ुअल · 0
-- YouTube थंबनेल · 0
-- कॉमिक / स्टोरीबोर्ड · 0
-- प्रोडक्ट मार्केटिंग · 0
-- ई-कॉमर्स मुख्य इमेज · 0
-- गेम एसेट · 0
-
-<a name="category-poster-flyer"></a>
-
-<details open>
-<summary>पोस्टर / फ़्लायर · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- ऐप / वेब डिज़ाइन · 0
-
-### शैली
-
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>फोटोग्राफी · 5</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- एनिमे / मंगा · 0
-
-<a name="category-illustration"></a>
-
-<details open>
-<summary>चित्रण · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- स्केच / लाइन आर्ट · 0
-- कॉमिक / ग्राफिक नॉवेल · 0
-- 3D रेंडर · 0
-- चिबी / क्यू-स्टाइल · 0
-- आइसोमेट्रिक · 0
-- पिक्सेल आर्ट · 0
-- तैल चित्रकला · 0
-- वॉटरकलर · 0
-- स्याही / चीनी शैली · 0
-
-<a name="category-retro-vintage"></a>
-
-<details open>
-<summary>रेट्रो / विंटेज · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- साइबरपंक / साइंस-फाई · 0
-
-<a name="category-minimalism"></a>
-
-<details open>
-<summary>मिनिमलिज़्म · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-
-### मुख्य सामग्री
-
-[पोर्ट्रेट / सेल्फ़ी](#category-portrait-selfie) · [कैरेक्टर](#category-character) · [भोजन / पेय](#category-food-drink) · [फ़ैशन आइटम](#category-fashion-item) · [वाहन](#category-vehicle) · [शहर का नज़ारा / सड़क](#category-cityscape-street) · [सार / पृष्ठभूमि](#category-abstract-background)
-
-
-<a name="category-portrait-selfie"></a>
-
-<details open>
-<summary>पोर्ट्रेट / सेल्फ़ी · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- इन्फ्लुएंसर / मॉडल · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>कैरेक्टर · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- समूह / युगल · 0
-- उत्पाद · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>भोजन / पेय · 1</summary>
-
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-
-</details>
-
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>फ़ैशन आइटम · 3</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- पशु / जीव · 0
-
-<a name="category-vehicle"></a>
-
-<details open>
-<summary>वाहन · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- आर्किटेक्चर / इंटीरियर · 0
-- लैंडस्केप / प्रकृति · 0
-
-<a name="category-cityscape-street"></a>
-
-<details open>
-<summary>शहर का नज़ारा / सड़क · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- आरेख / चार्ट · 0
-- टेक्स्ट / टाइपोग्राफी · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>सार / पृष्ठभूमि · 3</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism)
 
 <a name="all-prompts"></a>
 
-## सभी प्रॉम्प्ट
+<a name="category-photography"></a>
+
+## फोटोग्राफी
 
 <a name="prompt-2096601368114937969"></a>
 
@@ -265,80 +80,6 @@ Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A gl
 
 ---
 
-<a name="prompt-2096807576168169628"></a>
-
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-लेखक：[@Sairah\_0](https://x.com/Sairah_0) · [मूल पोस्ट](https://x.com/Sairah_0/status/2096807576168169628)
-
-पोस्टर / फ़्लायर · चित्रण · मिनिमलिज़्म · प्रकाशन लंबित
-
-**सारांश:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
-
-**Prompt**
-
-```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
-```
-
-[↑ श्रेणियों पर लौटें](#catalog)
-
----
-
-<a name="prompt-2097185580224491672"></a>
-
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-लेखक：[@harboriis](https://x.com/harboriis) · [मूल पोस्ट](https://x.com/harboriis/status/2097185580224491672)
-
-फोटोग्राफी · रेट्रो / विंटेज · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · वाहन · शहर का नज़ारा / सड़क · सार / पृष्ठभूमि · प्रकाशन लंबित
-
-**सारांश:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
-
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
-
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
-
-**Prompt**
-
-```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
-```
-
-[↑ श्रेणियों पर लौटें](#catalog)
-
----
-
 <a name="prompt-2096555489073279173"></a>
 
 ### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
@@ -394,6 +135,10 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ---
 
+<a name="category-cinematic-film-still"></a>
+
+## सिनेमैटिक / फ़िल्म स्टिल
+
 <a name="prompt-2096808538534514913"></a>
 
 ### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
@@ -410,6 +155,88 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## रेट्रो / विंटेज
+
+<a name="prompt-2097185580224491672"></a>
+
+### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+लेखक：[@harboriis](https://x.com/harboriis) · [मूल पोस्ट](https://x.com/harboriis/status/2097185580224491672)
+
+फोटोग्राफी · रेट्रो / विंटेज · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · वाहन · शहर का नज़ारा / सड़क · सार / पृष्ठभूमि · प्रकाशन लंबित
+
+**सारांश:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## मिनिमलिज़्म
+
+<a name="prompt-2096807576168169628"></a>
+
+### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+लेखक：[@Sairah\_0](https://x.com/Sairah_0) · [मूल पोस्ट](https://x.com/Sairah_0/status/2096807576168169628)
+
+पोस्टर / फ़्लायर · चित्रण · मिनिमलिज़्म · प्रकाशन लंबित
+
+**सारांश:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+
+FORMAT
+Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+
+TOP 50% — ORIGINAL PHOTO
+Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+
+BOTTOM 50% — MINIMAL ILLUSTRATION
+Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+
+Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+
+COLOR
+Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+
+TYPOGRAPHY
+Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+
+STYLE
+Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

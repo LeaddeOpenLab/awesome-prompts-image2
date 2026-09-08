@@ -8,198 +8,13 @@
 
 ## 카테고리 탐색
 
-[모든 프롬프트](#all-prompts)
-
-### 사용 사례
-
-[포스터 / 전단지](#category-poster-flyer)
-
-- 프로필 / 아바타 · 0
-- 소셜 미디어 게시물 · 0
-- 인포그래픽 / 교육용 시각 자료 · 0
-- YouTube 썸네일 · 0
-- 만화 / 스토리보드 · 0
-- 제품 마케팅 · 0
-- 전자상거래 메인 이미지 · 0
-- 게임 에셋 · 0
-
-<a name="category-poster-flyer"></a>
-
-<details open>
-<summary>포스터 / 전단지 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- 앱 / 웹 디자인 · 0
-
-### 스타일
-
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 5</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>시네마틱 / 영화 스틸컷 · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 애니메이션 / 만화 · 0
-
-<a name="category-illustration"></a>
-
-<details open>
-<summary>일러스트레이션 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- 스케치 / 선화 · 0
-- 만화 / 그래픽 노블 · 0
-- 3D 렌더링 · 0
-- 치비 / Q-스타일 · 0
-- 아이소메트릭 · 0
-- 픽셀 아트 · 0
-- 유화 · 0
-- 수채화 · 0
-- 잉크 / 중국풍 · 0
-
-<a name="category-retro-vintage"></a>
-
-<details open>
-<summary>레트로 / 빈티지 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 사이버펑크 / SF · 0
-
-<a name="category-minimalism"></a>
-
-<details open>
-<summary>미니멀리즘 · 1</summary>
-
-- [根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-
-### 본문
-
-[인물 사진 / 셀카](#category-portrait-selfie) · [캐릭터](#category-character) · [음식 / 음료](#category-food-drink) · [패션 아이템](#category-fashion-item) · [차량](#category-vehicle) · [도시 풍경 / 거리](#category-cityscape-street) · [초록 / 배경](#category-abstract-background)
-
-
-<a name="category-portrait-selfie"></a>
-
-<details open>
-<summary>인물 사진 / 셀카 · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 인플루언서 / 모델 · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>캐릭터 · 4</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- 그룹 / 커플 · 0
-- 제품 · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>음식 / 음료 · 1</summary>
-
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-
-</details>
-
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>패션 아이템 · 3</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 동물 / 생명체 · 0
-
-<a name="category-vehicle"></a>
-
-<details open>
-<summary>차량 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 건축 / 인테리어 · 0
-- 풍경 / 자연 · 0
-
-<a name="category-cityscape-street"></a>
-
-<details open>
-<summary>도시 풍경 / 거리 · 1</summary>
-
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- 다이어그램 / 차트 · 0
-- 텍스트 / 타이포그래피 · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>초록 / 배경 · 3</summary>
-
-- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism)
 
 <a name="all-prompts"></a>
 
-## 모든 프롬프트
+<a name="category-photography"></a>
+
+## 사진술
 
 <a name="prompt-2096601368114937969"></a>
 
@@ -265,80 +80,6 @@
 
 ---
 
-<a name="prompt-2096807576168169628"></a>
-
-### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-작성자：[@Sairah\_0](https://x.com/Sairah_0) · [원본 게시물](https://x.com/Sairah_0/status/2096807576168169628)
-
-포스터 / 전단지 · 일러스트레이션 · 미니멀리즘 · 배포 대기
-
-**요약:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
-
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
-
-**Prompt**
-
-```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
-```
-
-[↑ 카테고리로 돌아가기](#catalog)
-
----
-
-<a name="prompt-2097185580224491672"></a>
-
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-작성자：[@harboriis](https://x.com/harboriis) · [원본 게시물](https://x.com/harboriis/status/2097185580224491672)
-
-사진술 · 레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 차량 · 도시 풍경 / 거리 · 초록 / 배경 · 배포 대기
-
-**요약:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
-
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
-
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
-
-**Prompt**
-
-```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
-```
-
-[↑ 카테고리로 돌아가기](#catalog)
-
----
-
 <a name="prompt-2096555489073279173"></a>
 
 ### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
@@ -394,6 +135,10 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ---
 
+<a name="category-cinematic-film-still"></a>
+
+## 시네마틱 / 영화 스틸컷
+
 <a name="prompt-2096808538534514913"></a>
 
 ### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
@@ -410,6 +155,88 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 레트로 / 빈티지
+
+<a name="prompt-2097185580224491672"></a>
+
+### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+작성자：[@harboriis](https://x.com/harboriis) · [원본 게시물](https://x.com/harboriis/status/2097185580224491672)
+
+사진술 · 레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 차량 · 도시 풍경 / 거리 · 초록 / 배경 · 배포 대기
+
+**요약:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## 미니멀리즘
+
+<a name="prompt-2096807576168169628"></a>
+
+### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+작성자：[@Sairah\_0](https://x.com/Sairah_0) · [원본 게시물](https://x.com/Sairah_0/status/2096807576168169628)
+
+포스터 / 전단지 · 일러스트레이션 · 미니멀리즘 · 배포 대기
+
+**요약:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
+
+<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+
+FORMAT
+Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+
+TOP 50% — ORIGINAL PHOTO
+Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+
+BOTTOM 50% — MINIMAL ILLUSTRATION
+Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+
+Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+
+COLOR
+Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+
+TYPOGRAPHY
+Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+
+STYLE
+Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

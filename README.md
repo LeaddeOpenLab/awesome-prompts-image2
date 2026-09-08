@@ -8,198 +8,13 @@
 
 ## Browse by Category
 
-[All Prompts](#all-prompts)
-
-### Use Cases
-
-[Poster / Flyer](#category-poster-flyer)
-
-- Profile / Avatar · 0
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-
-<a name="category-poster-flyer"></a>
-
-<details open>
-<summary>Poster / Flyer · 1</summary>
-
-- [Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- App / Web Design · 0
-
-### Style
-
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism)
-
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Photography · 5</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-
-</details>
-
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Cinematic / Film Still · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- Anime / Manga · 0
-
-<a name="category-illustration"></a>
-
-<details open>
-<summary>Illustration · 1</summary>
-
-- [Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
-- 3D Render · 0
-- Chibi / Q-Style · 0
-- Isometric · 0
-- Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
-
-<a name="category-retro-vintage"></a>
-
-<details open>
-<summary>Retro / Vintage · 1</summary>
-
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- Cyberpunk / Sci-Fi · 0
-
-<a name="category-minimalism"></a>
-
-<details open>
-<summary>Minimalism · 1</summary>
-
-- [Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.](#prompt-2096807576168169628) · [@Sairah\_0](https://x.com/Sairah_0)
-
-</details>
-
-
-### Subjects
-
-[Portrait / Selfie](#category-portrait-selfie) · [Character](#category-character) · [Food / Drink](#category-food-drink) · [Fashion Item](#category-fashion-item) · [Vehicle](#category-vehicle) · [Cityscape / Street](#category-cityscape-street) · [Abstract / Background](#category-abstract-background)
-
-
-<a name="category-portrait-selfie"></a>
-
-<details open>
-<summary>Portrait / Selfie · 4</summary>
-
-- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- Influencer / Model · 0
-
-<a name="category-character"></a>
-
-<details open>
-<summary>Character · 4</summary>
-
-- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
-- Group / Couple · 0
-- Product · 0
-
-<a name="category-food-drink"></a>
-
-<details open>
-<summary>Food / Drink · 1</summary>
-
-- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
-
-</details>
-
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Fashion Item · 3</summary>
-
-- [Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.](#prompt-2096601368114937969) · [@sha\_zdiii](https://x.com/sha_zdiii)
-- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- Animal / Creature · 0
-
-<a name="category-vehicle"></a>
-
-<details open>
-<summary>Vehicle · 1</summary>
-
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- Architecture / Interior · 0
-- Landscape / Nature · 0
-
-<a name="category-cityscape-street"></a>
-
-<details open>
-<summary>Cityscape / Street · 1</summary>
-
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-
-</details>
-
-- Diagram / Chart · 0
-- Text / Typography · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>Abstract / Background · 3</summary>
-
-- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
-- [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism)
 
 <a name="all-prompts"></a>
 
-## All Prompts
+<a name="category-photography"></a>
+
+## Photography
 
 <a name="prompt-2096601368114937969"></a>
 
@@ -265,80 +80,6 @@ Shot on an 85mm portrait lens, authentic photographic texture, high-end finished
 
 ---
 
-<a name="prompt-2096807576168169628"></a>
-
-### Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
-
-Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
-
-Poster / Flyer · Illustration · Minimalism · Pending distribution
-
-**Summary:** Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
-
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
-
-**Prompt**
-
-```text
-Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
-
-FORMAT
-Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
-
-TOP 50% — ORIGINAL PHOTO
-Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
-
-BOTTOM 50% — MINIMAL ILLUSTRATION
-Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
-
-Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
-
-COLOR
-Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
-
-TYPOGRAPHY
-Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
-
-STYLE
-Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2097185580224491672"></a>
-
-### 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
-
-Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2097185580224491672)
-
-Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Pending distribution
-
-**Summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
-
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
-
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
-
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
-
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
-
-**Prompt**
-
-```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2096555489073279173"></a>
 
 ### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
@@ -394,6 +135,10 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ---
 
+<a name="category-cinematic-film-still"></a>
+
+## Cinematic / Film Still
+
 <a name="prompt-2096808538534514913"></a>
 
 ### Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
@@ -410,6 +155,88 @@ Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Backgroun
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2097185580224491672"></a>
+
+### 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+
+Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2097185580224491672)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Pending distribution
+
+**Summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+
+<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
+Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
+Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## Minimalism
+
+<a name="prompt-2096807576168169628"></a>
+
+### Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
+
+Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
+
+Poster / Flyer · Illustration · Minimalism · Pending distribution
+
+**Summary:** Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.
+
+<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.
+
+FORMAT
+Strict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.
+
+TOP 50% — ORIGINAL PHOTO
+Preserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.
+
+BOTTOM 50% — MINIMAL ILLUSTRATION
+Reinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.
+
+Use delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.
+
+COLOR
+Extract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.
+
+TYPOGRAPHY
+Optional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.
+
+STYLE
+Quiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.
 ```
 
 [↑ Back to categories](#catalog)
