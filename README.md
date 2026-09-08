@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-**5** Prompts
+**6** Prompts
 
 <a name="catalog"></a>
 
@@ -42,8 +42,9 @@
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 3</summary>
+<summary>Photography · 4</summary>
 
+- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
@@ -110,8 +111,9 @@
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>Portrait / Selfie · 3</summary>
+<summary>Portrait / Selfie · 4</summary>
 
+- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
@@ -123,8 +125,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 3</summary>
+<summary>Character · 4</summary>
 
+- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
@@ -147,8 +150,9 @@
 <a name="category-fashion-item"></a>
 
 <details open>
-<summary>Fashion Item · 1</summary>
+<summary>Fashion Item · 2</summary>
 
+- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 
 </details>
@@ -182,8 +186,9 @@
 <a name="category-abstract-background"></a>
 
 <details open>
-<summary>Abstract / Background · 2</summary>
+<summary>Abstract / Background · 3</summary>
 
+- [A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -193,6 +198,46 @@
 <a name="all-prompts"></a>
 
 ## All Prompts
+
+<a name="prompt-2096631729410986083"></a>
+
+### A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.
+
+Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096631729410986083)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Pending distribution
+
+引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
+
+**Summary:** A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.
+
+<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical orientation, ancient Chinese style nocturnal beauty portrait photography, portrait of an aristocratic noblewoman of classical East Asian antiquity, bust-up close-up, frontal angle, the subject is seated gracefully before a dressing table, body facing squarely toward the camera, head held naturally upright, eyes tender and affectionate, gazing quietly into the lens, with a subtle, gentle, and emotionally restrained expression carrying a hint of hesitation and unspoken night sentiment. The overall aura is that of a highborn noble lady—gentle, luxurious, exquisite, reserved, and brimming with charm, like a noblewoman who has just finished her evening toilette in the night.
+
+Visual age approximately 20–28 years old, an unequivocally adult young East Asian woman, featuring bright eyes, full lips, and a gentle oval face, naturally full forehead, sculpted and dimensional midface, and a smooth, gentle jawline. Delicate, relaxed eyebrows; clear and luminous eyes with a naturally elongated eye shape, outer corners softly upturned without exaggeration, conveying a moist and tender gaze; a graceful, sleek nose bridge with a delicate, rounded nose tip; soft, full lips with a naturally distinct Cupid's bow and lip tubercle; overall facial features are exquisite and symmetrical, captivating in close-up, without infantility or an artificial internet-celebrity aesthetic.
+
+Makeup: "Lantern-Shadow Pomegranate Soft Glamour Makeup". The base makeup is translucent and delicate, with fair, soft, and supple skin tone, retaining natural, fine skin texture. Eye makeup blends pomegranate red, russet tea, warm brown, and fine touches of warm gold shimmer in soft gradients; the outer corner of the upper eyelid is subtly deepened, the aegyo sal (lying silkworm) is accented with refined warm gold pearl shimmer, eyeliner is slender and precise, and eyelashes are curled and distinct. A soft, natural warm rose blush on the midface and apples of the cheeks yields a gentle, healthy glow. Subtle, clear highlights on the nose bridge, nose tip, center of the face, and Cupid's bow without creating an oily sheen across the face. Lip makeup is a pomegranate-red glossy lip with a fresh, luminous, dewy finish and a delicate glass-like texture. The overall makeup imparts an aura that is tender, softly glamorous, reserved, and aristocratic, rich in the emotional ambiance of a noble lady bathed in night candlelight.
+
+Hairstyle: Lustrous black hair loosely gathered into a full, rounded high bun, naturally airy at the crown, with smooth, raven-black strands. Woven into the hair are pomegranate-red beaded hairpins, pale gold hair chains, golden floral branch structures, small red gemstones, pearl accents, and multi-layered dangling tassels; the overall hair ornaments are opulent and refined, richly layered without overpowering the face. Earrings are pearl tassel drop earrings combined with red jade beads and slender pale gold chains, gently hanging beside the ears to enhance the sense of nobility.
+
+Attire: A pomegranate-red parallel-collared upper robe (duijin shangru) crafted from fabric adorned with abundant gold-thread floral embroidery and intricate woven patterns, paired with a dark gold-patterned long skirt and an ivory-white sheer silk sash draped around the shoulders. The neckline features an exquisite ancient-style tube-top inner lining, with a naturally full bust and a voluptuous, well-proportioned upper body; a soft cleavage and most of the bust contour are clearly discernible yet fully covered by garments, remaining thoroughly tasteful, decorous, neither vulgar nor resembling a modern evening gown. The color palette focuses on pomegranate red, dark gold, ivory white, and warm gold, gorgeous and vivid while preserving classical refinement.
+
+Scene: Palace lantern warm pavilion / pearl beaded curtains / bronze mirror dressing table / flickering candle shadows. The subject sits before a classical Chinese vanity table; an antique carved round bronze mirror is visible on the left, with multi-layered pearl curtains cascading in the foreground and sides. On the dressing table rest red-gold jewelry boxes, pearl strands, fine ornaments, and candlesticks. In the background are warm yellow palace lanterns, deep-toned wooden chambers, and soft, blurred night pavilion lights in the distance; the overall space is lavish while the background remains softly out-of-focus, never stealing the limelight.
+
+Lighting combines warm white-to-gold candlelight with soft glow from palace lanterns, supplemented by a dedicated soft fill light on the face to ensure that eyes, eyeshadow, blush, lip makeup, hair accessories, embroidery, and skin textures are crisply discernible. The overall image is warm, luminous, and immersed in evening atmosphere, yet neither overly dark, yellowish, nor murky. Shallow depth of field blurs the background, keeping the subject's face and makeup as the primary visual focal point.
+
+Shot on an 85mm portrait lens, authentic photographic texture, high-end finished ancient-style noblewoman beauty portrait, tack-sharp focus on the eyes, crystal-clear makeup, exquisitely rendered pearls and gold-thread embroidery, creating a gorgeous, tenderly glamorous, warm, and classically cinematic nocturnal mood.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096807576168169628"></a>
 

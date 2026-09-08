@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Current-brightgreen)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-**5** Prompts
+**6** Prompts
 
 <a name="catalog"></a>
 
@@ -42,8 +42,9 @@
 <a name="category-photography"></a>
 
 <details open>
-<summary>Fotografia · 3</summary>
+<summary>Fotografia · 4</summary>
 
+- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
@@ -110,8 +111,9 @@
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>Retrato / Selfie · 3</summary>
+<summary>Retrato / Selfie · 4</summary>
 
+- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
@@ -123,8 +125,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>Personagem · 3</summary>
+<summary>Personagem · 4</summary>
 
+- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
@@ -147,8 +150,9 @@
 <a name="category-fashion-item"></a>
 
 <details open>
-<summary>Item de Moda · 1</summary>
+<summary>Item de Moda · 2</summary>
 
+- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 
 </details>
@@ -182,8 +186,9 @@
 <a name="category-abstract-background"></a>
 
 <details open>
-<summary>Resumo / Contexto · 2</summary>
+<summary>Resumo / Contexto · 3</summary>
 
+- [以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。](#prompt-2096631729410986083) · [@liyue\_ai](https://x.com/liyue_ai)
 - [90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。](#prompt-2097185580224491672) · [@harboriis](https://x.com/harboriis)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
@@ -193,6 +198,46 @@
 <a name="all-prompts"></a>
 
 ## Todos os prompts
+
+<a name="prompt-2096631729410986083"></a>
+
+### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+
+Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096631729410986083)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Contexto · Distribuição pendente
+
+引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
+
+**Resumo:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+
+<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
+
+**Prompt**
+
+```text
+9:16 竖版，古风夜色美妆写真，东方古典贵女人像，胸像近景，正面视角，人物端坐于妆台前，身体正对镜头，头部自然端正，眼神温柔含情，安静看向镜头，神情含蓄、柔和、情绪内敛，带一点欲言又止的夜色情绪。整体气质为高门贵女，温柔、华贵、精致、内敛而有韵味，像夜色里刚梳妆停下来的贵女。
+
+人物为一位视觉年龄约 20–28 岁、明确成年的年轻东方女性，明眸丰唇脸，柔和鹅蛋脸，额头自然饱满，面中丰盈立体，下颌线柔和流畅。眉形细致舒展，眼睛清亮有神，眼型自然修长，眼尾轻微上扬但不过分夸张，眼神柔润含情；鼻梁秀气流畅，鼻尖精致圆润；唇形柔软饱满，唇珠自然清楚，整体五官精致对称，近景耐看，不幼态、不网红化。
+
+妆容为 灯影海榴柔艳妆。底妆通透细腻，肤色白净柔润，保留自然细腻皮肤质感。眼妆使用榴红、赤茶、暖棕与少量暖金细闪渐层晕染，上眼睑外侧与眼尾轻微加深，卧蚕带细腻暖金珠光，眼线纤细清楚，睫毛卷翘分明。面中与苹果肌带柔和自然的暖玫瑰腮红，气色温润。鼻梁、鼻尖、面中与唇峰加入细致清透高光，但不形成全脸油光。唇妆为榴红水光唇，颜色鲜润柔亮，唇面带轻微玻璃感。整体妆后气质温柔、柔艳、含蓄、华贵，具有夜色烛光下的贵女情绪感。
+
+发型为黑发松挽高髻，高髻饱满圆润，头顶自然蓬松，发丝乌黑顺滑。发间佩戴 海榴红珠钗、浅金发链、金色花枝结构、红色小宝石、珍珠点缀与多层流苏垂饰，整体发饰精致华丽，层次丰富但不压脸。耳饰为珍珠流苏耳坠，搭配红色玉珠与浅金细链，轻垂于耳侧，增强华贵感。
+
+服装为 海榴红对襟上襦，衣料带有大量金线花卉刺绣与细密暗纹，搭配 乌金暗纹长裙 与 象牙白轻纱披帛。领口和胸前为精致古风抹胸式内层，胸部饱满自然，上半身比例丰润协调，可以清楚看到柔和的胸线与大部分胸部轮廓，但仍有完整服装覆盖，整体得体，不低俗、不现代礼服化。服装配色以海榴红、乌金、象牙白、暖金为主，华美鲜明，同时保持古典精致感。
+
+场景为 宫灯暖阁 / 珠帘 / 铜镜妆台 / 烛影摇曳。人物坐于古风妆台前，左侧可见古铜雕花圆镜，前景和两侧垂落多层珍珠珠帘，妆台上摆放红金首饰盒、珍珠链、小件首饰与烛台。背景可见暖黄宫灯、深木阁室、远处夜色楼阁虚化灯影，整体空间华丽但背景柔和虚化，不喧宾夺主。
+
+光线采用暖白偏金的烛光与宫灯柔光结合，人物面部有独立柔和补光，确保双眼、眼影、腮红、唇妆、发饰、刺绣和皮肤细节清晰可见。画面整体温暖通透，有夜色氛围，但不过暗、不发黄、不灰脏。背景浅景深虚化，人物脸部与妆容始终是第一视觉中心。
+
+85mm 人像镜头，真实摄影质感，高完成度古风贵女美妆写真，人物双眼精准对焦，妆容清晰，珠饰与金线刺绣精致细腻，画面华美、柔艳、温润、富有古典夜色电影感。
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096807576168169628"></a>
 
