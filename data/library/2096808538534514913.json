@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T10:46:23.592Z",
+  "model": "image2",
+  "prompt": "Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.",
+  "summary": "Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.",
+  "summaryEn": "Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096808538534514913",
+    "canonicalUrl": "https://x.com/iamsofiaijaz/status/2096808538534514913",
+    "author": {
+      "username": "iamsofiaijaz",
+      "displayName": "Aijaz",
+      "profileUrl": "https://x.com/iamsofiaijaz"
+    },
+    "publishedAt": "2026-09-07T03:51:27.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Image by GPT image 2 \n\nPrompt 👇 \nPhotorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlcP97aAAABzgR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlcP97aAAABzgR.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 144,
+      "repostCount": 20,
+      "replyCount": 43,
+      "quoteCount": 0,
+      "viewCount": 4011
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/iamsofiaijaz/status/2096808538534514913",
+  "coverUrl": "https://pbs.twimg.com/media/HRlcP97aAAABzgR.jpg",
+  "coverPath": "images/2096808538534514913-1.jpg",
+  "imagePaths": [
+    "images/2096808538534514913-1.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRlcP97aAAABzgR",
+    "x-post:2096808538534514913"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.",
+    "summaryEn": "Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image matches prompt subject, outfit, lighting, and moody atmosphere precisely."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.",
+    "sourceRange": {
+      "start": 33,
+      "end": 767
+    },
+    "translations": {
+      "zh": "英俊成年男性的逼真电影感肖像，棕色微卷中发，修剪整齐的胡茬，身穿柔软米色针织圆领毛衣。面朝镜头，神情平静自信略带沉思。暖金色轮廓光，柔和主光打亮面部。暗调氛围背景，微弱琥珀色烟雾，高反差光影，自然皮肤质感，浅景深，85mm人像镜头，f/1.8，暖调电影调色，8K超精细画质。",
+      "en": "Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
