@@ -218,7 +218,7 @@
 **Prompt**
 
 ```text
-Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.
+極致寫實的奢華時尚雜誌大片，位於極簡主義暖米色攝影棚內。一位留著柔順波浪金長髮、魅力四射的成年女性模特兒，優雅地擺姿態於一匹雄偉的成年純白駿馬身旁，馬匹配戴著逼真的黑色皮革韁繩與低調精緻的金色五金配件。模特兒身著精緻的象牙白無袖合身剪裁闊腿套裝，搭配飄逸的長披風、優雅的高跟鞋和精緻的珠寶飾品。營造頂級高級時尚宣傳廣告視覺，展現優雅的模特兒姿態，時而牽著韁繩佇立於白馬身旁，時而優雅地端坐於幾何形奶油色方塊上，而白馬則平靜地立於身後或身側。暖米色無縫背景與地面，柔和定向攝影棚光線，逼真的肌膚紋理，真實的馬匹解剖構造與毛髮質感，自然陰影，飄逸布料，精緻中性色調，照片級寫實，奢華雜誌大片美學，全身構圖，高細節，垂直 2:3。
 ```
 
 [↑ 返回分類目錄](#catalog)
