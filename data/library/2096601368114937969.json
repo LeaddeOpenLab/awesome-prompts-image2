@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:05:35.588Z",
+  "model": "image2",
+  "prompt": "Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.",
+  "promptTranslations": {
+    "en": "Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3."
+  },
+  "summary": "Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.",
+  "summaryEn": "Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096601368114937969",
+    "canonicalUrl": "https://x.com/sha_zdiii/status/2096601368114937969",
+    "author": {
+      "username": "sha_zdiii",
+      "displayName": "shah_zadii",
+      "profileUrl": "https://x.com/sha_zdiii"
+    },
+    "publishedAt": "2026-09-06T14:08:13.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT\n\nMASTER PROMPT:\n\nUltra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRif0H-b0AAICfr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRif0H-b0AAICfr.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRif056bsAARpcf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRif056bsAARpcf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 138,
+      "repostCount": 5,
+      "replyCount": 78,
+      "quoteCount": 0,
+      "viewCount": 4860
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/sha_zdiii/status/2096601368114937969",
+  "coverUrl": "https://pbs.twimg.com/media/HRif0H-b0AAICfr.jpg",
+  "coverPath": "images/2096601368114937969-1.jpg",
+  "imagePaths": [
+    "images/2096601368114937969-1.jpg",
+    "images/2096601368114937969-2.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRif0H-b0AAICfr",
+    "x-image:/media/HRif056bsAARpcf",
+    "x-post:2096601368114937969"
+  ],
+  "analysis": {
+    "summary": "Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.",
+    "summaryEn": "Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt accurately describes the blonde model, ivory-white cape outfit, white horse with bridle, geometric block props, and warm beige studio shown in both images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.",
+    "sourceRange": {
+      "start": 40,
+      "end": 977
+    },
+    "translations": {
+      "zh": "极简暖米色摄影棚内的超逼真奢华时尚大片。一位金发女性模特身着象牙白无袖阔腿连身披风套装，与一匹佩戴黑色皮缰绳的纯白骏马优雅同框。摄影棚柔和光线，自然阴影与垂坠面料，中性色调，垂直 2:3 全身构图。",
+      "en": "Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A blonde female model in an ivory-white wide-leg jumpsuit with a long cape poses elegantly with a majestic pure white horse. Soft directional lighting, neutral palette, vertical 2:3 full-body composition."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion editorial photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
