@@ -29,18 +29,9 @@
 
 ### Estilo
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still)
+[Cine / Fotograma](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotografía · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- Fotografía · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Publicación original](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Fotografía · Cine / Fotograma · Retrato / Selfie · Personaje · Resumen / Antecedentes · Pendiente de distribución
+Cine / Fotograma · Retrato / Selfie · Personaje · Resumen / Antecedentes · Pendiente de distribución
 
 **Resumen:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

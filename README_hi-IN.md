@@ -29,18 +29,9 @@
 
 ### शैली
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still)
+[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>फोटोग्राफी · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- फोटोग्राफी · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 लेखक：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [मूल पोस्ट](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · सार / पृष्ठभूमि · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · सार / पृष्ठभूमि · प्रकाशन लंबित
 
 **सारांश:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

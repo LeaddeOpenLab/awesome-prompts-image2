@@ -29,18 +29,9 @@
 
 ### Tarz
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still)
+[Sinematik / Film Karesi](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Fotoğrafçılık · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- Fotoğrafçılık · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 Yazar：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Orijinal gönderi](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Dağıtım bekliyor
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Dağıtım bekliyor
 
 **Özet:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

@@ -29,18 +29,9 @@
 
 ### 風格
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still)
+[電影感 / 電影劇照](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>攝影 · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- 攝影 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [查看 X 原帖](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-攝影 · 電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 待推送
+電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 待推送
 
 **概括:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

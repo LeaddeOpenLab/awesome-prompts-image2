@@ -29,18 +29,9 @@
 
 ### スタイル
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
+[シネマティック / フィルムスチル](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>写真撮影 · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- 写真撮影 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [元の投稿](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-写真撮影 · シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信待ち
+シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信待ち
 
 **概要:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

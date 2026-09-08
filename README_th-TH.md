@@ -29,18 +29,9 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
+[ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>การถ่ายภาพ · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- การถ่ายภาพ · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 ผู้เขียน：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [โพสต์ต้นฉบับ](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · รอเผยแพร่
 
 **สรุป:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

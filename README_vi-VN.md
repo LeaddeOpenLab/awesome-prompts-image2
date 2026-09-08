@@ -29,18 +29,9 @@
 
 ### Phong cách
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>Nhiếp ảnh · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- Nhiếp ảnh · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 Tác giả：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Bài gốc](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
 
 **Tóm tắt:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 

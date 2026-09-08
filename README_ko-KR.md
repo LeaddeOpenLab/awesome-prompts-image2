@@ -29,18 +29,9 @@
 
 ### 스타일
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
+[시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
 
-
-<a name="category-photography"></a>
-
-<details open>
-<summary>사진술 · 1</summary>
-
-- [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
-
-</details>
-
+- 사진술 · 0
 
 <a name="category-cinematic-film-still"></a>
 
@@ -123,7 +114,7 @@
 
 작성자：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [원본 게시물](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-사진술 · 시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 대기
+시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 대기
 
 **요약:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
