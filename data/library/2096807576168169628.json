@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:03:49.436Z",
+  "model": "image2",
+  "prompt": "Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.",
+  "promptTranslations": {
+    "en": "Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover."
+  },
+  "summary": "根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。",
+  "summaryEn": "Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096807576168169628",
+    "canonicalUrl": "https://x.com/Sairah_0/status/2096807576168169628",
+    "author": {
+      "username": "Sairah_0",
+      "displayName": "Sairah",
+      "profileUrl": "https://x.com/Sairah_0"
+    },
+    "publishedAt": "2026-09-07T03:47:37.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "GPT Image 2 On ChatGpt\n\nPrompt:\nCreate ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlbXlobkAAG4p1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlbXlobkAAG4p1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlbXlubAAAbFZU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlbXlubAAAbFZU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 452,
+      "repostCount": 51,
+      "replyCount": 44,
+      "quoteCount": 0,
+      "viewCount": 16227
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Sairah_0/status/2096807576168169628",
+  "coverUrl": "https://pbs.twimg.com/media/HRlbXlobkAAG4p1.jpg",
+  "coverPath": "images/2096807576168169628-1.jpg",
+  "imagePaths": [
+    "images/2096807576168169628-1.jpg",
+    "images/2096807576168169628-2.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRlbXlobkAAG4p1",
+    "x-image:/media/HRlbXlubAAAbFZU",
+    "x-post:2096807576168169628"
+  ],
+  "analysis": {
+    "summary": "根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。",
+    "summaryEn": "Generates a 3:4 split editorial poster preserving the original photo on top and a minimal hand-drawn illustration below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image 1 shows the original portrait; image 2 demonstrates the corresponding minimalist hand-drawn illustration."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create ONE independent high-end editorial poster for EACH uploaded photo. Never combine photos. Each photo must become a separate poster.\n\nFORMAT\nStrict 3:4 vertical. Divide the canvas into two exactly equal 50% horizontal sections.\n\nTOP 50% — ORIGINAL PHOTO\nPreserve the photo faithfully: identity, face, body proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and colors. Keep it photorealistic with subtle premium editorial color grading. Seamlessly extend the background if needed; never distort or alter the subject.\n\nBOTTOM 50% — MINIMAL ILLUSTRATION\nReinterpret the most recognizable elements as a small, centered, hand-drawn paper illustration occupying only 10–20% of the bottom half. Preserve the key subject, silhouette, pose, objects, and narrative.\n\nUse delicate imperfect lines, bold flat acrylic-style shapes, rough paper grain, handmade brush marks, and organic edges. Keep the background warm white/off-white with generous negative space.\n\nCOLOR\nExtract dominant colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors.\n\nTYPOGRAPHY\nOptional minimal editorial text such as a short title, location, year, or keyword. Do not force text if unnecessary.\n\nSTYLE\nQuiet, poetic, refined, minimal, innocent, artistic, thoughtful, premium, and highly recognizable — like a contemporary art book or independent editorial cover.",
+    "sourceRange": {
+      "start": 32,
+      "end": 1435
+    },
+    "translations": {
+      "zh": "为每张上传的照片创建一张独立的高端编辑海报。严格3:4竖版，分为上下对半两部分。上半部分忠实保留原图；下半部分重新诠释为居中的极简手绘纸本插画，使用亚克力质感与质朴纸纹，提取原片至多4种主色，留白充裕，呈现艺术画册封面风格。",
+      "en": "Create ONE independent high-end editorial poster for EACH uploaded photo. Strict 3:4 vertical canvas split horizontally 50/50. Top half faithfully preserves the original photo. Bottom half reinterprets it as a small, centered hand-drawn paper illustration with max 4 restrained colors and generous negative space."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "editorial poster design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
