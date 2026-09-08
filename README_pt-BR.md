@@ -1,8 +1,20 @@
-# image2 · Biblioteca de prompts
+# Image2 · Biblioteca de prompts · Leadde.ai
 
-[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Current-brightgreen)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-brightgreen)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**9** Prompts
+> **Prompts de qualidade selecionados diariamente**
+
+Descubra prompts completos para imagens, vídeos e criações 3D com IA. Explore por estilo, consulte versões em vários idiomas e conheça os autores e as fontes.
+
+[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+## Conheça a Leadde.ai
+
+A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos empresariais com IA para treinamento, integração e marketing.
+
+Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
+
+**9** Prompts · Última adição: **2026-09-08**
 
 <a name="catalog"></a>
 
@@ -26,7 +38,7 @@ Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
 
 **Resumo:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
-<img src="images/2096809673378967588-1.jpg" alt="封面" width="480" />
+<img src="images/2096809673378967588-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -40,22 +52,22 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 <a name="prompt-2096601368114937969"></a>
 
-### Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
+### Editorial de moda de luxo ultrarrealista com uma modelo loira em um traje de capa marfim posando com um cavalo branco puro em um estúdio em bege quente.
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publicação original](https://x.com/sha_zdiii/status/2096601368114937969)
 
 Fotografia · Item de Moda · Distribuição pendente
 
-**Resumo:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
+**Resumo:** Editorial de moda de luxo ultrarrealista com uma modelo loira em um traje de capa marfim posando com um cavalo branco puro em um estúdio em bege quente.
 
-<img src="images/2096601368114937969-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096601368114937969-1.jpg" alt="Imagem 1" width="480" />
 
-<img src="images/2096601368114937969-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096601368114937969-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
 ```text
-Editorial de moda de luxo ultrarrealista em um estúdio minimalista em bege quente. Uma modelo feminina adulta glamourosa e loira, com cabelos longos, macios e ondulados, posa elegantemente ao lado de um majestoso cavalo branco puro em tamanho real, usando uma cabeçada de couro preto realista com sutis detalhes dourados. A modelo veste um traje sofisticado de alfaiataria branco-marfim sem mangas com calça pantalona e uma longa capa esvoaçante, saltos elegantes e joias refinadas. Crie um visual de campanha de alta moda premium com poses elegantes da modelo, às vezes de pé ao lado do cavalo segurando as rédeas e às vezes sentada graciosamente em blocos geométricos em tom creme, enquanto o cavalo permanece calmamente atrás ou ao lado dela. Fundo infinito e piso em bege quente, iluminação de estúdio suave e direcional, textura de pele realista, anatomia e pelagem realistas do cavalo, sombras naturais, tecido fluido, paleta de cores neutras refinada, fotorrealista, estética editorial luxuosa, composição de corpo inteiro, alta riqueza de detalhes, vertical 2:3.
+Editorial de moda de luxo ultrarrealista em um estúdio minimalista em bege quente. Uma modelo feminina adulta loira e glamorosa com cabelos longos, macios e ondulados posa elegantemente ao lado de um majestoso cavalo de tamanho real, branco puro, usando uma rédea de couro preto realista com detalhes sutis em dourado. A modelo veste um traje sofisticado branco marfim sem mangas de pernas largas sob medida com uma capa longa e esvoaçante, saltos elegantes e joias refinadas. Crie um visual de campanha de alta-costura premium com poses elegantes da modelo, às vezes de pé ao lado do cavalo segurando as rédeas e às vezes sentada graciosamente em blocos geométricos em tom creme enquanto o cavalo fica calmamente atrás ou ao lado dela. Fundo e piso contínuos em bege quente, iluminação suave e direcional de estúdio, textura de pele realista, anatomia e pelagem do cavalo realistas, sombras naturais, tecido esvoaçante, paleta refinada de cores neutras, fotorrealista, estética editorial luxuosa, composição de corpo inteiro, alto nível de detalhes, vertical 2:3.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -70,13 +82,13 @@ Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Contexto · Distribuição pendente
 
-引用来源：[@liyue\_ai](https://x.com/liyue_ai) · [引用原帖](https://x.com/liyue_ai/status/2096269909076623535)
+Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096269909076623535)
 
 **Resumo:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
 
-<img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096631729410986083-1.jpg" alt="Imagem 1" width="480" />
 
-<img src="images/2096631729410986083-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096631729410986083-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
@@ -112,7 +124,7 @@ Fotografia · Alimentos / Bebidas · Distribuição pendente
 
 **Resumo:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
-<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
+<img src="covers/2096555489073279173.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -144,7 +156,7 @@ Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
 
 **Resumo:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
-<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
+<img src="images/2097159277937115208-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -171,7 +183,7 @@ Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Resumo /
 
 **Resumo:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
-<img src="images/2096808538534514913-1.jpg" alt="封面" width="480" />
+<img src="images/2096808538534514913-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -197,13 +209,13 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda
 
 **Resumo:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
-<img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
+<img src="images/2097185580224491672-1.jpg" alt="Imagem 1" width="480" />
 
-<img src="images/2097185580224491672-2.jpg" alt="图片 2" width="480" />
+<img src="images/2097185580224491672-2.jpg" alt="Imagem 2" width="480" />
 
-<img src="images/2097185580224491672-3.jpg" alt="图片 3" width="480" />
+<img src="images/2097185580224491672-3.jpg" alt="Imagem 3" width="480" />
 
-<img src="images/2097185580224491672-4.jpg" alt="图片 4" width="480" />
+<img src="images/2097185580224491672-4.jpg" alt="Imagem 4" width="480" />
 
 **Prompt**
 
@@ -231,9 +243,9 @@ Pôster / Flyer · Ilustração · Minimalismo · Distribuição pendente
 
 **Resumo:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
-<img src="images/2096807576168169628-1.jpg" alt="图片 1" width="480" />
+<img src="images/2096807576168169628-1.jpg" alt="Imagem 1" width="480" />
 
-<img src="images/2096807576168169628-2.jpg" alt="图片 2" width="480" />
+<img src="images/2096807576168169628-2.jpg" alt="Imagem 2" width="480" />
 
 **Prompt**
 
@@ -279,7 +291,7 @@ Retrato / Selfie · Personagem · Alimentos / Bebidas · Distribuição pendente
 
 **Resumo:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
-<img src="images/2097157373936935051-1.jpg" alt="封面" width="480" />
+<img src="images/2097157373936935051-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -291,4 +303,6 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 
 ---
 
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+[Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
