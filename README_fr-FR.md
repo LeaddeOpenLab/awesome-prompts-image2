@@ -4,7 +4,7 @@
 
 > La navigation est traduite ; les titres utilisent les résumés Gemini. Les prompts restent dans leur langue originale.
 
-**2** Prompts
+**3** Prompts
 
 <a name="catalog"></a>
 
@@ -35,8 +35,9 @@
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photographie · 1</summary>
+<summary>Photographie · 2</summary>
 
+- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 
 </details>
@@ -68,7 +69,7 @@
 
 ### Contenu principal
 
-[Portrait / Selfie](#category-portrait-selfie) · [Personnage](#category-character) · [Résumé / Contexte](#category-abstract-background)
+[Portrait / Selfie](#category-portrait-selfie) · [Personnage](#category-character) · [Alimentation / Boissons](#category-food-drink) · [Résumé / Contexte](#category-abstract-background)
 
 
 <a name="category-portrait-selfie"></a>
@@ -95,7 +96,16 @@
 
 - Groupe / Couple · 0
 - Produit · 0
-- Alimentation / Boissons · 0
+
+<a name="category-food-drink"></a>
+
+<details open>
+<summary>Alimentation / Boissons · 1</summary>
+
+- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
+
+</details>
+
 - Article de mode · 0
 - Animal / Créature · 0
 - Véhicule · 0
@@ -118,6 +128,38 @@
 <a name="all-prompts"></a>
 
 ## Tous les prompts
+
+<a name="prompt-2096555489073279173"></a>
+
+### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+
+Auteur：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Publication originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
+
+Photographie · Alimentation / Boissons · Diffusion en attente
+
+**Résumé:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+
+<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+
+On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+
+In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+
+Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+
+Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+
+Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097159277937115208"></a>
 

@@ -4,7 +4,7 @@
 
 > 导航随语言切换，条目标题沿用 Gemini 概括，Prompt 保留原文。
 
-**2** 条内容
+**3** 条内容
 
 <a name="catalog"></a>
 
@@ -35,8 +35,9 @@
 <a name="category-photography"></a>
 
 <details open>
-<summary>摄影 · 1</summary>
+<summary>摄影 · 2</summary>
 
+- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
 - [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 
 </details>
@@ -68,7 +69,7 @@
 
 ### 主体
 
-[人像 / 自拍](#category-portrait-selfie) · [角色](#category-character) · [摘要 / 背景](#category-abstract-background)
+[人像 / 自拍](#category-portrait-selfie) · [角色](#category-character) · [食品 / 饮料](#category-food-drink) · [摘要 / 背景](#category-abstract-background)
 
 
 <a name="category-portrait-selfie"></a>
@@ -95,7 +96,16 @@
 
 - 团体 / 情侣 · 0
 - 产品 · 0
-- 食品 / 饮料 · 0
+
+<a name="category-food-drink"></a>
+
+<details open>
+<summary>食品 / 饮料 · 1</summary>
+
+- [Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.](#prompt-2096555489073279173) · [@DuaFatimaAi](https://x.com/DuaFatimaAi)
+
+</details>
+
 - 时尚单品 · 0
 - 动物 / 生物 · 0
 - 车辆 · 0
@@ -118,6 +128,38 @@
 <a name="all-prompts"></a>
 
 ## 所有提示词
+
+<a name="prompt-2096555489073279173"></a>
+
+### Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+
+作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [查看 X 原帖](https://x.com/DuaFatimaAi/status/2096555489073279173)
+
+摄影 · 食品 / 饮料 · 待推流
+
+**Summary (English):** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
+
+<img src="covers/2096555489073279173.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic, high-end food photography scene in a bright, cozy modern kitchen. A vibrant thick pink berry smoothie is served in a stack of three small transparent glass jars, arranged vertically on the left side of a clean white round table. The smoothie has a rich creamy texture with subtle berry speckles and glossy highlights.
+
+On the right, place a clear jar of organic peanut butter with a green lid, filled with golden-brown creamy peanut butter. Preserve the product packaging, label placement, colors, and proportions accurately. Scatter a few whole peanuts naturally beside the jar.
+
+In the foreground, include a small ceramic bowl filled with mixed roasted peanuts and a beige ceramic plate holding a spoon with a generous scoop of creamy peanut butter. Add a few delicate green herb sprigs near the smoothie.
+
+Background: clean white subway-tile kitchen wall, soft natural sunlight coming from the side, subtle shadows, warm cozy atmosphere. Place the food items on a small wooden serving board with a sheet of vintage printed paper underneath.
+
+Add elegant handwritten-style white text in the upper-left area reading “Smoothies”, with smaller cursive text underneath reading “Tingi Kalori.
+
+Vertical 9:16 composition, premium commercial food photography, realistic textures, natural daylight, shallow depth of field, soft bokehcrisp product details, balanced composition, warm lifestyle aesthetic, photorealistic, high resolution, no people
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097159277937115208"></a>
 
