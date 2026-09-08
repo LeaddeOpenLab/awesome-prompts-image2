@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:01:16.971Z",
+  "model": "image2",
+  "prompt": "Using uploaded face as reference. \nHigh-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.",
+  "summary": "Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.",
+  "summaryEn": "Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097159277937115208",
+    "canonicalUrl": "https://x.com/Aiwithamirr1/status/2097159277937115208",
+    "author": {
+      "username": "Aiwithamirr1",
+      "displayName": "M Amir",
+      "profileUrl": "https://x.com/Aiwithamirr1"
+    },
+    "publishedAt": "2026-09-08T03:05:09.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "1. Open Gemini / Grok / GPT Image 2.0\n2. Upload your photo\n3. Copy the prompt\n4. Generate\n5. Prompt ⤵️ \nUsing uploaded face as reference. \nHigh-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqbO62aMAAZCY-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqbO62aMAAZCY-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 0,
+      "replyCount": 19,
+      "quoteCount": 0,
+      "viewCount": 335
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithamirr1/status/2097159277937115208",
+  "coverUrl": "https://pbs.twimg.com/media/HRqbO62aMAAZCY-.jpg",
+  "coverPath": "images/2097159277937115208-1.jpg",
+  "imagePaths": [
+    "images/2097159277937115208-1.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRqbO62aMAAZCY-",
+    "x-post:2097159277937115208"
+  ],
+  "analysis": {
+    "summary": "Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.",
+    "summaryEn": "Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt: a South Asian man with closed eyes, split with water splashes on his right/viewer left and fiery flames on the other side against a neutral backdrop."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Using uploaded face as reference. \nHigh-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.",
+    "sourceRange": {
+      "start": 104,
+      "end": 832
+    },
+    "translations": {
+      "zh": "以上传的人脸作为参考。23岁南亚男性的高分辨率肖像，双眼闭合，头部后仰，神情宁静，黑色乱发，以上传的胡须为参考。戏剧性的分裂元素效果：他的面部和身体左侧迸发出动态的水花、流体飞溅和漂浮的水滴；右侧则被发光的橙色火焰、狂暴的火缕和燃烧的余烬颗粒包围。穿着黑色修身T恤。超现实的双元素美学，电影感光照，高对比度单色与火焰色调，影棚灯光，超写实细节，柔和浅灰背景，85mm人像镜头拍摄，8k分辨率，逼真杰作。",
+      "en": "Using uploaded face as reference. \nHigh-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "Portrait Photography / Character Design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
