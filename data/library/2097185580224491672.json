@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T11:03:23.115Z",
+  "model": "image2",
+  "prompt": "Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.\nSet the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.\nFull body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.",
+  "promptTranslations": {
+    "en": "Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.\nSet the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.\nFull body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K."
+  },
+  "summary": "90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。",
+  "summaryEn": "1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097185580224491672",
+    "canonicalUrl": "https://x.com/harboriis/status/2097185580224491672",
+    "author": {
+      "username": "harboriis",
+      "displayName": "Harboris",
+      "profileUrl": "https://x.com/harboriis"
+    },
+    "publishedAt": "2026-09-08T04:49:40.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT \n\nPrompt: Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.\nSet the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.\nFull body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqzIaObwAAU-pU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqzIaObwAAU-pU.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqzJOXagAA3jSw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqzJOXagAA3jSw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqzJ_KacAAVOVc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqzJ_KacAAVOVc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqzKkga8AA01zR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqzKkga8AA01zR.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 42,
+      "repostCount": 4,
+      "replyCount": 30,
+      "quoteCount": 0,
+      "viewCount": 801
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/harboriis/status/2097185580224491672",
+  "coverUrl": "https://pbs.twimg.com/media/HRqzIaObwAAU-pU.jpg",
+  "coverPath": "images/2097185580224491672-1.jpg",
+  "imagePaths": [
+    "images/2097185580224491672-1.jpg",
+    "images/2097185580224491672-2.jpg",
+    "images/2097185580224491672-3.jpg",
+    "images/2097185580224491672-4.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRqzIaObwAAU-pU",
+    "x-image:/media/HRqzJOXagAA3jSw",
+    "x-image:/media/HRqzJ_KacAAVOVc",
+    "x-image:/media/HRqzKkga8AA01zR",
+    "x-post:2097185580224491672"
+  ],
+  "analysis": {
+    "summary": "90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。",
+    "summaryEn": "1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt text explicitly details the subject's outfit, pose, vintage car, wall typography, and 90s aesthetic matching all images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.\nSet the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.\nFull body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1057
+    },
+    "translations": {
+      "zh": "创作一张超写实的9:16竖屏街头服饰时尚大片，画面中是一位留着浓密深色卷发的年轻男子，戴着黑色墨镜，身穿一件米黑撞色宽松POLO衫，上印有醒目的“OAKLAND”学院风字母及下方较小的运动字体，搭配黑色宽松工装裤、白色球鞋和经典金属腕表。他双手插兜、单腿交叉，随性地靠在一辆复古美式轿车前。\n场景设定在带有粗粝质感的城市街头，身后是一栋斑驳的老建筑。墙面上带有大号褪色文字“OAKLAND”，下方写有“CALIFORNIA”和“EST. 1852”。温暖的傍晚阳光、低饱和棕米色调、细腻胶片颗粒、柔和阴影、怀旧90年代街头时尚美学、写实皮肤质感、自然姿态、电影级景深、细节丰富的复古车、地道时尚大片摄影。\n全身构图、低视角机位、35mm镜头、温暖电影感光效、写实、高细节、4K。",
+      "en": "Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.\nSet the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.\nFull body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Chevrolet",
+        "Oakland collegiate/typography"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
