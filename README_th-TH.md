@@ -4,7 +4,7 @@
 
 > แปลเมนูนำทาง ชื่อใช้สรุปจาก Gemini และคงพรอมต์ต้นฉบับไว้
 
-**1** รายการ
+**2** รายการ
 
 <a name="catalog"></a>
 
@@ -29,9 +29,18 @@
 
 ### สไตล์
 
-[ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still)
 
-- การถ่ายภาพ · 0
+
+<a name="category-photography"></a>
+
+<details open>
+<summary>การถ่ายภาพ · 1</summary>
+
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
+
+</details>
+
 
 <a name="category-cinematic-film-still"></a>
 
@@ -65,8 +74,9 @@
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>ภาพบุคคล / เซลฟี่ · 1</summary>
+<summary>ภาพบุคคล / เซลฟี่ · 2</summary>
 
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -76,8 +86,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>ตัวละคร · 1</summary>
+<summary>ตัวละคร · 2</summary>
 
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -107,6 +118,29 @@
 <a name="all-prompts"></a>
 
 ## พรอมต์ทั้งหมด
+
+<a name="prompt-2097159277937115208"></a>
+
+### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+
+ผู้เขียน：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [โพสต์ต้นฉบับ](https://x.com/Aiwithamirr1/status/2097159277937115208)
+
+การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · รอเผยแพร่
+
+**สรุป:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+
+<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Using uploaded face as reference. 
+High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

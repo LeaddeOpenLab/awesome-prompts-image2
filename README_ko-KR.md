@@ -4,7 +4,7 @@
 
 > 탐색 메뉴는 번역됩니다. 제목은 Gemini 요약을 사용하며 프롬프트 원문은 유지됩니다.
 
-**1** 개
+**2** 개
 
 <a name="catalog"></a>
 
@@ -29,9 +29,18 @@
 
 ### 스타일
 
-[시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
 
-- 사진술 · 0
+
+<a name="category-photography"></a>
+
+<details open>
+<summary>사진술 · 1</summary>
+
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
+
+</details>
+
 
 <a name="category-cinematic-film-still"></a>
 
@@ -65,8 +74,9 @@
 <a name="category-portrait-selfie"></a>
 
 <details open>
-<summary>인물 사진 / 셀카 · 1</summary>
+<summary>인물 사진 / 셀카 · 2</summary>
 
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -76,8 +86,9 @@
 <a name="category-character"></a>
 
 <details open>
-<summary>캐릭터 · 1</summary>
+<summary>캐릭터 · 2</summary>
 
+- [Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.](#prompt-2097159277937115208) · [@Aiwithamirr1](https://x.com/Aiwithamirr1)
 - [Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.](#prompt-2096808538534514913) · [@iamsofiaijaz](https://x.com/iamsofiaijaz)
 
 </details>
@@ -107,6 +118,29 @@
 <a name="all-prompts"></a>
 
 ## 모든 프롬프트
+
+<a name="prompt-2097159277937115208"></a>
+
+### Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+
+작성자：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [원본 게시물](https://x.com/Aiwithamirr1/status/2097159277937115208)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
+
+**요약:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
+
+<img src="images/2097159277937115208-1.jpg" alt="封面" width="480" />
+
+**Prompt**
+
+```text
+Using uploaded face as reference. 
+High-resolution portrait of a 23-year-old South Asian man with eyes closed and head tilted back in a serene expression, messy black hair, uploaded beard asreference. Dramatic split elemental effect: the left side of his face and body is bursting with dynamic water splashes, fluid spray, and floating water droplets; the right side is engulfed in glowing orange flames, fierce fire strands, and burning ember particles. Wearing a dark fitted t-shirt. Surreal dual-element aesthetic, cinematic lighting, high-contrast monochrome and fire color palette, studio lighting, hyper-realistic details, muted light grey background, shot on 85mm portrait lens, 8k resolution, photorealistic masterpiece.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 
