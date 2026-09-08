@@ -218,7 +218,7 @@
 **Prompt**
 
 ```text
-Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A glamorous adult blonde female model with long soft wavy hair poses elegantly beside a majestic full-size pure white horse wearing a realistic black leather bridle with subtle gold hardware. The model wears a sophisticated ivory-white sleeveless tailored wide-leg outfit with a long flowing cape, elegant heels, and refined jewelry. Create a premium high-fashion campaign look with elegant model poses, sometimes standing beside the horse holding the reins and sometimes seated gracefully on geometric cream blocks while the horse stands calmly behind or beside her. Warm beige seamless background and floor, soft directional studio lighting, realistic skin texture, realistic horse anatomy and fur, natural shadows, flowing fabric, refined neutral color palette, photorealistic, luxurious editorial aesthetic, full-body composition, high detail, vertical 2:3.
+미니멀하고 따뜻한 베이지 톤 스튜디오에서 진행된 초현실적인 럭셔리 패션 에디토리얼. 길고 부드러운 웨이브 헤어를 한 매력적인 성인 금발 여성 모델이 은은한 골드 장식이 달린 사실적인 블랙 가죽 굴레를 착용한 위엄 있는 실물 크기의 순백색 백마 옆에서 우아하게 포즈를 취하고 있다. 모델은 길게 늘어지는 케이프가 달린 세련된 아이보리 화이트 민소매 테일러드 와이드 레그 수트, 우아한 힐, 그리고 정교한 주얼리를 착용하고 있다. 모델이 고삐를 잡고 말 옆에 서 있거나, 기하학적인 크림색 블록 위에 우아하게 앉아 있고 말이 그녀의 뒤나 옆에 차분하게 서 있는 등 우아한 포즈가 돋보이는 프리미엄 하이패션 캠페인 룩을 연출한다. 따뜻한 베이지 색상의 이음새 없는 배경과 바닥, 부드러운 방향성 스튜디오 조명, 사실적인 피부 질감, 사실적인 말의 해부학적 구조와 털, 자연스러운 그림자, 하늘거리는 원단, 세련된 뉴트럴 컬러 팔레트, 포토리얼리스틱, 고급스러운 에디토리얼 미학, 전신 구도, 고디테일, 세로 비율 2:3.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
