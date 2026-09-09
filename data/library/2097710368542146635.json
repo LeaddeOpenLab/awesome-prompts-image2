@@ -12,7 +12,14 @@
     "th-TH": "สร้างโปสเตอร์เทศกาลชิงหมิงหนึ่งแผ่น",
     "vi-VN": "Tạo một áp phích tiết khí Thanh minh",
     "hi-IN": "चिंगमिंग सौर पद के लिए एक पोस्टर बनाएं",
-    "es-ES": "Genera un póster del término solar Qingming"
+    "es-ES": "Genera un póster del término solar Qingming",
+    "es-419": "Genera un póster sobre el término solar de Qingming",
+    "de-DE": "Erstelle ein Poster für den Qingming-Solarabschnitt",
+    "fr-FR": "Générer une affiche pour la période solaire de Qingming",
+    "it-IT": "Genera un poster per il termine solare di Qingming",
+    "pt-BR": "Gere um pôster para o termo solar de Qingming",
+    "pt-PT": "Gera um cartaz para o termo solar de Qingming",
+    "tr-TR": "Qingming güneş dönemi için bir afiş oluştur"
   },
   "summaryTranslations": {
     "en": "Generate a Qingming solar term themed poster.",
@@ -23,7 +30,14 @@
     "th-TH": "สร้างโปสเตอร์ในธีมเทศกาลชิงหมิง",
     "vi-VN": "Tạo áp phích chủ đề tiết khí Thanh minh.",
     "hi-IN": "चिंगमिंग सौर पद थीम पोस्टर बनाएं।",
-    "es-ES": "Generar un póster temático del término solar Qingming."
+    "es-ES": "Generar un póster temático del término solar Qingming.",
+    "es-419": "Generar un póster temático del término solar de Qingming.",
+    "de-DE": "Poster zum Thema des Qingming-Solarabschnitts erstellen.",
+    "fr-FR": "Générer une affiche sur le thème de la période solaire de Qingming.",
+    "it-IT": "Genera un poster a tema per il termine solare di Qingming.",
+    "pt-BR": "Gerar um pôster temático sobre o termo solar de Qingming.",
+    "pt-PT": "Gerar um cartaz temático sobre o termo solar de Qingming.",
+    "tr-TR": "Qingming güneş dönemi temalı bir afiş oluştur."
   },
   "translationVersion": 2,
   "summary": "生成清明节气主题海报。",
