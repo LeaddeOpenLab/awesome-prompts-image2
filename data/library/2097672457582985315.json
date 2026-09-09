@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:30:08.870Z",
+  "model": "image2.5",
+  "prompt": "这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图",
+  "promptTranslations": {
+    "en": "Traveling to Rizhao, Qingdao, and Yantai for 5 days this month, generate a travel itinerary guide infographic"
+  },
+  "summaryTranslations": {
+    "en": "Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai."
+  },
+  "translationVersion": 2,
+  "summary": "生成日照、青岛、烟台5天行程旅游攻略图的文生图提示词。",
+  "summaryEn": "Text-to-image prompt for generating a 5-day travel guide infographic for Rizhao, Qingdao, and Yantai.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097672457582985315",
+    "canonicalUrl": "https://x.com/MrGafish/status/2097672457582985315",
+    "author": {
+      "username": "MrGafish",
+      "displayName": "Mr Gafish | 鱼哥",
+      "profileUrl": "https://x.com/MrGafish"
+    },
+    "publishedAt": "2026-09-09T13:04:21.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "GPT Image 2.5 真是有点强的\n\n一句话帮我生成了要去玩的旅游攻略\n\n```\n这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图\n``` https://t.co/RYgMxo3waj",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxtylBaEAAYaOb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxtylBaEAAYaOb.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 807
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MrGafish/status/2097672457582985315",
+  "coverUrl": "https://pbs.twimg.com/media/HRxtylBaEAAYaOb.jpg",
+  "coverPath": "images/2097672457582985315-1.jpg",
+  "imagePaths": [
+    "images/2097672457582985315-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxtylBaEAAYaOb",
+    "x-post:2097672457582985315"
+  ],
+  "analysis": {
+    "summary": "生成日照、青岛、烟台5天行程旅游攻略图的文生图提示词。",
+    "summaryEn": "Text-to-image prompt for generating a 5-day travel guide infographic for Rizhao, Qingdao, and Yantai.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图为一张完整的“日照·青岛·烟台 5天旅游攻略”手账信息长图，内容详细涵盖了5天行程安排、地图、景点照片、美食推荐及旅行贴士，与提示词高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图",
+    "sourceRange": {
+      "start": 44,
+      "end": 70
+    },
+    "translations": {
+      "zh": "这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图",
+      "en": "I am traveling to Rizhao, Qingdao, and Yantai for 5 days this month. Generate a travel itinerary guide infographic."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "旅游攻略信息图生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
