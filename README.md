@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**34** Prompts · Latest addition: **2026-09-09**
+**35** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -73,6 +73,50 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097585546973614232"></a>
+
+### A photographic prompt of a woman in a mustard-colored top and pleated skirt looking back over a net on an orange tennis court.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2097585546973614232)
+
+Photography · Character · Published
+
+**Summary:** A photographic prompt of a woman in a mustard-colored top and pleated skirt looking back over a net on an orange tennis court.
+
+<img src="images/2097585546973614232-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Looking back on an orange court
+
+Main subject:
+A vertical photograph of an adult woman standing with her back to the camera in the center of the frame on a sunny outdoor tennis court, looking back over her shoulder.
+
+Person / Expression:
+Turning only her face over her own right shoulder toward the camera, with a calm expression and closed lips. Slender oval face, small chin, horizontally elongated brown eyes, natural thin eyebrows, small nose, pale pink lips. Long, light brown wavy hair spreads across her back.
+
+Attire / Pose:
+A mustard-colored sleeveless top with a deep open back, and a white pleated short tennis skirt. Weight shifted onto one leg with a slight twist at the waist, holding a white racket lowered to her lower right with her own right hand, left arm resting naturally along her side.
+
+Background / Lighting:
+A black net crossing at waist height in the foreground, with an orange court, green fence, trees, and blue sky in the background. Harsh direct midday light from the upper left illuminates her hair and shoulders, casting a short shadow onto the court.
+
+Composition / Camera:
+4:5 vertical composition, an above-the-knee shot taken from a rear diagonal angle with the camera placed at waist height. The person is framed prominently in the center, with the net serving as a horizontal line in the foreground and the racket placed in the lower right. Focus on the face and back, background lightly blurred, with the top of the head and the hem of the skirt contained within the frame.
+
+Texture / Style:
+Photorealistic live-action photograph. Clearly captures the fine sheen of the hair, the stretch fabric of the top, the pleats of the skirt, the mesh of the net, and the dry court surface.
+
+Negative:
+Do not show facing forward; do not omit the net crossing in front of the waist and the racket in the lower right
 ```
 
 [↑ Back to categories](#catalog)
