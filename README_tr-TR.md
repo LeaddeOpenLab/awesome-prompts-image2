@@ -567,13 +567,13 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 <a name="prompt-2097713691433070629"></a>
 
-### Çeviri sürüyor
+### ChatGPT'den sürüm numarasını belirten bir isimlik içeren bir otoportre çizmesini istemek.
 
 Yazar：[@Tz\_2022](https://x.com/Tz_2022) · [Orijinal gönderi](https://x.com/Tz_2022/status/2097713691433070629)
 
 İllüstrasyon · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** ChatGPT'den sürüm numarasını belirten bir isimlik içeren bir otoportre çizmesini istemek.
 
 <img src="images/2097713691433070629-1.jpg" alt="Görsel 1" width="480" />
 
@@ -582,7 +582,7 @@ Yazar：[@Tz\_2022](https://x.com/Tz_2022) · [Orijinal gönderi](https://x.com/
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kendinin bir otoportresini çiz, üzerinde bir isimlik olsun ve isimlikte senin sürüm numaran yer alsın
 ```
 
 [↑ Kategorilere dön](#catalog)

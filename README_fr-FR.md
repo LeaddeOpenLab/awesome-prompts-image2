@@ -557,13 +557,13 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 
 <a name="prompt-2097713691433070629"></a>
 
-### Traduction en cours
+### Demande à ChatGPT de dessiner un autoportrait avec une plaque signalétique indiquant son numéro de version.
 
 Auteur：[@Tz\_2022](https://x.com/Tz_2022) · [Publication originale](https://x.com/Tz_2022/status/2097713691433070629)
 
 Illustration · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Demande à ChatGPT de dessiner un autoportrait avec une plaque signalétique indiquant son numéro de version.
 
 <img src="images/2097713691433070629-1.jpg" alt="Image 1" width="480" />
 
@@ -572,7 +572,7 @@ Illustration · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Dessine un autoportrait de toi-même, avec une plaque signalétique, et sur la plaque signalétique figure ton numéro de version
 ```
 
 [↑ Retour aux catégories](#catalog)

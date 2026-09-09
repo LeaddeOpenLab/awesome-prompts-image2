@@ -567,13 +567,13 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 
 <a name="prompt-2097713691433070629"></a>
 
-### Tradução em curso
+### Pedido ao ChatGPT para desenhar um autorretrato com uma placa de identificação a indicar o seu número de versão.
 
 Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Publicação original](https://x.com/Tz_2022/status/2097713691433070629)
 
 Ilustração · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Pedido ao ChatGPT para desenhar um autorretrato com uma placa de identificação a indicar o seu número de versão.
 
 <img src="images/2097713691433070629-1.jpg" alt="Imagem 1" width="480" />
 
@@ -582,7 +582,7 @@ Ilustração · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Desenha um autorretrato de ti mesmo, com uma placa de identificação, e na placa de identificação deve constar o teu número de versão
 ```
 
 [↑ Voltar às categorias](#catalog)

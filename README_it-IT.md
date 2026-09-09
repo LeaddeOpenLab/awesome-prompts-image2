@@ -557,13 +557,13 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 <a name="prompt-2097713691433070629"></a>
 
-### Traduzione in corso
+### Richiesta a ChatGPT di disegnare un autoritratto con una targhetta indicante il suo numero di versione.
 
 Autore：[@Tz\_2022](https://x.com/Tz_2022) · [Post originale](https://x.com/Tz_2022/status/2097713691433070629)
 
 Illustrazione · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Richiesta a ChatGPT di disegnare un autoritratto con una targhetta indicante il suo numero di versione.
 
 <img src="images/2097713691433070629-1.jpg" alt="Immagine 1" width="480" />
 
@@ -572,7 +572,7 @@ Illustrazione · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Disegna un autoritratto di te stesso, con una targhetta, e sulla targhetta deve esserci il tuo numero di versione
 ```
 
 [↑ Torna alle categorie](#catalog)

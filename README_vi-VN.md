@@ -579,13 +579,13 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 <a name="prompt-2097713691433070629"></a>
 
-### Đang dịch
+### Yêu cầu ChatGPT vẽ một bức chân dung tự họa có bảng tên ghi số phiên bản.
 
 Tác giả：[@Tz\_2022](https://x.com/Tz_2022) · [Bài gốc](https://x.com/Tz_2022/status/2097713691433070629)
 
 Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Yêu cầu ChatGPT vẽ một bức chân dung tự họa có bảng tên ghi số phiên bản.
 
 <img src="images/2097713691433070629-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -594,7 +594,7 @@ Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy vẽ một bức chân dung tự họa của chính bạn, có bảng tên và trên bảng tên có số phiên bản của bạn
 ```
 
 [↑ Về danh mục](#catalog)

@@ -557,13 +557,13 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 <a name="prompt-2097713691433070629"></a>
 
-### Übersetzung läuft
+### ChatGPT auffordern, ein Selbstporträt mit einem Typenschild zu zeichnen, das seine Versionsnummer angibt.
 
 Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Originalbeitrag](https://x.com/Tz_2022/status/2097713691433070629)
 
 Illustration · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** ChatGPT auffordern, ein Selbstporträt mit einem Typenschild zu zeichnen, das seine Versionsnummer angibt.
 
 <img src="images/2097713691433070629-1.jpg" alt="Bild 1" width="480" />
 
@@ -572,7 +572,7 @@ Illustration · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zeichne ein Selbstporträt von dir selbst, mit einem Namensschild, und auf dem Namensschild soll deine Versionsnummer stehen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
