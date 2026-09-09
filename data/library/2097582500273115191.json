@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:22:07.648Z",
+  "model": "image2.5",
+  "prompt": "Pose lock → 成人東方女性 → 大面積乾淨露背 → 頸部繫薄紗披風 → 榴紅金繡服飾 → 夜間宮廷廊道 → 暖燈逆光 → 皮膚低噪點約束 → 全身不裁腳 → negative constraints。",
+  "promptTranslations": {
+    "en": "Pose lock → adult East Asian woman → large area clean open back → sheer tulle cape tied at the neck → pomegranate red and gold embroidered attire → nighttime palace corridor → warm backlighting → low-noise skin constraint → full body without cropping feet → negative constraints."
+  },
+  "summaryTranslations": {
+    "en": "Full-body backlit portrait of an East Asian woman in an open-back pomegranate red and gold embroidered outfit with a sheer cape in a nighttime palace corridor."
+  },
+  "translationVersion": 2,
+  "summary": "穿著榴紅金繡露背裝與薄紗披風的東方女性在夜間宮廷廊道中的全身逆光肖像。",
+  "summaryEn": "Full-body backlit portrait of an East Asian woman in an open-back red and gold embroidered outfit with a sheer cape in a night palace corridor.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097582500273115191",
+    "canonicalUrl": "https://x.com/ky6001481673691/status/2097582500273115191",
+    "author": {
+      "username": "ky6001481673691",
+      "displayName": "ky",
+      "profileUrl": "https://x.com/ky6001481673691"
+    },
+    "publishedAt": "2026-09-09T07:06:53.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "zh",
+    "originalText": "GPT image2.5\nPose lock → 成人東方女性 → 大面積乾淨露背 → 頸部繫薄紗披風 → 榴紅金繡服飾 → 夜間宮廷廊道 → 暖燈逆光 → 皮膚低噪點約束 → 全身不裁腳 → negative constraints。 https://t.co/sdlV4QFQtf",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwb9UHaUAA3RHA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwb9UHaUAA3RHA.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 37
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ky6001481673691/status/2097582500273115191",
+  "coverUrl": "https://pbs.twimg.com/media/HRwb9UHaUAA3RHA.jpg",
+  "coverPath": "images/2097582500273115191-1.jpg",
+  "imagePaths": [
+    "images/2097582500273115191-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRwb9UHaUAA3RHA",
+    "x-post:2097582500273115191"
+  ],
+  "analysis": {
+    "summary": "穿著榴紅金繡露背裝與薄紗披風的東方女性在夜間宮廷廊道中的全身逆光肖像。",
+    "summaryEn": "Full-body backlit portrait of an East Asian woman in an open-back red and gold embroidered outfit with a sheer cape in a night palace corridor.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "圖像完整體現了提示詞中的成人東方女性、露背裝、頸部薄紗披風、榴紅金繡、宮廷夜景暖光逆光及全身未裁腳的構圖。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Pose lock → 成人東方女性 → 大面積乾淨露背 → 頸部繫薄紗披風 → 榴紅金繡服飾 → 夜間宮廷廊道 → 暖燈逆光 → 皮膚低噪點約束 → 全身不裁腳 → negative constraints。",
+    "sourceRange": {
+      "start": 13,
+      "end": 118
+    },
+    "translations": {
+      "zh": "姿態固定 → 成年東方女性 → 大面積露背 → 頸部薄紗披風 → 榴紅金繡服飾 → 夜間宮殿廊道 → 暖光逆光 → 皮膚低噪點 → 全身完整不切腳 → 負向提示約束。",
+      "en": "Pose lock → adult East Asian female → open back → sheer cape tied at neck → pomegranate red and gold embroidered attire → nighttime palace corridor → warm backlighting → low skin noise constraint → full body without cropped feet → negative constraints."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "character-design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "suggestive_content"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
