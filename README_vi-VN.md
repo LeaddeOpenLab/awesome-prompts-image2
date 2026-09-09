@@ -535,13 +535,13 @@ Bài gốc：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Bài gốc](https://x
 
 <a name="prompt-2097284686448046135"></a>
 
-### Đang dịch
+### Lời nhắc để tạo các bản phác thảo nhật ký du lịch kiến trúc vẽ tay tối giản trên giấy màu ngà.
 
 Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Phác Thảo / Nét Vẽ · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để tạo các bản phác thảo nhật ký du lịch kiến trúc vẽ tay tối giản trên giấy màu ngà.
 
 <img src="images/2097284686448046135-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -554,7 +554,7 @@ Phác Thảo / Nét Vẽ · Kiến trúc / Nội thất · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một tác phẩm nghệ thuật kiến trúc vẽ tay tối giản về [STRUCTURE] trên nền giấy màu ngà ấm áp. Thể hiện công trình dưới dạng một bản phác thảo bằng mực đơn giản, trang nhã với những nét vẽ gọn gàng nhưng không hoàn hảo, hiệu ứng đánh bóng bằng bút chì tinh tế, những dòng chú thích nhỏ viết tay và một vài chi tiết kiến trúc thanh thoát. Giữ bố cục thoáng đãng với nhiều khoảng trắng, tông màu đất dịu nhẹ, kết cấu giấy mềm mại và cảm giác nhật ký du lịch thủ công chân thực. Không dùng phong cách tả thực như ảnh chụp, không chi tiết nặng nề, không lộn xộn — đơn giản, nghệ thuật và tinh tế.
 ```
 
 [↑ Về danh mục](#catalog)
