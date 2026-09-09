@@ -535,13 +535,13 @@ Traducción en curso
 
 <a name="prompt-2097284686448046135"></a>
 
-### Traducción en curso
+### Prompt para generar bocetos arquitectónicos minimalistas dibujados a mano de diario de viaje sobre papel marfil.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Boceto / Arte lineal · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar bocetos arquitectónicos minimalistas dibujados a mano de diario de viaje sobre papel marfil.
 
 <img src="images/2097284686448046135-1.jpg" alt="Imagen 1" width="480" />
 
@@ -554,7 +554,7 @@ Boceto / Arte lineal · Arquitectura / Interiores · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una obra arquitectónica minimalista dibujada a mano de [STRUCTURE] sobre papel marfil cálido. Muestra la estructura como un boceto en tinta simple y elegante con líneas limpias e imperfectas, sombreado sutil a lápiz, pequeñas anotaciones manuscritas y algunos delicados detalles arquitectónicos. Mantén la composición aireada con abundante espacio en blanco, tonos tierra apagados, suave textura de papel y una auténtica sensación artesanal de diario de viaje. Sin fotorrealismo, sin detalles pesados, sin saturación: simple, artístico y refinado.
 ```
 
 [↑ Volver a categorías](#catalog)

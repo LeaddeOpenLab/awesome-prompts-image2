@@ -535,13 +535,13 @@ Traduzione in corso
 
 <a name="prompt-2097284686448046135"></a>
 
-### Traduzione in corso
+### Prompt per generare schizzi architettonici minimalisti disegnati a mano per diari di viaggio su carta avorio.
 
 Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Schizzo / Line Art · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generare schizzi architettonici minimalisti disegnati a mano per diari di viaggio su carta avorio.
 
 <img src="images/2097284686448046135-1.jpg" alt="Immagine 1" width="480" />
 
@@ -554,7 +554,7 @@ Schizzo / Line Art · Architettura / Interni · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'opera d'arte architettonica minimalista disegnata a mano di [STRUCTURE] su carta avorio calda. Mostra la struttura come un semplice ed elegante schizzo a inchiostro con linee pulite ma imperfette, sottili ombreggiature a matita, minuscole annotazioni manoscritte e alcuni delicati dettagli architettonici. Mantieni la composizione ariosa con abbondante spazio vuoto, toni della terra tenui, una morbida texture della carta e un'autentica atmosfera da diario di viaggio fatto a mano. Niente fotorealismo, niente dettagli pesanti, nessun disordine: semplice, artistico e raffinato.
 ```
 
 [↑ Torna alle categorie](#catalog)

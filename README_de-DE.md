@@ -535,13 +535,13 @@ Originalbeitrag：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Originalbeitrag]
 
 <a name="prompt-2097284686448046135"></a>
 
-### Übersetzung läuft
+### Prompt zum Generieren minimalistischer, handgezeichneter Reisetagebuch-Architekturskizzen auf elfenbeinfarbenem Papier.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Skizze / Strichzeichnung · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Generieren minimalistischer, handgezeichneter Reisetagebuch-Architekturskizzen auf elfenbeinfarbenem Papier.
 
 <img src="images/2097284686448046135-1.jpg" alt="Bild 1" width="480" />
 
@@ -554,7 +554,7 @@ Skizze / Strichzeichnung · Architektur / Interieur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein minimalistisches, handgezeichnetes architektonisches Kunstwerk von [STRUCTURE] auf warmem elfenbeinfarbenem Papier. Stelle die Struktur als einfache, elegante Tuschskizze mit sauberen, unvollkommenen Linien, subtilen Bleistiftschattierungen, winzigen handschriftlichen Anmerkungen und einigen zarten architektonischen Details dar. Halte die Komposition luftig mit viel Weißraum, gedämpften Erdtönen, weicher Papiertextur und dem authentischen, handgemachten Gefühl eines Reisetagebuchs. Kein Fotorealismus, keine schweren Details, keine Unordnung – einfach, künstlerisch und raffiniert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

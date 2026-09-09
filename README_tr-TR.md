@@ -545,13 +545,13 @@ Orijinal gönderi：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Orijinal gönd
 
 <a name="prompt-2097284686448046135"></a>
 
-### Çeviri sürüyor
+### Fildişi kağıt üzerine seyahat günlüğü tarzında minimal el çizimi mimari eskizler oluşturmak için prompt.
 
 Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Çizim / Çizgi Sanatı · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fildişi kağıt üzerine seyahat günlüğü tarzında minimal el çizimi mimari eskizler oluşturmak için prompt.
 
 <img src="images/2097284686448046135-1.jpg" alt="Görsel 1" width="480" />
 
@@ -564,7 +564,7 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sıcak fildişi kağıt üzerine [STRUCTURE] yapısının minimal, el çizimi bir mimari sanat eserini oluşturun. Yapıyı; temiz ama kusurlu çizgiler, hafif kurşun kalem gölgelendirmeleri, minik el yazısı notlar ve birkaç zarif mimari detay içeren sade ve şık bir mürekkep çizimi olarak gösterin. Bolca boş alan, hafif toprak tonları, yumuşak kağıt dokusu ve özgün el yapımı bir seyahat günlüğü hissi ile kompozisyonu ferah tutun. Fotorealizm yok, ağır detaylar yok, karmaşa yok — sade, sanatsal ve zarif.
 ```
 
 [↑ Kategorilere dön](#catalog)

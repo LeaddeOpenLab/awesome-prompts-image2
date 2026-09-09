@@ -535,13 +535,13 @@ Traduction en cours
 
 <a name="prompt-2097284686448046135"></a>
 
-### Traduction en cours
+### Prompt pour générer des croquis d'architecture minimalistes dessinés à la main façon carnet de voyage sur papier ivoire.
 
 Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Croquis / Dessin au trait · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer des croquis d'architecture minimalistes dessinés à la main façon carnet de voyage sur papier ivoire.
 
 <img src="images/2097284686448046135-1.jpg" alt="Image 1" width="480" />
 
@@ -554,7 +554,7 @@ Croquis / Dessin au trait · Architecture / Intérieur · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une œuvre d'art architecturale minimaliste dessinée à la main de [STRUCTURE] sur du papier ivoire chaud. Montrez la structure sous la forme d'un croquis à l'encre simple et élégant avec des lignes épurées et imparfaites, de subtils ombrages au crayon, de minuscules annotations manuscrites et quelques détails architecturaux délicats. Gardez la composition aérée avec beaucoup d'espace vide, des tons terreux doux, une texture de papier délicate et une sensation authentique de carnet de voyage fait main. Pas de photoréalisme, pas de détails lourds, pas d'encombrement — simple, artistique et raffiné.
 ```
 
 [↑ Retour aux catégories](#catalog)

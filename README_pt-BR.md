@@ -545,13 +545,13 @@ Tradução em andamento
 
 <a name="prompt-2097284686448046135"></a>
 
-### Tradução em andamento
+### Prompt para gerar esboços arquitetônicos minimalistas desenhados à mão em estilo diário de viagem em papel marfim.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Esboço / Arte Linear · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para gerar esboços arquitetônicos minimalistas desenhados à mão em estilo diário de viagem em papel marfim.
 
 <img src="images/2097284686448046135-1.jpg" alt="Imagem 1" width="480" />
 
@@ -564,7 +564,7 @@ Esboço / Arte Linear · Arquitetura / Interiores · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma obra de arte arquitetônica minimalista desenhada à mão de [STRUCTURE] em papel marfim quente. Mostre a estrutura como um esboço a tinta simples e elegante, com linhas limpas e imperfeitas, sombreamento sutil a lápis, pequenas anotações manuscritas e alguns detalhes arquitetônicos delicados. Mantenha a composição arejada com bastante espaço em branco, tons terrosos suaves, textura macia de papel e uma sensação autêntica e artesanal de diário de viagem. Sem fotorrealismo, sem detalhes pesados, sem excessos — simples, artístico e refinado.
 ```
 
 [↑ Voltar às categorias](#catalog)

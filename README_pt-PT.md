@@ -545,13 +545,13 @@ Tradução em curso
 
 <a name="prompt-2097284686448046135"></a>
 
-### Tradução em curso
+### Prompt para gerar esboços arquitetónicos minimalistas desenhados à mão de diário de viagem em papel marfim.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097284686448046135)
 
 Esboço / Arte Linear · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para gerar esboços arquitetónicos minimalistas desenhados à mão de diário de viagem em papel marfim.
 
 <img src="images/2097284686448046135-1.jpg" alt="Imagem 1" width="480" />
 
@@ -564,7 +564,7 @@ Esboço / Arte Linear · Arquitetura / Interiores · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma obra de arte arquitetónica minimalista desenhada à mão de [STRUCTURE] em papel marfim quente. Apresente a estrutura como um esboço a tinta simples e elegante, com linhas limpas e imperfeitas, sombreado subtil a lápis, pequenas anotações manuscritas e alguns detalhes arquitetónicos delicados. Mantenha a composição airosa com bastante espaço em branco, tons de terra suaves, textura macia de papel e uma sensação autêntica e artesanal de diário de viagem. Sem fotorrealismo, sem detalhes pesados, sem confusão — simples, artístico e refinado.
 ```
 
 [↑ Voltar às categorias](#catalog)
