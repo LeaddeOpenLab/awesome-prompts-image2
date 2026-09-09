@@ -12,7 +12,14 @@
     "th-TH": "ห้ามใช้ทักษะ สร้างสไปรต์ชีตหนึ่งภาพ\\nภาพนี้ประกอบด้วยกระบวนการยิงธนูของก็อบลินเพศชายในสไตล์พิกเซลอาร์ต\\nรวมทั้งหมด 16 เฟรม\\nจากนั้นตัดแบ่งภาพนี้และทำเป็น GIF ที่วนซ้ำตลอดเวลา",
     "vi-VN": "Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\\nHình ảnh này bao gồm quá trình một yêu tinh goblin nam phong cách pixel art giương cung và bắn tên\\nTổng cộng 16 khung hình.\\nSau đó cắt tấm hình này và tạo thành ảnh GIF lặp vô tận",
     "hi-IN": "कौशल (skills) का उपयोग न करें, एक स्प्राइट शीट बनाएं\\nइस छवि में पिक्सेल आर्ट शैली के एक पुरुष गॉब्लिन द्वारा धनुष खींचकर तीर चलाने की प्रक्रिया शामिल है\\nकुल 16 फ्रेम।\\nफिर इस छवि को काटें और एक अनंत लूप वाली GIF बनाएं",
-    "es-ES": "No utilices habilidades, crea una hoja de sprites\\nEsta imagen contiene el proceso de un goblin masculino en estilo pixel art tensando un arco y disparando una flecha\\nEn total 16 fotogramas.\\nLuego corta la imagen y crea un gif en bucle infinito"
+    "es-ES": "No utilices habilidades, crea una hoja de sprites\\nEsta imagen contiene el proceso de un goblin masculino en estilo pixel art tensando un arco y disparando una flecha\\nEn total 16 fotogramas.\\nLuego corta la imagen y crea un gif en bucle infinito",
+    "es-419": "No uses habilidades, crea una hoja de sprites\nEsta imagen contiene el proceso de un duende masculino en estilo pixel art tensando un arco y disparando una flecha\nEn total 16 fotogramas.\nLuego corta esta imagen y conviértela en un gif en bucle infinito",
+    "de-DE": "Verwende keine Fähigkeiten, erstelle ein Sprite-Sheet\nDieses Bild enthält den Ablauf, wie ein männlicher Goblin im Pixel-Art-Stil einen Bogen spannt und einen Pfeil abschießt\nInsgesamt 16 Frames.\nSchneide dieses Bild anschließend aus und erstelle daraus ein Endlos-GIF",
+    "fr-FR": "N'utilise pas de compétences, crée une feuille de sprites\nCette image contient le processus d'un gobelin masculin en pixel art bandant un arc et tirant une flèche\nUn total de 16 images.\nPuis découpe cette image et fais-en un gif en boucle infinie",
+    "it-IT": "Non usare abilità, crea uno sprite sheet\nQuesta immagine include il processo di un goblin maschio in pixel art che tende un arco e scocca una freccia\nIn totale 16 fotogrammi.\nPoi ritaglia l'immagine e crea una gif a ciclo continuo",
+    "pt-BR": "Não use habilidades, crie uma folha de sprites\nEsta imagem contém o processo de um goblin masculino em estilo pixel art puxando um arco e disparando uma flecha\nTotal de 16 quadros.\nEm seguida, fatie a imagem e crie um gif em loop contínuo",
+    "pt-PT": "Não use habilidades, crie uma folha de sprites\nEsta imagem contém o processo de um goblin masculino em estilo pixel art a puxar um arco e a disparar uma flecha\nTotal de 16 fotogramas.\nEm seguida, corte a imagem e crie um gif em loop contínuo",
+    "tr-TR": "Yetenekleri kullanma, bir sprite sayfası oluştur\nBu görsel, piksel sanatı tarzında erkek bir goblinin yay çekip ok atma sürecini içerir\nToplam 16 kare.\nArdından bu görseli dilimle ve sonsuz döngülü bir gif haline getir"
   },
   "summaryTranslations": {
     "en": "Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow.",
@@ -23,7 +30,14 @@
     "th-TH": "คำสั่งสร้างภาพเคลื่อนไหวลูปสไปรต์ชีต 16 เฟรม ของก็อบลินเพศชายสไตล์พิกเซลอาร์ตกำลังน้าวคันศรและยิงธนู",
     "vi-VN": "Lệnh tạo vòng lặp hoạt ảnh sprite sheet 16 khung hình về một yêu tinh goblin nam phong cách pixel art giương cung bắn tên.",
     "hi-IN": "पिक्सेल आर्ट पुरुष गॉब्लिन के धनुष खींचकर तीर चलाने वाले 16-फ्रेम स्प्राइट शीट एनिमेशन लूप जनरेशन निर्देश।",
-    "es-ES": "Instrucción para generar un bucle de animación en hoja de sprites de 16 fotogramas de un goblin masculino de estilo pixel art tensando un arco y disparando."
+    "es-ES": "Instrucción para generar un bucle de animación en hoja de sprites de 16 fotogramas de un goblin masculino de estilo pixel art tensando un arco y disparando.",
+    "es-419": "Instrucción de bucle de animación de hoja de sprites de 16 fotogramas de un duende masculino en pixel art disparando un arco.",
+    "de-DE": "Anweisung für eine 16-Frame-Sprite-Sheet-Animationsschleife eines männlichen Goblins im Pixel-Art-Stil, der mit einem Bogen schießt.",
+    "fr-FR": "Instruction pour une boucle d'animation sur feuille de sprites de 16 images d'un gobelin mâle en pixel art tirant à l'arc.",
+    "it-IT": "Istruzioni per un ciclo di animazione sprite sheet a 16 fotogrammi di un goblin maschio in pixel art che scocca una freccia con l'arco.",
+    "pt-BR": "Instrução de loop de animação de folha de sprites de 16 quadros de um goblin masculino em pixel art disparando um arco.",
+    "pt-PT": "Instrução de loop de animação de folha de sprites de 16 fotogramas de um goblin masculino em pixel art a disparar um arco.",
+    "tr-TR": "Piksel sanatı erkek goblinin yay çekip ok atmasını gösteren 16 karelik sprite sayfası animasyon döngüsü talimatı."
   },
   "translationVersion": 2,
   "summary": "生成像素风男性哥布林拉弓射箭的16帧精灵图动画循环指令。",
