@@ -12,7 +12,14 @@
     "th-TH": "ภาพถ่ายที่โล่งในป่าที่มีใบไม้สีเขียวจำนวนมาก รายละเอียดสูงมาก",
     "vi-VN": "Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết",
     "hi-IN": "जंगल में एक खुले स्थान की तस्वीर जिसमें ढेर सारे हरे-भरे पत्ते हैं, अत्यधिक विस्तृत",
-    "es-ES": "Foto de un claro en el bosque con abundante follaje verde, altamente detallada"
+    "es-ES": "Foto de un claro en el bosque con abundante follaje verde, altamente detallada",
+    "es-419": "Foto de un claro en el bosque con mucho follaje verde, muy detallada",
+    "de-DE": "Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert",
+    "fr-FR": "Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée",
+    "it-IT": "Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata",
+    "pt-BR": "Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada",
+    "pt-PT": "Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada",
+    "tr-TR": "Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı"
   },
   "summaryTranslations": {
     "en": "High-definition landscape photo prompt of a forest clearing with dense green foliage.",
@@ -23,7 +30,14 @@
     "th-TH": "คำสั่งพร้อมท์ภาพถ่ายทิวทัศน์ความละเอียดสูงของที่โล่งในป่าพร้อมพืชพรรณสีเขียวชอุ่ม",
     "vi-VN": "Lời nhắc ảnh phong cảnh độ nét cao về một khoảng rừng trống với thảm thực vật xanh tươi tốt.",
     "hi-IN": "हरे-भरे घने पेड़-पौधों के साथ जंगल के खुले मैदान की उच्च-रिज़ॉल्यूशन लैंडस्केप फ़ोटो का प्रॉम्प्ट।",
-    "es-ES": "Prompt de foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde."
+    "es-ES": "Prompt de foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde.",
+    "es-419": "Prompt para foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde.",
+    "de-DE": "Prompt für ein hochauflösendes Landschaftsfoto einer Waldlichtung mit üppiger grüner Vegetation.",
+    "fr-FR": "Prompt pour une photo de paysage haute définition d'une clairière dans les bois avec une végétation verte luxuriante.",
+    "it-IT": "Prompt per una foto di paesaggio ad alta definizione di una radura nei boschi con fitta vegetazione verde.",
+    "pt-BR": "Prompt de foto de paisagem em alta definição de uma clareira na floresta com densa vegetação verde.",
+    "pt-PT": "Prompt de fotografia de paisagem em alta definição de uma clareira na floresta com densa vegetação verde.",
+    "tr-TR": "Gür yeşil bitki örtüsüne sahip bir orman açıklığının yüksek çözünürlüklü manzara fotoğrafı istemi."
   },
   "translationVersion": 2,
   "summary": "树林空地与茂密绿色植被的高清风景照片提示词。",
