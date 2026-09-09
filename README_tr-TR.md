@@ -794,13 +794,13 @@ Lütfen erkek ana karakterin birinci şahıs bakış açısından sunulan, kurgu
 
 <a name="prompt-2097704623952035841"></a>
 
-### Çeviri sürüyor
+### Belirli şehirleri ve simge yapıları vurgulayan ülkelerin 3D minyatür koleksiyonluk hatıra haritalarını oluşturmak için prompt şablonu.
 
 Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Belirli şehirleri ve simge yapıları vurgulayan ülkelerin 3D minyatür koleksiyonluk hatıra haritalarını oluşturmak için prompt şablonu.
 
 <img src="images/2097704623952035841-1.jpg" alt="Görsel 1" width="480" />
 
@@ -811,7 +811,7 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ulusal sınırları net bir şekilde belirlenmiş ve doğru şekillendirilmiş [COUNTRY]'nin büyüleyici bir 3D minyatür haritasını oluşturun. [CITY] üzerine tam olarak büyük, zarif bir konum iğnesi yerleştirin ve iğne konumunda haritadan yükselen [ICONIC LANDMARK] bulunsun. Ülke içine minik yollar, dağlar, nehirler, binalar, ağaçlar ve ince kültürel detaylar ekleyin. Haritayı hafifçe kabartmalı ve heykelsi yapın; katmanlı arazi, yumuşak gölgeler, yuvarlatılmış kenarlar ve el yapımı minyatür dokular içersin. [COUNTRY]'den ilham alan rafine bir renk paleti, sıcak fildişi arka plan, yumuşak stüdyo aydınlatması ve temiz birinci sınıf bir kompozisyon kullanın. Zarif bir metin ekleyin: “[CITY]” ve altına “[COUNTRY] • [FAMOUS FOR]”. Sevimli, sofistike, son derece tanınabilir, koleksiyonluk 3D seyahat hatırası estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

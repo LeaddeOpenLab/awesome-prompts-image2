@@ -784,13 +784,13 @@ Por favor, captura una captura de pantalla realista de un juego de rol romántic
 
 <a name="prompt-2097704623952035841"></a>
 
-### Traducción en curso
+### Plantilla de prompt para generar mapas de recuerdo coleccionables en miniatura 3D de países que destacan ciudades y monumentos específicos.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para generar mapas de recuerdo coleccionables en miniatura 3D de países que destacan ciudades y monumentos específicos.
 
 <img src="images/2097704623952035841-1.jpg" alt="Imagen 1" width="480" />
 
@@ -801,7 +801,7 @@ Renderizado 3D · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionales claramente delimitadas y de forma precisa. Coloca un pin de ubicación grande y elegante exactamente en [CITY], con [ICONIC LANDMARK] elevándose desde el mapa en la ubicación del pin. Agrega diminutas carreteras, montañas, ríos, edificios, árboles y sutiles detalles culturales dentro del país. Haz que el mapa esté ligeramente en relieve y tenga aspecto escultural, con terreno en capas, sombras suaves, bordes redondeados y texturas de miniatura artesanal. Utiliza una paleta refinada inspirada en [COUNTRY], fondo marfil cálido, iluminación suave de estudio y una composición limpia y prémium. Agrega un texto elegante: “[CITY]” y debajo “[COUNTRY] • [FAMOUS FOR]”. Estética de recuerdo de viaje en 3D coleccionable, linda, sofisticada y altamente reconocible.
 ```
 
 [↑ Volver a categorías](#catalog)

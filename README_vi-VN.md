@@ -811,13 +811,13 @@ Vui lòng chụp một ảnh màn hình chân thực từ một tựa game RPG l
 
 <a name="prompt-2097704623952035841"></a>
 
-### Đang dịch
+### Mẫu prompt để tạo bản đồ quà lưu niệm thu nhỏ 3D có thể sưu tầm của các quốc gia làm nổi bật các thành phố và địa danh cụ thể.
 
 Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt để tạo bản đồ quà lưu niệm thu nhỏ 3D có thể sưu tầm của các quốc gia làm nổi bật các thành phố và địa danh cụ thể.
 
 <img src="images/2097704623952035841-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -828,7 +828,7 @@ Kết xuất 3D · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bản đồ thu nhỏ 3D quyến rũ của [COUNTRY] với đường biên giới quốc gia được phác thảo rõ ràng và có hình dáng chính xác. Đặt một chiếc ghim định vị lớn thanh lịch chính xác tại [CITY], với [ICONIC LANDMARK] mọc lên từ bản đồ ngay tại vị trí ghim. Thêm các con đường nhỏ, núi non, sông ngòi, tòa nhà, cây cối và các chi tiết văn hóa tinh tế bên trong đất nước. Làm cho bản đồ hơi nổi lên như một tác phẩm điêu khắc, với địa hình phân tầng, bóng đổ mềm mại, các cạnh bo tròn và kết cấu thủ công thu nhỏ. Sử dụng bảng màu tinh tế lấy cảm hứng từ [COUNTRY], nền màu ngà ấm áp, ánh sáng studio dịu nhẹ, bố cục cao cấp gọn gàng. Thêm dòng chữ thanh lịch: “[CITY]” và bên dưới là “[COUNTRY] • [FAMOUS FOR]”. Dễ thương, tinh tế, dễ nhận diện, mang tính thẩm mỹ của món quà lưu niệm du lịch 3D có thể sưu tập.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -784,13 +784,13 @@ Cattura uno screenshot realistico di un fittizio gioco di ruolo romantico open-w
 
 <a name="prompt-2097704623952035841"></a>
 
-### Traduzione in corso
+### Modello di prompt per generare mappe souvenir 3D in miniatura collezionabili di paesi che evidenziano città e monumenti specifici.
 
 Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per generare mappe souvenir 3D in miniatura collezionabili di paesi che evidenziano città e monumenti specifici.
 
 <img src="images/2097704623952035841-1.jpg" alt="Immagine 1" width="480" />
 
@@ -801,7 +801,7 @@ Rendering 3D · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'affascinante mappa in miniatura 3D di [COUNTRY] con i confini nazionali chiaramente delineati e dalla forma precisa. Posiziona una puntina di localizzazione grande ed elegante esattamente su [CITY], con [ICONIC LANDMARK] che si erge dalla mappa nella posizione della puntina. Aggiungi minuscole strade, montagne, fiumi, edifici, alberi e sottili dettagli culturali all'interno del paese. Rendi la mappa leggermente in rilievo e scultorea, con terreno a strati, ombre morbide, bordi arrotondati e texture da miniatura artigianale. Usa una palette raffinata ispirata a [COUNTRY], uno sfondo avorio caldo, un'illuminazione morbida da studio e una composizione pulita e di alta qualità. Aggiungi un testo elegante: “[CITY]” e sotto “[COUNTRY] • [FAMOUS FOR]”. Estetica da souvenir di viaggio 3D da collezione, carina, sofisticata e altamente riconoscibile.
 ```
 
 [↑ Torna alle categorie](#catalog)

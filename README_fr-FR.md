@@ -784,13 +784,13 @@ Veuillez capturer une capture d'écran réaliste d'un RPG romantique fictif en 3
 
 <a name="prompt-2097704623952035841"></a>
 
-### Traduction en cours
+### Modèle de prompt pour générer des cartes souvenirs miniatures 3D de collection de pays mettant en valeur des villes et des monuments spécifiques.
 
 Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt pour générer des cartes souvenirs miniatures 3D de collection de pays mettant en valeur des villes et des monuments spécifiques.
 
 <img src="images/2097704623952035841-1.jpg" alt="Image 1" width="480" />
 
@@ -801,7 +801,7 @@ Rendu 3D · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une charmante carte miniature en 3D de [COUNTRY] avec les frontières nationales clairement délimitées et fidèlement formées. Placez une grande et élégante épingle de localisation exactement sur [CITY], avec [ICONIC LANDMARK] s'élevant de la carte à l'emplacement de l'épingle. Ajoutez de minuscules routes, montagnes, rivières, bâtiments, arbres et de subtils détails culturels à l'intérieur du pays. Rendez la carte légèrement en relief et sculpturale, avec un relief en couches, des ombres douces, des bords arrondis et des textures de miniature artisanale. Utilisez une palette raffinée inspirée de [COUNTRY], un fond ivoire chaleureux, un éclairage de studio doux, une composition épurée et haut de gamme. Ajoutez un texte élégant : « [CITY] » et en dessous « [COUNTRY] • [FAMOUS FOR] ». Esthétique de souvenir de voyage 3D de collection, mignonne, sophistiquée et hautement reconnaissable.
 ```
 
 [↑ Retour aux catégories](#catalog)

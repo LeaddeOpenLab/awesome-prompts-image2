@@ -784,13 +784,13 @@ Bitte erstelle einen realistischen Screenshot aus einem fiktiven 3D-Open-World-R
 
 <a name="prompt-2097704623952035841"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage zur Generierung sammelbarer 3D-Miniatur-Souvenirkarten von Ländern mit Hervorhebung bestimmter Städte und Sehenswürdigkeiten.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097704623952035841)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage zur Generierung sammelbarer 3D-Miniatur-Souvenirkarten von Ländern mit Hervorhebung bestimmter Städte und Sehenswürdigkeiten.
 
 <img src="images/2097704623952035841-1.jpg" alt="Bild 1" width="480" />
 
@@ -801,7 +801,7 @@ Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](htt
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine charmante 3D-Miniaturkarte von [COUNTRY] mit klar umrissenen und präzise geformten Landesgrenzen. Platziere eine große, elegante Stecknadel exakt auf [CITY], wobei sich [ICONIC LANDMARK] an der Position der Stecknadel von der Karte erhebt. Füge winzige Straßen, Berge, Flüsse, Gebäude, Bäume und subtile kulturelle Details innerhalb des Landes hinzu. Gestalte die Karte leicht erhaben und skulptural, mit geschichtetem Terrain, weichen Schatten, abgerundeten Kanten und handgefertigten Miniaturtexturen. Verwende eine raffinierte, von [COUNTRY] inspirierte Farbpalette, einen warmen elfenbeinfarbenen Hintergrund, sanfte Studiobeleuchtung und eine saubere Premium-Komposition. Füge eleganten Text hinzu: „[CITY]“ und darunter „[COUNTRY] • [FAMOUS FOR]“. Niedliche, raffinierte, hochgradig wiedererkennbare Ästhetik eines sammelbaren 3D-Reisesouvenirs.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
