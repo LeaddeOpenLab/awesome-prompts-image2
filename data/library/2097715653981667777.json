@@ -12,7 +12,14 @@
     "th-TH": "งดงามอ่อนหวานเปี่ยมอารมณ์; เงาดอกไม้สลัวเลือนราง; ม่านเงาบดบังครึ่งหนึ่ง; อึกอักอยากเผยคำพูดแต่กลับหยุดไว้; หญิงงามเอียงอาย; ความงามสะกดดั่งหงส์เหินฉีกกรอบ",
     "vi-VN": "Thanh nhã hữu tình; bóng hoa mờ ảo; bóng rèm nửa che nửa mở; muốn nói lại thôi; giai nhân e thẹn; vẻ đẹp kinh diễm phá cách",
     "hi-IN": "सुरुचिपूर्ण और भावपूर्ण; फूलों की धुंधली छाया; परदे की छांव में आधा छिपना; बोलते-बोलते रुक जाना; शर्माती हुई सुंदरी; सीमाओं को तोड़ती विस्मयकारी सुंदरता",
-    "es-ES": "Elegante y llena de sentimiento; sombras de flores borrosas; sombras de cortinas que intentan ocultar; queriendo hablar pero conteniéndose; hermosa mujer tímida; gracia deslumbrante que rompe esquemas"
+    "es-ES": "Elegante y llena de sentimiento; sombras de flores borrosas; sombras de cortinas que intentan ocultar; queriendo hablar pero conteniéndose; hermosa mujer tímida; gracia deslumbrante que rompe esquemas",
+    "es-419": "Elegancia pura y llena de afecto; sombras florales brumosas; sombra de cortina que apenas oculta; a punto de hablar y callando; hermosa dama tímida; gracia deslumbrante que rompe esquemas",
+    "de-DE": "Reine Eleganz voller Zärtlichkeit; verschwommene Blumenschatten; Vorhangschatten, die halb verhüllen; sprechen wollen und doch schweigen; schüchterne schöne Dame; atemberaubende Anmut, die Konventionen bricht",
+    "fr-FR": "Pure élégance pleine d'émotion; ombres florales vaporeuses; ombre du rideau qui cherche à voiler; voulant parler mais retenant ses mots; belle femme timide; grâce saisissante qui brise les conventions",
+    "it-IT": "Pura eleganza ricca di sentimento; ombre floreali sfocate; l'ombra della tenda che quasi cela; vorrebbe parlare ma si trattiene; bella dama timida; grazia sbalorditiva che rompe gli schemi",
+    "pt-BR": "Elegância pura e cheia de afeto; sombras florais nebulosas; sombra da cortina que tenta ocultar; querendo falar e retendo as palavras; bela dama tímida; graça deslumbrante que rompe padrões",
+    "pt-PT": "Elegância pura e cheia de afeto; sombras florais nebulosas; sombra do cortinado que tenta ocultar; querendo falar mas retendo as palavras; bela dama tímida; graça deslumbrante que rompe convenções",
+    "tr-TR": "Duru bir zarafet ve derin duygu; puslu çiçek gölgeleri; yarı gizleyen perde gölgeleri; konuşmak isteyip de susan; utangaç güzel hanım; kalıpları yıkan büyüleyici bir zarafet"
   },
   "summaryTranslations": {
     "en": "Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain.",
@@ -23,7 +30,14 @@
     "th-TH": "พรอมต์ภาพเหมือนหญิงสาวโบราณซ่อนกายเอียงอายอยู่หลังม่านครึ่งหนึ่ง",
     "vi-VN": "Từ khóa chân dung thục nữ cổ phong e ấp lấp ló sau rèm.",
     "hi-IN": "परदे के पीछे आधी छिपी शर्माती हुई प्राचीन शैली की महिला के चित्र का संकेत।",
-    "es-ES": "Prompt de retrato de una dama de estilo antiguo tímida y medio oculta tras una cortina."
+    "es-ES": "Prompt de retrato de una dama de estilo antiguo tímida y medio oculta tras una cortina.",
+    "es-419": "Prompt para retrato de dama antigua tímida semioculta tras una cortina.",
+    "de-DE": "Prompt für das Porträt einer schüchternen Hofdame im antiken Stil, halb hinter einem Vorhang verborgen.",
+    "fr-FR": "Prompt pour le portrait d'une dame élégante de style ancien, pudique et à demi cachée derrière un rideau.",
+    "it-IT": "Prompt per il ritratto di una timida dama in stile antico semi-nascosta dietro una tenda.",
+    "pt-BR": "Prompt de retrato de uma donzela de estilo antigo envergonhada e semioculta atrás de uma cortina.",
+    "pt-PT": "Prompt de retrato de uma dama de estilo antigo envergonhada e semioculta atrás de uma cortina.",
+    "tr-TR": "Perdenin arkasında yarı gizlenmiş, utangaç antik tarzda bir hanımefendi portresi istemi."
   },
   "translationVersion": 2,
   "summary": "古风仕女半掩帘后含羞肖像提示词。",
