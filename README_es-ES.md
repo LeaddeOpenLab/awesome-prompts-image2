@@ -176,20 +176,25 @@ Genera una imagen de vista previa integral que incluya diferentes acciones para 
 
 <a name="prompt-2097249218507461093"></a>
 
-### Traducción en curso
+### Retrato fotorealista de primer plano en interiores de una mujer asiática bajo la luz solar
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato fotorealista de primer plano en interiores de una mujer asiática bajo la luz solar
 
 <img src="images/2097249218507461093-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato fotorealista de primer plano en interiores de una mujer joven sentada cómodamente en una silla de ratán tejido cerca de una ventana luminosa. Tiene el cabello largo, castaño oscuro, naturalmente despeinado con reflejos castaños cálidos, raya casi al centro, con mechones sueltos que enmarcan suavemente y cubren parcialmente su rostro. Mira directamente a la cámara con una expresión tranquila y ligeramente soñadora, y unos labios naturales suavemente tintados.
+Una mano está levantada suavemente frente a su rostro, con las yemas de los dedos descansando delicadamente alrededor de sus labios y mejilla, creando una pose espontánea e íntima. Sus dedos son esbeltos y están colocados de forma natural. Viste una prenda superior simple de gran tamaño de color blanco roto/beige claro con textura de tela suave.
+Una fuerte y cálida luz solar entra a través de la ventana desde la parte superior lateral, creando hermosas sombras y luces a rayas a través de su cabello, frente, mejilla y ropa. La iluminación es natural, dorada y ligeramente sobreexpuesta en algunos puntos, lo que le da a la fotografía una atmósfera cálida y acogedora.
+Detrás de ella hay una gran silla blanca de ratán/tejido con detalles circulares curvos. En el fondo se ve una pared o panel de ventana verde oscuro con elegantes patrones botánicos/hojas blancas, junto con un marco vertical oscuro simple. El entorno se siente como un hogar o café moderno y acogedor.
+Composición: retrato vertical de primer plano, relación de aspecto aproximada de 4:5, cámara muy cerca del sujeto, el rostro ocupando la porción central derecha del encuadre, ángulo de cámara ligeramente bajo e íntimo, hombros y torso superior visibles, encuadre natural.
+Estilo de fotografía: fotografía selfie de teléfono inteligente ultrarrealista, estética suave de estilo de vida coreano/asiático, textura de piel natural, poros realistas, hebras de cabello individuales, imperfecciones sutiles, luz solar cálida, sombras auténticas, contraste suave, ligero grano de película, poca profundidad de campo, sensación espontánea sin posar, alto detalle, 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

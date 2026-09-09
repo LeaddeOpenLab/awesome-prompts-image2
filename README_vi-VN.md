@@ -176,20 +176,25 @@ Xuất ra một bức ảnh xem trước tổng hợp bao gồm các hành độ
 
 <a name="prompt-2097249218507461093"></a>
 
-### Đang dịch
+### Chân dung cận cảnh trong nhà chân thực như ảnh chụp của một người phụ nữ châu Á trong ánh nắng mặt trời
 
 Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung cận cảnh trong nhà chân thực như ảnh chụp của một người phụ nữ châu Á trong ánh nắng mặt trời
 
 <img src="images/2097249218507461093-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung cận cảnh trong nhà chân thực như ảnh chụp của một phụ nữ trẻ đang ngồi thoải mái trên chiếc ghế mây đan gần cửa sổ sáng sủa. Cô có mái tóc dài màu nâu sẫm đánh rối tự nhiên với những lọn highlight nâu ấm áp, rẽ ngôi gần giữa, với những lọn tóc buông lơi nhẹ nhàng ôm lấy và che phủ một phần khuôn mặt. Cô nhìn thẳng vào máy ảnh với biểu cảm điềm tĩnh, hơi mơ màng và đôi môi ửng màu nhẹ nhàng, tự nhiên.
+Một bàn tay giơ lên nhẹ nhàng trước mặt, với các đầu ngón tay đặt hờ hững quanh môi và má, tạo nên một tư thế tự nhiên, thân mật. Những ngón tay của cô thon thả và đặt ở vị trí tự nhiên. Cô mặc một chiếc áo ngoại cỡ đơn giản màu trắng ngà/be nhạt với chất liệu vải mềm mại.
+Ánh nắng ấm áp rực rỡ chiếu qua cửa sổ từ phía trên, tạo nên những vệt bóng và vệt sáng sọc đẹp mắt trên tóc, trán, má và quần áo của cô. Ánh sáng tự nhiên, vàng óng và hơi thừa sáng ở một số chỗ, mang lại cho bức ảnh một bầu không khí ấm cúng dễ chịu.
+Phía sau cô là một chiếc ghế mây/đan lớn màu trắng với các chi tiết hình tròn uốn lượn. Bức tường hoặc tấm cửa sổ màu xanh lá cây đậm với hoa văn thực vật/lá cây màu trắng thanh lịch có thể nhìn thấy ở hậu cảnh, cùng với một khung dọc màu tối đơn giản. Khung cảnh mang lại cảm giác như một ngôi nhà hoặc quán cà phê hiện đại ấm cúng.
+Bố cục: chân dung cận cảnh thẳng đứng, tỷ lệ khung hình khoảng 4:5, máy ảnh rất gần đối tượng, khuôn mặt chiếm phần giữa-phải của khung hình, góc máy hơi thấp và thân mật, nhìn thấy vai và thân trên, đóng khung tự nhiên.
+Phong cách nhiếp ảnh: ảnh selfie bằng điện thoại thông minh siêu thực, thẩm mỹ phong cách sống Hàn Quốc/Châu Á mềm mại, kết cấu da tự nhiên, lỗ chân lông chân thực, từng sợi tóc riêng biệt, khuyết điểm tinh tế, ánh nắng ấm áp, bóng đổ chân thực, độ tương phản nhẹ nhàng, hạt phim nhẹ, độ sâu trường ảnh nông, cảm giác tự nhiên không tạo dáng, độ chi tiết cao, 4K.
 ```
 
 [↑ Về danh mục](#catalog)
