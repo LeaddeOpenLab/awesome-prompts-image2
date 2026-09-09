@@ -810,7 +810,7 @@ Puis découpe cette image et fais-en un gif en boucle infinie
 
 <a name="prompt-2097637962137895058"></a>
 
-### Traduction en cours
+### Prompt pour transformer une photo en illustration de carnet de voyage rétro dessiné à la main aux crayons de couleur et à l'aquarelle
 
 Auteur：[@tataemugc](https://x.com/tataemugc) · [Publication originale](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -818,7 +818,7 @@ Illustration · Aquarelle · Rétro / Vintage · Publié
 
 Publication originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publication originale](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour transformer une photo en illustration de carnet de voyage rétro dessiné à la main aux crayons de couleur et à l'aquarelle
 
 <img src="images/2097637962137895058-1.jpg" alt="Image 1" width="480" />
 
@@ -831,7 +831,7 @@ Publication originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Pub
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez la photo en un style de carnet de voyage dessiné à la main aux crayons de couleur et à l'aquarelle. Conservez la composition originale, les bâtiments, les personnages, les arbres, la pelouse, la route et la perspective. Utilisez un papier vieilli beige chaud pour exprimer une sensation de fait main avec des coups de plume et des lavis d'aquarelle visibles. Simplifiez les bâtiments en formes expressives, en ajoutant des contours souples, des hachures croisées détaillées et des bords légèrement imparfaits. Conservez l'atmosphère d'une journée d'été ensoleillée, un ciel bleu doux, des bâtiments beige chaud, de l'herbe verte, ainsi que des personnages et des bancs détendus et dispersés. Utilisez des tons d'esquisse de voyage vintage estompés. Placez l'illustration dans la moitié inférieure de la page et laissez un large espace vierge beige en haut. Écrivez à la main '맑은 날씨' en haut et '— 소중한 순간 —' en bas. Adoptez un style de magazine d'art et de voyage nostalgique, comme un souvenir de carnet de croquis personnel, sans aucun aspect photographique.
 ```
 
 [↑ Retour aux catégories](#catalog)

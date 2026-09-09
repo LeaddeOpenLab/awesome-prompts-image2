@@ -810,7 +810,7 @@ Luego corta esta imagen y conviértela en un gif en bucle infinito
 
 <a name="prompt-2097637962137895058"></a>
 
-### Traducción en curso
+### Prompt para transformar una foto al estilo de ilustración de diario de viaje hecho a mano con lápices de colores y acuarela retro
 
 Autor：[@tataemugc](https://x.com/tataemugc) · [Publicación original](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -818,7 +818,7 @@ Ilustración · Acuarela · Retro / Vintage · Publicado
 
 Publicación original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publicación original](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para transformar una foto al estilo de ilustración de diario de viaje hecho a mano con lápices de colores y acuarela retro
 
 <img src="images/2097637962137895058-1.jpg" alt="Imagen 1" width="480" />
 
@@ -831,7 +831,7 @@ Publicación original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Pub
 **Prompt**
 
 ```text
-Traducción en curso
+Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices de colores y acuarela. Mantén la composición original, los edificios, las personas, los árboles, el pasto, el camino y la perspectiva intactos. Usa un papel envejecido de color beige cálido para dar una sensación de dibujo a mano donde se noten los trazos de pluma y el sangrado de la acuarela. Simplifica los edificios en formas expresivas, añadiendo contornos sueltos, tramas cruzadas detalladas y bordes ligeramente imperfectos. Conserva la atmósfera de un día claro de verano, un cielo azul suave, edificios de color beige cálido, pasto verde y personas y bancas dispersas y relajadas. Usa tonos de boceto de viaje vintage desteñido. Coloca la ilustración en la mitad inferior de la página y deja un amplio espacio beige en la parte superior. Escribe a mano en la parte superior '맑은 날씨' y en la parte inferior '— 소중한 순간 —'. Con un estilo de revista de viajes artística y nostálgica, como el recuerdo de un cuaderno de bocetos personal, sin ningún aspecto fotográfico.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -820,7 +820,7 @@ Em seguida, fatie a imagem e crie um gif em loop contínuo
 
 <a name="prompt-2097637962137895058"></a>
 
-### Tradução em andamento
+### Prompt para converter fotos em estilo de ilustração de diário de viagem retrô desenhado à mão com lápis de cor e aquarela
 
 Autor：[@tataemugc](https://x.com/tataemugc) · [Publicação original](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -828,7 +828,7 @@ Ilustração · Aquarela · Retrô / Vintage · Publicado
 
 Publicação original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publicação original](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para converter fotos em estilo de ilustração de diário de viagem retrô desenhado à mão com lápis de cor e aquarela
 
 <img src="images/2097637962137895058-1.jpg" alt="Imagem 1" width="480" />
 
@@ -841,7 +841,7 @@ Publicação original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Pub
 **Prompt**
 
 ```text
-Tradução em andamento
+Converta a foto para o estilo de um diário de viagem desenhado à mão com lápis de cor e aquarela. Mantenha a composição original, os edifícios, as pessoas, as árvores, o gramado, a estrada e a perspectiva intactos. Use um papel envelhecido bege quente para transmitir uma sensação artesanal com traços de caneta e manchas de aquarela visíveis. Simplifique os edifícios em formas expressivas, adicionando contornos soltos, hachuras cruzadas detalhadas e bordas ligeiramente imperfeitas. Mantenha a atmosfera de um dia claro de verão, céu azul suave, edifícios em bege quente, grama verde, além de pessoas e bancos dispersos e descontraídos. Use tons de esboço de viagem vintage desbotados. Posicione a ilustração na metade inferior da página e deixe uma ampla margem bege na parte superior. Escreva à mão '맑은 날씨' no topo e '— 소중한 순간 —' na parte inferior. Adote um estilo nostálgico de revista de viagens de arte, como uma lembrança de caderno de esboços pessoal, sem qualquer aspecto fotográfico.
 ```
 
 [↑ Voltar às categorias](#catalog)

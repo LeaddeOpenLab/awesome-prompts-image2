@@ -820,7 +820,7 @@ Em seguida, corte a imagem e crie um gif em loop contínuo
 
 <a name="prompt-2097637962137895058"></a>
 
-### Tradução em curso
+### Prompt para converter fotografias no estilo de ilustração de diário de viagem retro desenhado à mão com lápis de cor e aguarela
 
 Autor：[@tataemugc](https://x.com/tataemugc) · [Publicação original](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -828,7 +828,7 @@ Ilustração · Aquarela · Retrô / Vintage · Publicado
 
 Publicação original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publicação original](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para converter fotografias no estilo de ilustração de diário de viagem retro desenhado à mão com lápis de cor e aguarela
 
 <img src="images/2097637962137895058-1.jpg" alt="Imagem 1" width="480" />
 
@@ -841,7 +841,7 @@ Publicação original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Pub
 **Prompt**
 
 ```text
-Tradução em curso
+Converta a fotografia para o estilo de um diário de viagem desenhado à mão com lápis de cor e aguarela. Mantenha a composição original, os edifícios, as pessoas, as árvores, o relvado, a estrada e a perspetiva inalterados. Utilize um papel envelhecido bege quente para transmitir uma sensação artesanal com traços de caneta e manchas de aguarela visíveis. Simplifique os edifícios em formas expressivas, adicionando contornos soltos, tracejados cruzados detalhados e rebordos ligeiramente imperfeitos. Mantenha a atmosfera de um dia claro de verão, céu azul suave, edifícios em bege quente, relva verde, além de pessoas e bancos dispersos e descontraídos. Utilize tons de esboço de viagem vintage desvanecidos. Posicione a ilustração na metade inferior da página e deixe uma margem ampla bege na parte superior. Escreva à mão '맑은 날씨' no topo e '— 소중한 순간 —' na parte inferior. Adote um estilo nostálgico de revista de viagens artística, como uma memória de caderno de esboços pessoal, sem qualquer aspeto fotográfico.
 ```
 
 [↑ Voltar às categorias](#catalog)

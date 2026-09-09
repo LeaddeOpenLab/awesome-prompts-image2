@@ -810,7 +810,7 @@ Schneide dieses Bild anschließend aus und erstelle daraus ein Endlos-GIF
 
 <a name="prompt-2097637962137895058"></a>
 
-### Übersetzung läuft
+### Prompt zur Umwandlung eines Fotos in eine handgezeichnete Retro-Reisetagebuch-Illustration mit Buntstiften und Aquarell
 
 Autor：[@tataemugc](https://x.com/tataemugc) · [Originalbeitrag](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -818,7 +818,7 @@ Illustration · Aquarell · Retro / Vintage · Veröffentlicht
 
 Originalbeitrag：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Originalbeitrag](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Umwandlung eines Fotos in eine handgezeichnete Retro-Reisetagebuch-Illustration mit Buntstiften und Aquarell
 
 <img src="images/2097637962137895058-1.jpg" alt="Bild 1" width="480" />
 
@@ -831,7 +831,7 @@ Originalbeitrag：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Originalb
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Buntstiften und Aquarell. Behalten Sie die ursprüngliche Komposition, Gebäude, Personen, Bäume, Rasenflächen, Straßen und die Perspektive unverändert bei. Verwenden Sie warmes, beigefarbenes, gealtertes Papier, um ein handgezeichnetes Gefühl mit sichtbaren Federstrichen und Aquarellverläufen auszudrücken. Vereinfachen Sie die Gebäude zu ausdrucksstarken Formen und fügen Sie lockere Konturen, feine Kreuzschraffuren und leicht unvollkommene Ränder hinzu. Bewahren Sie die Atmosphäre eines klaren Sommertages, einen sanften blauen Himmel, warmbeige Gebäude, grünen Rasen sowie verstreute, entspannte Personen und Bänke. Verwenden Sie verblasste Töne einer Vintage-Reiseskizze. Platzieren Sie die Illustration in der unteren Hälfte der Seite und lassen Sie oben einen breiten beigen Freiraum. Schreiben Sie oben handschriftlich '맑은 날씨' und unten '— 소중한 순간 —'. Gestalten Sie es im nostalgischen Kunst-Reisemagazin-Stil, der sich wie persönliche Skizzenbuch-Erinnerungen anfühlt, ohne jeglichen fotografischen Eindruck.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

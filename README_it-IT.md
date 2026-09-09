@@ -810,7 +810,7 @@ Poi ritaglia l'immagine e crea una gif a ciclo continuo
 
 <a name="prompt-2097637962137895058"></a>
 
-### Traduzione in corso
+### Prompt per trasformare una foto in un'illustrazione stile diario di viaggio rétro disegnato a mano con matite colorate e acquerello
 
 Autore：[@tataemugc](https://x.com/tataemugc) · [Post originale](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -818,7 +818,7 @@ Illustrazione · Acquerello · Retro / Vintage · Pubblicato
 
 Post originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Post originale](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trasformare una foto in un'illustrazione stile diario di viaggio rétro disegnato a mano con matite colorate e acquerello
 
 <img src="images/2097637962137895058-1.jpg" alt="Immagine 1" width="480" />
 
@@ -831,7 +831,7 @@ Post originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Post origi
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matite colorate e acquerello. Mantieni inalterati la composizione originale, gli edifici, le persone, gli alberi, il prato, la strada e la prospettiva. Utilizza una carta anticata color beige caldo per trasmettere la sensazione del disegno a mano con tratti di penna e sfumature di acquerello visibili. Semplifica gli edifici in forme espressive, aggiungendo contorni morbidi, tratteggi incrociati dettagliati e bordi leggermente imperfetti. Mantieni l'atmosfera di una limpida giornata estiva, un cielo azzurro tenue, edifici beige caldo, erba verde, persone rilassate e panchine sparse. Usa tonalità da schizzo di viaggio vintage e sbiadito. Posiziona l'illustrazione nella metà inferiore della pagina, lasciando un ampio spazio vuoto beige in alto. Scrivi a mano in alto '맑은 날씨' e in basso '— 소중한 순간 —'. Uno stile da rivista di viaggi artistica e nostalgica, con il sapore di un ricordo da taccuino personale, senza alcun aspetto fotografico.
 ```
 
 [↑ Torna alle categorie](#catalog)

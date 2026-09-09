@@ -820,7 +820,7 @@ Ardından bu görseli dilimle ve sonsuz döngülü bir gif haline getir
 
 <a name="prompt-2097637962137895058"></a>
 
-### Çeviri sürüyor
+### Fotoğrafı retro renkli kurşun kalem ve suluboya el çizimi seyahat günlüğü illüstrasyon tarzına dönüştürme istemi
 
 Yazar：[@tataemugc](https://x.com/tataemugc) · [Orijinal gönderi](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -828,7 +828,7 @@ Yazar：[@tataemugc](https://x.com/tataemugc) · [Orijinal gönderi](https://x.c
 
 Orijinal gönderi：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Orijinal gönderi](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fotoğrafı retro renkli kurşun kalem ve suluboya el çizimi seyahat günlüğü illüstrasyon tarzına dönüştürme istemi
 
 <img src="images/2097637962137895058-1.jpg" alt="Görsel 1" width="480" />
 
@@ -841,7 +841,7 @@ Orijinal gönderi：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Orijina
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat günlüğü tarzına dönüştürün. Orijinal kompozisyonu, binaları, insanları, ağaçları, çimenliği, yolu ve bakış açısını olduğu gibi koruyun. Kalem darbelerinin ve suluboya akmalarının görülebildiği el çizimi hissini yansıtmak için sıcak bej tonlu eski bir kağıt kullanın. Binaları dışavurumcu formlara basitleştirin; serbest hatlar, ince çapraz taramalar ve hafif kusurlu kenarlar ekleyin. Berrak bir yaz günü atmosferini, yumuşak mavi gökyüzünü, sıcak bej binaları, yeşil çimleri, dağınık sakin insanları ve bankları muhafaza edin. Soluk vintage seyahat eskizi tonları kullanın. Çizimi sayfanın alt yarısına yerleştirin ve üst kısımda geniş bej bir boşluk bırakın. Üst kısma el yazısıyla '맑은 날씨', alt kısma ise '— 소중한 순간 —' yazın. Hiçbir fotoğrafik his barındırmayan, kişisel bir eskiz defteri hatırası hissi veren nostaljik bir sanat seyahat dergisi tarzı yakalayın.
 ```
 
 [↑ Kategorilere dön](#catalog)

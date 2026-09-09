@@ -834,7 +834,7 @@ Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\nHình ảnh
 
 <a name="prompt-2097637962137895058"></a>
 
-### Đang dịch
+### Lời nhắc chuyển đổi ảnh thành phong cách minh họa nhật ký du lịch vẽ tay bằng chì màu và màu nước cổ điển
 
 Tác giả：[@tataemugc](https://x.com/tataemugc) · [Bài gốc](https://x.com/tataemugc/status/2097637962137895058)
 
@@ -842,7 +842,7 @@ Minh họa · Màu nước · Cổ điển / Cổ điển · Đã xuất bản
 
 Bài gốc：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Bài gốc](https://x.com/Crypto_QianXun/status/2097174853707284785)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chuyển đổi ảnh thành phong cách minh họa nhật ký du lịch vẽ tay bằng chì màu và màu nước cổ điển
 
 <img src="images/2097637962137895058-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -855,7 +855,7 @@ Bài gốc：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Bài gốc](ht
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay bằng bút chì màu và màu nước. Giữ nguyên bố cục gốc, các tòa nhà, con người, cây cối, thảm cỏ, con đường và góc nhìn. Sử dụng giấy cũ màu be ấm áp để thể hiện cảm giác vẽ tay với các nét bút và vệt loang màu nước có thể nhìn thấy được. Đơn giản hóa các tòa nhà thành những hình khối biểu cảm, thêm các đường viền phóng khoáng, nét đánh bóng đan chéo tỉ mỉ và các cạnh hơi không hoàn hảo. Duy trì bầu không khí của một ngày hè trong trẻo, bầu trời xanh dịu nhẹ, các tòa nhà màu be ấm áp, thảm cỏ xanh mướt, cùng những con người và băng ghế thư thái nằm rải rác. Sử dụng tông màu phác thảo du lịch cổ điển hơi phai. Bố trí hình minh họa ở nửa dưới trang giấy và để lại khoảng trống màu be rộng rãi ở phía trên. Viết tay ở phía trên dòng chữ '맑은 날씨', và ở phía dưới viết '— 소중한 순간 —'. Mang phong cách tạp chí du lịch nghệ thuật hoài cổ, cảm giác như kỷ niệm trong sổ phác thảo cá nhân, tuyệt đối không có cảm giác như ảnh chụp.
 ```
 
 [↑ Về danh mục](#catalog)
