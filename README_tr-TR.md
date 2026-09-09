@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**42** Prompt · Son eklenen: **2026-09-09**
+**43** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -679,6 +679,34 @@ Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluştu
 
 ## 3D Modelleme
 
+<a name="prompt-2097646788258021837"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097646788258021837-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Bir simge yapının hatıra plaketi metni içeren birinci sınıf, sevimli bir minyatür 3D dioramasını oluşturun.
@@ -972,20 +1000,20 @@ Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinemat
 
 <a name="prompt-2097628383362597075"></a>
 
-### Çeviri sürüyor
+### Kırık beyaz, minimalist dergi tarzında bir el falı rehberi infografiği oluşturun.
 
 Yazar：[@hahazwei](https://x.com/hahazwei) · [Orijinal gönderi](https://x.com/hahazwei/status/2097628383362597075)
 
 İnfografik / Eğitici Görsel · Minimalizm · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kırık beyaz, minimalist dergi tarzında bir el falı rehberi infografiği oluşturun.
 
 <img src="images/2097628383362597075-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu görseli kullanarak eksiksiz bir el falı yorumlama rehberi infografiği oluşturun. Avuç içindeki çizgilere dikkat edin, temel avuç içi çizgilerini etiketleyin, ayrıntılı bir el falı analizi yapın ve yorumları kırık beyaz bir arka plan üzerinde, temiz, minimalist ve lüks bir dergi editoryal tarzında sunun. Pahalı ve üst düzey bir doku hissi yaratmak için ince çizgiler, yuvarlatılmış köşeli kartlar ve özenli boşluklar kullanın. Vurguyu el falı yorumunun kendisine verin.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**42** Prompts · Dernier ajout: **2026-09-09**
+**43** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -669,6 +669,34 @@ Créez une affiche d'art éditoriale haut de gamme pour chaque photographie impo
 
 ## Rendu 3D
 
+<a name="prompt-2097646788258021837"></a>
+
+### Traduction en cours
+
+Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097646788258021837-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Créez un diorama 3D miniature mignon et haut de gamme d'un monument avec le texte d'une plaque souvenir.
@@ -962,20 +990,20 @@ Composition en pied, caméra à hauteur des yeux en contre-plongée, objectif 35
 
 <a name="prompt-2097628383362597075"></a>
 
-### Traduction en cours
+### Générer une infographie de guide de chiromancie dans un style de magazine minimaliste blanc cassé.
 
 Auteur：[@hahazwei](https://x.com/hahazwei) · [Publication originale](https://x.com/hahazwei/status/2097628383362597075)
 
 Infographie / Visuel éducatif · Minimalisme · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une infographie de guide de chiromancie dans un style de magazine minimaliste blanc cassé.
 
 <img src="images/2097628383362597075-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez cette image pour générer une infographie complète servant de guide de chiromancie. Portez une attention particulière aux lignes de la paume, annotez les lignes principales, effectuez une analyse chiromantique détaillée et présentez les interprétations sur un fond blanc cassé, avec un style éditorial de magazine propre, minimaliste et luxueux. Utilisez des lignes fines, des cartes aux coins arrondis et un espace blanc soigné pour créer une texture haut de gamme et raffinée. Mettez l'accent sur la lecture chiromantique elle-même.
 ```
 
 [↑ Retour aux catégories](#catalog)

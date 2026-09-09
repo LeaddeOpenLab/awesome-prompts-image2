@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**42** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**43** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -669,6 +669,34 @@ Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplak
 
 ## 3D-Rendering
 
+<a name="prompt-2097646788258021837"></a>
+
+### Übersetzung läuft
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097646788258021837-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Erstelle ein hochwertiges, niedliches 3D-Miniatur-Diorama eines Wahrzeichens mit Souvenirplakettentext.
@@ -962,20 +990,20 @@ Ganzkörperkomposition, Kamera auf niedriger Augenhöhe, 35mm-Objektiv, warme fi
 
 <a name="prompt-2097628383362597075"></a>
 
-### Übersetzung läuft
+### Eine Infografik als Leitfaden zur Handlesekunst im cremeweißen, minimalistischen Magazinstil erstellen.
 
 Autor：[@hahazwei](https://x.com/hahazwei) · [Originalbeitrag](https://x.com/hahazwei/status/2097628383362597075)
 
 Infografik / Edu Visual · Minimalismus · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Infografik als Leitfaden zur Handlesekunst im cremeweißen, minimalistischen Magazinstil erstellen.
 
 <img src="images/2097628383362597075-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende dieses Bild, um eine vollständige Infografik als Leitfaden zur Handlesekunst zu erstellen. Achte auf die Linien auf der Handfläche, beschrifte die wichtigsten Handlinien, führe eine detaillierte Handlese-Analyse durch und präsentiere die Deutungen auf einem cremeweißen Hintergrund in einem sauberen, minimalistischen und luxuriösen Magazin-Editorial-Stil. Verwende feine Linien, abgerundete Karten und wohlüberlegten Leerraum, um eine edle, hochwertige Ästhetik zu schaffen. Hebe die Deutung der Handlesekunst selbst hervor.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**42** Prompts · Última adição: **2026-09-09**
+**43** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -679,6 +679,34 @@ Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, 
 
 ## Renderização 3D
 
+<a name="prompt-2097646788258021837"></a>
+
+### Tradução em andamento
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097646788258021837-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Crie um diorama 3D em miniatura fofo e premium de um ponto turístico com texto de placa de lembrança.
@@ -972,20 +1000,20 @@ Composição de corpo inteiro, câmera baixa no nível dos olhos, lente de 35mm,
 
 <a name="prompt-2097628383362597075"></a>
 
-### Tradução em andamento
+### Gerar um infográfico de guia de quiromancia em estilo de revista minimalista off-white.
 
 Autor：[@hahazwei](https://x.com/hahazwei) · [Publicação original](https://x.com/hahazwei/status/2097628383362597075)
 
 Infográfico / Edu Visual · Minimalismo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gerar um infográfico de guia de quiromancia em estilo de revista minimalista off-white.
 
 <img src="images/2097628383362597075-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Use esta imagem para gerar um infográfico completo de guia de leitura de quiromancia. Preste atenção às linhas da palma, marque as principais linhas da mão, faça uma análise detalhada de quiromancia e apresente as interpretações sobre um fundo off-white, com um estilo editorial de revista limpo, minimalista e luxuoso. Use linhas finas, cartões com cantos arredondados e espaços em branco refinados para criar uma textura sofisticada e de alto padrão. Destaque a interpretação da quiromancia em si.
 ```
 
 [↑ Voltar às categorias](#catalog)

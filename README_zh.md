@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**42** 条内容 · 最新收录: **2026-09-09**
+**43** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -692,6 +692,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2097646788258021837"></a>
+
+### 翻译中
+
+作者：[@Naiknelofar788](https://x.com/Naiknelofar788) · [查看 X 原帖](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+3D 渲染 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097646788258021837-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097580884098764800"></a>
 

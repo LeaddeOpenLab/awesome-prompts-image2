@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**42** Prompts · Última incorporación: **2026-09-09**
+**43** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -669,6 +669,34 @@ Crea un póster de arte editorial prémium para cada fotografía subida, tratand
 
 ## Renderizado 3D
 
+<a name="prompt-2097646788258021837"></a>
+
+### Traducción en curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Renderizado 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097646788258021837-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Crea un diorama 3D en miniatura tierno y de primera calidad de un monumento con texto de placa de recuerdo.
@@ -962,20 +990,20 @@ Composición de cuerpo completo, cámara a nivel de los ojos en ángulo bajo, le
 
 <a name="prompt-2097628383362597075"></a>
 
-### Traducción en curso
+### Generar una infografía de guía de quiromancia en un estilo de revista minimalista en color blanco hueso.
 
 Autor：[@hahazwei](https://x.com/hahazwei) · [Publicación original](https://x.com/hahazwei/status/2097628383362597075)
 
 Infografía / Visual educativo · Minimalismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una infografía de guía de quiromancia en un estilo de revista minimalista en color blanco hueso.
 
 <img src="images/2097628383362597075-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa esta imagen para generar una infografía completa de guía de lectura de quiromancia. Presta atención a las líneas de la palma, etiqueta las líneas clave, realiza un análisis quiromántico detallado y presenta las interpretaciones sobre un fondo color blanco hueso, con un estilo editorial de revista limpio, minimalista y lujoso en general. Utiliza líneas finas, tarjetas con esquinas redondeadas y un espacio en blanco refinado para crear una textura sofisticada y de alta gama. Enfócate principalmente en la lectura quiromántica en sí.
 ```
 
 [↑ Volver a categorías](#catalog)

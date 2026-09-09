@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**42** Prompt · Ultima aggiunta: **2026-09-09**
+**43** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -669,6 +669,34 @@ Crea un poster artistico editoriale di alto livello per ogni fotografia caricata
 
 ## Rendering 3D
 
+<a name="prompt-2097646788258021837"></a>
+
+### Traduzione in corso
+
+Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097646788258021837-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097580884098764800"></a>
 
 ### Crea un delizioso diorama 3D in miniatura di alta qualità di un monumento con il testo di una targa ricordo.
@@ -962,20 +990,20 @@ Composizione a figura intera, fotocamera a livello degli occhi dal basso, obiett
 
 <a name="prompt-2097628383362597075"></a>
 
-### Traduzione in corso
+### Generare un'infografica con guida alla chiromanzia in stile rivista minimalista color bianco panna.
 
 Autore：[@hahazwei](https://x.com/hahazwei) · [Post originale](https://x.com/hahazwei/status/2097628383362597075)
 
 Infografica / Contenuto Visual Educativo · Minimalismo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generare un'infografica con guida alla chiromanzia in stile rivista minimalista color bianco panna.
 
 <img src="images/2097628383362597075-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa questa immagine per generare un'infografica completa con una guida alla lettura della chiromanzia. Fai attenzione alle linee del palmo, etichetta le linee chiave della mano, esegui un'analisi chiromantica dettagliata e presenta le interpretazioni su uno sfondo bianco panna, con uno stile editoriale da rivista pulito, minimalista ed elegante. Usa linee sottili, schede con angoli arrotondati e uno spazio bianco curato per creare una sensazione di lusso raffinato ed esclusivo. Metti in risalto l'interpretazione chiromantica stessa.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**42** Prompt · Bổ sung mới nhất: **2026-09-09**
+**43** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,34 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2097646788258021837"></a>
+
+### Đang dịch
+
+Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097646788258021837-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097580884098764800"></a>
 

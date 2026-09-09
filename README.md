@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**42** Prompts · Latest addition: **2026-09-09**
+**43** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -666,6 +666,34 @@ Create a premium editorial art poster for every uploaded photograph, treating ea
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097646788258021837"></a>
+
+### Handcrafted miniature 3D travel diorama prompt featuring iconic city landmarks on textured paper.
+
+Author：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+3D Render · Published
+
+**Summary:** Handcrafted miniature 3D travel diorama prompt featuring iconic city landmarks on textured paper.
+
+<img src="images/2097646788258021837-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.\nShow the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.\n\nPlace everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUse soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097580884098764800"></a>
 

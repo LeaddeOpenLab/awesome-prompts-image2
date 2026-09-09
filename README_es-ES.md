@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**42** Prompts · Última incorporación: **2026-09-09**
+**43** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,34 @@ Crea un póster de arte editorial premium para cada fotografía subida, tratando
 <a name="category-3d-render"></a>
 
 ## Render 3D
+
+<a name="prompt-2097646788258021837"></a>
+
+### Traducción en curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097646788258021837-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097646788258021837-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097646788258021837-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097646788258021837-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097580884098764800"></a>
 
