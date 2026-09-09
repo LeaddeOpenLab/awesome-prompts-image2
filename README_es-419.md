@@ -671,13 +671,13 @@ Crea un póster de arte editorial prémium para cada fotografía subida, tratand
 
 <a name="prompt-2097646788258021837"></a>
 
-### Traducción en curso
+### Prompt de diorama de viaje en 3D en miniatura hecho a mano con monumentos urbanos icónicos sobre papel texturizado.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de diorama de viaje en 3D en miniatura hecho a mano con monumentos urbanos icónicos sobre papel texturizado.
 
 <img src="images/2097646788258021837-1.jpg" alt="Imagen 1" width="480" />
 
@@ -690,7 +690,16 @@ Renderizado 3D · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una encantadora escena de viaje en miniatura hecha a mano que tenga a [ESTRUCTURA ICÓNICA] como punto focal principal.
+Muestra el monumento como un diminuto modelo 3D hermosamente esculpido, con detalles suaves y redondeados, texturas artesanales, delicadas imperfecciones y una atmósfera caprichosa de cuento de hadas. Rodéalo de unos pocos elementos sutiles que representen su ubicación, tales como diminutos árboles, flores, calles, barcos, montañas, nubes u objetos locales, sin sobrecargar la escena.
+
+Coloca todo sobre un fondo limpio de papel texturizado de color blanco cálido, con abundante y elegante espacio negativo. Añade una pequeña y elegante placa de viaje de madera o papel que contenga:
+
+[NOMBRE DE LA ESTRUCTURA]
+[CIUDAD, PAÍS]
+Famoso por: [BREVE DATO ÚNICO]
+
+Utiliza iluminación natural suave, sombras tenues, colores pastel pero realistas, profundidad de diorama en miniatura, texturas artesanales de arcilla/papel y una estética prémium y tierna de diario de viaje. Composición centrada, monumento con gran nivel de detalle, adorable pero sofisticado, diseño limpio y coleccionable de tarjeta de viaje, sin personas fotorrealistas, sin desorden.
 ```
 
 [↑ Volver a categorías](#catalog)

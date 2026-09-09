@@ -693,13 +693,13 @@ Crea un póster de arte editorial premium para cada fotografía subida, tratando
 
 <a name="prompt-2097646788258021837"></a>
 
-### Traducción en curso
+### Prompt de diorama de viaje 3D en miniatura artesanal con monumentos urbanos emblemáticos sobre papel texturizado.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de diorama de viaje 3D en miniatura artesanal con monumentos urbanos emblemáticos sobre papel texturizado.
 
 <img src="images/2097646788258021837-1.jpg" alt="Imagen 1" width="480" />
 
@@ -712,7 +712,16 @@ Render 3D · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una encantadora escena de viaje en miniatura hecha a mano con [ICONIC STRUCTURE] como punto focal principal.
+Muestra el monumento como un diminuto modelo 3D hermosamente esculpido, con detalles redondeados y suaves, texturas artesanales, delicadas imperfecciones y un aire caprichoso de libro de cuentos. Rodéalo de unos pocos elementos sutiles que representen su ubicación —como árboles diminutos, flores, calles, barcos, montañas, nubes u objetos locales— sin sobrecargar la escena.
+
+Colócalo todo sobre un fondo limpio de papel texturizado blanco cálido, con abundante y elegante espacio negativo. Añade una pequeña y elegante placa de viaje de madera o papel que contenga:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT UNIQUE FACT]
+
+Utiliza iluminación natural suave, sombras delicadas, colores pastel pero realistas, profundidad de diorama en miniatura, texturas artesanales de arcilla o papel y una estética cuidada y adorable de diario de viaje. Composición centrada, monumento muy detallado, adorable pero sofisticado, diseño de tarjeta de viaje limpio y coleccionable, sin personas fotorrealistas, sin desorden.
 ```
 
 [↑ Volver a categorías](#catalog)

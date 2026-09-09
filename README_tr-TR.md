@@ -681,13 +681,13 @@ Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluştu
 
 <a name="prompt-2097646788258021837"></a>
 
-### Çeviri sürüyor
+### Dokulu kâğıt üzerinde ikonik şehir simgelerini içeren el yapımı minyatür 3D seyahat dioramasının promptu.
 
 Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dokulu kâğıt üzerinde ikonik şehir simgelerini içeren el yapımı minyatür 3D seyahat dioramasının promptu.
 
 <img src="images/2097646788258021837-1.jpg" alt="Görsel 1" width="480" />
 
@@ -700,7 +700,16 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ana odak noktası [İKONİK YAPI] olan, el yapımı, büyüleyici bir minyatür seyahat sahnesi oluşturun.
+Tarihî yapıyı; yumuşak ve yuvarlatılmış detaylara, el yapımı dokulara, zarif kusurlara ve masalsı bir havaya sahip, güzelce yontulmuş minik bir 3D model olarak gösterin. Sahneyi kalabalıklaştırmadan; minik ağaçlar, çiçekler, sokaklar, tekneler, dağlar, bulutlar veya yerel nesneler gibi bulunduğu yeri temsil eden birkaç zarif unsurla çevreleyin.
+
+Her şeyi, bolca şık negatif alan içeren, temiz, sıcak beyaz dokulu bir kâğıt arka plan üzerine yerleştirin. Aşağıdakileri içeren, ahşap veya kâğıttan yapılmış küçük ve zevkli bir seyahat plaketi ekleyin:
+
+[YAPI ADI]
+[ŞEHİR, ÜLKE]
+Meşhur olduğu özellik: [KISA ÖZGÜN BİLGİ]
+
+Yumuşak doğal aydınlatma, hafif gölgeler, pastel ama gerçekçi renkler, minyatür diorama derinliği, el yapımı kil/kâğıt dokuları ve birinci sınıf, sevimli bir seyahat günlüğü estetiği kullanın. Ortalanmış kompozisyon, yüksek detaylı simge yapı, sevimli ama sofistike, temiz ve koleksiyonluk seyahat kartı tasarımı, fotogerçekçi insan yok, dağınıklık yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

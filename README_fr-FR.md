@@ -671,13 +671,13 @@ Créez une affiche d'art éditoriale haut de gamme pour chaque photographie impo
 
 <a name="prompt-2097646788258021837"></a>
 
-### Traduction en cours
+### Prompt de diorama de voyage 3D miniature fait à la main représentant des monuments urbains emblématiques sur papier texturé.
 
 Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de diorama de voyage 3D miniature fait à la main représentant des monuments urbains emblématiques sur papier texturé.
 
 <img src="images/2097646788258021837-1.jpg" alt="Image 1" width="480" />
 
@@ -690,7 +690,16 @@ Rendu 3D · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une charmante scène de voyage miniature faite à la main mettant en valeur [STRUCTURE EMBLÉMATIQUE] comme point focal principal.
+Montrez le monument sous la forme d'un minuscule modèle 3D magnifiquement sculpté, avec des détails doux et arrondis, des textures artisanales, de délicates imperfections et une ambiance féerique de livre de contes. Entourez-le de quelques éléments subtils représentant son emplacement, tels que de minuscules arbres, fleurs, rues, bateaux, montagnes, nuages ou objets locaux, sans encombrer la scène.
+
+Placez le tout sur un fond épuré en papier texturé blanc chaud, avec beaucoup d'espace négatif élégant. Ajoutez une petite plaque de voyage de bon goût, en bois ou en papier, comportant :
+
+[NOM DE LA STRUCTURE]
+[VILLE, PAYS]
+Célèbre pour : [FAIT UNIQUE COURT]
+
+Utilisez un éclairage naturel doux, des ombres légères, des couleurs pastel mais réalistes, une profondeur de diorama miniature, des textures artisanales d'argile/papier et une esthétique mignonne et haut de gamme de carnet de voyage. Composition centrée, monument hautement détaillé, adorable mais sophistiqué, design épuré de carte de voyage à collectionner, aucun personnage photoréaliste, aucun désordre.
 ```
 
 [↑ Retour aux catégories](#catalog)

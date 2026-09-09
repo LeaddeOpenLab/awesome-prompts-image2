@@ -693,13 +693,13 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 
 <a name="prompt-2097646788258021837"></a>
 
-### Đang dịch
+### Lời nhắc tạo sa bàn diorama du lịch 3D thu nhỏ thủ công với các địa danh biểu tượng của thành phố trên nền giấy có vân.
 
 Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo sa bàn diorama du lịch 3D thu nhỏ thủ công với các địa danh biểu tượng của thành phố trên nền giấy có vân.
 
 <img src="images/2097646788258021837-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -712,7 +712,16 @@ Kết xuất 3D · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một khung cảnh du lịch thu nhỏ thủ công đầy quyến rũ với [ICONIC STRUCTURE] làm điểm nhấn chính.
+Thể hiện công trình mang tính biểu tượng dưới dạng mô hình 3D tí hon được điêu khắc đẹp mắt, với các chi tiết bo tròn mềm mại, kết cấu thủ công, những nét không hoàn hảo tinh tế và mang cảm giác kỳ diệu như trong truyện cổ tích. Điểm xuyết xung quanh vài chi tiết tinh tế đại diện cho địa danh đó—chẳng hạn như cây cối tí hon, hoa lá, đường phố, thuyền bè, núi non, mây trời hoặc các đồ vật địa phương—mà không làm khung cảnh bị rối rắm.
+
+Đặt mọi thứ trên nền giấy có vân màu trắng ấm sạch sẽ, với nhiều khoảng trống tinh tế và thanh lịch. Thêm một tấm biển du lịch nhỏ trang nhã bằng gỗ hoặc giấy có nội dung:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT UNIQUE FACT]
+
+Sử dụng ánh sáng tự nhiên dịu nhẹ, bóng đổ mềm mại, màu sắc pastel chân thực, chiều sâu của mô hình tiểu cảnh diorama, chất liệu đất sét/giấy thủ công và tính thẩm mỹ cao cấp, đáng yêu như sổ nhật ký hành trình. Bố cục đặt ở trung tâm, công trình mang tính biểu tượng có độ chi tiết cao, dễ thương nhưng tinh tế, thiết kế thẻ du lịch gọn gàng và đáng sưu tầm, không có người chân thực, không bừa bộn.
 ```
 
 [↑ Về danh mục](#catalog)

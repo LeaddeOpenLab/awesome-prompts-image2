@@ -681,13 +681,13 @@ Crie um cartaz de arte editorial de alta qualidade para cada fotografia enviada,
 
 <a name="prompt-2097646788258021837"></a>
 
-### Tradução em curso
+### Prompt de diorama de viagem 3D em miniatura feito à mão com marcos icónicos de cidades sobre papel texturado.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de diorama de viagem 3D em miniatura feito à mão com marcos icónicos de cidades sobre papel texturado.
 
 <img src="images/2097646788258021837-1.jpg" alt="Imagem 1" width="480" />
 
@@ -700,7 +700,16 @@ Renderização 3D · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma encantadora cena de viagem em miniatura feita à mão com [ESTRUTURA ICÓNICA] como ponto focal principal.
+Mostre o monumento como um minúsculo modelo 3D belamente esculpido, com detalhes suaves e arredondados, texturas artesanais, delicadas imperfeições e uma atmosfera mágica de livro de contos. Envolva-o com alguns elementos subtis que representem a sua localização — como pequenas árvores, flores, ruas, barcos, montanhas, nuvens ou objetos locais —, sem sobrecarregar a cena.
+
+Coloque tudo sobre um fundo limpo de papel texturado branco-quente, com bastante espaço negativo elegante. Adicione uma pequena placa de viagem de bom gosto, em madeira ou papel, contendo:
+
+[NOME DA ESTRUTURA]
+[CIDADE, PAÍS]
+Famoso por: [BREVE FACTO ÚNICO]
+
+Utilize iluminação natural suave, sombras suaves, cores pastel embora realistas, profundidade de diorama em miniatura, texturas artesanais de barro/papel e uma estética requintada e amorosa de diário de viagem. Composição centrada, monumento altamente detalhado, adorável mas sofisticado, design limpo e colecionável de cartão de viagem, sem pessoas fotorrealistas, sem desorganização.
 ```
 
 [↑ Voltar às categorias](#catalog)

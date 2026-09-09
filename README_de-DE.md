@@ -671,13 +671,13 @@ Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplak
 
 <a name="prompt-2097646788258021837"></a>
 
-### Übersetzung läuft
+### Prompt für ein handgefertigtes 3D-Miniatur-Reisediorama mit ikonischen Wahrzeichen von Städten auf strukturiertem Papier.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein handgefertigtes 3D-Miniatur-Reisediorama mit ikonischen Wahrzeichen von Städten auf strukturiertem Papier.
 
 <img src="images/2097646788258021837-1.jpg" alt="Bild 1" width="480" />
 
@@ -690,7 +690,16 @@ Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](htt
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine bezaubernde, handgefertigte Miniatur-Reiseszene mit [IKONISCHES BAUWERK] als zentralem Blickfang.
+Zeige das Wahrzeichen als wunderschön modelliertes, winziges 3D-Modell mit weichen, abgerundeten Details, handgemachten Texturen, zarten Unvollkommenheiten und einer verspielten Bilderbuch-Atmosphäre. Umgib es mit wenigen dezenten Elementen, die seinen Standort repräsentieren – wie winzigen Bäumen, Blumen, Straßen, Booten, Bergen, Wolken oder lokalen Gegenständen –, ohne die Szene zu überladen.
+
+Platziere alles auf einem sauberen, warmweißen Papierhintergrund mit Textur und reichlich elegantem Negativraum. Füge eine kleine, geschmackvolle Reiseplakette aus Holz oder Papier hinzu, die Folgendes enthält:
+
+[NAME DES BAUWERKS]
+[STADT, LAND]
+Berühmt für: [KURZE BESONDERE TATSACHE]
+
+Verwende sanftes natürliches Licht, weiche Schatten, pastellige und dennoch realistische Farben, Miniatur-Diorama-Tiefe, handgefertigte Ton-/Papiertexturen und eine hochwertige, niedliche Reisetagebuch-Ästhetik. Zentrierte Komposition, detailreiches Wahrzeichen, bezaubernd und dennoch raffiniert, klares Design im Stil einer sammelbaren Reisekarte, keine fotorealistischen Menschen, keine Unordnung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -671,13 +671,13 @@ Crea un poster artistico editoriale di alto livello per ogni fotografia caricata
 
 <a name="prompt-2097646788258021837"></a>
 
-### Traduzione in corso
+### Prompt per diorama di viaggio 3D in miniatura fatto a mano con monumenti iconici di città su carta ruvida.
 
 Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per diorama di viaggio 3D in miniatura fatto a mano con monumenti iconici di città su carta ruvida.
 
 <img src="images/2097646788258021837-1.jpg" alt="Immagine 1" width="480" />
 
@@ -690,7 +690,16 @@ Rendering 3D · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'incantevole scena di viaggio in miniatura realizzata a mano con [STRUTTURA ICONICA] come punto focale principale.
+Mostra il monumento come un minuscolo modello 3D splendidamente scolpito, con dettagli morbidi e arrotondati, texture fatte a mano, delicate imperfezioni e una magica atmosfera da libro di fiabe. Circondalo con alcuni elementi discreti che ne rappresentino la posizione geografica, come minuscoli alberi, fiori, strade, barche, montagne, nuvole o oggetti locali, senza affollare la scena.
+
+Posiziona il tutto su uno sfondo pulito di carta ruvida bianco caldo, con abbondante ed elegante spazio negativo. Aggiungi una piccola e raffinata targa di viaggio in legno o carta contenente:
+
+[NOME DELLA STRUTTURA]
+[CITTÀ, PAESE]
+Famoso per: [BREVE FATTO UNICO]
+
+Usa un'illuminazione naturale e soffusa, ombre delicate, colori pastello ma realistici, profondità da diorama in miniatura, texture artigianali in argilla/carta e un'estetica graziosa e ricercata da diario di viaggio. Composizione centrata, monumento ricchissimo di dettagli, adorabile ma sofisticato, design pulito da cartolina di viaggio da collezione, nessuna persona fotorealistica, nessun disordine.
 ```
 
 [↑ Torna alle categorie](#catalog)
