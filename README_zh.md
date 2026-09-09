@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**41** 条内容 · 最新收录: **2026-09-09**
+**42** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1068,6 +1068,30 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097631043004273061"></a>
+
+### 翻译中
+
+作者：[@royalpinto007](https://x.com/royalpinto007) · [查看 X 原帖](https://x.com/royalpinto007/status/2097631043004273061)
+
+其他 · 已推流
+
+查看 X 原帖：[@gabrielchua](https://x.com/gabrielchua) · [查看 X 原帖](https://x.com/gabrielchua/status/2097546354373603554)
+
+**概括:** 翻译中
+
+<img src="covers/2097631043004273061.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097582500273115191"></a>
 

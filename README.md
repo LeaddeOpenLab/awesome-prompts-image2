@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**41** Prompts · Latest addition: **2026-09-09**
+**42** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1040,6 +1040,30 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097631043004273061"></a>
+
+### Cristiano Ronaldo eating shawarma animation.
+
+Author：[@royalpinto007](https://x.com/royalpinto007) · [Source](https://x.com/royalpinto007/status/2097631043004273061)
+
+Other · Published
+
+Source：[@gabrielchua](https://x.com/gabrielchua) · [Source](https://x.com/gabrielchua/status/2097546354373603554)
+
+**Summary:** Cristiano Ronaldo eating shawarma animation.
+
+<img src="covers/2097631043004273061.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Cristiano Ronaldo eating shawarma
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097582500273115191"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**41** 件 · 最新の追加: **2026-09-09**
+**42** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1066,6 +1066,30 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097631043004273061"></a>
+
+### 翻訳中
+
+作者：[@royalpinto007](https://x.com/royalpinto007) · [元の投稿](https://x.com/royalpinto007/status/2097631043004273061)
+
+その他 · 配信済み
+
+元の投稿：[@gabrielchua](https://x.com/gabrielchua) · [元の投稿](https://x.com/gabrielchua/status/2097546354373603554)
+
+**概要:** 翻訳中
+
+<img src="covers/2097631043004273061.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097582500273115191"></a>
 

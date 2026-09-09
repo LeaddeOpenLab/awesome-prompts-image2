@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**41** Prompt · Son eklenen: **2026-09-09**
+**42** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1014,6 +1014,30 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097631043004273061"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@royalpinto007](https://x.com/royalpinto007) · [Orijinal gönderi](https://x.com/royalpinto007/status/2097631043004273061)
+
+Diğer · Yayımlandı
+
+Orijinal gönderi：[@gabrielchua](https://x.com/gabrielchua) · [Orijinal gönderi](https://x.com/gabrielchua/status/2097546354373603554)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097631043004273061.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097582500273115191"></a>
 
