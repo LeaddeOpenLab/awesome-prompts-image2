@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:18:15.825Z",
+  "model": "image2",
+  "prompt": "主题方向：东方禅意极简封面海报\n风格分支：女性审美新中式型\n主体内容：一位古风女子站在花窗前，姿态安静含蓄\n情绪母题：雅致、柔美、轻奢感\n场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节\n构图与空间：9:16 竖版构图，花窗位于中上部，人物位于中下部，顶部保留干净标题区\n色彩控制：暖白作为明亮基底，玉青用于花窗与少量背景结构，玫红用于花影与局部点睛，浅金只用于极少量饰件高光，人物服装用珍珠白或浅粉白；避免全图玉青或全图玫红\n光线与质感：柔和自然光，色彩鲜明清透，干净平面海报感\n画幅比例：9:16\n补充要求：整体要有高颜值新中式封面感，精致但不过度装饰",
+  "promptTranslations": {
+    "en": "Theme Direction: Oriental Zen minimalist cover poster\nStyle Branch: Feminine aesthetic New Chinese style\nSubject Content: A classical-style woman standing in front of a lattice window, with a quiet and reserved posture\nEmotional Motif: Elegant, gentle, sense of light luxury\nScene and Imagery: Jade-cyan lattice window, rose-red flower shadows, warm white wall, woman, minimal light gold details\nComposition and Space: 9:16 vertical composition, lattice window in the upper-middle section, figure in the lower-middle section, with a clean title area preserved at the top\nColor Control: Warm white as a bright base, jade-cyan used for the lattice window and minimal background structures, rose-red for flower shadows and localized accents, light gold only for a tiny amount of accessory highlights, character clothing in pearl white or pale pink-white; avoid the entire image being jade-cyan or rose-red\nLight and Texture: Soft natural light, vivid and translucent colors, clean graphic poster feel\nAspect Ratio: 9:16\nSupplementary Requirements: Overall, it must convey a high-aesthetic New Chinese cover feel, exquisite without being over-decorated"
+  },
+  "summaryTranslations": {
+    "en": "Oriental Zen New Chinese-Style Woman Lattice Window Poster Wallpaper Prompt, featuring a color palette of jade cyan, rose red, and warm white."
+  },
+  "translationVersion": 2,
+  "summary": "东方禅意新中式女子花窗海报壁纸提示词，采用玉青、玫红与暖白色调搭配。",
+  "summaryEn": "Prompt for a Neo-Chinese minimalist poster featuring a traditional woman by a floral window.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096838519918596234",
+      "canonicalUrl": "https://x.com/liyue_ai/status/2096838519918596234",
+      "author": {
+        "username": "liyue_ai",
+        "displayName": "李岳",
+        "profileUrl": "https://x.com/liyue_ai"
+      },
+      "originalText": "GPT Image 2生成东方美学壁纸：夏日清欢。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简插画\n风格分支：女性审美清爽型\n主体内容：一位女子坐在水边石阶上，低头看向水面\n情绪母题：清新、夏日、松弛感\n场景与意象：青瓷蓝水面、白色石阶、柠檬黄色圆形日光、少量竹影、人物\n构图与空间：9:16 竖版构图，人物位于下半部分，圆形日光位于中上部，顶部和右侧保留通透留白空间\n色彩控制：高明度暖白作为整体基底，青瓷蓝用于水面和远景空气层，柠檬黄只用于圆形日光和少量水面反光，人物服装用白色或浅米黄；避免全图发黄或发蓝\n光线与质感：明亮日光，画面清透，平面感清晰，轻纸感即可\n画幅比例：9:16\n补充要求：整体要有夏日清爽感和女性审美吸引力，不要沉闷，不要雾灰"
+    },
+    "id": "2097204639863287913",
+    "canonicalUrl": "https://x.com/liyue_ai/status/2097204639863287913",
+    "author": {
+      "username": "liyue_ai",
+      "displayName": "李岳",
+      "profileUrl": "https://x.com/liyue_ai"
+    },
+    "publishedAt": "2026-09-08T06:05:24.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "zh",
+    "originalText": "GPT Image 2生成东方美学壁纸：花事正好。\n\n提示词（欢迎返图）：\n主题方向：东方禅意极简封面海报\n风格分支：女性审美新中式型\n主体内容：一位古风女子站在花窗前，姿态安静含蓄\n情绪母题：雅致、柔美、轻奢感\n场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节\n构图与空间：9:16 竖版构图，花窗位于中上部，人物位于中下部，顶部保留干净标题区\n色彩控制：暖白作为明亮基底，玉青用于花窗与少量背景结构，玫红用于花影与局部点睛，浅金只用于极少量饰件高光，人物服装用珍珠白或浅粉白；避免全图玉青或全图玫红\n光线与质感：柔和自然光，色彩鲜明清透，干净平面海报感\n画幅比例：9:16\n补充要求：整体要有高颜值新中式封面感，精致但不过度装饰",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrEO03aIAAcNxq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrEO03aIAAcNxq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRl3Zava8AAncXW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRl3Zava8AAncXW.jpg",
+        "sourcePostId": "2096838519918596234"
+      }
+    ],
+    "metrics": {
+      "likeCount": 32,
+      "repostCount": 2,
+      "replyCount": 13,
+      "quoteCount": 0,
+      "viewCount": 2094
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/liyue_ai/status/2097204639863287913",
+  "coverUrl": "https://pbs.twimg.com/media/HRrEO03aIAAcNxq.jpg",
+  "coverPath": "images/2097204639863287913-1.jpg",
+  "imagePaths": [
+    "images/2097204639863287913-1.jpg",
+    "images/2097204639863287913-2.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRrEO03aIAAcNxq",
+    "x-image:/media/HRl3Zava8AAncXW",
+    "x-post:2097204639863287913",
+    "x-post:2096838519918596234"
+  ],
+  "analysis": {
+    "summary": "东方禅意新中式女子花窗海报壁纸提示词，采用玉青、玫红与暖白色调搭配。",
+    "summaryEn": "Prompt for a Neo-Chinese minimalist poster featuring a traditional woman by a floral window.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "正文提示词精确描述了玉青色花窗、古风女子、暖白墙面与玫红花卉，与附图一完全匹配。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "主题方向：东方禅意极简封面海报\n风格分支：女性审美新中式型\n主体内容：一位古风女子站在花窗前，姿态安静含蓄\n情绪母题：雅致、柔美、轻奢感\n场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节\n构图与空间：9:16 竖版构图，花窗位于中上部，人物位于中下部，顶部保留干净标题区\n色彩控制：暖白作为明亮基底，玉青用于花窗与少量背景结构，玫红用于花影与局部点睛，浅金只用于极少量饰件高光，人物服装用珍珠白或浅粉白；避免全图玉青或全图玫红\n光线与质感：柔和自然光，色彩鲜明清透，干净平面海报感\n画幅比例：9:16\n补充要求：整体要有高颜值新中式封面感，精致但不过度装饰",
+    "sourceRange": {
+      "start": 38,
+      "end": 323
+    },
+    "translations": {
+      "zh": "主题方向：东方禅意极简封面海报\n风格分支：女性审美新中式型\n主体内容：一位古风女子站在花窗前，姿态安静含蓄\n情绪母题：雅致、柔美、轻奢感\n场景与意象：玉青色花窗、玫红花影、暖白墙面、女子、少量浅金细节\n构图与空间：9:16 竖版构图，花窗位于中上部，人物位于中下部，顶部保留干净标题区\n色彩控制：暖白作为明亮基底，玉青用于花窗与少量背景结构，玫红用于花影与局部点睛，浅金只用于极少量饰件高光，人物服装用珍珠白或浅粉白；避免全图玉青或全图玫红\n光线与质感：柔和自然光，色彩鲜明清透，干净平面海报感\n画幅比例：9:16\n补充要求：整体要有高颜值新中式封面感，精致但不过度装饰",
+      "en": "Theme: Oriental Zen minimalist poster. Style: Neo-Chinese feminine aesthetic. Subject: Traditional Chinese woman standing quietly by a carved window. Mood: Elegant and gentle. Scene: Jade-green window frame, magenta floral shadows, warm white wall, gold accents. Composition: 9:16 vertical poster layout with clean title space at the top. Lighting: Soft natural light."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "wallpaper",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
