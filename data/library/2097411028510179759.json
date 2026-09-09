@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "Photo of a clearing in the woods with lots of green foliage, highly detailed",
   "promptTranslations": {
-    "en": "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+    "en": "Photo of a clearing in the woods with lots of green foliage, highly detailed",
+    "zh": "树林中一片空地的照片，周围有大量绿叶植物，细节极其丰富",
+    "zh-TW": "樹林中一片空地的照片，周圍有大量綠葉植物，細節極其豐富",
+    "ja-JP": "豊かな緑の葉が生い茂る森の空き地の写真、極めて詳細",
+    "ko-KR": "울창한 녹색 나뭇잎이 가득한 숲속 공터의 사진, 매우 상세함",
+    "th-TH": "ภาพถ่ายที่โล่งในป่าที่มีใบไม้สีเขียวจำนวนมาก รายละเอียดสูงมาก",
+    "vi-VN": "Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết",
+    "hi-IN": "जंगल में एक खुले स्थान की तस्वीर जिसमें ढेर सारे हरे-भरे पत्ते हैं, अत्यधिक विस्तृत",
+    "es-ES": "Foto de un claro en el bosque con abundante follaje verde, altamente detallada"
   },
   "summaryTranslations": {
-    "en": "High-definition landscape photo prompt of a forest clearing with dense green foliage."
+    "en": "High-definition landscape photo prompt of a forest clearing with dense green foliage.",
+    "zh": "树林空地与茂密绿色植被的高清风景照片提示词。",
+    "zh-TW": "樹林空地與茂密綠色植被的高畫質風景照片提示詞。",
+    "ja-JP": "森の空き地と青々とした緑の草木の高解像度風景写真プロンプト。",
+    "ko-KR": "숲속 공터와 울창한 녹색 초목의 고해상도 풍경 사진 프롬프트.",
+    "th-TH": "คำสั่งพร้อมท์ภาพถ่ายทิวทัศน์ความละเอียดสูงของที่โล่งในป่าพร้อมพืชพรรณสีเขียวชอุ่ม",
+    "vi-VN": "Lời nhắc ảnh phong cảnh độ nét cao về một khoảng rừng trống với thảm thực vật xanh tươi tốt.",
+    "hi-IN": "हरे-भरे घने पेड़-पौधों के साथ जंगल के खुले मैदान की उच्च-रिज़ॉल्यूशन लैंडस्केप फ़ोटो का प्रॉम्प्ट।",
+    "es-ES": "Prompt de foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde."
   },
   "translationVersion": 2,
   "summary": "树林空地与茂密绿色植被的高清风景照片提示词。",
