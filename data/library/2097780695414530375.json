@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:17:57.367Z",
+  "model": "image2.5",
+  "prompt": "制作一个包括 chrome浏览器边框的网页截图，内容是用户在 ChatGPT 上对话并使用GPT-Image-2.5 生成一个女主播直播的截图。",
+  "promptTranslations": {
+    "en": "Create a webpage screenshot that includes a Chrome browser frame, showing a user conversing on ChatGPT and using GPT-Image-2.5 to generate a screenshot of a female livestreamer streaming."
+  },
+  "summaryTranslations": {
+    "en": "Generate a webpage interface with a Chrome frame showing a ChatGPT conversation that generates a livestreamer screenshot."
+  },
+  "translationVersion": 2,
+  "summary": "生成包含Chrome边框且显示ChatGPT对话生成主播截图的网页界面。",
+  "summaryEn": "Generate a Chrome browser frame showing ChatGPT creating a livestreamer screenshot.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097780695414530375",
+    "canonicalUrl": "https://x.com/XChatScout/status/2097780695414530375",
+    "author": {
+      "username": "XChatScout",
+      "displayName": "Hello AI with Jia",
+      "profileUrl": "https://x.com/XChatScout"
+    },
+    "publishedAt": "2026-09-09T20:14:27.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "zh",
+    "originalText": "GPT-Image-2.5 能力还是相当哇塞的。 做了两个套娃式的图片：\n\n1. 制作一个包括 chrome浏览器边框的网页截图，内容是用户在 ChatGPT 上对话并使用GPT-Image-2.5 生成一个女主播直播的截图。\n\n2. 结合你对我的了解，生成一下我现在在这个页面的截图。 信息尽可能贴近真实。 https://t.co/PKNYZuPeQM",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzQa1YagAAyUJd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzQa1YagAAyUJd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzQa1YbwAA005T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzQa1YbwAA005T.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 13
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/XChatScout/status/2097780695414530375",
+  "coverUrl": "https://pbs.twimg.com/media/HRzQa1YagAAyUJd.jpg",
+  "coverPath": "images/2097780695414530375-1.jpg",
+  "imagePaths": [
+    "images/2097780695414530375-1.jpg",
+    "images/2097780695414530375-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRzQa1YagAAyUJd",
+    "x-image:/media/HRzQa1YbwAA005T",
+    "x-post:2097780695414530375"
+  ],
+  "analysis": {
+    "summary": "生成包含Chrome边框且显示ChatGPT对话生成主播截图的网页界面。",
+    "summaryEn": "Generate a Chrome browser frame showing ChatGPT creating a livestreamer screenshot.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了完整的浏览器界面及内嵌的ChatGPT对话与女主播直播画面，与Prompt主体吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一个包括 chrome浏览器边框的网页截图，内容是用户在 ChatGPT 上对话并使用GPT-Image-2.5 生成一个女主播直播的截图。",
+    "sourceRange": {
+      "start": 41,
+      "end": 113
+    },
+    "translations": {
+      "zh": "制作一个包括 chrome浏览器边框的网页截图，内容是用户在 ChatGPT 上对话并使用GPT-Image-2.5 生成一个女主播直播的截图。",
+      "en": "Create a webpage screenshot including a Chrome browser frame, showing a user chatting on ChatGPT and using GPT-Image-2.5 to generate a screenshot of a female livestreamer."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
