@@ -12,7 +12,14 @@
     "th-TH": "สร้างข้อสอบรูปแบบ CET-4 (การสอบวัดระดับภาษาอังกฤษระดับ 4) หนึ่งชุด แต่คำถามข้างในทั้งหมดเป็นข้อสอบราชการ และต้องมีทั้งภาพและข้อความประกอบอย่างสมบูรณ์",
     "vi-VN": "Tạo một đề thi theo định dạng CET-4 (tiếng Anh cấp 4), nhưng toàn bộ câu hỏi bên trong đều là câu hỏi thi công chức, và phải có cả hình ảnh minh họa lẫn văn bản phong phú",
     "hi-IN": "एक CET-4 (अंग्रेजी स्तर 4) शैली का प्रश्न पत्र बनाएं, लेकिन इसमें पूछे गए सभी प्रश्न सिविल सेवा/सरकारी नौकरी परीक्षा के हों, और यह चित्रों तथा पाठ दोनों से सुसज्जित (सचित्र) होना चाहिए",
-    "es-ES": "Crea una hoja de examen con formato CET-4 (nivel 4 de inglés), pero con todas las preguntas pertenecientes a exámenes de funcionarios públicos, con ilustraciones y texto complementados adecuadamente"
+    "es-ES": "Crea una hoja de examen con formato CET-4 (nivel 4 de inglés), pero con todas las preguntas pertenecientes a exámenes de funcionarios públicos, con ilustraciones y texto complementados adecuadamente",
+    "es-419": "Diseña un examen con el formato del CET-4 de inglés, pero donde todas las preguntas sean de exámenes de la función pública (oposiciones), profusamente ilustrado con textos e imágenes",
+    "de-DE": "Erstelle eine Prüfungsarbeit im Layout des englischen CET-4, bei der jedoch alle Fragen aus Prüfungen für den öffentlichen Dienst stammen, reich bebildert und mit Text versehen",
+    "fr-FR": "Créez une feuille d'examen avec la mise en page du CET-4 d'anglais, mais où toutes les questions portent sur les concours de la fonction publique, richement illustrée de textes et d'images",
+    "it-IT": "Crea una prova d'esame con l'impaginazione del CET-4 di inglese, ma in cui tutte le domande siano quesiti dei concorsi pubblici per la pubblica amministrazione, ricca di testi e immagini",
+    "pt-BR": "Crie uma prova no formato do exame de inglês CET-4, mas na qual todas as perguntas sejam de provas de concurso público, ricamente ilustrada com textos e imagens",
+    "pt-PT": "Crie uma prova no formato do exame de inglês CET-4, mas na qual todas as perguntas sejam de exames da função pública (concursos públicos), ricamente ilustrada com textos e imagens",
+    "tr-TR": "İngilizce CET-4 formatında, ancak içerisindeki tüm soruların memurluk sınavı sorularından oluştuğu, zengin metin ve görseller içeren bir sınav kağıdı hazırla"
   },
   "summaryTranslations": {
     "en": "Generate an illustrated exam paper formatted like an English CET-4 test, with question contents combining civil service exam questions.",
@@ -23,7 +30,14 @@
     "th-TH": "สร้างข้อสอบจัดรูปเล่มแบบภาษาอังกฤษระดับ 4 (CET-4) ที่มีภาพและข้อความ โดยเนื้อหาคำถามรวมกับข้อสอบราชการ",
     "vi-VN": "Tạo một đề thi trình bày theo định dạng tiếng Anh cấp 4 có kèm hình ảnh minh họa, nội dung kết hợp các câu hỏi thi công chức.",
     "hi-IN": "सिविल सेवा परीक्षा के प्रश्नों से युक्त, चित्रों और पाठ से सजी अंग्रेजी स्तर 4 (CET-4) लेआउट वाली एक प्रश्न पत्र शीट तैयार करना।",
-    "es-ES": "Generar un examen con maquetación de inglés de nivel 4 (CET-4) ilustrado, combinando el contenido con preguntas de exámenes de oposiciones/función pública."
+    "es-ES": "Generar un examen con maquetación de inglés de nivel 4 (CET-4) ilustrado, combinando el contenido con preguntas de exámenes de oposiciones/función pública.",
+    "es-419": "Generar un examen maquetado al estilo del CET-4 de inglés, ilustrado con textos e imágenes, cuyo contenido de preguntas esté combinado con temas del examen de la función pública.",
+    "de-DE": "Erstellung einer reich bebilderten Prüfungsarbeit im Layout des englischen CET-4, deren Prüfungsfragen mit Inhalten von Prüfungen für den öffentlichen Dienst kombiniert sind.",
+    "fr-FR": "Générer une épreuve d'examen mise en page selon le style du CET-4 d'anglais, richement illustrée de textes et d'images, dont les questions combinent des sujets de concours de la fonction publique.",
+    "it-IT": "Generare una prova d'esame impaginata nello stile del CET-4 di inglese, arricchita da testi e immagini, con contenuti delle domande combinati con i quesiti dei concorsi pubblici.",
+    "pt-BR": "Gerar uma prova diagramada no estilo do exame de inglês CET-4, ricamente ilustrada com textos e imagens, com conteúdo de questões combinado com tópicos de concurso público.",
+    "pt-PT": "Gerar uma prova paginada no estilo do exame de inglês CET-4, ricamente ilustrada com textos e imagens, com o conteúdo das perguntas combinado com tópicos de exames da função pública.",
+    "tr-TR": "Soru içerikleri memurluk sınavı sorularıyla birleştirilmiş, zengin metin ve görseller içeren İngilizce CET-4 mizanpajında bir sınav kağıdı oluşturun."
   },
   "translationVersion": 2,
   "summary": "生成一张图文并茂的英语四级排版试卷，考题内容结合公务员考试题目。",
