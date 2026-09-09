@@ -671,13 +671,13 @@ Créez une affiche d'art éditoriale haut de gamme pour chaque photographie impo
 
 <a name="prompt-2097580884098764800"></a>
 
-### Créez un adorable diorama 3D miniature haut de gamme d'un monument avec le texte d'une plaque souvenir.
+### Créez un diorama 3D miniature mignon et haut de gamme d'un monument avec le texte d'une plaque souvenir.
 
 Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Rendu 3D · Architecture / Intérieur · Publié
 
-**Résumé:** Créez un adorable diorama 3D miniature haut de gamme d'un monument avec le texte d'une plaque souvenir.
+**Résumé:** Créez un diorama 3D miniature mignon et haut de gamme d'un monument avec le texte d'une plaque souvenir.
 
 <img src="images/2097580884098764800-1.jpg" alt="Image 1" width="480" />
 
@@ -690,7 +690,7 @@ Rendu 3D · Architecture / Intérieur · Publié
 **Consigne**
 
 ```text
-Créez un adorable diorama 3D miniature haut de gamme de [NOM DE LA STRUCTURE], [VILLE, PAYS]. Veillez à ce que le monument reste reconnaissable, élégant et charmant, avec une composition épurée, des tons pastel doux, de subtils détails faits à la main, un éclairage naturel délicat et une esthétique raffinée de souvenir de voyage.\n\nIncluez un texte minimaliste et soigné :\n[NOM DE LA STRUCTURE]\n[VILLE, PAYS]\nCélèbre pour : [COURTE DESCRIPTION]
+Créez un diorama 3D miniature mignon et haut de gamme de [NOM DE LA STRUCTURE], [VILLE, PAYS]. Veillez à ce que le monument reste reconnaissable, élégant et charmant, avec une composition épurée, des tons pastel doux, de subtils détails artisanaux, un éclairage naturel délicat et une esthétique raffinée de souvenir de voyage.\n\nIncluez un texte minimaliste et soigné :\n[NOM DE LA STRUCTURE]\n[VILLE, PAYS]\nCélèbre pour : [COURTE DESCRIPTION]
 ```
 
 [↑ Retour aux catégories](#catalog)

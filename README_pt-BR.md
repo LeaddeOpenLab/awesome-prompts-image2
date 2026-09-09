@@ -681,13 +681,13 @@ Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, 
 
 <a name="prompt-2097580884098764800"></a>
 
-### Crie um diorama 3D em miniatura fofo e de alta qualidade de um ponto turístico com texto de placa de lembrança.
+### Crie um diorama 3D em miniatura fofo e premium de um ponto turístico com texto de placa de lembrança.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Renderização 3D · Arquitetura / Interiores · Publicado
 
-**Resumo:** Crie um diorama 3D em miniatura fofo e de alta qualidade de um ponto turístico com texto de placa de lembrança.
+**Resumo:** Crie um diorama 3D em miniatura fofo e premium de um ponto turístico com texto de placa de lembrança.
 
 <img src="images/2097580884098764800-1.jpg" alt="Imagem 1" width="480" />
 
@@ -700,7 +700,7 @@ Renderização 3D · Arquitetura / Interiores · Publicado
 **Prompt**
 
 ```text
-Crie um diorama 3D em miniatura fofo e de alta qualidade de [NOME DA ESTRUTURA], [CIDADE, PAÍS]. Mantenha o ponto turístico reconhecível, elegante e encantador, com composição limpa, tons pastéis suaves, detalhes sutis feitos à mão, iluminação natural suave e uma estética refinada de lembrança de viagem.\n\nInclua texto mínimo e de bom gosto:\n[NOME DA ESTRUTURA]\n[CIDADE, PAÍS]\nFamoso por: [BREVE DESCRIÇÃO]
+Crie um diorama 3D em miniatura fofo e premium de [NOME DA ESTRUTURA], [CIDADE, PAÍS]. Mantenha o ponto turístico reconhecível, elegante e encantador, com composição limpa, tons pastéis suaves, detalhes artesanais sutis, iluminação natural suave e uma estética refinada de souvenir de viagem.\n\nInclua texto minimalista e de bom gosto:\n[NOME DA ESTRUTURA]\n[CIDADE, PAÍS]\nFamoso por: [BREVE DESCRIÇÃO]
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -700,7 +700,7 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-[YAPI ADI], [ŞEHİR, ÜLKE] için birinci sınıf, sevimli bir minyatür 3D diorama oluşturun. Temiz bir kompozisyon, yumuşak pastel tonlar, zarif el yapımı detaylar, nazik doğal aydınlatma ve rafine bir seyahat hatırası estetiğiyle simge yapıyı tanınabilir, zarif ve büyüleyici tutun.\n\nMinimal, zevkli bir metin ekleyin:\n[YAPI ADI]\n[ŞEHİR, ÜLKE]\nMeşhur özelliği: [KISA AÇIKLAMA]
+[YAPI ADI], [ŞEHİR, ÜLKE] için sevimli, birinci sınıf bir minyatür 3D diorama oluşturun. Net bir kompozisyon, yumuşak pastel tonlar, ince el yapımı ayrıntılar, yumuşak doğal aydınlatma ve zarif bir seyahat hatırası estetiğiyle simge yapıyı tanınabilir, şık ve çekici tutun.\n\nMinimal ve zevkli bir metin ekleyin:\n[YAPI ADI]\n[ŞEHİR, ÜLKE]\nŞununla ünlü: [KISA AÇIKLAMA]
 ```
 
 [↑ Kategorilere dön](#catalog)

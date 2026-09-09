@@ -671,13 +671,13 @@ Crea un póster de arte editorial prémium para cada fotografía subida, tratand
 
 <a name="prompt-2097580884098764800"></a>
 
-### Crea un diorama 3D en miniatura tierno y de primera calidad de un punto de referencia con texto de placa de recuerdo.
+### Crea un diorama 3D en miniatura tierno y de primera calidad de un monumento con texto de placa de recuerdo.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Renderizado 3D · Arquitectura / Interiores · Publicado
 
-**Resumen:** Crea un diorama 3D en miniatura tierno y de primera calidad de un punto de referencia con texto de placa de recuerdo.
+**Resumen:** Crea un diorama 3D en miniatura tierno y de primera calidad de un monumento con texto de placa de recuerdo.
 
 <img src="images/2097580884098764800-1.jpg" alt="Imagen 1" width="480" />
 
@@ -690,7 +690,7 @@ Renderizado 3D · Arquitectura / Interiores · Publicado
 **Prompt**
 
 ```text
-Crea un diorama 3D en miniatura tierno y de primera calidad de [NOMBRE DE LA ESTRUCTURA], [CIUDAD, PAÍS]. Mantén el punto de referencia reconocible, elegante y encantador, con una composición limpia, tonos pastel suaves, sutiles detalles artesanales, iluminación natural suave y una estética refinada de recuerdo de viaje.\n\nIncluye texto mínimo y de buen gusto:\n[NOMBRE DE LA ESTRUCTURA]\n[CIUDAD, PAÍS]\nFamoso por: [DESCRIPCIÓN CORTA]
+Crea un diorama 3D en miniatura tierno y de primera calidad de [NOMBRE DE LA ESTRUCTURA], [CIUDAD, PAÍS]. Mantén el monumento reconocible, elegante y encantador, con una composición limpia, tonos pastel suaves, sutiles detalles artesanales, iluminación natural suave y una refinada estética de recuerdo de viaje.\n\nIncluye texto minimalista y de buen gusto:\n[NOMBRE DE LA ESTRUCTURA]\n[CIUDAD, PAÍS]\nFamoso por: [DESCRIPCIÓN CORTA]
 ```
 
 [↑ Volver a categorías](#catalog)

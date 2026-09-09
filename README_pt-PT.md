@@ -681,13 +681,13 @@ Crie um cartaz de arte editorial de alta qualidade para cada fotografia enviada,
 
 <a name="prompt-2097580884098764800"></a>
 
-### Crie um diorama 3D em miniatura fofo e de alta qualidade de um monumento com texto de placa de recordação.
+### Crie um diorama 3D em miniatura fofo e de alta qualidade de um monumento com texto de placa de lembrança.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Renderização 3D · Arquitetura / Interiores · Publicado
 
-**Resumo:** Crie um diorama 3D em miniatura fofo e de alta qualidade de um monumento com texto de placa de recordação.
+**Resumo:** Crie um diorama 3D em miniatura fofo e de alta qualidade de um monumento com texto de placa de lembrança.
 
 <img src="images/2097580884098764800-1.jpg" alt="Imagem 1" width="480" />
 
@@ -700,7 +700,7 @@ Renderização 3D · Arquitetura / Interiores · Publicado
 **Prompt**
 
 ```text
-Crie um diorama 3D em miniatura fofo e de alta qualidade de [NOME DA ESTRUTURA], [CIDADE, PAÍS]. Mantenha o monumento reconhecível, elegante e encantador, com uma composição limpa, tons pastel suaves, detalhes subtis feitos à mão, iluminação natural suave e uma estética refinada de recordação de viagem.\n\nInclua texto minimalista e de bom gosto:\n[NOME DA ESTRUTURA]\n[CIDADE, PAÍS]\nFamoso por: [BREVE DESCRIÇÃO]
+Crie um diorama 3D em miniatura fofo e de alta qualidade de [NOME DA ESTRUTURA], [CIDADE, PAÍS]. Mantenha o monumento reconhecível, elegante e encantador, com uma composição limpa, tons pastel suaves, detalhes artesanais subtis, iluminação natural suave e uma estética requintada de lembrança de viagem.\n\nInclua texto minimalista e de bom gosto:\n[NOME DA ESTRUTURA]\n[CIDADE, PAÍS]\nFamoso por: [BREVE DESCRIÇÃO]
 ```
 
 [↑ Voltar às categorias](#catalog)
