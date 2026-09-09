@@ -104,20 +104,20 @@ Profil / Avatar · Fotografie · Porträt / Selfie · Charakter · Zusammenfassu
 
 <a name="prompt-2096909970398941572"></a>
 
-### Übersetzung läuft
+### Fotorealistisches 9:16-Spiegel-Selfie einer sportlichen brasilianischen Frau in einem terrakotta-orangen Body in einem gehobenen Fitnessstudio.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Originalbeitrag](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches 9:16-Spiegel-Selfie einer sportlichen brasilianischen Frau in einem terrakotta-orangen Body in einem gehobenen Fitnessstudio.
 
 <img src="images/2096909970398941572-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotorealistisches Spiegel-Selfie in einem luxuriösen Indoor-Fitnessstudio, vertikal 9:16, eine junge erwachsene brasilianische Frau in einer entspannten Kontrapost-Pose, die ein Smartphone-Selfie aufnimmt. Die Kamera fängt die Szene durch einen großen, bodentiefen Spiegel mit einem Smartphone-Weitwinkelobjektiv ein, das 28–35 mm entspricht. Die Person steht etwa 1 Meter vom Spiegel entfernt. Der gesamte Körper von Kopf bis zu den Turnschuhen ist sichtbar. Sie befindet sich in der linken Bildmitte. Ein warmer Holzboden, schwarze Gummimatten sowie Reihen von Kettlebells und Seilzuggeräten sind rechts und im Hintergrund zu sehen. Die Person ist eine junge erwachsene brasilianische Frau mit einem kompakten, athletisch-kurvigen Körperbau: mäßig breite Schultern, definierte, aber nicht wuchtige Arme, voller Busen, schmale Taille, runde Hüften und natürlich kräftige Oberschenkel. Die Proportionen wirken geerdet und echt, statt modelhaft-dünn oder übertrieben. Warme, goldbraune Haut mit sichtbaren Poren und subtilen Nuancen. Weiches, natürliches Licht, keine künstliche Plastikhaut. Sie steht mit dem Gewicht auf dem rechten Bein, das linke Knie leicht gebeugt und nach außen gedreht, die Hüften zum Spiegel angewinkelt. Der Oberkörper dreht sich sanft, sodass ihre linke Schulter dem Glas näher ist. Die linke Hand ruht auf ihrer Hüfte; die rechte Hand hält ein dunkles Smartphone auf Wangenhöhe nah an ihr Gesicht. Der Kopf ist über die linke Schulter zum Smartphone gedreht, das Kinn leicht gesenkt, der Gesichtsausdruck ruhig und dezent selbstbewusst mit einem kleinen Lächeln bei geschlossenem Mund. Die Augen blicken auf den Bildschirm. Das Haar ist dunkelbraun mit warmen Karamell-Highlights, schulterlang, getragen in einem lockeren, tiefen Pferdeschwanz mit Strähnen, die das Gesicht umrahmen. Das Gesicht ist oval mit hohen Wangenknochen, vollen Lippen in einem natürlichen Nude-Rosa-Ton und dunkelbraunen, mandelförmigen Augen. Das Outfit ist ein hochgeschlossener, tief terrakotta-oranger Sport-Einteiler mit dünnen Trägern, moderater Bedeckung und einem hoch geschnittenen, aber dennoch dezenten Beinausschnitt. Mattes Stretchmaterial, keine Logos. Weiße Turnschuhe mit sauberen Sohlen. Die Umgebung ist ein modernes High-End-Fitnessstudio mit großen Spiegeln, freiliegendem Backstein an einer Wand, warmen Pendelleuchten gemischt mit kühlen Decken-LEDs und einigen anderen Personen, die im Hintergrund sanft unscharf trainieren. Realistisches Smartphone-HDR, natürliche Körnung, präzise Reflexionen und glaubwürdige Schatten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

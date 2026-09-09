@@ -104,20 +104,20 @@ Traduzione in corso
 
 <a name="prompt-2096909970398941572"></a>
 
-### Traduzione in corso
+### Selfie fotorealistico 9:16 allo specchio di una donna atletica brasiliana in body arancione terracotta all'interno di una palestra esclusiva.
 
 Autore：[@MrDasOnX](https://x.com/MrDasOnX) · [Post originale](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Selfie fotorealistico 9:16 allo specchio di una donna atletica brasiliana in body arancione terracotta all'interno di una palestra esclusiva.
 
 <img src="images/2096909970398941572-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Selfie fotorealistico allo specchio in una lussuosa palestra al coperto, verticale 9:16, una giovane donna brasiliana in posa a contrapposto rilassata mentre si scatta un selfie con lo smartphone. La fotocamera cattura la scena attraverso un grande specchio a tutta altezza utilizzando un obiettivo grandangolare per smartphone equivalente a 28–35 mm. Il soggetto si trova a circa 1 metro dallo specchio. Il corpo intero, dalla testa alle scarpe da ginnastica, è visibile. Occupa la parte centro-sinistra dell'inquadratura. Pavimento in legno caldo, tappetini in gomma nera e file di kettlebell e macchine a cavi appaiono sulla destra e sullo sfondo. Il soggetto è una giovane donna brasiliana con una corporatura compatta, atletica e formosa: spalle moderatamente larghe, braccia definite ma non massicce, seno prosperoso, vita stretta, fianchi arrotondati e cosce naturalmente piene. Le proporzioni appaiono autentiche e realistiche, anziché eccessivamente magre da modella o esagerate. Pelle calda e dorata con pori visibili e sottili variazioni. Luce naturale morbida, nessuna pelle dall'effetto plastico. È in piedi con il peso sulla gamba destra, il ginocchio sinistro leggermente piegato e rivolto verso l'esterno, i fianchi inclinati verso lo specchio. Il busto ruota delicatamente in modo che la spalla sinistra sia più vicina al vetro. La mano sinistra poggia sul fianco; la mano destra tiene uno smartphone scuro vicino al viso all'altezza della guancia. La testa è girata oltre la spalla sinistra verso il telefono, il mento leggermente abbassato, l'espressione calma e sottilmente sicura di sé con un piccolo sorriso a bocca chiusa. Gli occhi guardano lo schermo. I capelli sono castano scuro con caldi riflessi caramello, lunghi fino alle spalle, raccolti in una coda di cavallo bassa e morbida con ciocche che incorniciano il viso. Il viso è ovale con zigomi alti, labbra carnose in una tonalità rosa nude naturale e occhi a mandorla marrone scuro. L'outfit è un capo unico sportivo accollato color arancione terracotta intenso con spalline sottili, copertura moderata e sgambatura alta ma comunque discreta. Tessuto elasticizzato opaco, senza loghi. Scarpe da ginnastica bianche con suole pulite. L'ambientazione è un centro fitness contemporaneo di fascia alta con grandi specchi, mattoni a vista su una parete, calde lampade a sospensione miste a freddi LED a soffitto e poche altre persone che si allenano leggermente fuori fuoco sullo sfondo. HDR realistico da smartphone, grana naturale, riflessi precisi e ombre credibili.
 ```
 
 [↑ Torna alle categorie](#catalog)

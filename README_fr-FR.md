@@ -104,20 +104,20 @@ Traduction en cours
 
 <a name="prompt-2096909970398941572"></a>
 
-### Traduction en cours
+### Selfie miroir photoréaliste 9:16 d'une femme brésilienne athlétique vêtue d'un body orange terre cuite dans une salle de sport haut de gamme.
 
 Auteur：[@MrDasOnX](https://x.com/MrDasOnX) · [Publication originale](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Selfie miroir photoréaliste 9:16 d'une femme brésilienne athlétique vêtue d'un body orange terre cuite dans une salle de sport haut de gamme.
 
 <img src="images/2096909970398941572-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Selfie photoréaliste dans le miroir d'un studio de fitness de luxe en intérieur, vertical 9:16, une jeune femme brésilienne debout dans une pose de contrapposto décontractée prenant un selfie avec un smartphone. La caméra capture la scène à travers un grand miroir allant du sol au plafond à l'aide d'un objectif grand angle pour smartphone équivalent à 28–35 mm. Le sujet se tient à environ 1 mètre du miroir. Le corps entier, de la tête aux baskets, est visible. Elle occupe le centre-gauche du cadre. Un parquet chaleureux, des tapis en caoutchouc noir et des rangées de kettlebells et de machines à câbles apparaissent sur la droite et en arrière-plan. Le sujet est une jeune femme brésilienne avec une silhouette compacte, athlétique et tout en courbes : des épaules modérément larges, des bras définis mais non massifs, une poitrine généreuse, une taille marquée, des hanches arrondies et des cuisses naturellement épaisses. Les proportions semblent réalistes et authentiques plutôt que minces comme un mannequin ou exagérées. Peau hâlée dorée et chaude avec des pores visibles et de subtiles variations. Éclairage naturel doux, pas de peau à l'aspect plastique. Elle se tient avec le poids sur sa jambe droite, le genou gauche légèrement plié et tourné vers l'extérieur, les hanches orientées vers le miroir. Le buste pivote doucement de manière à ce que son épaule gauche soit plus proche de la vitre. Sa main gauche repose sur sa hanche ; sa main droite tient un smartphone sombre près de son visage à hauteur de joue. La tête est tournée par-dessus son épaule gauche vers le téléphone, le menton légèrement baissé, l'expression calme et discrètement confiante avec un léger sourire aux lèvres fermées. Les yeux regardent l'écran. Les cheveux sont châtain foncé avec des reflets caramel chauds, mi-longs jusqu'aux épaules, coiffés en une queue-de-cheval basse et lâche avec des mèches encadrant le visage. Le visage est ovale avec des pommettes hautes, des lèvres pulpeuses dans une teinte rose-nude naturelle et des yeux en amande brun foncé. La tenue est une combinaison sportive une pièce orange terre cuite profonde à col montant avec de fines bretelles, une couvrance modérée et une échancrure haute mais toujours pudique au niveau des jambes. Tissu extensible mat, sans logos. Baskets blanches aux semelles impeccables. Le décor est un studio de fitness contemporain haut de gamme avec de grands miroirs, de la brique apparente sur un mur, des suspensions chaleureuses associées à des LED froides au plafond, et quelques autres personnes s'entraînant avec un léger flou en arrière-plan. HDR réaliste de smartphone, grain naturel, reflets fidèles et ombres crédibles.
 ```
 
 [↑ Retour aux catégories](#catalog)
