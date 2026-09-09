@@ -1049,20 +1049,20 @@ Utilisez l'image jointe comme référence pour le schéma photographique. Conser
 
 <a name="prompt-2097533103376081383"></a>
 
-### Traduction en cours
+### Portrait de mode d'un jeune homme élégant en lunettes de soleil et veste en jean faisant le geste de 'chut' contre un mur grunge.
 
 Auteur：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publication originale](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de mode d'un jeune homme élégant en lunettes de soleil et veste en jean faisant le geste de 'chut' contre un mur grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait de mode cinématographique et ultra-réaliste d'un jeune homme élégant aux cheveux foncés épais et volumineux et à la barbe soigneusement taillée, portant des lunettes de soleil noires à monture rouge, un t-shirt noir, une veste en jean noir vieilli et un collier militaire en métal à plaque d'identification. Il tient un doigt verticalement contre ses lèvres dans un geste de « chut » plein d'assurance. Éclairage de studio chaleureux et dramatique, détails faciaux nets, fort contraste, esthétique streetwear brute. L'arrière-plan présente un mur vintage vieilli avec des sections de peinture verticales marquées de couleur sarcelle, crème et rouge, une texture grunge prononcée, des éclaboussures de peinture et des coulures de peinture noire. Composition centrée, portrait à mi-corps, photographie de mode éditoriale, haut niveau de détail, texture de peau réaliste, faible profondeur de champ, 4K, ambiance feutrée et stylée, qualité poster.
 ```
 
 [↑ Retour aux catégories](#catalog)

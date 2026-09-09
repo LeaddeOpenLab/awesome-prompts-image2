@@ -1049,20 +1049,20 @@ Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Bel
 
 <a name="prompt-2097533103376081383"></a>
 
-### Übersetzung läuft
+### Modeporträt eines stilvollen jungen Mannes mit Sonnenbrille und Jeansjacke, der vor einer Grunge-Wand eine 'Shh'-Geste macht.
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Originalbeitrag](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Modeporträt eines stilvollen jungen Mannes mit Sonnenbrille und Jeansjacke, der vor einer Grunge-Wand eine 'Shh'-Geste macht.
 
 <img src="images/2097533103376081383-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein filmisches, ultrarealistisches Modeporträt eines stilvollen jungen Mannes mit dichtem, voluminösem dunklem Haar und einem sauber gestutzten Bart, der eine schwarze Sonnenbrille mit rotem Rahmen, ein schwarzes T-Shirt, eine abgewetzte schwarze Jeansjacke und eine Dog-Tag-Halskette aus Metall trägt. Er hält einen Finger vertikal an seine Lippen in einer selbstbewussten „Shh“-Geste. Dramatische, warme Studiobeleuchtung, scharfe Gesichtsdetails, starker Kontrast, raue Streetwear-Ästhetik. Der Hintergrund zeigt eine abgenutzte Vintage-Wand mit kräftigen vertikalen Farbabschnitten in Blaugrün, Creme und Rot, starker Grunge-Textur, Farbspritzern und herablaufender schwarzer Farbe. Zentrierte Komposition, Porträt von der Taille aufwärts, redaktionelle Modefotografie, hoher Detailgrad, realistische Hauttextur, geringe Schärfentiefe, 4K, stimmungsvoll und stilvoll, Posterqualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

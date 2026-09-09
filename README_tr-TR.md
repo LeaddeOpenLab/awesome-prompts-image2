@@ -1059,20 +1059,20 @@ Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisin
 
 <a name="prompt-2097533103376081383"></a>
 
-### Çeviri sürüyor
+### Grunge bir duvarın önünde 'şşşt' hareketi yapan, güneş gözlüklü ve kot ceketli şık bir genç adamın moda portresi.
 
 Yazar：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Orijinal gönderi](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Grunge bir duvarın önünde 'şşşt' hareketi yapan, güneş gözlüklü ve kot ceketli şık bir genç adamın moda portresi.
 
 <img src="images/2097533103376081383-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kalın, hacimli koyu renk saçları ve düzgünce kesilmiş sakalı olan, kırmızı çerçeveli siyah güneş gözlüğü, siyah tişört, yıpranmış siyah kot ceket ve metal künye kolye takan şık bir genç adamın sinematik, son derece gerçekçi bir moda portresini oluşturun. Kendinden emin bir “şşşt” hareketiyle bir parmağını dikey olarak dudaklarına dayamış. Dramatik sıcak stüdyo aydınlatması, keskin yüz detayları, güçlü kontrast, asi sokak giyimi estetiği. Arka planda belirgin camgöbeği, krem ve kırmızı dikey boya bölümleri, yoğun grunge dokusu, boya sıçramaları ve damlayan siyah boya içeren yıpranmış nostaljik bir duvar yer alıyor. Ortalanmış kompozisyon, belden yukarı portre, editoryal moda fotoğrafçılığı, yüksek detay, gerçekçi cilt dokusu, sığ alan derinliği, 4K, atmosferik ve şık, poster kalitesinde.
 ```
 
 [↑ Kategorilere dön](#catalog)

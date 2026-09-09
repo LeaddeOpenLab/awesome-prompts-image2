@@ -1059,20 +1059,20 @@ Use a imagem em anexo como referência para o plano fotográfico. Mantenha a rel
 
 <a name="prompt-2097533103376081383"></a>
 
-### Tradução em curso
+### Retrato de moda de um jovem elegante com óculos de sol e casaco de ganga a fazer o gesto de 'shh' contra uma parede grunge.
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publicação original](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de moda de um jovem elegante com óculos de sol e casaco de ganga a fazer o gesto de 'shh' contra uma parede grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de moda cinematográfico e ultrarrealista de um jovem elegante com cabelo escuro, espesso e volumoso e barba bem aparada, a usar óculos de sol pretos com armação vermelha, uma t-shirt preta, um casaco de ganga preto desgastado e um colar com chapa de identificação metálica. Ele segura um dedo verticalmente contra os lábios num gesto confiante de “shh”. Iluminação de estúdio dramática e quente, detalhes faciais nítidos, forte contraste, estética streetwear rústica. O fundo apresenta uma parede vintage desgastada com secções verticais de tinta arrojadas em azul-petróleo, creme e vermelho, textura grunge pesada, salpicos de tinta e tinta preta a escorrer. Composição centrada, retrato da cintura para cima, fotografia de moda editorial, elevado nível de detalhe, textura de pele realista, profundidade de campo reduzida, 4K, melancólico e elegante, qualidade de poster.
 ```
 
 [↑ Voltar às categorias](#catalog)

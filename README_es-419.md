@@ -1049,20 +1049,20 @@ Usa la imagen adjunta como referencia del esquema fotográfico. Mantén su relac
 
 <a name="prompt-2097533103376081383"></a>
 
-### Traducción en curso
+### Retrato de moda de un joven elegante con gafas de sol y chamarra de mezclilla haciendo el gesto de 'shh' frente a una pared grunge.
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publicación original](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de moda de un joven elegante con gafas de sol y chamarra de mezclilla haciendo el gesto de 'shh' frente a una pared grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de moda cinematográfico y ultrarrealista de un joven elegante con cabello oscuro, grueso y voluminoso, y una barba prolijamente recortada, que lleva gafas de sol negras con armazón rojo, una camiseta negra, una chamarra de mezclilla negra desgastada y un collar de placa de identificación militar de metal. Sostiene un dedo verticalmente contra sus labios en un gesto confiado de "shh". Iluminación de estudio cálida y dramática, detalles faciales nítidos, fuerte contraste, estética de moda urbana ruda. El fondo presenta una pared vintage desgastada con secciones verticales de pintura en verde azulado intenso, crema y rojo, textura grunge pesada, salpicaduras de pintura y pintura negra goteando. Composición centrada, retrato de cintura para arriba, fotografía de moda editorial, alto detalle, textura de piel realista, poca profundidad de campo, 4K, melancólico y elegante, calidad de póster.
 ```
 
 [↑ Volver a categorías](#catalog)

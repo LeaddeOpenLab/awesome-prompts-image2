@@ -1049,20 +1049,20 @@ Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rap
 
 <a name="prompt-2097533103376081383"></a>
 
-### Traduzione in corso
+### Ritratto di moda di un giovane uomo elegante con occhiali da sole e giacca di jeans che fa il gesto di 'shh' davanti a una parete grunge.
 
 Autore：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Post originale](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di moda di un giovane uomo elegante con occhiali da sole e giacca di jeans che fa il gesto di 'shh' davanti a una parete grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto di moda cinematografico e ultra-realistico di un giovane uomo elegante con folti e voluminosi capelli scuri e una barba ben curata, che indossa occhiali da sole neri con montatura rossa, una maglietta nera, una giacca di jeans nera consumata e una collana con piastrina metallica militare. Tiene un dito verticalmente contro le labbra in un sicuro gesto di "shh". Illuminazione da studio calda e drammatica, dettagli del viso nitidi, forte contrasto, estetica streetwear grintosa. Lo sfondo presenta una parete vintage consumata con decise sezioni verticali dipinte di color ottanio, crema e rosso, pesante texture grunge, schizzi di vernice e vernice nera che cola. Composizione centrata, ritratto dalla vita in su, fotografia di moda editoriale, alto livello di dettaglio, texture realistica della pelle, ridotta profondità di campo, 4K, suggestivo ed elegante, qualità poster.
 ```
 
 [↑ Torna alle categorie](#catalog)
