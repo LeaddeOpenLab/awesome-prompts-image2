@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:41:27.343Z",
+  "model": "image2",
+  "prompt": "Create a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.",
+  "promptTranslations": {
+    "en": "Create a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout."
+  },
+  "summaryTranslations": {
+    "en": "Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.",
+  "summaryEn": "Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096902953110299096",
+    "canonicalUrl": "https://x.com/MissDelulu9/status/2096902953110299096",
+    "author": {
+      "username": "MissDelulu9",
+      "displayName": "Eesha",
+      "profileUrl": "https://x.com/MissDelulu9"
+    },
+    "publishedAt": "2026-09-07T10:06:37.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT \n\nPrompt:\n\nCreate a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRmyE4qbkAA8K89.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRmyE4qbkAA8K89.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRmyGadbcAA1Wwa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRmyGadbcAA1Wwa.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 431,
+      "repostCount": 34,
+      "replyCount": 58,
+      "quoteCount": 0,
+      "viewCount": 11088
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MissDelulu9/status/2096902953110299096",
+  "coverUrl": "https://pbs.twimg.com/media/HRmyE4qbkAA8K89.jpg",
+  "coverPath": "images/2096902953110299096-1.jpg",
+  "imagePaths": [
+    "images/2096902953110299096-1.jpg",
+    "images/2096902953110299096-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRmyE4qbkAA8K89",
+    "x-image:/media/HRmyGadbcAA1Wwa",
+    "x-post:2096902953110299096"
+  ],
+  "analysis": {
+    "summary": "Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.",
+    "summaryEn": "Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image 1 exactly matches the layout, 50/50 split, sketch style, and specific handwritten phrases 'A Beautiful Day' and 'Memories to Keep'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.",
+    "sourceRange": {
+      "start": 34,
+      "end": 747
+    },
+    "translations": {
+      "zh": "制作一张精确五五平分的竖版高级旅行手账海报。\n\n上半部分 50%：保留原始参考照片的完全真实状态，不作改动，保持构图、建筑、人物、色彩、光影、透视与细节完全一致。\n\n下半部分 50%：将相同照片转化为画在暖奶油色纸上的细腻手绘彩铅加水彩速写，带有明显铅笔笔触、柔和水洗质感、细腻纸张纹理、不规则轮廓与温和交叉排线。保持所有主体清晰可辨。\n\n添加优雅的手写文字：上方为“A Beautiful Day”，下方为“Memories to Keep”。极简、怀旧且具质感的旅行杂志美学。无多余物体，下半部分无逼真摄影感，严格五五开布局。",
+      "en": "Create a premium vertical travel-journal poster in an exact 50/50 split.\n\nTop 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.\n\nBottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.\n\nAdd elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
