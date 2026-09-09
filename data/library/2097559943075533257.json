@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:19:26.635Z",
+  "model": "image2.5",
+  "prompt": "不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif",
+  "promptTranslations": {
+    "en": "Do not use skills, create a sprite sheet.\nThis sheet contains the process of a pixel art male goblin drawing a bow and arrow and shooting.\nA total of 16 frames.\nThen slice this image and make it into a perpetual looping gif"
+  },
+  "summaryTranslations": {
+    "en": "Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow."
+  },
+  "translationVersion": 2,
+  "summary": "生成像素风男性哥布林拉弓射箭的16帧精灵图动画循环指令。",
+  "summaryEn": "Prompt for generating a 16-frame pixel art sprite animation loop of a male goblin shooting a bow.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097559943075533257",
+    "canonicalUrl": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+    "author": {
+      "username": "Fomsky_Wei",
+      "displayName": "FomskyWei",
+      "profileUrl": "https://x.com/Fomsky_Wei"
+    },
+    "publishedAt": "2026-09-09T05:37:15.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "zh",
+    "originalText": "GPT-Image 2.5的鹈鹕测试来了\n对比2.0的稳定性有了巨巨巨巨大的提升..\n所以直接做精灵图就行了..不会影分身的就是image 2.5了\n图2就是古早产物\n\n不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif https://t.co/rd1awsCMG4",
+    "media": [
+      {
+        "type": "animated_gif",
+        "url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+        "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg",
+        "analysisUrl": "https://x.com/Fomsky_Wei/status/2097559943075533257"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097559601659129856/img/drhSrhN3NdLbzrDd.jpg",
+        "analysisUrl": "https://x.com/Fomsky_Wei/status/2097559943075533257"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 92
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+  "coverUrl": "https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg",
+  "coverPath": "covers/2097559943075533257.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:HRwEaI1aAAAk6UX.mp4",
+    "x-video:HRwEaI1aAAAk6UX.jpg",
+    "x-video:2097559601659129856",
+    "x-post:2097559943075533257"
+  ],
+  "analysis": {
+    "summary": "生成像素风男性哥布林拉弓射箭的16帧精灵图动画循环指令。",
+    "summaryEn": "Prompt for generating a 16-frame pixel art sprite animation loop of a male goblin shooting a bow.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "动图展示了像素风哥布林拉弓射箭的循环动画，与提示词核心要求高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif",
+    "sourceRange": {
+      "start": 85,
+      "end": 149
+    },
+    "translations": {
+      "zh": "不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif",
+      "en": "Do not use skills, make a sprite sheet. This image includes a pixel art male goblin drawing a bow and shooting, totaling 16 frames. Then slice this image and make it into a looping gif."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "游戏精灵图动画制作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
