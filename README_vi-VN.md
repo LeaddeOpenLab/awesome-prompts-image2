@@ -1123,7 +1123,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097611216139235779"></a>
 
-### Đang dịch
+### Tạo bộ biểu cảm meme đa dạng kèm chữ tiếng Trung và tiếng Anh dạng lưới 3x3 chín ô dựa trên ảnh nhân vật tham chiếu.
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1131,7 +1131,7 @@ Nhân vật · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo bộ biểu cảm meme đa dạng kèm chữ tiếng Trung và tiếng Anh dạng lưới 3x3 chín ô dựa trên ảnh nhân vật tham chiếu.
 
 <img src="images/2097611216139235779-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1152,7 +1152,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tham khảo nhân vật trong ảnh, tạo 9 biểu cảm meme khác nhau xếp thành lưới 3*3, có thể xuất hiện chữ tiếng Trung và tiếng Anh, nền gradient màu sáng
 ```
 
 [↑ Về danh mục](#catalog)

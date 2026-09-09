@@ -1145,7 +1145,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097611216139235779"></a>
 
-### Traducción en curso
+### Generación de un paquete de múltiples expresiones en cuadrícula 3x3 de nueve casillas con chino e inglés basado en una imagen de referencia del personaje.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1153,7 +1153,7 @@ Personaje · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Resumen:** Traducción en curso
+**Resumen:** Generación de un paquete de múltiples expresiones en cuadrícula 3x3 de nueve casillas con chino e inglés basado en una imagen de referencia del personaje.
 
 <img src="images/2097611216139235779-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1174,7 +1174,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Tomando como referencia al personaje de la imagen, genera un conjunto de 9 expresiones diferentes en una cuadrícula de 3*3, pueden incluir texto en chino e inglés, con un fondo degradado de color claro
 ```
 
 [↑ Volver a categorías](#catalog)
