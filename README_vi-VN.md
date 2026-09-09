@@ -525,13 +525,13 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 <a name="prompt-2097716825668702388"></a>
 
-### Đang dịch
+### Biến hai hình ảnh tham chiếu thành một phong cảnh du lịch điện ảnh siêu thực, ngoạn mục duy nhất với vòng lặp hoạt ảnh hoàng hôn mượt mà kết hợp các yếu tố của Istanbul và làng ven hồ vùng núi An-pơ châu Âu.
 
 Tác giả：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Bài gốc](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Biến hai hình ảnh tham chiếu thành một phong cảnh du lịch điện ảnh siêu thực, ngoạn mục duy nhất với vòng lặp hoạt ảnh hoàng hôn mượt mà kết hợp các yếu tố của Istanbul và làng ven hồ vùng núi An-pơ châu Âu.
 
 <img src="images/2097716825668702388-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -540,7 +540,32 @@ Tác giả：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Biến hai hình ảnh tham chiếu thành một phong cảnh du lịch điện ảnh siêu thực, ngoạn mục duy nhất với vòng lặp hoạt ảnh hoàng hôn mượt mà không tì vết.
+
+BỐI CẢNH
+Kết hợp các yếu tố chính từ cả hai hình ảnh thành một điểm đến trông tự nhiên. Bao gồm nhà thờ Hồi giáo lớn kiểu Ottoman với nhiều tháp nhọn và mái vòm, bờ sông và thuyền kiểu Istanbul từ hình ảnh thứ nhất, cùng với hồ nước trên núi cao thanh bình, ngôi làng châu Âu đầy màu sắc, những ngọn núi phủ tuyết hùng vĩ và lâu đài đá tuyệt đẹp trên đỉnh đồi từ hình ảnh thứ hai.
+
+Tạo góc nhìn rộng ven sông tuyệt đẹp với kiến trúc lịch sử ở một bên và lâu đài cùng núi non ở bên kia. Thêm những bông hoa rực rỡ, cây cối xanh tươi, thực vật Địa Trung Hải, một chiếc đèn lồng cổ điển và một sân hiên thanh lịch với chiếc bàn cà phê nhỏ ở tiền cảnh.
+
+HOÀNG HÔN & ÁNH SÁNG
+Hoàng hôn giờ vàng tuyệt đẹp với những đám mây màu xanh pastel, hồng, đào và cam. Ánh nắng ấm áp chiếu sáng nhà thờ Hồi giáo, lâu đài, ngôi làng, núi non và thuyền bè. Mặt hồ phản chiếu cảnh hoàng hôn, các tòa nhà và núi non với những gợn sóng nhẹ nhàng chân thực và ánh phản chiếu vàng óng.
+
+HOẠT ẢNH
+Tạo 16 khung hình liên tiếp của một vòng lặp mượt mà không tì vết. Chỉ tạo chuyển động tinh tế của môi trường: mây trôi chậm, sóng nước gợn nhẹ, thuyền khẽ đung đưa, chim bay ở phía xa, hoa và lá cây khẽ lay động trong gió, và ánh nến/đèn lồng lập lòe tinh tế.
+
+Giữ máy ảnh hoàn toàn cố định. Giữ cho nhà thờ Hồi giáo, lâu đài, núi non, nhà cửa và tất cả các vật thể chính hoàn toàn nhất quán trên mọi khung hình. Khung hình 16 phải chuyển tiếp mượt mà trở lại Khung hình 1.
+
+PHONG CÁCH
+Nhiếp ảnh du lịch điện ảnh siêu thực, quảng cáo du lịch sang trọng, bầu không khí giờ vàng ngoạn mục, kiến trúc chân thực, núi non chi tiết, thảm thực vật tự nhiên, hình ảnh phản chiếu trên mặt nước tuyệt đẹp, chiều sâu khí quyển, dải tương phản động cao (HDR), màu sắc phong phú nhưng tự nhiên, nhiếp ảnh chuyên nghiệp, chất lượng 8K chân thực như ảnh chụp.
+
+MÁY ẢNH
+Góc nhìn phong cảnh điện ảnh rộng, ống kính 24mm, máy ảnh cố định ổn định, phối cảnh tự nhiên, độ sâu trường ảnh chân thực, bố cục khung hình và ánh sáng nhất quán trên tất cả các khung hình.
+
+CÀI ĐẶT HOẠT ẢNH
+16 khung hình, vòng lặp hoàn chỉnh khoảng 2,2 giây, hoạt ảnh GIF liên tục mượt mà, không chuyển động máy ảnh, không nhấp nháy.
+
+NEGATIVE PROMPT
+hoạt hình, anime, tranh vẽ, CGI, kết xuất 3D, chất lượng thấp, tòa nhà biến dạng, nhà thờ Hồi giáo cong vẹo, tháp nhọn xiêu vẹo, lâu đài dị dạng, núi non méo mó, thuyền bị nhân bản, vật thể trôi nổi, hình ảnh phản chiếu phi thực tế, nước giả tạo, sương mù quá mức, màu sắc quá bão hòa, HDR cực đoan, hình ảnh mờ, mờ chuyển động, rung máy ảnh, thu phóng, nhấp nháy, các tòa nhà biến hình, kiến trúc thay đổi, vật thể biến mất, chim bị nhân bản, mây không tự nhiên, đường nối hình ảnh, vết ghép nhìn thấy được, văn bản, logo, hình mờ (watermark), viền, dải đen, dị vật hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
