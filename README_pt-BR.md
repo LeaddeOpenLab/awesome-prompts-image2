@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**23** Prompts · Última adição: **2026-09-09**
+**24** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,28 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097513469172129825"></a>
+
+### Tradução em andamento
+
+Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicação original](https://x.com/BubbleBrain/status/2097513469172129825)
+
+Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097513469172129825-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097486896750338125"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**23** Prompts · Dernier ajout: **2026-09-09**
+**24** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,28 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097513469172129825"></a>
+
+### Traduction en cours
+
+Auteur：[@BubbleBrain](https://x.com/BubbleBrain) · [Publication originale](https://x.com/BubbleBrain/status/2097513469172129825)
+
+Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097513469172129825-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097486896750338125"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**23** Prompts · Latest addition: **2026-09-09**
+**24** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -615,6 +615,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097513469172129825"></a>
+
+### High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.
+
+Author：[@BubbleBrain](https://x.com/BubbleBrain) · [Source](https://x.com/BubbleBrain/status/2097513469172129825)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.
+
+<img src="images/2097513469172129825-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097486896750338125"></a>
 
