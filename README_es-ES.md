@@ -1204,20 +1204,20 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097672457582985315"></a>
 
-### Traducción en curso
+### Prompt de texto a imagen para generar una imagen de guía turística para un itinerario de 5 días en Rizhao, Qingdao y Yantai.
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Publicación original](https://x.com/MrGafish/status/2097672457582985315)
 
 Infografía / Visual Educativo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de texto a imagen para generar una imagen de guía turística para un itinerario de 5 días en Rizhao, Qingdao y Yantai.
 
 <img src="images/2097672457582985315-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días, genera una imagen de guía turística con el itinerario
 ```
 
 [↑ Volver a categorías](#catalog)

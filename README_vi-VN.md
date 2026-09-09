@@ -1182,20 +1182,20 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097672457582985315"></a>
 
-### Đang dịch
+### Prompt tạo ảnh cẩm nang du lịch cho lịch trình 5 ngày tại Nhật Chiếu, Thanh Đảo, Yên Đài.
 
 Tác giả：[@MrGafish](https://x.com/MrGafish) · [Bài gốc](https://x.com/MrGafish/status/2097672457582985315)
 
 Infographic / Hình ảnh giáo dục · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt tạo ảnh cẩm nang du lịch cho lịch trình 5 ngày tại Nhật Chiếu, Thanh Đảo, Yên Đài.
 
 <img src="images/2097672457582985315-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tháng này tôi sẽ đi du lịch Nhật Chiếu, Thanh Đảo, Yên Đài trong 5 ngày, hãy tạo một hình ảnh cẩm nang hướng dẫn du lịch
 ```
 
 [↑ Về danh mục](#catalog)
