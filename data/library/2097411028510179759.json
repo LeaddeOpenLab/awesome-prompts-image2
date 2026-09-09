@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:42:06.783Z",
+  "model": "image2.5",
+  "prompt": "Photo of a clearing in the woods with lots of green foliage, highly detailed",
+  "promptTranslations": {
+    "en": "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+  },
+  "summaryTranslations": {
+    "en": "High-definition landscape photo prompt of a forest clearing with dense green foliage."
+  },
+  "translationVersion": 2,
+  "summary": "树林空地与茂密绿色植被的高清风景照片提示词。",
+  "summaryEn": "Prompt for a detailed photo of a forest clearing with dense green foliage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097411028510179759",
+    "canonicalUrl": "https://x.com/mark_k/status/2097411028510179759",
+    "author": {
+      "username": "mark_k",
+      "displayName": "Mark Kretschmann",
+      "profileUrl": "https://x.com/mark_k"
+    },
+    "publishedAt": "2026-09-08T19:45:31.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "GPT-Image-2.5 has arrived in @ChatGPT 🔥\n\nIt features many improvements, but I couldn't help myself from doing the infamous \"noise artifact\" test.\n\nThe results are mixed!\n\nPrompt: \"Photo of a clearing in the woods with lots of green foliage, highly detailed\"\n\nSee for yourself: https://t.co/bIhdiZoplb",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRt_pW_XEAAYiCE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRt_pW_XEAAYiCE.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 331,
+      "repostCount": 8,
+      "replyCount": 85,
+      "quoteCount": 5,
+      "viewCount": 27444
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mark_k/status/2097411028510179759",
+  "coverUrl": "https://pbs.twimg.com/media/HRt_pW_XEAAYiCE.jpg",
+  "coverPath": "images/2097411028510179759-1.jpg",
+  "imagePaths": [
+    "images/2097411028510179759-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRt_pW_XEAAYiCE",
+    "x-post:2097411028510179759"
+  ],
+  "analysis": {
+    "summary": "树林空地与茂密绿色植被的高清风景照片提示词。",
+    "summaryEn": "Prompt for a detailed photo of a forest clearing with dense green foliage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image shows a detailed photo of a clearing surrounded by tall trees and lush green foliage."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Photo of a clearing in the woods with lots of green foliage, highly detailed",
+    "sourceRange": {
+      "start": 180,
+      "end": 256
+    },
+    "translations": {
+      "zh": "树林中空地的照片，绿树成荫，细节高度丰富",
+      "en": "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "nature landscape photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
