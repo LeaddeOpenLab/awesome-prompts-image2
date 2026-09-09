@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**48** Prompts · Última incorporación: **2026-09-09**
+**49** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -803,6 +803,32 @@ Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 
 ```text
 Por favor, captura una captura de pantalla realista de un RPG de romance de mundo abierto en 3D de próxima generación ficticio, presentado desde la perspectiva en primera persona del protagonista masculino. En la playa, Morrigan Aensland de Darkstalkers invita al protagonista a ayudarla a aplicarse protector solar. El estilo visual general debe contar con personajes 3D renderizados con sombreado plano (cel-shaded) de alta calidad combinados con gráficos al nivel de Unreal Engine 5, logrando una fidelidad visual de calidad AAA. Debe incluir un modelado de personajes ultra detallado, sombreado de piel realista, iluminación cinematográfica, materiales PBR, texturas de ropa de alta precisión y entornos renderizados con delicadeza. La imagen final debe parecer una captura de pantalla real de un juego jugable, incluyendo una interfaz de usuario del juego completa: minimapa, visualización de misiones, barras de estado de personajes, avisos de interacción, subtítulos de diálogo, elementos de HUD y más.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Traducción en curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097704623952035841-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

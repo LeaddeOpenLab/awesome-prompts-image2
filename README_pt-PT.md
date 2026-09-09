@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**48** Prompts · Adição mais recente: **2026-09-09**
+**49** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -786,6 +786,32 @@ Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 
 ```text
 Por favor, capture uma captura de ecrã realista de um RPG de romance fictício de mundo aberto em 3D de última geração, apresentado a partir da perspetiva em primeira pessoa do protagonista masculino. Na praia, Morrigan Aensland de Darkstalkers convida o protagonista a ajudá-la a aplicar protetor solar. O estilo visual geral deve apresentar personagens em 3D renderizados com estilo de desenho animado de alta qualidade combinados com gráficos de nível Unreal Engine 5, alcançando uma fidelidade visual com qualidade AAA. Deve incluir modelação de personagens ultra-detalhada, sombreamento de pele realista, iluminação cinematográfica, materiais PBR, texturas de roupa de alta precisão e ambientes de sala de aula finamente renderizados. A imagem final deve parecer uma captura de ecrã de um jogo verdadeiramente jogável, incluindo uma interface de utilizador de jogo completa: minimapa, exibição de missões, barras de estado dos personagens, avisos de interação, legendas de diálogo, elementos do HUD e muito mais.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Tradução em curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097704623952035841-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

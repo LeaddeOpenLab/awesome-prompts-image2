@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**48** Prompt · Bổ sung mới nhất: **2026-09-09**
+**49** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -803,6 +803,32 @@ Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](htt
 
 ```text
 Vui lòng chụp một ảnh màn hình chân thực từ một tựa game RPG lãng mạn thế giới mở 3D thế hệ mới hư cấu, được thể hiện dưới góc nhìn thứ nhất của nam nhân vật chính. Trên bãi biển, Morrigan Aensland từ Darkstalkers đang rủ nhân vật chính giúp cô thoa kem chống nắng. Phong cách hình ảnh tổng thể phải có các nhân vật 3D cel-shaded chất lượng cao kết hợp với đồ họa đẳng cấp Unreal Engine 5, đạt độ chân thực hình ảnh chuẩn AAA. Hình ảnh phải bao gồm mô hình nhân vật siêu chi tiết, đổ bóng da chân thực, ánh sáng điện ảnh, vật liệu PBR, kết cấu trang phục có độ chính xác cao và môi trường được kết xuất tinh xảo. Hình ảnh cuối cùng phải trông giống như một ảnh chụp màn hình trò chơi có thể chơi được trên thực tế, bao gồm giao diện người dùng hoàn chỉnh của trò chơi: bản đồ thu nhỏ (minimap), bảng hiển thị nhiệm vụ, thanh trạng thái nhân vật, gợi ý tương tác, phụ đề hội thoại, các yếu tố HUD, v.v.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Đang dịch
+
+Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097704623952035841-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

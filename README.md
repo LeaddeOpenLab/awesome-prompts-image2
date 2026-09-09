@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**48** Prompts · Latest addition: **2026-09-09**
+**49** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -770,6 +770,32 @@ Source：[@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.c
 
 ```text
 Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective. On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen. The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.
+
+Author：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+3D Render · Published
+
+**Summary:** Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.
+
+<img src="images/2097704623952035841-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Create a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic.
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**48** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**49** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -776,6 +776,32 @@ Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbe
 
 ```text
 Bitte erstelle einen realistischen Screenshot aus einem fiktiven 3D-Open-World-Romantik-RPG der nächsten Generation, dargestellt aus der First-Person-Perspektive des männlichen Protagonisten. Am Strand lädt Morrigan Aensland aus Darkstalkers den Protagonisten ein, ihr beim Eincremen mit Sonnencreme zu helfen. Der visuelle Gesamtstil muss hochwertige, im Cartoon-Stil gerenderte 3D-Charaktere kombiniert mit Grafiken auf Unreal-Engine-5-Niveau aufweisen und visuelle AAA-Qualitätstreue erreichen. Er sollte ein ultra-detailliertes Charakter-Modeling, realistisches Skin-Shading, filmische Beleuchtung, PBR-Materialien, hochpräzise Kleidungstexturen und fein gerenderte Klassenzimmer-Umgebungen enthalten. Das finale Bild muss wie ein tatsächlicher spielbarer Game-Screenshot aussehen, einschließlich einer vollständigen Spiel-Benutzeroberfläche: Minimap, Quest-Anzeige, Charakter-Statusleisten, Interaktionsaufforderungen, Dialoguntertitel, HUD-Elemente und mehr.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Übersetzung läuft
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097704623952035841-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

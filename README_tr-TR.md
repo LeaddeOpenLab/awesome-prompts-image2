@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**48** Prompt · Son eklenen: **2026-09-09**
+**49** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -786,6 +786,32 @@ Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal
 
 ```text
 Lütfen erkek ana karakterin birinci şahıs bakış açısından sunulan, kurgusal bir yeni nesil 3D açık dünya romantizm RYO'sundan gerçekçi bir oyun içi ekran görüntüsü yakalayın. Plajda, Darkstalkers'tan Morrigan Aensland, ana karakteri güneş kremi sürmesine yardım etmesi için davet ediyor. Genel görsel tarz, Unreal Engine 5 düzeyindeki grafiklerle birleştirilmiş yüksek kaliteli çizgi film renderlı 3D karakterler içermeli ve AAA kalitesinde görsel aslına uygunluğa ulaşmalıdır. Son derece ayrıntılı karakter modellemesi, gerçekçi cilt gölgelendirmesi, sinematik aydınlatma, PBR malzemeleri, yüksek hassasiyetli kıyafet dokuları ve ince işlenmiş sınıf ortamları barındırmalıdır. Nihai görüntü; mini harita, görev ekranı, karakter durum çubukları, etkileşim istemleri, diyalog altyazıları, HUD öğeleri ve daha fazlasını içeren eksiksiz bir oyun kullanıcı arayüzüyle, gerçekten oynanabilir bir oyun ekran görüntüsü gibi görünmelidir.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097704623952035841-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

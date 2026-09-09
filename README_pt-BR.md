@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**48** Prompts · Última adição: **2026-09-09**
+**49** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -786,6 +786,32 @@ Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 
 ```text
 Por favor, capture uma captura de tela realista de um RPG de romance fictício de mundo aberto 3D de última geração, apresentado a partir da perspectiva em primeira pessoa do protagonista masculino. Na praia, Morrigan Aensland de Darkstalkers convida o protagonista para ajudá-la a passar protetor solar. O estilo visual geral deve apresentar personagens 3D de renderização em estilo desenho animado de alta qualidade combinados com gráficos de nível Unreal Engine 5, alcançando fidelidade visual com qualidade AAA. Deve incluir modelagem de personagens ultradetalhada, sombreamento de pele realista, iluminação cinematográfica, materiais PBR, texturas de roupas de alta precisão e ambientes de sala de aula finamente renderizados. A imagem final deve parecer uma captura de tela de um jogo realmente jogável, incluindo uma interface de usuário de jogo completa: minimapa, exibição de missões, barras de status do personagem, avisos de interação, legendas de diálogo, elementos de HUD e muito mais.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Tradução em andamento
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097704623952035841-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**48** Prompts · Dernier ajout: **2026-09-09**
+**49** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -776,6 +776,32 @@ Publication originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 
 ```text
 Veuillez capturer une capture d'écran réaliste d'un RPG romantique fictif en 3D en monde ouvert de nouvelle génération, présenté du point de vue à la première personne du protagoniste masculin. Sur la plage, Morrigan Aensland de Darkstalkers invite le protagoniste à l'aider à appliquer de la crème solaire. Le style visuel global doit comporter des personnages 3D au rendu cartoon de haute qualité combinés à des graphismes de niveau Unreal Engine 5, atteignant une fidélité visuelle de qualité AAA. Cela doit inclure une modélisation de personnages ultra-détaillée, un ombrage de peau réaliste, un éclairage cinématographique, des matériaux PBR, des textures de vêtements de haute précision et des environnements de salle de classe finement rendus. L'image finale doit ressembler à une véritable capture d'écran de jeu jouable, comprenant une interface utilisateur complète : mini-carte, affichage des quêtes, barres d'état des personnages, invites d'interaction, sous-titres de dialogue, éléments du HUD, et plus encore.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Traduction en cours
+
+Auteur：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publication originale](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097704623952035841-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

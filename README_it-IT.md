@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**48** Prompt · Ultima aggiunta: **2026-09-09**
+**49** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -776,6 +776,32 @@ Post originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Post origin
 
 ```text
 Cattura uno screenshot realistico di un fittizio gioco di ruolo romantico open-world 3D di nuova generazione, presentato dalla prospettiva in prima persona del protagonista maschile. Sulla spiaggia, Morrigan Aensland di Darkstalkers invita il protagonista ad aiutarla ad applicare la crema solare. Lo stile visivo generale deve presentare personaggi 3D renderizzati in stile cartoon di alta qualità combinati con una grafica di livello Unreal Engine 5, raggiungendo una fedeltà visiva di qualità AAA. Deve includere una modellazione dei personaggi ultra-dettagliata, uno shading realistico della pelle, un'illuminazione cinematografica, materiali PBR, texture degli abiti ad alta precisione e ambienti di aule scolastiche finemente renderizzati. L'immagine finale deve sembrare un vero screenshot di un gioco giocabile, inclusa un'interfaccia utente completa di gioco: minimappa, visualizzazione delle missioni, barre di stato dei personaggi, prompt di interazione, sottotitoli dei dialoghi, elementi dell'HUD e altro ancora.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097704623952035841"></a>
+
+### Traduzione in corso
+
+Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097704623952035841)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097704623952035841-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097704623952035841-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097704623952035841-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
