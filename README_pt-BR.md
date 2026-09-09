@@ -913,20 +913,26 @@ Tradução em andamento
 
 <a name="prompt-2096914920915001598"></a>
 
-### Tradução em andamento
+### Foto espontânea de smartphone de uma jovem mulher do Leste Asiático de moletom cinza e jeans sentada em um terraço de varanda ensolarado com jardim.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto espontânea de smartphone de uma jovem mulher do Leste Asiático de moletom cinza e jeans sentada em um terraço de varanda ensolarado com jardim.
 
 <img src="images/2096914920915001598-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma foto espontânea de smartphone completamente natural e fotorrealista de uma jovem mulher do Leste Asiático sentada confortavelmente de pernas cruzadas no terraço de um jardim de varanda. Ela tem cabelos castanho-escuros longos e naturalmente ondulados caindo soltos sobre os ombros e pela frente do corpo, com fios individuais suaves se movendo naturalmente. Seus traços são delicados e realistas, com maquiagem natural sutil e textura de pele autêntica.
+Ela está vestindo um moletom cinza-claro aconchegante e oversized com calça jeans azul-clara de corte solto. Sentada de forma casual e natural, ela apoia suavemente uma mão contra a bochecha enquanto olha para cima e ligeiramente para o lado. Sua expressão parece genuinamente fofa e pensativa, com um sutil biquinho, como se a foto tivesse sido tirada durante um momento calmo e espontâneo.
+Ela está sentada em uma superfície clara de terraço ao ar livre, cercada por plantas verdes exuberantes, folhagens frondosas em vasos e pequenas flores cor-de-rosa desabrochando. Uma grade de varanda de metal preto simples corre atrás dela, com árvores densas e vegetação natural preenchendo o fundo. O ambiente transmite uma sensação de paz, privacidade e de uma varanda com jardim real do dia a dia.
+A luz do dia suave, quente e natural incide gentilmente sobre seu rosto e roupas, criando sombras sutis e realistas. Poros naturais da pele, textura autêntica do cabelo, tecido realista do moletom e detalhes críveis do jeans são claramente visíveis. Nada parece excessivamente polido ou artificialmente posado.
+Fotografado como uma foto autêntica e casual de smartphone com uma perspectiva natural no nível dos olhos. Composição de corpo inteiro sentada, enquadramento vertical, com a pessoa posicionada ligeiramente em direção ao centro inferior do enquadramento. O fundo tem uma profundidade de campo suave e natural — suavemente desfocado, mas ainda claramente reconhecível.
+Fotografia ultrarrealista, proporções naturais, momento cotidiano espontâneo, estética de moda casual de inspiração coreana, cores suaves e atenuadas, granulado sutil de filme, iluminação realista, detalhes ligeiramente imperfeitos de câmera de smartphone, realismo em 4K, sem efeito de filtro de beleza, sem retoque excessivo.
+Prompt negativo: desenho animado, anime, ilustração, CGI, pele de aparência artificial, pele de plástico, maquiagem excessiva, traços faciais distorcidos, dedos extras, mãos malformadas, membros extras, anatomia incorreta, proporções corporais não naturais, pose rígida, cores supersaturadas, iluminação de estúdio dramática, rosto borrado, baixa resolução, marca d'água, texto, logotipo.
 ```
 
 [↑ Voltar às categorias](#catalog)

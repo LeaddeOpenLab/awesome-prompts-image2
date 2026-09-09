@@ -913,20 +913,26 @@ Tradução em curso
 
 <a name="prompt-2096914920915001598"></a>
 
-### Tradução em curso
+### Foto espontânea de smartphone de uma jovem mulher do Leste Asiático de camisola de treino cinzenta e calças de ganga sentada num terraço de varanda com jardim ensolarado.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto espontânea de smartphone de uma jovem mulher do Leste Asiático de camisola de treino cinzenta e calças de ganga sentada num terraço de varanda com jardim ensolarado.
 
 <img src="images/2096914920915001598-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma foto espontânea de smartphone completamente natural e fotorrealista de uma jovem mulher do Leste Asiático sentada confortavelmente de pernas cruzadas no terraço de um jardim de varanda. Ela tem cabelos castanho-escuros compridos e naturalmente ondulados a cair soltos sobre os ombros e pela frente do corpo, com fios individuais suaves a moverem-se naturalmente. Os seus traços são delicados e realistas, com maquilhagem natural subtil e textura de pele autêntica.
+Ela está a vestir uma camisola de treino cinzenta-clara aconchegante e oversized com calças de ganga azul-clara de corte descontraído. Sentada de forma casual e natural, ela apoia suavemente uma mão contra a bochecha enquanto olha para cima e ligeiramente de lado. A sua expressão parece genuinamente fofa e pensativa, com um subtil beicinho, como se a foto tivesse sido tirada durante um momento calmo e sem pose.
+Ela está sentada sobre uma superfície clara de terraço ao ar livre, rodeada por plantas verdes exuberantes, folhagens viçosas em vasos e pequenas flores cor-de-rosa a desabrochar. Um gradeamento de varanda simples em metal preto corre atrás dela, com árvores densas e vegetação natural a preencher o fundo. O ambiente transmite uma sensação de tranquilidade, privacidade e de uma varanda de jardim real do dia a dia.
+A luz do dia suave, quente e natural incide gentilmente sobre o seu rosto e roupas, criando sombras subtis e realistas. Poros naturais da pele, textura autêntica do cabelo, tecido realista da camisola de treino e detalhes credíveis da ganga são claramente visíveis. Nada parece excessivamente polido ou artificialmente posado.
+Fotografado como uma foto autêntica e casual de smartphone com uma perspetiva natural ao nível dos olhos. Composição de corpo inteiro sentada, enquadramento vertical, com o sujeito posicionado ligeiramente em direção ao centro inferior do enquadramento. O fundo tem uma profundidade de campo suave e natural — suavemente desfocado, mas permanecendo claramente reconhecível.
+Fotografia ultrarrealista, proporções naturais, momento quotidiano espontâneo, estética de moda casual de inspiração coreana, cores suaves e atenuadas, grão subtil de película, iluminação realista, detalhes ligeiramente imperfeitos de câmara de smartphone, realismo em 4K, sem efeito de filtro de beleza, sem retoques excessivos.
+Prompt negativo: desenho animado, anime, ilustração, CGI, pele de aspeto artificial, pele plástica, maquilhagem excessiva, traços faciais distorcidos, dedos a mais, mãos malformadas, membros a mais, anatomia incorreta, proporções corporais não naturais, pose rígida, cores hipersaturadas, iluminação de estúdio dramática, rosto desfocado, baixa resolução, marca de água, texto, logótipo.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -913,20 +913,26 @@ Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi]
 
 <a name="prompt-2096914920915001598"></a>
 
-### Çeviri sürüyor
+### Güneşli bir bahçe balkon terasında gri sweatshirt ve kot pantolonuyla oturan genç bir Doğu Asyalı kadının anlık akıllı telefon fotoğrafı.
 
 Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güneşli bir bahçe balkon terasında gri sweatshirt ve kot pantolonuyla oturan genç bir Doğu Asyalı kadının anlık akıllı telefon fotoğrafı.
 
 <img src="images/2096914920915001598-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Balkondaki bahçe terasında rahatça bağdaş kurmuş oturan genç bir Doğu Asyalı kadının tamamen doğal, fotogerçekçi, anlık bir akıllı telefon fotoğrafı. Omuzlarının üzerinden ve vücudunun ön kısmından dökülen, yumuşak tek tek telleri doğal bir şekilde hareket eden, uzun, doğal dalgalı koyu kahverengi saçlara sahip. Yüz hatları narin ve gerçekçi, hafif doğal bir makyaj ve otantik bir cilt dokusu var.
+Üzerinde büyük beden, rahat, açık gri bir sweatshirt ile rahat kesim açık mavi kot pantolon var. Rahat ve doğal bir şekilde otururken, bir elini hafifçe yanağına dayamış, yukarıya ve hafifçe yana bakıyor. İfadesi, sanki fotoğraf sessiz, poz verilmemiş bir an sırasında çekilmiş gibi, hafifçe büzülmüş dudaklarıyla gerçekten sevimli ve düşünceli hissettiriyor.
+Gür yeşil bitkiler, saksıdaki yapraklı yeşillikler ve açan küçük pembe çiçeklerle çevrili, açık renkli bir dış mekan teras yüzeyinde oturuyor. Arkasından sade, siyah metal bir balkon korkuluğu geçiyor; yoğun ağaçlar ve doğal yeşillikler arka planı dolduruyor. Ortam huzurlu, samimi ve gerçek, günlük bir bahçe balkonu hissi veriyor.
+Yumuşak, sıcak doğal gün ışığı yüzüne ve kıyafetlerine nazikçe vurarak gerçekçi, hafif gölgeler oluşturuyor. Doğal cilt gözenekleri, otantik saç dokusu, gerçekçi sweatshirt kumaşı ve inandırıcı kot detayları net bir şekilde görülebiliyor. Hiçbir şey aşırı cilalanmış veya yapay olarak poz verilmiş gibi durmuyor.
+Doğal bir göz hizası perspektifiyle, özgün ve rahat bir akıllı telefon fotoğrafı olarak çekilmiş. Oturan tam boy kompozisyon, dikey kadraj, özne kadrajın biraz alt-orta kısmına doğru konumlandırılmış. Arka plan hafif, doğal bir alan derinliğine sahip; yumuşakça bulanıklaştırılmış olsa da net bir şekilde tanınabiliyor.
+Aşırı gerçekçi fotoğrafçılık, doğal oranlar, anlık günlük bir an, Kore esintili rahat moda estetiği, yumuşak soluk renkler, hafif film greni, gerçekçi aydınlatma, hafif kusurlu akıllı telefon kamerası detayları, 4K gerçekçilik, güzellik filtresi etkisi yok, aşırı rötuş yok.
+Negatif istem: çizgi film, anime, illüstrasyon, CGI, yapay görünümlü cilt, plastik cilt, aşırı makyaj, bozuk yüz hatları, fazla parmaklar, biçimsiz eller, fazla uzuvlar, hatalı anatomi, doğal olmayan vücut oranları, kaskatı poz, aşırı doygun renkler, dramatik stüdyo aydınlatması, bulanık yüz, düşük çözünürlük, filigran, metin, logo.
 ```
 
 [↑ Kategorilere dön](#catalog)
