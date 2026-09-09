@@ -4,10 +4,26 @@
   "model": "image2",
   "prompt": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格",
   "promptTranslations": {
-    "en": "Top-down 35-degree high-angle shot, a young realistic East Asian woman with reddish-brown hair facing the camera, with both hands behind her head, elbows spread wide, showing a bright, genuine, toothy smile, hands clasped behind her head. She is wearing a pink string bikini and a delicate gold necklace, standing barefoot in front of a minimalist gray concrete background. Soft indoor natural light, realistic-textured lifestyle portrait snapshot style"
+    "en": "Top-down 35-degree high-angle shot, a young realistic East Asian woman with reddish-brown hair facing the camera, with both hands behind her head, elbows spread wide, showing a bright, genuine, toothy smile, hands clasped behind her head. She is wearing a pink string bikini and a delicate gold necklace, standing barefoot in front of a minimalist gray concrete background. Soft indoor natural light, realistic-textured lifestyle portrait snapshot style",
+    "zh": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格",
+    "zh-TW": "俯視35度角俯拍，一位留著紅棕色頭髮、她面對鏡頭，雙手抱在頭後，手肘張開，露出燦爛、真誠的露齒笑容，年輕真實東亞女性，雙手抱頭。她穿著粉色繫帶比基尼和細金項鍊，赤腳站在極簡灰色混凝土背景前。室內柔和自然光，真實質感的日常生活人像快照風格",
+    "ja-JP": "35度の角度からのハイアングル撮影、赤褐色の髪をした、カメラを見つめ、両手を頭の後ろに回し、肘を広げ、輝くような心からの歯を見せた笑顔を浮かべる、若いリアルな東アジア系女性、両手は頭の後ろ。彼女はピンクのストリングビキニと繊細なゴールドネックレスを身に着け、ミニマルなグレーのコンクリート背景の前に素足で立っている。室内の柔らかな自然光、リアルな質感のライフスタイルスナップ写真スタイル",
+    "ko-KR": "35도 각도의 하이앵글 촬영, 적갈색 머리를 하고 카메라를 향해 서서 양손을 머리 뒤로 얹고 팔꿈치를 벌린 채 환하고 진실된 치아를 드러낸 미소를 짓고 있는 젊고 실제 같은 동아시아 여성, 양손을 머리 뒤로 깍지 낀 모습. 그녀는 핑크색 스트링 비키니와 얇은 금목걸이를 착용하고 미니멀한 회색 콘크리트 배경 앞에 맨발로 서 있다. 부드러운 실내 자연광, 사실적인 질감의 라이프스타일 인물 스냅샷 스타일",
+    "th-TH": "ภาพมุมสูงจากมุมก้ม 35 องศา หญิงสาวชาวเอเชียตะวันออกหน้าตาเป็นธรรมชาติ ผมสีน้ำตาลแดง เธอกำลังหันหน้าเข้าหากล้อง เอามือทั้งสองข้างกุมไว้หลังศีรษะ ข้อศอกกางออก ส่งรอยยิ้มกว้างสดใสอย่างจริงใจจนเห็นฟัน มือทั้งสองประสานไว้หลังศีรษะ เธอสวมบิกินีแบบผูกสายสีชมพูและสร้อยคอทองคำเส้นเล็ก ยืนเท้าเปล่าอยู่หน้าฉากหลังคอนกรีตสีเทาเรียบง่าย แสงธรรมชาติในร่มที่นุ่มนวล สไตล์ภาพถ่ายสแนปช็อตพอร์ตเทรตวิถีชีวิตที่สมจริง",
+    "vi-VN": "Góc chụp từ trên cao chúc xuống 35 độ, một người phụ nữ Đông Á trẻ trung chân thực với mái tóc màu nâu đỏ, đối diện ống kính, hai tay đặt sau đầu, khuỷu tay mở rộng, để lộ nụ cười rạng rỡ, chân thành hé răng, hai tay ôm sau đầu. Cô mặc bộ bikini dây màu hồng và đeo vòng cổ vàng mảnh, đứng chân trần trước bức tường bê tông xám tối giản. Ánh sáng tự nhiên dịu nhẹ trong nhà, phong cách ảnh chụp nhanh chân dung đời thường với kết cấu chân thực",
+    "hi-IN": "35 डिग्री के कोण से लिया गया हाई-एंगल शॉट, लाल-भूरे बालों वाली, कैमरे की ओर देखती हुई, सिर के पीछे दोनों हाथ रखे, कोहनियां बाहर की ओर फैली हुई, एक चमकदार, सच्ची दाँत दिखाती मुस्कान बिखेरती एक युवा वास्तविक पूर्वी एशियाई महिला, दोनों हाथ सिर के पीछे। उसने गुलाबी स्ट्रिंग बिकनी और पतली सोने की चेन पहन रखी है, मिनिमलिस्ट ग्रे कंक्रीट पृष्ठभूमि के सामने नंगे पैर खड़ी है। इनडोर कोमल प्राकृतिक रोशनी, वास्तविक बनावट वाली लाइफस्टाइल पोर्ट्रेट स्नैपशॉट शैली",
+    "es-ES": "Toma en ángulo picado de 35 grados, una mujer joven y realista de Asia oriental con cabello castaño rojizo, de frente a la cámara, con las manos detrás de la cabeza, los codos abiertos, mostrando una sonrisa brillante y sincera con los dientes visibles, manos detrás de la cabeza. Lleva un bikini de tiras rosa y un fino collar de oro, descalza frente a un fondo minimalista de hormigón gris. Luz natural interior suave, estilo de instantánea de retrato de estilo de vida con textura realista"
   },
   "summaryTranslations": {
-    "en": "Realistic high-angle portrait of a young East Asian woman in a pink bikini in front of a minimalist gray background."
+    "en": "Realistic high-angle portrait of a young East Asian woman in a pink bikini in front of a minimalist gray background.",
+    "zh": "极简灰色背景前穿着粉色比基尼的年轻东亚女性俯拍真实肖像。",
+    "zh-TW": "極簡灰色背景前穿著粉色比基尼的年輕東亞女性俯拍真實肖像。",
+    "ja-JP": "ミニマルなグレーの背景の前でピンクのビキニを着た若い東アジア女性のハイアングルリアルポートレート。",
+    "ko-KR": "미니멀한 회색 배경 앞 핑크색 비키니를 입은 젊은 동아시아 여성의 하이앵글 사실적 인물 사진.",
+    "th-TH": "ภาพพอร์ตเทรตมุมสูงสมจริงของหญิงสาวชาวเอเชียตะวันออกในชุดบิกินีสีชมพู หน้าฉากหลังคอนกรีตสีเทาเรียบง่าย",
+    "vi-VN": "Chân dung chân thực chụp từ góc cao của một phụ nữ trẻ Đông Á mặc bikini màu hồng trước nền bê tông xám tối giản.",
+    "hi-IN": "मिनिमलिस्ट ग्रे पृष्ठभूमि के सामने गुलाबी बिकनी पहने युवा पूर्वी एशियाई महिला का हाई-एंगल वास्तविक पोर्ट्रेट।",
+    "es-ES": "Retrato realista en plano picado de una joven mujer de Asia oriental en bikini rosa frente a un fondo gris minimalista."
   },
   "translationVersion": 2,
   "summary": "极简灰色背景前穿着粉色比基尼的年轻东亚女性俯拍真实肖像。",
