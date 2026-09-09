@@ -1068,13 +1068,13 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2097543193651007508"></a>
 
-### Übersetzung läuft
+### Ein detaillierter Prompt zur Erstellung einer professionellen Infografik im 9:16-Format im Stil eines koreanischen Beauty-Magazins mit dem Titel 'Makeup Analysis Guide', basierend auf einem Referenzporträt, mit Nahaufnahmen zur Gesichtsanalyse, Farbmustern und strukturierten Make-up-Schritten.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Originalbeitrag](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 Infografik / Edu Visual · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein detaillierter Prompt zur Erstellung einer professionellen Infografik im 9:16-Format im Stil eines koreanischen Beauty-Magazins mit dem Titel 'Makeup Analysis Guide', basierend auf einem Referenzporträt, mit Nahaufnahmen zur Gesichtsanalyse, Farbmustern und strukturierten Make-up-Schritten.
 
 <img src="images/2097543193651007508-1.jpg" alt="Bild 1" width="480" />
 
@@ -1083,7 +1083,7 @@ Infografik / Edu Visual · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Wunderschönes koreanisches Mädchen mit weichen, natürlichen Gesichtszügen, gekleidet in ein schwarzes Outfit und mit klarer Brille, gestylt in einem sauberen, modernen Beauty-Editorial-Look. Erstelle eine professionelle Infografik mit dem Titel „MAKEUP ANALYSIS GUIDE“ unter Verwendung des hochgeladenen Porträts als wichtigste visuelle Referenz. Bewahre die ursprünglichen Gesichtszüge, die Frisur, die Hauttextur, die Brille und den natürlichen Wiedererkennungswert ohne übermäßige Retusche. Hebe Augen, Brauen, Nase, Wangen und glänzende rosa Lippen mit eleganten Nahaufnahme-Detailfeldern und dezenten Hinweislinien hervor. Füge eine raffinierte Make-up-Farbpalette aus warmen Neutralltönen, Rosépink und sanftem Braun mit kleinen Beauty-Swatches hinzu. Binde prägnante Abschnitte für Makeup Steps, Best Makeup Looks, Key Products und Quick Tips mit minimalem, gut lesbarem Text ein. Verwende eine erstklassige koreanische Beauty-Magazin-Ästhetik mit klarer Typografie, sanften Beige-Akzenten, dunklem redaktionellem Hintergrund und ausgewogenen Abständen. Gestalte die endgültige Komposition makellos, anspruchsvoll, fotorealistisch und im vertikalen 9:16-Format mit dem Gesamteindruck von „Same You, Just More Polished“.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

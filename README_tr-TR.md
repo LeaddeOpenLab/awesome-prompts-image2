@@ -1078,13 +1078,13 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097543193651007508"></a>
 
-### Çeviri sürüyor
+### Bir referans portreye dayalı, yakın çekim yüz analizi, renk örnekleri ve yapılandırılmış makyaj adımları içeren, Kore güzellik dergisi tarzında profesyonel bir 9:16 'Makeup Analysis Guide' infografiği oluşturmak için ayrıntılı bir prompt.
 
 Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 İnfografik / Eğitici Görsel · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir referans portreye dayalı, yakın çekim yüz analizi, renk örnekleri ve yapılandırılmış makyaj adımları içeren, Kore güzellik dergisi tarzında profesyonel bir 9:16 'Makeup Analysis Guide' infografiği oluşturmak için ayrıntılı bir prompt.
 
 <img src="images/2097543193651007508-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1093,7 +1093,7 @@ Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi]
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak ve doğal yüz hatlarına sahip, siyah bir kıyafet ve şeffaf gözlük takan, temiz ve modern bir güzellik editoryali görünümünde tasarlanmış güzel Koreli kız. Yüklenen portreyi ana görsel referans olarak kullanarak profesyonel bir “MAKEUP ANALYSIS GUIDE” infografiği oluşturun. Aşırı rötuş yapmadan orijinal yüz hatlarını, saç stilini, cilt dokusunu, gözlükleri ve doğal tanınabilirliği koruyun. Zarif yakın çekim detay panelleri ve ince işaret çizgileri ile gözleri, kaşları, burnu, yanakları ve parlak pembe dudakları vurgulayın. Küçük güzellik renk örnekleriyle birlikte sıcak-nötr, gül pembesi ve yumuşak kahverengi tonlarında zarif bir makyaj renk paleti ekleyin. Minimum düzeyde, okunabilir metin içeren Makeup Steps, Best Makeup Looks, Key Products ve Quick Tips için kısa ve öz bölümlere yer verin. Temiz tipografi, yumuşak bej vurgular, koyu editoryal arka plan ve dengeli aralıklarla birinci sınıf bir Kore güzellik dergisi estetiği kullanın. Son kompozisyonun cilalı, sofistike, fotogerçekçi, 9:16 dikey formatta ve genel olarak “Same You, Just More Polished” hissini vermesini sağlayın.
 ```
 
 [↑ Kategorilere dön](#catalog)

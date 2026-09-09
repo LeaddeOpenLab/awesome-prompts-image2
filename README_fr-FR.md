@@ -1068,13 +1068,13 @@ Traduction en cours
 
 <a name="prompt-2097543193651007508"></a>
 
-### Traduction en cours
+### Un prompt détaillé pour créer une infographie professionnelle au format 9:16 dans le style d'un magazine de beauté coréen intitulée 'Makeup Analysis Guide' basée sur un portrait de référence, présentant une analyse faciale en gros plan, des échantillons de couleur et des étapes de maquillage structurées.
 
 Auteur：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publication originale](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 Infographie / Visuel éducatif · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt détaillé pour créer une infographie professionnelle au format 9:16 dans le style d'un magazine de beauté coréen intitulée 'Makeup Analysis Guide' basée sur un portrait de référence, présentant une analyse faciale en gros plan, des échantillons de couleur et des étapes de maquillage structurées.
 
 <img src="images/2097543193651007508-1.jpg" alt="Image 1" width="480" />
 
@@ -1083,7 +1083,7 @@ Infographie / Visuel éducatif · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Belle jeune femme coréenne aux traits doux et naturels, vêtue d'une tenue noire et portant des lunettes transparentes, coiffée et maquillée dans un style éditorial de beauté moderne et épuré. Créez une infographie professionnelle « MAKEUP ANALYSIS GUIDE » en utilisant le portrait importé comme référence visuelle principale. Conservez les traits du visage d'origine, la coiffure, la texture de la peau, les lunettes et la reconnaissance naturelle sans retouche excessive. Mettez en valeur les yeux, les sourcils, le nez, les joues et les lèvres roses et brillantes grâce à d'élégants panneaux de détails en gros plan et de subtiles lignes de repère. Ajoutez une palette de maquillage raffinée aux tons chauds-neutres, rose rosé et marron doux avec de petits échantillons de beauté. Incluez des sections concises pour Makeup Steps, Best Makeup Looks, Key Products et Quick Tips avec un texte minimal et lisible. Adoptez une esthétique haut de gamme de magazine de beauté coréen avec une typographie soignée, de doux accents beiges, un arrière-plan éditorial sombre et un espacement équilibré. Rendez la composition finale soignée, sophistiquée, photoréaliste et au format vertical 9:16, avec le sentiment général de « Same You, Just More Polished ».
 ```
 
 [↑ Retour aux catégories](#catalog)

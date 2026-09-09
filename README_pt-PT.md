@@ -1078,13 +1078,13 @@ Tradução em curso
 
 <a name="prompt-2097543193651007508"></a>
 
-### Tradução em curso
+### Um prompt detalhado para criar um infográfico profissional em formato 9:16 no estilo de revista de beleza coreana intitulado 'Makeup Analysis Guide', baseado num retrato de referência, apresentando análise facial em grande plano, amostras de cores e passos de maquilhagem estruturados.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicação original](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 Infográfico / Visual Educacional · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt detalhado para criar um infográfico profissional em formato 9:16 no estilo de revista de beleza coreana intitulado 'Makeup Analysis Guide', baseado num retrato de referência, apresentando análise facial em grande plano, amostras de cores e passos de maquilhagem estruturados.
 
 <img src="images/2097543193651007508-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1093,7 +1093,7 @@ Infográfico / Visual Educacional · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Bela rapariga coreana com traços suaves e naturais, a vestir uma roupa preta e óculos transparentes, com um estilo editorial de beleza limpo e moderno. Crie um infográfico profissional “MAKEUP ANALYSIS GUIDE” utilizando o retrato carregado como a principal referência visual. Preserve os traços faciais originais, o penteado, a textura da pele, os óculos e a reconhecibilidade natural sem retoques excessivos. Destaque os olhos, sobrancelhas, nariz, bochechas e lábios cor-de-rosa brilhantes com elegantes painéis de detalhes em grande plano e subtis linhas de chamada. Adicione uma paleta de maquilhagem requintada com tons neutros quentes, rosa suave e castanho suave com pequenas amostras de beleza. Inclua secções concisas para Makeup Steps, Best Makeup Looks, Key Products e Quick Tips com texto mínimo e legível. Utilize uma estética premium de revista de beleza coreana com tipografia limpa, apontamentos em bege suave, fundo editorial escuro e espaçamento equilibrado. Torne a composição final polida, sofisticada, fotorrealista e em formato vertical 9:16, transmitindo a sensação geral de “Same You, Just More Polished”.
 ```
 
 [↑ Voltar às categorias](#catalog)
