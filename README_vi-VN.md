@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**24** Prompt · Bổ sung mới nhất: **2026-09-09**
+**25** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -600,6 +600,28 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097519422407872858"></a>
+
+### Đang dịch
+
+Tác giả：[@higgsfield](https://x.com/higgsfield) · [Bài gốc](https://x.com/higgsfield/status/2097519422407872858)
+
+Sản phẩm · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097519422407872858.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097513469172129825"></a>
 

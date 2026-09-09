@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**24** Prompts · Latest addition: **2026-09-09**
+**25** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -615,6 +615,40 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097519422407872858"></a>
+
+### Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.
+
+Author：[@higgsfield](https://x.com/higgsfield) · [Source](https://x.com/higgsfield/status/2097519422407872858)
+
+Product · Published
+
+**Summary:** Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.
+
+<img src="covers/2097519422407872858.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a photorealistic studio turntable video of a polished wooden chess knight.
+
+The knight has a minimalist carved horse silhouette: broad flat sides, a rounded elongated muzzle, a tiny dark eye, an angular ear, and a gently curved neck. A smooth, dark brown insert follows the mane along the back. The figure stands on a wide circular wooden base with several concentric stepped rings.
+
+Use warm brown wood with clearly visible vertical grain, softly rounded edges, and a glossy lacquer finish. Preserve the exact shape, proportions, wood grain, and dark mane insert throughout the video.
+
+The entire chess piece, including its base, rotates smoothly through one complete 360-degree turn around its vertical axis at a constant speed. It stays perfectly centered and firmly on the surface. The first and last frames match for a seamless loop.
+
+Keep the camera completely stationary, looking slightly downward at the piece. Show the entire object with a small margin above and below. Use a seamless light-gray studio background and floor, soft diffused lighting, gentle highlights on the lacquer, and a subtle contact shadow beneath the base.
+
+Duration: 3 seconds. Frame rate: 30 fps. Square 1:1 composition.
+
+No camera movement, zoom, cuts, wobbling, floating, deformation, changing proportions, sliding wood textures, flickering, additional objects, text, or logos.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097513469172129825"></a>
 

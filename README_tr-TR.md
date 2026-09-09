@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**24** Prompt · Son eklenen: **2026-09-09**
+**25** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,28 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097519422407872858"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@higgsfield](https://x.com/higgsfield) · [Orijinal gönderi](https://x.com/higgsfield/status/2097519422407872858)
+
+Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097519422407872858.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097513469172129825"></a>
 

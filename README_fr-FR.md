@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**24** Prompts · Dernier ajout: **2026-09-09**
+**25** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,28 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097519422407872858"></a>
+
+### Traduction en cours
+
+Auteur：[@higgsfield](https://x.com/higgsfield) · [Publication originale](https://x.com/higgsfield/status/2097519422407872858)
+
+Produit · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097519422407872858.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097513469172129825"></a>
 
