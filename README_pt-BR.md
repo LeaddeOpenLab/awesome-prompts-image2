@@ -709,7 +709,7 @@ Crie um diorama 3D em miniatura fofo e premium de [NOME DA ESTRUTURA], [CIDADE, 
 
 <a name="prompt-2097587863139537262"></a>
 
-### Tradução em andamento
+### Captura de tela de jogo em primeira pessoa na praia de um RPG de romance 3D fictício, com Morrigan Aensland e interface de usuário HUD interativa completa do jogo.
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -717,14 +717,14 @@ Design de Aplicativos / Web · Renderização 3D · Personagem · Publicado
 
 Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Captura de tela de jogo em primeira pessoa na praia de um RPG de romance 3D fictício, com Morrigan Aensland e interface de usuário HUD interativa completa do jogo.
 
 <img src="covers/2097587863139537262.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Por favor, capture uma captura de tela realista de um RPG de romance fictício de mundo aberto 3D de última geração, apresentado a partir da perspectiva em primeira pessoa do protagonista masculino. Na praia, Morrigan Aensland de Darkstalkers convida o protagonista para ajudá-la a passar protetor solar. O estilo visual geral deve apresentar personagens 3D de renderização em estilo desenho animado de alta qualidade combinados com gráficos de nível Unreal Engine 5, alcançando fidelidade visual com qualidade AAA. Deve incluir modelagem de personagens ultradetalhada, sombreamento de pele realista, iluminação cinematográfica, materiais PBR, texturas de roupas de alta precisão e ambientes de sala de aula finamente renderizados. A imagem final deve parecer uma captura de tela de um jogo realmente jogável, incluindo uma interface de usuário de jogo completa: minimapa, exibição de missões, barras de status do personagem, avisos de interação, legendas de diálogo, elementos de HUD e muito mais.
 ```
 
 [↑ Voltar às categorias](#catalog)

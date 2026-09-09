@@ -699,7 +699,7 @@ Erstelle ein hochwertiges, niedliches 3D-Miniatur-Diorama von [NAME DES BAUWERKS
 
 <a name="prompt-2097587863139537262"></a>
 
-### Übersetzung läuft
+### Fiktiver First-Person-Game-Screenshot eines 3D-Romance-RPGs am Strand, inklusive Morrigan Aensland und vollständiger HUD-Interaktions-UI des Spiels.
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -707,14 +707,14 @@ App- / Webdesign · 3D-Rendering · Charakter · Veröffentlicht
 
 Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fiktiver First-Person-Game-Screenshot eines 3D-Romance-RPGs am Strand, inklusive Morrigan Aensland und vollständiger HUD-Interaktions-UI des Spiels.
 
 <img src="covers/2097587863139537262.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bitte erstelle einen realistischen Screenshot aus einem fiktiven 3D-Open-World-Romantik-RPG der nächsten Generation, dargestellt aus der First-Person-Perspektive des männlichen Protagonisten. Am Strand lädt Morrigan Aensland aus Darkstalkers den Protagonisten ein, ihr beim Eincremen mit Sonnencreme zu helfen. Der visuelle Gesamtstil muss hochwertige, im Cartoon-Stil gerenderte 3D-Charaktere kombiniert mit Grafiken auf Unreal-Engine-5-Niveau aufweisen und visuelle AAA-Qualitätstreue erreichen. Er sollte ein ultra-detailliertes Charakter-Modeling, realistisches Skin-Shading, filmische Beleuchtung, PBR-Materialien, hochpräzise Kleidungstexturen und fein gerenderte Klassenzimmer-Umgebungen enthalten. Das finale Bild muss wie ein tatsächlicher spielbarer Game-Screenshot aussehen, einschließlich einer vollständigen Spiel-Benutzeroberfläche: Minimap, Quest-Anzeige, Charakter-Statusleisten, Interaktionsaufforderungen, Dialoguntertitel, HUD-Elemente und mehr.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -699,7 +699,7 @@ Crea un delizioso diorama 3D in miniatura di alta qualità di [NOME DELLA STRUTT
 
 <a name="prompt-2097587863139537262"></a>
 
-### Traduzione in corso
+### Screenshot di gioco in prima persona sulla spiaggia da un fittizio RPG romantico 3D, contenente Morrigan Aensland e un'interfaccia utente HUD interattiva completa di gioco.
 
 Autore：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -707,14 +707,14 @@ App / Web Design · Rendering 3D · Personaggio · Pubblicato
 
 Post originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Screenshot di gioco in prima persona sulla spiaggia da un fittizio RPG romantico 3D, contenente Morrigan Aensland e un'interfaccia utente HUD interattiva completa di gioco.
 
 <img src="covers/2097587863139537262.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Cattura uno screenshot realistico di un fittizio gioco di ruolo romantico open-world 3D di nuova generazione, presentato dalla prospettiva in prima persona del protagonista maschile. Sulla spiaggia, Morrigan Aensland di Darkstalkers invita il protagonista ad aiutarla ad applicare la crema solare. Lo stile visivo generale deve presentare personaggi 3D renderizzati in stile cartoon di alta qualità combinati con una grafica di livello Unreal Engine 5, raggiungendo una fedeltà visiva di qualità AAA. Deve includere una modellazione dei personaggi ultra-dettagliata, uno shading realistico della pelle, un'illuminazione cinematografica, materiali PBR, texture degli abiti ad alta precisione e ambienti di aule scolastiche finemente renderizzati. L'immagine finale deve sembrare un vero screenshot di un gioco giocabile, inclusa un'interfaccia utente completa di gioco: minimappa, visualizzazione delle missioni, barre di stato dei personaggi, prompt di interazione, sottotitoli dei dialoghi, elementi dell'HUD e altro ancora.
 ```
 
 [↑ Torna alle categorie](#catalog)

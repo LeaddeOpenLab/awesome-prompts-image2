@@ -699,7 +699,7 @@ Crea un diorama 3D en miniatura tierno y de primera calidad de [NOMBRE DE LA EST
 
 <a name="prompt-2097587863139537262"></a>
 
-### Traducción en curso
+### Captura de pantalla de juego en primera persona en la playa de un RPG romántico en 3D ficticio, que incluye a Morrigan Aensland y una interfaz de usuario HUD de juego completa.
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -707,14 +707,14 @@ Diseño de aplicaciones / web · Renderizado 3D · Personaje · Publicado
 
 Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Resumen:** Traducción en curso
+**Resumen:** Captura de pantalla de juego en primera persona en la playa de un RPG romántico en 3D ficticio, que incluye a Morrigan Aensland y una interfaz de usuario HUD de juego completa.
 
 <img src="covers/2097587863139537262.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Por favor, captura una captura de pantalla realista de un juego de rol romántico de mundo abierto en 3D de próxima generación ficticio, presentado desde la perspectiva en primera persona del protagonista masculino. En la playa, Morrigan Aensland de Darkstalkers invita al protagonista a ayudarla a aplicarse protector solar. El estilo visual general debe presentar personajes en 3D renderizados con sombreado de estilo caricatura de alta calidad combinados con gráficos al nivel de Unreal Engine 5, logrando una fidelidad visual con calidad AAA. Debe incluir un modelado de personajes ultra detallado, sombreado de piel realista, iluminación cinematográfica, materiales PBR, texturas de ropa de alta precisión y entornos de aula finamente renderizados. La imagen final debe parecer una captura de pantalla real de un juego jugable, incluyendo una interfaz de usuario completa del juego: minimapa, visualización de misiones, barras de estado de los personajes, avisos de interacción, subtítulos de diálogo, elementos del HUD y más.
 ```
 
 [↑ Volver a categorías](#catalog)

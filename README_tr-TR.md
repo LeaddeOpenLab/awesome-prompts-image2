@@ -709,7 +709,7 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 
 <a name="prompt-2097587863139537262"></a>
 
-### Çeviri sürüyor
+### Morrigan Aensland ve eksiksiz oyun HUD etkileşim arayüzünü içeren, kurgusal 3D romantizm RYO plaj birinci şahıs oyun ekran görüntüsü.
 
 Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -717,14 +717,14 @@ Uygulama / Web Tasarımı · 3D Modelleme · Karakter · Yayımlandı
 
 Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Morrigan Aensland ve eksiksiz oyun HUD etkileşim arayüzünü içeren, kurgusal 3D romantizm RYO plaj birinci şahıs oyun ekran görüntüsü.
 
 <img src="covers/2097587863139537262.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lütfen erkek ana karakterin birinci şahıs bakış açısından sunulan, kurgusal bir yeni nesil 3D açık dünya romantizm RYO'sundan gerçekçi bir oyun içi ekran görüntüsü yakalayın. Plajda, Darkstalkers'tan Morrigan Aensland, ana karakteri güneş kremi sürmesine yardım etmesi için davet ediyor. Genel görsel tarz, Unreal Engine 5 düzeyindeki grafiklerle birleştirilmiş yüksek kaliteli çizgi film renderlı 3D karakterler içermeli ve AAA kalitesinde görsel aslına uygunluğa ulaşmalıdır. Son derece ayrıntılı karakter modellemesi, gerçekçi cilt gölgelendirmesi, sinematik aydınlatma, PBR malzemeleri, yüksek hassasiyetli kıyafet dokuları ve ince işlenmiş sınıf ortamları barındırmalıdır. Nihai görüntü; mini harita, görev ekranı, karakter durum çubukları, etkileşim istemleri, diyalog altyazıları, HUD öğeleri ve daha fazlasını içeren eksiksiz bir oyun kullanıcı arayüzüyle, gerçekten oynanabilir bir oyun ekran görüntüsü gibi görünmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)

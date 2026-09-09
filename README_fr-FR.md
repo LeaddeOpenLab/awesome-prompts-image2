@@ -699,7 +699,7 @@ Créez un diorama 3D miniature mignon et haut de gamme de [NOM DE LA STRUCTURE],
 
 <a name="prompt-2097587863139537262"></a>
 
-### Traduction en cours
+### Capture d'écran de jeu à la première personne sur la plage d'un RPG romantique fictif en 3D, comprenant Morrigan Aensland et une interface utilisateur HUD interactive complète du jeu.
 
 Auteur：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -707,14 +707,14 @@ Conception d'applications / de sites web · Rendu 3D · Personnage · Publié
 
 Publication originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Résumé:** Traduction en cours
+**Résumé:** Capture d'écran de jeu à la première personne sur la plage d'un RPG romantique fictif en 3D, comprenant Morrigan Aensland et une interface utilisateur HUD interactive complète du jeu.
 
 <img src="covers/2097587863139537262.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Veuillez capturer une capture d'écran réaliste d'un RPG romantique fictif en 3D en monde ouvert de nouvelle génération, présenté du point de vue à la première personne du protagoniste masculin. Sur la plage, Morrigan Aensland de Darkstalkers invite le protagoniste à l'aider à appliquer de la crème solaire. Le style visuel global doit comporter des personnages 3D au rendu cartoon de haute qualité combinés à des graphismes de niveau Unreal Engine 5, atteignant une fidélité visuelle de qualité AAA. Cela doit inclure une modélisation de personnages ultra-détaillée, un ombrage de peau réaliste, un éclairage cinématographique, des matériaux PBR, des textures de vêtements de haute précision et des environnements de salle de classe finement rendus. L'image finale doit ressembler à une véritable capture d'écran de jeu jouable, comprenant une interface utilisateur complète : mini-carte, affichage des quêtes, barres d'état des personnages, invites d'interaction, sous-titres de dialogue, éléments du HUD, et plus encore.
 ```
 
 [↑ Retour aux catégories](#catalog)
