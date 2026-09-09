@@ -503,13 +503,13 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 <a name="prompt-2097676144141312095"></a>
 
-### Çeviri sürüyor
+### Yüzünde gizemli rünler, toz ve çizikler bulunan bir kadını tasvir eden, psikolojik korku oyunu estetiğine sahip karanlık sinematik portre istemi.
 
 Yazar：[@her19845](https://x.com/her19845) · [Orijinal gönderi](https://x.com/her19845/status/2097676144141312095)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüzünde gizemli rünler, toz ve çizikler bulunan bir kadını tasvir eden, psikolojik korku oyunu estetiğine sahip karanlık sinematik portre istemi.
 
 <img src="images/2097676144141312095-1.jpg" alt="Görsel 1" width="480" />
 
@@ -518,7 +518,13 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+**Stil:** Üst düzey bir psikolojik korku video oyunu estetiğine sahip karanlık ve dramatik sinematik fotoğrafçılık.
+
+**Özne:** Görsel uzantısında yer alan model. Cildi kir, toz ve hafif çiziklerin ayrıntılı dokularını sergiliyor. Yanağında ince oyulmuş izler veya gizemli dikey rünler görülebiliyor.
+
+**Aydınlatma ve Renk:** Koyu zümrüt yeşili, zeytin yeşili ve derin gölgelerin hakim olduğu monokromatik ve kasvetli bir renk paleti. Yandan gelen ışık yüzü şekillendirirken sahnenin yarısını karanlıkta bırakıyor.
+
+**Dokular:** Belirgin analog film greni, ayrıntılı gözenekler, tozlu, tekinsiz ve klostrofobik bir atmosfer.
 ```
 
 [↑ Kategorilere dön](#catalog)

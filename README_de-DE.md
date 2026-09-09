@@ -493,13 +493,13 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 <a name="prompt-2097676144141312095"></a>
 
-### Übersetzung läuft
+### Dunkler filmischer Porträt-Prompt im Stil eines Psychohorror-Videospiels, der eine Frau mit geheimnisvollen Runen im Gesicht, Staub und Kratzern darstellt.
 
 Autor：[@her19845](https://x.com/her19845) · [Originalbeitrag](https://x.com/her19845/status/2097676144141312095)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Dunkler filmischer Porträt-Prompt im Stil eines Psychohorror-Videospiels, der eine Frau mit geheimnisvollen Runen im Gesicht, Staub und Kratzern darstellt.
 
 <img src="images/2097676144141312095-1.jpg" alt="Bild 1" width="480" />
 
@@ -508,7 +508,13 @@ Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+**Stil:** Dunkle und dramatische Filmfotografie mit der Ästhetik eines hochklassigen Psychohorror-Videospiels.
+
+**Motiv:** Das in der Bildererweiterung enthaltene Model. Ihre Haut zeigt detaillierte Texturen von Schmutz, Staub und feinen Kratzern. Auf ihrer Wange sind feine eingeritzte Spuren oder geheimnisvolle vertikale Runen sichtbar.
+
+**Beleuchtung und Farbe:** Eine monochromatische und düstere Farbpalette, dominiert von dunklem Smaragdgrün, Olivgrün und tiefen Schatten. Seitenlicht formt das Gesicht und lässt die Hälfte der Szene in Dunkelheit gehüllt.
+
+**Texturen:** Ausgeprägtes analoges Filmkorn, detaillierte Poren, eine staubige, unheimliche und klaustrophobische Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

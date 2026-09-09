@@ -525,13 +525,13 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 <a name="prompt-2097676144141312095"></a>
 
-### Đang dịch
+### Lời nhắc chân dung phong cách điện ảnh u ám mang tính thẩm mỹ của game kinh dị tâm lý, khắc họa người phụ nữ với các ký tự rune bí ẩn trên mặt, dính đầy bụi bẩn và vết xước.
 
 Tác giả：[@her19845](https://x.com/her19845) · [Bài gốc](https://x.com/her19845/status/2097676144141312095)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung phong cách điện ảnh u ám mang tính thẩm mỹ của game kinh dị tâm lý, khắc họa người phụ nữ với các ký tự rune bí ẩn trên mặt, dính đầy bụi bẩn và vết xước.
 
 <img src="images/2097676144141312095-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -540,7 +540,13 @@ Tác giả：[@her19845](https://x.com/her19845) · [Bài gốc](https://x.com/h
 **Câu lệnh**
 
 ```text
-Đang dịch
+**Phong cách:** Nhiếp ảnh điện ảnh tăm tối và đầy kịch tính mang tính thẩm mỹ của trò chơi điện tử kinh dị tâm lý cao cấp.
+
+**Chủ thể:** Người mẫu có trong phần mở rộng hình ảnh. Làn da của cô hiện rõ các chi tiết vân bề mặt của vết bẩn, bụi và những vết xước mờ. Những vết khắc tinh xảo hoặc các ký tự rune thẳng đứng bí ẩn có thể nhìn thấy trên má cô.
+
+**Ánh sáng và Màu sắc:** Bảng màu đơn sắc và u ám bị chi phối bởi màu xanh ngọc lục bảo tối, màu ô liu và những bóng tối sâu thẳm. Ánh sáng một bên tạc nên các đường nét khuôn mặt, để lại một nửa khung cảnh chìm trong bóng tối.
+
+**Hạt bề mặt:** Hạt phim analog rõ rệt, lỗ chân lông chi tiết, bầu không khí bụi bặm, ghê rợn và ngột ngạt ngột ngạt.
 ```
 
 [↑ Về danh mục](#catalog)

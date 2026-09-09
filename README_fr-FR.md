@@ -493,13 +493,13 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 <a name="prompt-2097676144141312095"></a>
 
-### Traduction en cours
+### Prompt de portrait cinématographique sombre à l'esthétique de jeu d'horreur psychologique, représentant une femme aux runes mystérieuses sur le visage, marquée par la poussière et les éraflures.
 
 Auteur：[@her19845](https://x.com/her19845) · [Publication originale](https://x.com/her19845/status/2097676144141312095)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait cinématographique sombre à l'esthétique de jeu d'horreur psychologique, représentant une femme aux runes mystérieuses sur le visage, marquée par la poussière et les éraflures.
 
 <img src="images/2097676144141312095-1.jpg" alt="Image 1" width="480" />
 
@@ -508,7 +508,13 @@ Image cinématographique / Photogramme de film · Portrait / Selfie · Personnag
 **Consigne**
 
 ```text
-Traduction en cours
+**Style :** Photographie cinématographique sombre et dramatique avec l'esthétique d'un jeu vidéo d'horreur psychologique haut de gamme.
+
+**Sujet :** Le mannequin inclus dans l'extension d'image. Sa peau présente des textures détaillées de saleté, de poussière et de subtiles éraflures. De fines marques gravées ou de mystérieuses runes verticales sont visibles sur sa joue.
+
+**Éclairage et couleur :** Une palette de couleurs monochromatique et sombre dominée par le vert émeraude foncé, l'olive et des ombres profondes. Un éclairage latéral sculpte le visage, laissant la moitié de la scène dans l'obscurité.
+
+**Textures :** Grain de film argentique prononcé, pores détaillés, une atmosphère poussiéreuse, étrange et claustrophobique.
 ```
 
 [↑ Retour aux catégories](#catalog)

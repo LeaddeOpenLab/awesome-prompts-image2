@@ -493,13 +493,13 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2097676144141312095"></a>
 
-### Traduzione in corso
+### Prompt per ritratto cinematografico cupo con estetica da videogioco horror psicologico, che ritrae una donna con misteriose rune sul viso, polvere e graffi.
 
 Autore：[@her19845](https://x.com/her19845) · [Post originale](https://x.com/her19845/status/2097676144141312095)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto cinematografico cupo con estetica da videogioco horror psicologico, che ritrae una donna con misteriose rune sul viso, polvere e graffi.
 
 <img src="images/2097676144141312095-1.jpg" alt="Immagine 1" width="480" />
 
@@ -508,7 +508,13 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Perso
 **Prompt**
 
 ```text
-Traduzione in corso
+**Stile:** Fotografia cinematografica cupa e drammatica con l'estetica di un videogioco horror psicologico di alto livello.
+
+**Soggetto:** La modella inclusa nell'estensione dell'immagine. La sua pelle mostra texture dettagliate di sporco, polvere e lievi graffi. Sulla sua guancia sono visibili sottili segni incisi o misteriose rune verticali.
+
+**Illuminazione e colore:** Una tavolozza di colori monocromatica e cupa dominata da verde smeraldo scuro, oliva e ombre profonde. L'illuminazione laterale scolpisce il viso, lasciando metà della scena nell'oscurità.
+
+**Texture:** Granularità marcata della pellicola analogica, pori dettagliati, un'atmosfera polverosa, inquietante e claustrofobica.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -503,13 +503,13 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 <a name="prompt-2097676144141312095"></a>
 
-### Tradução em curso
+### Prompt de retrato cinematográfico sombrio com estética de jogo de terror psicológico, retratando uma mulher com runas misteriosas no rosto, poeira e arranhões.
 
 Autor：[@her19845](https://x.com/her19845) · [Publicação original](https://x.com/her19845/status/2097676144141312095)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato cinematográfico sombrio com estética de jogo de terror psicológico, retratando uma mulher com runas misteriosas no rosto, poeira e arranhões.
 
 <img src="images/2097676144141312095-1.jpg" alt="Imagem 1" width="480" />
 
@@ -518,7 +518,13 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+**Estilo:** Fotografia cinematográfica sombria e dramática com a estética de um videojogo de terror psicológico de topo de gama.
+
+**Assunto:** A modelo incluída na extensão de imagem. A sua pele exibe texturas detalhadas de sujidade, poeira e arranhões subtis. Marcas finas gravadas ou runas verticais misteriosas são visíveis na sua bochecha.
+
+**Iluminação e cor:** Uma paleta de cores monocromática e sombria dominada por verde-esmeralda escuro, azeitona e sombras profundas. A iluminação lateral esculpe o rosto, deixando metade da cena na escuridão.
+
+**Texturas:** Grão pronunciado de filme analógico, poros detalhados, uma atmosfera poeirenta, sinistra e claustrofóbica.
 ```
 
 [↑ Voltar às categorias](#catalog)
