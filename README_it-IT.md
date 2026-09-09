@@ -171,20 +171,20 @@ Genera un'immagine di anteprima complessiva contenente diverse pose tra cui sceg
 
 <a name="prompt-2097249218507461093"></a>
 
-### Traduzione in corso
+### Ritratto ravvicinato fotorealistico in interni di una donna asiatica alla luce del sole
 
 Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto ravvicinato fotorealistico in interni di una donna asiatica alla luce del sole
 
 <img src="images/2097249218507461093-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto ravvicinato fotorealistico in interni di una giovane donna seduta comodamente su una sedia in rattan intrecciato vicino a una finestra luminosa. Ha lunghi capelli castano scuro naturalmente spettinati con caldi riflessi castani, con scriminatura quasi centrale, con ciocche sciolte che incorniciano delicatamente e coprono parzialmente il suo viso. Guarda dritto nella fotocamera con un'espressione calma e leggermente sognante e labbra naturali leggermente colorate. Una mano è sollevata delicatamente davanti al viso, con la punta delle dita poggiata delicatamente intorno alle labbra e alla guancia, creando una posa spontanea e intima. Le sue dita sono affusolate e posizionate in modo naturale. Indossa un semplice top oversize bianco sporco/beige chiaro con una morbida trama di tessuto. Una forte e calda luce solare filtra dalla finestra dall'alto lateralmente, creando splendide ombre a strisce e riflessi sui suoi capelli, sulla fronte, sulla guancia e sui vestiti. L'illuminazione è naturale, dorata e leggermente sovraesposta in alcuni punti, conferendo alla fotografia un'atmosfera calda e accogliente. Dietro di lei c'è una grande sedia in rattan/intrecciata bianca con dettagli circolari curvi. Sullo sfondo è visibile una parete o pannello finestra verde scuro con eleganti motivi botanici/foglie bianchi, insieme a una semplice cornice verticale scura. L'ambiente ricorda una casa o un caffè moderno e accogliente. Composizione: ritratto ravvicinato verticale, rapporto d'aspetto circa 4:5, fotocamera molto vicina al soggetto, viso che occupa la parte centro-destra dell'inquadratura, angolazione della fotocamera leggermente dal basso e intima, spalle e parte superiore del busto visibili, inquadratura naturale. Stile fotografico: fotografia selfie per smartphone ultra-realistica, morbida estetica lifestyle coreana/asiatica, consistenza naturale della pelle, pori realistici, singole ciocche di capelli, sottili imperfezioni, calda luce solare, ombre autentiche, contrasto delicato, leggera grana della pellicola, profondità di campo ridotta, sensazione spontanea non in posa, dettagli elevati, 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)

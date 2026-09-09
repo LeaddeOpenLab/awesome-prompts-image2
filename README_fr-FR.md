@@ -171,20 +171,20 @@ Produis une image d'aperçu composite comprenant différentes actions pour que j
 
 <a name="prompt-2097249218507461093"></a>
 
-### Traduction en cours
+### Portrait d'intérieur rapproché et photoréaliste d'une femme asiatique au soleil
 
 Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait d'intérieur rapproché et photoréaliste d'une femme asiatique au soleil
 
 <img src="images/2097249218507461093-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait d'intérieur rapproché et photoréaliste d'une jeune femme confortablement assise dans une chaise en rotin tressé près d'une fenêtre lumineuse. Elle a de longs cheveux châtain foncé naturellement ébouriffés avec des reflets bruns chauds, séparés près du milieu, avec des mèches lâches encadrant doucement et couvrant partiellement son visage. Elle regarde directement l'objectif avec une expression calme et légèrement rêveuse, et des lèvres naturelles doucement teintées. Une main est doucement levée devant son visage, le bout de ses doigts reposant délicatement autour de ses lèvres et de sa joue, créant une pose intime et spontanée. Ses doigts sont fins et positionnés naturellement. Elle porte un haut simple surdimensionné blanc cassé/beige clair avec une texture de tissu doux. Une forte lumière chaude du soleil entre par la fenêtre depuis le haut sur le côté, créant de belles ombres rayées et des reflets sur ses cheveux, son front, sa joue et ses vêtements. L'éclairage est naturel, doré et légèrement surexposé par endroits, conférant à la photographie une atmosphère chaleureuse et douillette. Derrière elle se trouve une grande chaise tressée/en rotin blanc avec des détails circulaires incurvés. Un mur ou panneau de fenêtre vert foncé avec d'élégants motifs botaniques/feuilles blancs est visible à l'arrière-plan, ainsi qu'un cadre vertical sombre et simple. Le décor ressemble à une maison moderne ou à un café chaleureux. Composition : portrait vertical en gros plan, rapport d'aspect d'environ 4:5, appareil photo très proche du sujet, visage occupant la partie centrale-droite du cadre, angle de prise de vue légèrement bas et intime, épaules et haut du torse visibles, cadrage naturel. Style photographique : photographie de selfie sur smartphone ultra-réaliste, esthétique douce de style de vie coréen/asiatique, texture de peau naturelle, pores réalistes, mèches de cheveux individuelles, imperfections subtiles, soleil chaud, ombres authentiques, contraste doux, léger grain de film, faible profondeur de champ, sensation candide non posée, niveau de détail élevé, 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)

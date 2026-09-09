@@ -171,20 +171,20 @@ Erstelle ein kombiniertes Vorschaubild mit verschiedenen Posen, aus denen ich w�
 
 <a name="prompt-2097249218507461093"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Nahaufnahme-Innenporträt einer asiatischen Frau im Sonnenlicht
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Nahaufnahme-Innenporträt einer asiatischen Frau im Sonnenlicht
 
 <img src="images/2097249218507461093-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches Nahaufnahme-Innenporträt einer jungen Frau, die bequem in einem geflochtenen Rattanstuhl in der Nähe eines hellen Fensters sitzt. Sie hat langes, natürlich zerzaustes dunkelbraunes Haar mit warmen braunen Strähnchen, das nahe der Mitte gescheitelt ist, wobei lose Strähnen ihr Gesicht sanft umrahmen und teilweise bedecken. Sie blickt mit einem ruhigen, leicht verträumten Ausdruck und natürlichen, sanft getönten Lippen direkt in die Kamera. Eine Hand ist sanft vor ihr Gesicht gehoben, wobei ihre Fingerspitzen zart um ihre Lippen und ihre Wange ruhen, was eine intime, ungezwungene Pose erzeugt. Ihre Finger sind schlank und natürlich positioniert. Sie trägt ein einfaches, übergroßes, cremeweißes/hellbeiges Oberteil mit weicher Stofftextur. Starkes, warmes Sonnenlicht strömt von der oberen Seite durch das Fenster herein und erzeugt wunderschöne gestreifte Schatten und Glanzlichter auf ihrem Haar, ihrer Stirn, ihrer Wange und ihrer Kleidung. Die Beleuchtung ist natürlich, golden und stellenweise leicht überbelichtet, was dem Foto eine warme, gemütliche Atmosphäre verleiht. Hinter ihr befindet sich ein großer weißer Flecht-/Rattanstuhl mit geschwungenen, kreisförmigen Details. Im Hintergrund ist eine dunkelgrüne Wand oder Fensterscheibe mit eleganten weißen botanischen/Blattmustern sichtbar, zusammen mit einem einfachen dunklen vertikalen Rahmen. Die Umgebung wirkt wie ein gemütliches, modernes Zuhause oder Café. Komposition: vertikales Nahaufnahme-Porträt, Bildformat ca. 4:5, Kamera sehr nah am Motiv, Gesicht nimmt den mittleren bis rechten Teil des Bildausschnitts ein, leicht tiefer und intimer Kamerawinkel, Schultern und oberer Torso sichtbar, natürlicher Bildausschnitt. Fotostil: ultrarealistische Smartphone-Selfie-Fotografie, sanfte koreanische/asiatische Lifestyle-Ästhetik, natürliche Hauttextur, realistische Poren, einzelne Haarsträhnen, subtile Unvollkommenheiten, warmes Sonnenlicht, authentische Schatten, sanfter Kontrast, leichte Filmkörnung, geringe Schärfentiefe, ungezwungenes, ungestelltes Gefühl, hoher Detailgrad, 4K.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
