@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格",
   "promptTranslations": {
-    "en": "Refined and tenderly affectionate; hazy shadows of flowers; half-concealed by curtain shadows; hesitant to speak, holding back words; a bashful beauty; breathtaking grace breaking the mold"
+    "en": "Refined and tenderly affectionate; hazy shadows of flowers; half-concealed by curtain shadows; hesitant to speak, holding back words; a bashful beauty; breathtaking grace breaking the mold",
+    "zh": "清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格",
+    "zh-TW": "清雅含情；花影朦朧；簾影欲掩；欲語還休；佳人含羞；驚鴻破格",
+    "ja-JP": "清雅で情を秘めた；霞む花影；簾の影に身を隠し；言わんとしてはやめ；羞じらう佳人；型を破る驚鴻の美",
+    "ko-KR": "청아하고 다정한 정취; 아련한 꽃 그림자; 가릴 듯 말 듯한 발 그림자; 말하려다 머뭇거리고; 수줍어하는 가인; 파격을 선보이는 놀라운 우아함",
+    "th-TH": "งดงามอ่อนหวานเปี่ยมอารมณ์; เงาดอกไม้สลัวเลือนราง; ม่านเงาบดบังครึ่งหนึ่ง; อึกอักอยากเผยคำพูดแต่กลับหยุดไว้; หญิงงามเอียงอาย; ความงามสะกดดั่งหงส์เหินฉีกกรอบ",
+    "vi-VN": "Thanh nhã hữu tình; bóng hoa mờ ảo; bóng rèm nửa che nửa mở; muốn nói lại thôi; giai nhân e thẹn; vẻ đẹp kinh diễm phá cách",
+    "hi-IN": "सुरुचिपूर्ण और भावपूर्ण; फूलों की धुंधली छाया; परदे की छांव में आधा छिपना; बोलते-बोलते रुक जाना; शर्माती हुई सुंदरी; सीमाओं को तोड़ती विस्मयकारी सुंदरता",
+    "es-ES": "Elegante y llena de sentimiento; sombras de flores borrosas; sombras de cortinas que intentan ocultar; queriendo hablar pero conteniéndose; hermosa mujer tímida; gracia deslumbrante que rompe esquemas"
   },
   "summaryTranslations": {
-    "en": "Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain."
+    "en": "Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain.",
+    "zh": "古风仕女半掩帘后含羞肖像提示词。",
+    "zh-TW": "古風仕女半掩簾後含羞肖像提示詞。",
+    "ja-JP": "簾の陰に半ば隠れてはにかむ古風な貴婦人の肖像プロンプト。",
+    "ko-KR": "발 뒤에 반쯤 숨어 수줍어하는 고풍스러운 여인의 초상화 프롬프트.",
+    "th-TH": "พรอมต์ภาพเหมือนหญิงสาวโบราณซ่อนกายเอียงอายอยู่หลังม่านครึ่งหนึ่ง",
+    "vi-VN": "Từ khóa chân dung thục nữ cổ phong e ấp lấp ló sau rèm.",
+    "hi-IN": "परदे के पीछे आधी छिपी शर्माती हुई प्राचीन शैली की महिला के चित्र का संकेत।",
+    "es-ES": "Prompt de retrato de una dama de estilo antiguo tímida y medio oculta tras una cortina."
   },
   "translationVersion": 2,
   "summary": "古风仕女半掩帘后含羞肖像提示词。",
