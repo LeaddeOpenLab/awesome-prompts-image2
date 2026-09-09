@@ -540,7 +540,7 @@ Tạo một bức ảnh thời trang dạo phố chụp cho tạp chí theo khun
 
 <a name="prompt-2097204639863287913"></a>
 
-### Đang dịch
+### Lời nhắc hình nền poster thiếu nữ bên khung cửa sổ hoa phong cách Tân Trung Hoa và thiền phương Đông, kết hợp các tông màu ngọc thanh, hồng mai và trắng ấm.
 
 Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -548,7 +548,7 @@ Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 
 Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hình nền poster thiếu nữ bên khung cửa sổ hoa phong cách Tân Trung Hoa và thiền phương Đông, kết hợp các tông màu ngọc thanh, hồng mai và trắng ấm.
 
 <img src="images/2097204639863287913-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -557,7 +557,16 @@ Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 **Câu lệnh**
 
 ```text
-Đang dịch
+Định hướng chủ đề: Poster bìa tối giản mang phong cách thiền phương Đông
+Phân nhánh phong cách: Phong cách Tân Trung Hoa theo thẩm mỹ nữ tính
+Nội dung chủ thể: Một thiếu nữ cổ trang đứng trước khung cửa sổ hoa văn, dáng vẻ tĩnh lặng và hàm súc
+Chủ đề cảm xúc: Thanh nhã, nhu mì, mang cảm giác sang trọng nhẹ nhàng
+Bối cảnh và hình tượng: Cửa sổ hoa văn màu ngọc thanh (xanh ngọc nhạt), bóng hoa màu hồng mai (hồng cánh sen), tường màu trắng ấm, thiếu nữ, một vài chi tiết ánh vàng kim nhạt
+Bố cục và không gian: Bố cục dọc 9:16, cửa sổ hoa văn nằm ở phần giữa phía trên, nhân vật nằm ở phần giữa phía dưới, phía trên cùng giữ lại khoảng trống sạch sẽ cho tiêu đề
+Kiểm soát màu sắc: Trắng ấm làm nền sáng, màu ngọc thanh dùng cho cửa sổ hoa văn và một số chi tiết kiến trúc nền, màu hồng mai dùng cho bóng hoa và điểm xuyết cục bộ, vàng kim nhạt chỉ dùng cho một lượng rất nhỏ điểm sáng trên trang sức, trang phục nhân vật dùng màu trắng ngọc trai hoặc trắng phấn nhạt; tránh toàn bộ bức tranh đều là màu ngọc thanh hoặc hồng mai
+Ánh sáng và chất cảm: Ánh sáng tự nhiên dịu nhẹ, màu sắc tươi sáng trong trẻo, mang cảm giác poster phẳng gọn gàng
+Tỷ lệ khung hình: 9:16
+Yêu cầu bổ sung: Tổng thể phải toát lên cảm giác trang bìa Tân Trung Hoa tuyệt mỹ, tinh tế nhưng không trang trí quá mức
 ```
 
 [↑ Về danh mục](#catalog)

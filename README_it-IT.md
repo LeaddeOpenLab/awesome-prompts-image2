@@ -542,7 +542,7 @@ Composizione a figura intera, fotocamera a livello degli occhi dal basso, obiett
 
 <a name="prompt-2097204639863287913"></a>
 
-### Traduzione in corso
+### Prompt per poster e sfondo di donna alla finestra a grata in nuovo stile cinese zen orientale, con tonalità verde giada, magenta e bianco caldo.
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Poster / Volantino · Minimalismo · Personaggio · Abstract / Contesto · Pubbl
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per poster e sfondo di donna alla finestra a grata in nuovo stile cinese zen orientale, con tonalità verde giada, magenta e bianco caldo.
 
 <img src="images/2097204639863287913-1.jpg" alt="Immagine 1" width="480" />
 
@@ -559,7 +559,16 @@ Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https:
 **Prompt**
 
 ```text
-Traduzione in corso
+Direzione tematica: Poster di copertina minimalista in stile zen orientale
+Diramazione stilistica: Nuovo stile cinese dall'estetica femminile
+Soggetto principale: Una donna in abito tradizionale cinese in piedi davanti a una finestra a grata floreale, con una postura calma e riservata
+Motivo emotivo: Elegante, aggraziato, senso di lusso discreto
+Scena e simbolismo: Finestra a grata verde giada, ombre floreali color magenta, parete bianco caldo, donna, dettagli minimi in oro chiaro
+Composizione e spazio: Composizione verticale 9:16, finestra a grata nella parte centro-superiore, figura nella parte centro-inferiore, lasciando pulita l'area del titolo in alto
+Controllo del colore: Bianco caldo come base luminosa, verde giada per la finestra a grata e scarse strutture di sfondo, magenta per ombre floreali e punti focali mirati, oro chiaro solo per rarissimi riflessi degli ornamenti, abito del personaggio in bianco perla o bianco rosato tenue; evitare che l'intera immagine sia totalmente verde giada o totalmente magenta
+Luce e texture: Luce naturale morbida, colori vivaci e nitidi, pulita resa da poster grafico
+Rapporto d'aspetto: 9:16
+Requisito supplementare: L'insieme deve avere l'aspetto di una copertina nel nuovo stile cinese di alto valore estetico, squisita ma senza decorazioni eccessive
 ```
 
 [↑ Torna alle categorie](#catalog)

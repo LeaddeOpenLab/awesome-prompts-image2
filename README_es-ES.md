@@ -542,7 +542,7 @@ Composición de cuerpo entero, cámara a la altura de los ojos en ángulo bajo, 
 
 <a name="prompt-2097204639863287913"></a>
 
-### Traducción en curso
+### Prompt para póster y fondo de pantalla de mujer y ventana tradicional de estilo nuevo chino y zen oriental, con paleta de verde jade, rosa magenta y blanco cálido.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Póster / Folleto · Minimalismo · Personaje · Resumen / Antecedentes · Publi
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para póster y fondo de pantalla de mujer y ventana tradicional de estilo nuevo chino y zen oriental, con paleta de verde jade, rosa magenta y blanco cálido.
 
 <img src="images/2097204639863287913-1.jpg" alt="Imagen 1" width="480" />
 
@@ -559,7 +559,16 @@ Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación or
 **Prompt**
 
 ```text
-Traducción en curso
+Dirección temática: Póster de portada minimalista de estilo zen oriental
+Rama de estilo: Nuevo estilo chino con estética femenina
+Contenido principal: Una mujer vestida de época frente a una ventana enrejada tradicional con motivos florales, con una postura tranquila y reservada
+Motivo emocional: Elegante, suave, sensación de lujo sutil
+Escena e imaginería: Ventana enrejada en tono verde jade, sombras de flores en rosa magenta, pared en blanco cálido, mujer, mínimos detalles en oro claro
+Composición y espacio: Composición vertical 9:16, la ventana enrejada ubicada en la parte media superior, la figura en la parte media inferior, reservando un área limpia para el título en la parte superior
+Control de color: Blanco cálido como base luminosa, verde jade para la ventana enrejada y algunos elementos del fondo, rosa magenta para las sombras florales y toques de acento, oro claro únicamente para brillos mínimos en accesorios, vestimenta del personaje en blanco perla o blanco rosáceo claro; evitar que toda la imagen sea monocromática en verde jade o rosa magenta
+Luz y textura: Luz natural suave, colores vivos y diáfanos, sensación limpia de póster gráfico plano
+Relación de aspecto: 9:16
+Requisitos adicionales: El conjunto debe transmitir la estética atractiva de una portada de estilo nuevo chino, refinada pero sin sobrecargas ornamentales
 ```
 
 [↑ Volver a categorías](#catalog)

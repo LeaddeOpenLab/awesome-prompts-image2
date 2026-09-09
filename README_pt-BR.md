@@ -542,7 +542,7 @@ Composição de corpo inteiro, câmera baixa no nível dos olhos, lente de 35mm,
 
 <a name="prompt-2097204639863287913"></a>
 
-### Tradução em andamento
+### Prompt de pôster e papel de parede de mulher em janela treliçada no novo estilo chinês zen oriental, combinando tons de verde-jade, magenta e branco quente.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Pôster / Flyer · Minimalismo · Personagem · Resumo / Contexto · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de pôster e papel de parede de mulher em janela treliçada no novo estilo chinês zen oriental, combinando tons de verde-jade, magenta e branco quente.
 
 <img src="images/2097204639863287913-1.jpg" alt="Imagem 1" width="480" />
 
@@ -559,7 +559,16 @@ Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação or
 **Prompt**
 
 ```text
-Tradução em andamento
+Direção temática: Pôster de capa minimalista de estilo zen oriental
+Vertente estilística: Novo estilo chinês com estética feminina
+Conteúdo principal: Uma mulher de estilo tradicional chinês em pé diante de uma janela treliçada floral, com postura serena e contida
+Motivo emocional: Elegância, suavidade, sensação de luxo sutil
+Cenário e imagens: Janela treliçada em verde-jade, sombras de flores magenta-rosadas, parede em branco quente, mulher, detalhes mínimos em dourado claro
+Composição e espaço: Composição vertical 9:16, a janela treliçada localizada na parte média superior, a personagem na parte média inferior, preservando uma área limpa para título no topo
+Controle de cores: Branco quente como base luminosa, verde-jade para a janela e poucas estruturas de fundo, magenta para sombras de flores e pontos de destaque específicos, dourado claro apenas para raros brilhos em ornamentos, vestimenta da personagem em branco-pérola ou branco-rosado suave; evitar que a imagem inteira seja toda verde-jade ou toda magenta
+Luz e textura: Luz natural suave, cores vivas e translúcidas, aspecto limpo de pôster gráfico
+Proporção de tela: 9:16
+Requisito adicional: O conjunto deve transmitir o visual de capa no novo estilo chinês de alto valor estético, requintada, mas sem excesso de ornamentos
 ```
 
 [↑ Voltar às categorias](#catalog)

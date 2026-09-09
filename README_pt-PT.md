@@ -542,7 +542,7 @@ Composição de corpo inteiro, câmara ao nível dos olhos em ângulo baixo, obj
 
 <a name="prompt-2097204639863287913"></a>
 
-### Tradução em curso
+### Prompt de cartaz e papel de parede de mulher junto a janela gradeada no novo estilo chinês zen oriental, combinando verde-jade, magenta e branco quente.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Pôster / Folheto · Minimalismo · Personagem · Resumo / Contexto · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de cartaz e papel de parede de mulher junto a janela gradeada no novo estilo chinês zen oriental, combinando verde-jade, magenta e branco quente.
 
 <img src="images/2097204639863287913-1.jpg" alt="Imagem 1" width="480" />
 
@@ -559,7 +559,16 @@ Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação or
 **Prompt**
 
 ```text
-Tradução em curso
+Direção temática: Cartaz de capa minimalista de estilo zen oriental
+Vertente estilística: Novo estilo chinês com estética feminina
+Conteúdo principal: Uma mulher de trajes tradicionais chineses de pé diante de uma janela gradeada floral, com uma postura serena e reservada
+Motivo emocional: Elegância, suavidade, sensação de luxo discreto
+Cenário e imaginário: Janela gradeada em verde-jade, sombras de flores magenta-rosadas, parede em branco quente, mulher, detalhes pontuais em dourado claro
+Composição e espaço: Composição vertical 9:16, a janela gradeada situada na parte média superior, a figura na parte média inferior, reservando uma área limpa para título no topo
+Controlo de cor: Branco quente como base luminosa, verde-jade para a janela gradeada e poucas estruturas de fundo, magenta para sombras de flores e apontamentos de destaque, dourado claro apenas para brilhos mínimos em adornos, vestuário da personagem em branco-pérola ou branco-rosado claro; evitar que toda a imagem seja dominada exclusivamente por verde-jade ou magenta
+Luz e textura: Luz natural suave, cores vivas e translúcidas, sensação limpa de cartaz gráfico plano
+Proporção da imagem: 9:16
+Requisito adicional: A imagem global deve evocar a sensação de uma capa de elevado apelo estético no novo estilo chinês, requintada mas sem ornamentação excessiva
 ```
 
 [↑ Voltar às categorias](#catalog)

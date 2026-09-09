@@ -542,7 +542,7 @@ Composición de cuerpo completo, cámara a nivel de los ojos en ángulo bajo, le
 
 <a name="prompt-2097204639863287913"></a>
 
-### Traducción en curso
+### Prompt de fondo de pantalla y póster de mujer frente a ventana en celosía con nuevo estilo chino y zen oriental, combinando tonos verde jade celadón, magenta y blanco cálido.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Póster / Volante · Minimalismo · Personaje · Resumen / Antecedentes · Publi
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fondo de pantalla y póster de mujer frente a ventana en celosía con nuevo estilo chino y zen oriental, combinando tonos verde jade celadón, magenta y blanco cálido.
 
 <img src="images/2097204639863287913-1.jpg" alt="Imagen 1" width="480" />
 
@@ -559,7 +559,16 @@ Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación or
 **Prompt**
 
 ```text
-Traducción en curso
+Dirección temática: Póster de portada minimalista de estilo zen oriental
+Rama estilística: Nuevo estilo chino con estética femenina
+Contenido principal: Una mujer de estilo tradicional chino de pie frente a una ventana en celosía floral, con una postura serena y reservada
+Motivo emocional: Elegante, suave, sensación de lujo sutil
+Escena e imaginería: Ventana en celosía de color verde jade celadón, sombras de flores color magenta rojizo, pared blanco cálido, mujer, mínimos detalles en dorado claro
+Composición y espacio: Composición vertical 9:16, la ventana en celosía se ubica en la parte media superior, la figura en la parte media inferior, manteniendo una zona de título limpia en la parte superior
+Control de color: Blanco cálido como base luminosa, verde jade celadón para la celosía y pequeñas estructuras de fondo, magenta rojizo para sombras florales y acentos específicos, dorado claro solo para brillos mínimos de adornos, vestimenta del personaje en blanco perla o blanco rosáceo pálido; evitar que toda la imagen sea solo verde jade o toda magenta
+Luz y textura: Luz natural suave, colores vivos y translúcidos, estética limpia de póster gráfico plano
+Relación de aspecto: 9:16
+Requisitos adicionales: El conjunto debe transmitir la sensación de una portada del nuevo estilo chino de alta belleza visual, refinada pero sin exceso de ornamentación
 ```
 
 [↑ Volver a categorías](#catalog)

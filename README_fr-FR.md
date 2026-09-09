@@ -542,7 +542,7 @@ Composition en pied, caméra à hauteur des yeux en contre-plongée, objectif 35
 
 <a name="prompt-2097204639863287913"></a>
 
-### Traduction en cours
+### Prompt de fond d'écran et affiche de femme devant une fenêtre à claustra dans le nouveau style chinois zen oriental, associant vert jade, rose magenta et blanc chaud.
 
 Auteur：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Affiche / Flyer · Minimalisme · Personnage · Résumé / Contexte · Publié
 
 Publication originale：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de fond d'écran et affiche de femme devant une fenêtre à claustra dans le nouveau style chinois zen oriental, associant vert jade, rose magenta et blanc chaud.
 
 <img src="images/2097204639863287913-1.jpg" alt="Image 1" width="480" />
 
@@ -559,7 +559,16 @@ Publication originale：[@liyue\_ai](https://x.com/liyue_ai) · [Publication ori
 **Consigne**
 
 ```text
-Traduction en cours
+Orientation thématique : Affiche de couverture minimaliste d'inspiration zen oriental
+Branche stylistique : Nouveau style chinois à l'esthétique féminine
+Sujet principal : Une femme en tenue traditionnelle chinoise debout devant une fenêtre à claustra floral, dans une posture calme et réservée
+Motif émotionnel : Élégance, délicatesse, sensation de luxe subtil
+Scène et imagerie : Fenêtre à claustra vert jade, ombres de fleurs magenta rosé, mur blanc chaud, femme, rares détails dorés clairs
+Composition et espace : Composition verticale 9:16, la fenêtre à claustra située dans la partie centrale supérieure, le personnage dans la partie centrale inférieure, avec un espace de titre épuré préservé en haut
+Contrôle des couleurs : Blanc chaud comme fond lumineux, vert jade pour la fenêtre ajourée et de légers éléments d'arrière-plan, magenta pour les ombres florales et les touches d'accent ponctuelles, or clair uniquement pour de très légers reflets sur les ornements, vêtements du personnage en blanc perle ou blanc rosé pâle ; éviter que l'image entière soit envahie par le vert jade ou le magenta
+Lumière et texture : Lumière naturelle douce, couleurs vives et translucides, rendu d'affiche graphique épurée
+Format d'image : 9:16
+Exigence supplémentaire : L'ensemble doit évoquer une couverture très esthétique du nouveau style chinois, raffinée sans être surchargée d'ornements
 ```
 
 [↑ Retour aux catégories](#catalog)

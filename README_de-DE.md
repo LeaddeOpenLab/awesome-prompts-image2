@@ -542,7 +542,7 @@ Ganzkörperkomposition, Kamera auf niedriger Augenhöhe, 35mm-Objektiv, warme fi
 
 <a name="prompt-2097204639863287913"></a>
 
-### Übersetzung läuft
+### Prompt für ein Poster-Hintergrundbild mit einer Frau am Gitterfenster im orientalischen Zen- und neuen chinesischen Stil, abgestimmt in Jadegrün, Magentarot und Warmweiß.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Plakat / Flyer · Minimalismus · Charakter · Zusammenfassung / Hintergrund · 
 
 Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein Poster-Hintergrundbild mit einer Frau am Gitterfenster im orientalischen Zen- und neuen chinesischen Stil, abgestimmt in Jadegrün, Magentarot und Warmweiß.
 
 <img src="images/2097204639863287913-1.jpg" alt="Bild 1" width="480" />
 
@@ -559,7 +559,16 @@ Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](http
 **Prompt**
 
 ```text
-Übersetzung läuft
+Themenrichtung: Minimalistisches Cover-Poster im orientalischen Zen-Stil
+Stilrichtung: Neues chinesisches Design mit femininer Ästhetik
+Hauptinhalt: Eine traditionell gekleidete chinesische Frau steht vor einem floralen Gitterfenster, in ruhiger und zurückhaltender Haltung
+Stimmungsmotiv: Elegant, anmutig, dezenter Luxus
+Szene und Bildsprache: Jadegrünes Gitterfenster, magentarote Blumenschatten, warmweiße Wand, Frau, dezente Details in hellem Gold
+Komposition und Raum: Vertikale 9:16-Komposition, das Gitterfenster im oberen Mittelbereich, die Figur im unteren Mittelbereich, oben ein sauberer Bereich für Titelzeilen freigehalten
+Farbsteuerung: Warmweiß als helle Basis, Jadegrün für das Gitterfenster und minimale Hintergrundstrukturen, Magentarot für Blumenschatten und Akzente, helles Gold nur für ganz wenige Schmuck-Highlights, Kleidung der Figur in Perlweiß oder zartem Rosaweiß; vermeiden, dass das gesamte Bild jadegrün oder magentarot wird
+Licht und Textur: Weiches natürliches Licht, lebendige und klare Farben, saubere grafische Plakatästhetik
+Bildseitenverhältnis: 9:16
+Zusatzanforderung: Das Gesamtbild soll das Flair eines optisch ansprechenden Buch- oder Magazin-Covers im neuen chinesischen Stil vermitteln, exquisit, aber nicht überladen dekoriert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

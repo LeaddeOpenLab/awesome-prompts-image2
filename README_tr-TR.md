@@ -542,7 +542,7 @@ Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinemat
 
 <a name="prompt-2097204639863287913"></a>
 
-### Çeviri sürüyor
+### Yeşim yeşili, macenta ve sıcak beyaz tonları bir araya getiren Doğu zen tarzı yeni Çin kadın kafes pencere afişi ve duvar kâğıdı promptu.
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2097204639863287913)
 
@@ -550,7 +550,7 @@ Poster / El İlanı · Minimalizm · Karakter · Özet / Arka Plan · Yayımland
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096838519918596234)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yeşim yeşili, macenta ve sıcak beyaz tonları bir araya getiren Doğu zen tarzı yeni Çin kadın kafes pencere afişi ve duvar kâğıdı promptu.
 
 <img src="images/2097204639863287913-1.jpg" alt="Görsel 1" width="480" />
 
@@ -559,7 +559,16 @@ Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema Yönü: Doğu zen tarzı minimalist kapak afişi
+Stil Kolu: Kadınsı estetiğe sahip yeni Çin tarzı
+Ana İçerik: Çiçek desenli kafesli pencerenin önünde duran, sakin ve zarif bir duruş sergileyen geleneksel Çin tarzında bir kadın
+Duygusal Tema: Zarif, narin, hafif lüks hissi
+Mekân ve İmgeler: Yeşim yeşili kafes pencere, fuşya-macenta çiçek gölgeleri, sıcak beyaz duvar, kadın, az miktarda açık altın rengi detaylar
+Kompozisyon ve Alan: 9:16 dikey kompozisyon; kafes pencere orta üstte, figür orta altta yer alır, üst kısımda temiz bir başlık alanı bırakılır
+Renk Kontrolü: Parlak bir baz olarak sıcak beyaz; kafes pencere ve az sayıdaki arka plan yapısı için yeşim yeşili; çiçek gölgeleri ve vurgu noktaları için macenta; yalnızca çok az sayıdaki takı ışıltıları için açık altın; figürün giysisi için inci beyazı veya açık toz pembe beyaz; tüm görselin tamamen yeşim yeşili veya tamamen macenta olmasından kaçınılmalıdır
+Işık ve Doku: Yumuşak doğal ışık, canlı ve berrak renkler, temiz düz afiş hissi
+Görüntü Oranı: 9:16
+Ek Gereksinim: Bütüncül olarak yüksek görsel çekiciliğe sahip yeni Çin tarzı bir kapak hissi vermeli, incelikli ancak aşırı süslemeden uzak olmalıdır
 ```
 
 [↑ Kategorilere dön](#catalog)
