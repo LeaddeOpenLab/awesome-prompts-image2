@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-09**
+**16** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097249218507461093"></a>
+
+### Photorealistic close-up indoor portrait of an Asian woman in sunlight
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2097249218507461093)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic close-up indoor portrait of an Asian woman in sunlight
+
+<img src="images/2097249218507461093-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic close-up indoor portrait of a young woman sitting comfortably in a woven rattan chair near a bright window. She has long, naturally tousled dark brown hair with warm brown highlights, parted near the center, with loose strands softly framing and partially covering her face. She looks directly into the camera with a calm, slightly dreamy expression and natural, softly tinted lips.\nOne hand is raised gently in front of her face, with her fingertips resting delicately around her lips and cheek, creating an intimate candid pose. Her fingers are slender and naturally positioned. She is wearing a simple oversized off-white/light beige top with soft fabric texture.\nStrong warm sunlight streams through the window from the upper side, creating beautiful striped shadows and highlights across her hair, forehead, cheek, and clothing. The lighting is natural, golden, and slightly overexposed in places, giving the photograph a warm cozy atmosphere.\nBehind her is a large white woven/rattan chair with curved circular detailing. A dark green wall or window panel with elegant white botanical/leaf patterns is visible in the background, along with a simple dark vertical frame. The setting feels like a cozy modern home or café.\nComposition: vertical close-up portrait, approximately 4:5 aspect ratio, camera very close to the subject, face occupying the central-right portion of the frame, slightly low and intimate camera angle, shoulders and upper torso visible, natural framing.\nPhotography style: ultra-realistic smartphone selfie photography, soft Korean/Asian lifestyle aesthetic, natural skin texture, realistic pores, individual hair strands, subtle imperfections, warm sunlight, authentic shadows, gentle contrast, slight film grain, shallow depth of field, candid unposed feeling, high detail, 4K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096805553339342932"></a>
 
