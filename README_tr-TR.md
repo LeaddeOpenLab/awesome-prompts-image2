@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**13** Prompt · Son eklenen: **2026-09-09**
+**14** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097222942438649948"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Orijinal gönderi](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+Sinematik / Film Karesi · 3D Modelleme · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097222942438649948-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

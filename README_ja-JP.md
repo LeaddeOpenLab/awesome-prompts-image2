@@ -14,7 +14,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**13** 件 · 最新の追加: **2026-09-09**
+**14** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2097222942438649948"></a>
+
+### 翻訳中
+
+作者：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [元の投稿](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+シネマティック / フィルムスチル · 3D レンダリング · 風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097222942438649948-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

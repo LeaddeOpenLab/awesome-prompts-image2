@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**13** Prompts · Dernier ajout: **2026-09-09**
+**14** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097222942438649948"></a>
+
+### Traduction en cours
+
+Auteur：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publication originale](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+Image cinématographique / Photogramme de film · Rendu 3D · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097222942438649948-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**13** Prompt · Bổ sung mới nhất: **2026-09-09**
+**14** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2097222942438649948"></a>
+
+### Đang dịch
+
+Tác giả：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Bài gốc](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097222942438649948-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

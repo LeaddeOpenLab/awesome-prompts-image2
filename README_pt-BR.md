@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**13** Prompts · Última adição: **2026-09-09**
+**14** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097222942438649948"></a>
+
+### Tradução em andamento
+
+Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicação original](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+Cinematográfico / Imagem de Filme · Renderização 3D · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097222942438649948-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

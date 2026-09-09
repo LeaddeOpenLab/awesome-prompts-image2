@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-09**
+**14** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097222942438649948"></a>
+
+### Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.
+
+Author：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Source](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+Cinematic / Film Still · 3D Render · Landscape / Nature · Published
+
+**Summary:** Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.
+
+<img src="images/2097222942438649948-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\n\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\n\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\n\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\n\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\n\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 

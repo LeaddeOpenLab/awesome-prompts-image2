@@ -14,7 +14,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**13** 개 · 최근 추가: **2026-09-09**
+**14** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -264,6 +264,34 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-cinematic-film-still"></a>
 
 ## 시네마틱 / 영화 스틸컷
+
+<a name="prompt-2097222942438649948"></a>
+
+### 번역 중
+
+작성자：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [원본 게시물](https://x.com/Goodmanprotocol/status/2097222942438649948)
+
+시네마틱 / 영화 스틸컷 · 3D 렌더링 · 풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097222942438649948-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2097222942438649948-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2097222942438649948-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2097222942438649948-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2096808538534514913"></a>
 
