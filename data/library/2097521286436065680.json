@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:15:57.187Z",
+  "model": "image2.5",
+  "prompt": "出一张英语四级卷子，但是里面问的全是公务员考试题，要图文并茂",
+  "promptTranslations": {
+    "en": "Create a CET-4 (College English Test Band 4) exam paper, but all the questions inside are civil service examination questions, richly illustrated with both pictures and text."
+  },
+  "summaryTranslations": {
+    "en": "Generate an illustrated exam paper formatted like an English CET-4 test, with question contents combining civil service exam questions."
+  },
+  "translationVersion": 2,
+  "summary": "生成一张图文并茂的英语四级排版试卷，考题内容结合公务员考试题目。",
+  "summaryEn": "Generate an illustrated CET-4 style exam paper featuring civil service exam questions.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097494755752202574",
+      "canonicalUrl": "https://x.com/Lonely__MH/status/2097494755752202574",
+      "author": {
+        "username": "Lonely__MH",
+        "displayName": "Lonely",
+        "profileUrl": "https://x.com/Lonely__MH"
+      },
+      "originalText": "😅不懂就问，GPT Image 2.5 出来了\n\n怎么才能知道自己用的是不是 2.5 ？？\n\n感觉区别不大啊🙃"
+    },
+    "id": "2097521286436065680",
+    "canonicalUrl": "https://x.com/Tz_2022/status/2097521286436065680",
+    "author": {
+      "username": "Tz_2022",
+      "displayName": "Tz",
+      "profileUrl": "https://x.com/Tz_2022"
+    },
+    "publishedAt": "2026-09-09T03:03:39.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "zh",
+    "originalText": "如何判断自己用的是不是 gpt-image-2.5？\n\n非常简单，出套卷子就可以了。。。\n\n比如用这个提示词：\n\n出一张英语四级卷子，但是里面问的全是公务员考试题，要图文并茂\n\n就有且只有 gpt-image-2.5 能生成逻辑正确且文字无错误的考卷出来。。。 https://t.co/M18q06YxBT",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRvkfS5a0AATaI_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRvkfS5a0AATaI_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 2,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 4443
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Tz_2022/status/2097521286436065680",
+  "coverUrl": "https://pbs.twimg.com/media/HRvkfS5a0AATaI_.jpg",
+  "coverPath": "images/2097521286436065680-1.jpg",
+  "imagePaths": [
+    "images/2097521286436065680-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRvkfS5a0AATaI_",
+    "x-post:2097521286436065680",
+    "x-post:2097494755752202574"
+  ],
+  "analysis": {
+    "summary": "生成一张图文并茂的英语四级排版试卷，考题内容结合公务员考试题目。",
+    "summaryEn": "Generate an illustrated CET-4 style exam paper featuring civil service exam questions.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图像完整展示了一张名为 COLLEGE ENGLISH TEST — BAND 4 的试卷，各部分题目内容（如基层治理、满意度调查、逻辑推理、公职招录趋势等）全部为公务员考题范畴，且图文排版丰富完整，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "出一张英语四级卷子，但是里面问的全是公务员考试题，要图文并茂",
+    "sourceRange": {
+      "start": 57,
+      "end": 87
+    },
+    "translations": {
+      "zh": "出一张英语四级卷子，但是里面问的全是公务员考试题，要图文并茂",
+      "en": "Create a CET-4 English exam paper, but all the questions inside should be civil service exam questions, illustrated with pictures and text."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "生成英语四级与公务员考试结合的排版试卷图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
