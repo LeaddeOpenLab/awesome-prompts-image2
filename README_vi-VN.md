@@ -507,7 +507,7 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 <a name="prompt-2097521286436065680"></a>
 
-### Đang dịch
+### Tạo một đề thi trình bày theo định dạng tiếng Anh cấp 4 có kèm hình ảnh minh họa, nội dung kết hợp các câu hỏi thi công chức.
 
 Tác giả：[@Tz\_2022](https://x.com/Tz_2022) · [Bài gốc](https://x.com/Tz_2022/status/2097521286436065680)
 
@@ -515,14 +515,14 @@ Minh họa · Văn bản / Kiểu chữ · Đã xuất bản
 
 Bài gốc：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Bài gốc](https://x.com/Lonely__MH/status/2097494755752202574)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một đề thi trình bày theo định dạng tiếng Anh cấp 4 có kèm hình ảnh minh họa, nội dung kết hợp các câu hỏi thi công chức.
 
 <img src="images/2097521286436065680-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đề thi theo định dạng CET-4 (tiếng Anh cấp 4), nhưng toàn bộ câu hỏi bên trong đều là câu hỏi thi công chức, và phải có cả hình ảnh minh họa lẫn văn bản phong phú
 ```
 
 [↑ Về danh mục](#catalog)

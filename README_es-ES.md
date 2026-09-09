@@ -507,7 +507,7 @@ Retrato cinematográfico fotorrealista de un apuesto hombre adulto con cabello c
 
 <a name="prompt-2097521286436065680"></a>
 
-### Traducción en curso
+### Generar un examen con maquetación de inglés de nivel 4 \(CET-4\) ilustrado, combinando el contenido con preguntas de exámenes de oposiciones/función pública.
 
 Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Publicación original](https://x.com/Tz_2022/status/2097521286436065680)
 
@@ -515,14 +515,14 @@ Ilustración · Texto / Tipografía · Publicado
 
 Publicación original：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Publicación original](https://x.com/Lonely__MH/status/2097494755752202574)
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar un examen con maquetación de inglés de nivel 4 \(CET-4\) ilustrado, combinando el contenido con preguntas de exámenes de oposiciones/función pública.
 
 <img src="images/2097521286436065680-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una hoja de examen con formato CET-4 (nivel 4 de inglés), pero con todas las preguntas pertenecientes a exámenes de funcionarios públicos, con ilustraciones y texto complementados adecuadamente
 ```
 
 [↑ Volver a categorías](#catalog)
