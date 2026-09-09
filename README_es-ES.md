@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**12** Prompts · Última incorporación: **2026-09-09**
+**13** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2096805553339342932"></a>
+
+### Traducción en curso
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2096805553339342932)
+
+Fotografía · Retrato / Selfie · Personaje · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2096805553339342932-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2096805553339342932-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096982628541100464"></a>
 

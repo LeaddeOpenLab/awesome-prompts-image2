@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**12** Prompts · Latest addition: **2026-09-09**
+**13** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2096805553339342932"></a>
+
+### Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2096805553339342932)
+
+Photography · Portrait / Selfie · Character · Cityscape / Street · Published
+
+**Summary:** Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.
+
+<img src="images/2096805553339342932-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096805553339342932-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096982628541100464"></a>
 

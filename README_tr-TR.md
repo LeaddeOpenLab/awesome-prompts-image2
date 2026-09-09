@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**12** Prompt · Son eklenen: **2026-09-09**
+**13** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2096805553339342932"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2096805553339342932)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096805553339342932-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2096805553339342932-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096982628541100464"></a>
 
