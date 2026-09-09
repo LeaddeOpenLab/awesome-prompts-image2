@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:22:12.656Z",
+  "model": "gpt-image",
+  "prompt": "高校生男女の入れ替わりの1コマを描いて",
+  "promptTranslations": {
+    "en": "Draw a single panel depicting a body swap between a high school boy and girl"
+  },
+  "summaryTranslations": {
+    "en": "Generation prompt for a body swap scene between a high school boy and girl."
+  },
+  "translationVersion": 2,
+  "summary": "高校生男女の身体入れ替わりシーンの生成プロンプト。",
+  "summaryEn": "Prompt to generate a scene of high school boy and girl swapping bodies.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097765578161418569",
+    "canonicalUrl": "https://x.com/irekawarimaniax/status/2097765578161418569",
+    "author": {
+      "username": "irekawarimaniax",
+      "displayName": "クロエ",
+      "profileUrl": "https://x.com/irekawarimaniax"
+    },
+    "publishedAt": "2026-09-09T19:14:23.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "ja",
+    "originalText": "chatGPTの画像生成GPT-Imageも2.5になったみたいですね。2.0のモアレみたいな落ち着かない塗りとかは減ってる気がします。「高校生男女の入れ替わりの1コマを描いて」で出た画像ですが、挿げ替えですねこれは。まあこれはこれで美味しいか。 #AIイラスト #GPTImage https://t.co/yE1VHqLqZU",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzCM7uaQAA1Ssh.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzCM7uaQAA1Ssh.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 550
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/irekawarimaniax/status/2097765578161418569",
+  "coverUrl": "https://pbs.twimg.com/media/HRzCM7uaQAA1Ssh.jpg",
+  "coverPath": "images/2097765578161418569-1.jpg",
+  "imagePaths": [
+    "images/2097765578161418569-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRzCM7uaQAA1Ssh",
+    "x-post:2097765578161418569"
+  ],
+  "analysis": {
+    "summary": "高校生男女の身体入れ替わりシーンの生成プロンプト。",
+    "summaryEn": "Prompt to generate a scene of high school boy and girl swapping bodies.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成画像には教室で互いの制服や身体の入れ替わりに狼狽する男女が描かれており、指示と合致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "高校生男女の入れ替わりの1コマを描いて",
+    "sourceRange": {
+      "start": 69,
+      "end": 88
+    },
+    "translations": {
+      "zh": "画一幅高中男女身体互换的单格漫画场景",
+      "en": "Draw a single-panel comic scene of a high school boy and girl swapping bodies"
+    },
+    "targetModels": [
+      "gpt-image"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
