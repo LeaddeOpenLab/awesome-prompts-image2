@@ -868,13 +868,13 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2097628670143954978"></a>
 
-### Đang dịch
+### Tạo áp phích nhật ký du lịch hai khung: cảnh đường phố chân thực ở trên, hình minh họa phong cách cổ điển cùng bố cục ở dưới, kèm kiểu chữ.
 
 Tác giả：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Bài gốc](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Minh họa · Cổ điển / Cổ điển · Quang cảnh thành phố / Đường phố · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo áp phích nhật ký du lịch hai khung: cảnh đường phố chân thực ở trên, hình minh họa phong cách cổ điển cùng bố cục ở dưới, kèm kiểu chữ.
 
 <img src="images/2097628670143954978-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -883,7 +883,67 @@ Tác giả：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích nhật ký du lịch phong cách biên tập hai khung hình chân thực, sử dụng hình ảnh đầu tiên làm bố cục/tham chiếu chính xác và hình ảnh tải lên thứ hai làm tham chiếu khuôn mặt.
+
+Thay thế người phụ nữ trong áp phích gốc bằng người phụ nữ trong ảnh tham chiếu của tôi. Giữ nguyên danh tính khuôn mặt và các đặc điểm nhận dạng khuôn mặt của tôi một cách chính xác—hình dáng khuôn mặt, mắt, lông mày, mũi, môi, tông màu da và tỷ lệ tự nhiên. Không làm đẹp, thay đổi hoặc thiết kế lại khuôn mặt của tôi.
+
+KHUNG TRÊN
+
+Tái hiện chính xác cảnh đường phố ban đầu:
+
+Đường lát đá cuội hẹp kiểu châu Âu
+
+Các tòa nhà lịch sử màu kem
+
+Biển hiệu quán cà phê, cửa sổ, ban công, đèn đường và cọc chắn đường
+
+Góc máy, khung hình, phối cảnh và bố cục tương tự
+
+Tư thế ngồi/nghiêng người và vị trí cơ thể tương tự
+
+Áo len/áo khoác dệt kim màu đen tương tự
+
+Mái tóc sẫm màu dài tự nhiên
+
+Ánh sáng ban ngày mềm mại chuẩn điện ảnh
+
+Kết cấu da chân thực như ảnh chụp và ánh sáng chân thực
+
+Tích hợp khuôn mặt của tôi một cách tự nhiên với tư thế, góc đầu và ánh sáng ban đầu
+
+KHUNG DƯỚI
+
+Tạo phiên bản minh họa vẽ tay/in ấn tương ứng của cùng một cảnh.
+
+Giữ nguyên tư thế, trang phục, kiểu tóc và danh tính khuôn mặt
+
+Chuyển đổi bức ảnh thành hình minh họa biên tập cổ điển có hoa văn bề mặt
+
+Bảng màu mực xanh lam, kem và cam ấm dịu
+
+Rõ vân giấy và kết cấu mực in không hoàn hảo
+
+Giữ cho các đường nét trên khuôn mặt của tôi dễ nhận biết trong khi vẫn phù hợp với phong cách minh họa
+
+Bảo toàn đường phố, các tòa nhà, cây cối, xe cộ và phối cảnh từ bản gốc
+
+NGHỆ THUẬT CHỮ & BỐ CỤC
+
+Giữ nguyên bố cục và kiểu chữ của áp phích gốc:
+
+Tiêu đề viết tay lớn: “By the Street”
+
+Đoạn văn bản nhật ký tiếng Anh nhỏ
+
+Văn bản tiếng Trung ở phía trên bên trái
+
+Ngày tháng: 2026.08.29
+
+Số/chi tiết nhật ký nhỏ
+
+Cụm từ bên phải: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Quan trọng nhất: Khuôn mặt của tôi phải là danh tính khuôn mặt duy nhất được sử dụng. Không sao chép khuôn mặt của người phụ nữ ban đầu. Giữ bố cục tổng thể của áp phích, tư thế, trang phục, bối cảnh và phong cách nghệ thuật càng gần với bản tham chiếu càng tốt. Chất lượng cao, tích hợp khuôn mặt tự nhiên, liền mạch, khung trên chân thực như ảnh chụp và khung dưới là hình minh họa in ấn chân thực.
 ```
 
 [↑ Về danh mục](#catalog)
