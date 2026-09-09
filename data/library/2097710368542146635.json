@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "生成一张清明节气海报",
   "promptTranslations": {
-    "en": "Generate a Qingming solar term poster"
+    "en": "Generate a Qingming solar term poster",
+    "zh": "生成一张清明节气海报",
+    "zh-TW": "生成一張清明節氣海報",
+    "ja-JP": "清明の節気ポスターを1枚生成してください",
+    "ko-KR": "청명 절기 포스터 한 장 생성",
+    "th-TH": "สร้างโปสเตอร์เทศกาลชิงหมิงหนึ่งแผ่น",
+    "vi-VN": "Tạo một áp phích tiết khí Thanh minh",
+    "hi-IN": "चिंगमिंग सौर पद के लिए एक पोस्टर बनाएं",
+    "es-ES": "Genera un póster del término solar Qingming"
   },
   "summaryTranslations": {
-    "en": "Generate a Qingming solar term themed poster."
+    "en": "Generate a Qingming solar term themed poster.",
+    "zh": "生成清明节气主题海报。",
+    "zh-TW": "生成清明節氣主題海報。",
+    "ja-JP": "清明の節気テーマポスターの生成。",
+    "ko-KR": "청명 절기 주제 포스터 생성.",
+    "th-TH": "สร้างโปสเตอร์ในธีมเทศกาลชิงหมิง",
+    "vi-VN": "Tạo áp phích chủ đề tiết khí Thanh minh.",
+    "hi-IN": "चिंगमिंग सौर पद थीम पोस्टर बनाएं।",
+    "es-ES": "Generar un póster temático del término solar Qingming."
   },
   "translationVersion": 2,
   "summary": "生成清明节气主题海报。",
