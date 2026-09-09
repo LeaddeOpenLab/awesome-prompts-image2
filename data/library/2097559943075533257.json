@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif",
   "promptTranslations": {
-    "en": "Do not use skills, create a sprite sheet.\nThis sheet contains the process of a pixel art male goblin drawing a bow and arrow and shooting.\nA total of 16 frames.\nThen slice this image and make it into a perpetual looping gif"
+    "en": "Do not use skills, create a sprite sheet.\nThis sheet contains the process of a pixel art male goblin drawing a bow and arrow and shooting.\nA total of 16 frames.\nThen slice this image and make it into a perpetual looping gif",
+    "zh": "不要使用技能,制作做一张精灵图\\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\\n总计16帧.\\n然后将该图切图,并制作成永动gif",
+    "zh-TW": "不要使用技能，製作一張精靈圖\\n這張圖包含一名像素風男性哥布林拉弓射箭的過程\\n總計16幀。\\n然後將該圖切圖，並製作成循環gif",
+    "ja-JP": "スキルを使用せず、スプライトシートを1枚作成してください。\\nこの画像には、ピクセルアート風のオスのゴブリンが弓を引き矢を放つ一連のプロセスが含まれます。\\n合計16フレームです。\\nその後、この画像をフレームごとにスライスし、無限ループGIFを作成してください。",
+    "ko-KR": "스킬을 사용하지 말고, 스프라이트 시트 한 장을 제작해 주세요.\\n이 이미지에는 픽셀 아트 스타일의 남성 고블린이 활을 당겨 화살을 쏘는 과정이 포함되어 있습니다.\\n총 16프레임입니다.\\n그런 다음 이 이미지를 분할하여 무한 반복되는 루프 GIF로 제작해 주세요.",
+    "th-TH": "ห้ามใช้ทักษะ สร้างสไปรต์ชีตหนึ่งภาพ\\nภาพนี้ประกอบด้วยกระบวนการยิงธนูของก็อบลินเพศชายในสไตล์พิกเซลอาร์ต\\nรวมทั้งหมด 16 เฟรม\\nจากนั้นตัดแบ่งภาพนี้และทำเป็น GIF ที่วนซ้ำตลอดเวลา",
+    "vi-VN": "Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\\nHình ảnh này bao gồm quá trình một yêu tinh goblin nam phong cách pixel art giương cung và bắn tên\\nTổng cộng 16 khung hình.\\nSau đó cắt tấm hình này và tạo thành ảnh GIF lặp vô tận",
+    "hi-IN": "कौशल (skills) का उपयोग न करें, एक स्प्राइट शीट बनाएं\\nइस छवि में पिक्सेल आर्ट शैली के एक पुरुष गॉब्लिन द्वारा धनुष खींचकर तीर चलाने की प्रक्रिया शामिल है\\nकुल 16 फ्रेम।\\nफिर इस छवि को काटें और एक अनंत लूप वाली GIF बनाएं",
+    "es-ES": "No utilices habilidades, crea una hoja de sprites\\nEsta imagen contiene el proceso de un goblin masculino en estilo pixel art tensando un arco y disparando una flecha\\nEn total 16 fotogramas.\\nLuego corta la imagen y crea un gif en bucle infinito"
   },
   "summaryTranslations": {
-    "en": "Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow."
+    "en": "Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow.",
+    "zh": "生成像素风男性哥布林拉弓射箭的16帧精灵图动画循环指令。",
+    "zh-TW": "生成像素風男性哥布林拉弓射箭的16幀精靈圖動畫循環指令。",
+    "ja-JP": "ピクセルアート風のオスのゴブリンが弓を引き矢を放つ16フレームのスプライトシートのアニメーションループ生成指示。",
+    "ko-KR": "픽셀 아트 스타일의 남성 고블린 활쏘기 16프레임 스프라이트 시트 애니메이션 루프 생성 명령.",
+    "th-TH": "คำสั่งสร้างภาพเคลื่อนไหวลูปสไปรต์ชีต 16 เฟรม ของก็อบลินเพศชายสไตล์พิกเซลอาร์ตกำลังน้าวคันศรและยิงธนู",
+    "vi-VN": "Lệnh tạo vòng lặp hoạt ảnh sprite sheet 16 khung hình về một yêu tinh goblin nam phong cách pixel art giương cung bắn tên.",
+    "hi-IN": "पिक्सेल आर्ट पुरुष गॉब्लिन के धनुष खींचकर तीर चलाने वाले 16-फ्रेम स्प्राइट शीट एनिमेशन लूप जनरेशन निर्देश।",
+    "es-ES": "Instrucción para generar un bucle de animación en hoja de sprites de 16 fotogramas de un goblin masculino de estilo pixel art tensando un arco y disparando."
   },
   "translationVersion": 2,
   "summary": "生成像素风男性哥布林拉弓射箭的16帧精灵图动画循环指令。",
