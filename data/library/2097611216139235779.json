@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景",
   "promptTranslations": {
-    "en": "Reference the character in the image, generate a 3*3 grid with a total of 9 different emoji/sticker expressions, Chinese and English can appear, light gradient background"
+    "en": "Reference the character in the image, generate a 3*3 grid with a total of 9 different emoji/sticker expressions, Chinese and English can appear, light gradient background",
+    "zh": "参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景",
+    "zh-TW": "參考圖片人物，生成3*3共9種不同表情包，可以出現中文和英文，淺色漸變背景",
+    "ja-JP": "画像の人物を参考に、3×3の計9種類の異なる表情スタンプ（ミーム画像）を生成してください。中国語と英語のテキストを含めてもよく、明るい色のグラデーション背景にしてください",
+    "ko-KR": "이미지 속 인물을 참고하여 3*3 총 9가지의 서로 다른 이모티콘 팩을 생성해 주세요. 중국어와 영어가 포함될 수 있으며, 밝은 색상의 그라데이션 배경입니다",
+    "th-TH": "อ้างอิงจากตัวละครในภาพ สร้างชุดมีม/สติกเกอร์แสดงอารมณ์ 9 แบบที่แตกต่างกันในรูปแบบตาราง 3*3 สามารถมีข้อความภาษาจีนและภาษาอังกฤษได้ พื้นหลังไล่ระดับสีโทนอ่อน",
+    "vi-VN": "Tham khảo nhân vật trong ảnh, tạo 9 biểu cảm meme khác nhau xếp thành lưới 3*3, có thể xuất hiện chữ tiếng Trung và tiếng Anh, nền gradient màu sáng",
+    "hi-IN": "छवि में दिए गए चरित्र के आधार पर, 3*3 के ग्रिड में कुल 9 विभिन्न इमोजी/मीम एक्सप्रेशंस बनाएं, जिसमें चीनी और अंग्रेजी पाठ शामिल हो सकते हैं, हल्का ग्रेडिएंट बैकग्राउंड",
+    "es-ES": "Tomando como referencia al personaje de la imagen, genera un conjunto de 9 expresiones diferentes en una cuadrícula de 3*3, pueden incluir texto en chino e inglés, con un fondo degradado de color claro"
   },
   "summaryTranslations": {
-    "en": "Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image."
+    "en": "Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image.",
+    "zh": "基于人物参考图生成3x3九宫格中英文多表情包。",
+    "zh-TW": "基於人物參考圖生成3x3九宮格中英文多表情包。",
+    "ja-JP": "人物参考画像に基づき、中国語・英語入りの3x3グリッド9種表情スタンプを生成。",
+    "ko-KR": "인물 참조 이미지를 기반으로 3x3 9분할 그리드의 한·영 다중 표정 이모티콘 팩 생성.",
+    "th-TH": "สร้างชุดสติกเกอร์แสดงอารมณ์หลากหลายภาษาจีนและอังกฤษแบบตาราง 3x3 เก้าช่องโดยอิงจากภาพบุคคลอ้างอิง",
+    "vi-VN": "Tạo bộ biểu cảm meme đa dạng kèm chữ tiếng Trung và tiếng Anh dạng lưới 3x3 chín ô dựa trên ảnh nhân vật tham chiếu.",
+    "hi-IN": "चरित्र संदर्भ छवि के आधार पर 3x3 नौ-ग्रिड चीनी और अंग्रेजी बहु-अभिव्यक्ति मीम पैक उत्पन्न करें।",
+    "es-ES": "Generación de un paquete de múltiples expresiones en cuadrícula 3x3 de nueve casillas con chino e inglés basado en una imagen de referencia del personaje."
   },
   "translationVersion": 2,
   "summary": "基于人物参考图生成3x3九宫格中英文多表情包。",
