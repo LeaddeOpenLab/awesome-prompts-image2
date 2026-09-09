@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-brightgreen)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **高品質なプロンプトを毎日厳選**
 
 AI画像・動画・3D制作の完全なプロンプトを紹介します。スタイル別に探し、多言語版と原作者の出典を確認できます。
@@ -109,13 +104,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097534208541442338"></a>
 
-### 翻訳中
+### 色白肌の東アジア若い女性によるiPhoneインカメスナップ顔寄り特写プロンプト、灰白色ファー背景と頬杖・ぼんやりポーズ各種。
 
 作者：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [元の投稿](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 プロフィール / アバター · 写真撮影 · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信済み
 
-**概要:** 翻訳中
+**概要:** 色白肌の東アジア若い女性によるiPhoneインカメスナップ顔寄り特写プロンプト、灰白色ファー背景と頬杖・ぼんやりポーズ各種。
 
 <img src="images/2097534208541442338-1.jpg" alt="画像 1" width="480" />
 
@@ -128,7 +123,24 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **プロンプト**
 
 ```text
-翻訳中
+📱 iPhoneのインカメラによるスナップ写真、9:16。18〜22歳の明らかに成人した美しい東アジア人女性、身長約1.75m、整った顔立ち、透き通るような色白の肌（ブルーベース白肌）、スラリと細身なモデル体型、自然なEカップ相当のバスト。ダークトーンのしなやかでふんわりとしたロングウェーブヘア、淡い色合いのタイトな深Vネックキャミソール、なめらかな首筋とデコルテ、肩のライン。丸みのある目元、柔らかな平行眉、黒く澄んだ瞳、淡いピンクのチークとうるおいのあるピンク系の唇、物憂げで静かな表情。
+
+🩶 薄暗い室内でのクローズアップ顔寄りポートレート、ボケ感のあるオフホワイトのファー／モヘア織物の背景、寒色系の微光、低露出、低彩度のグレイスケール／モノトーン調フィルター、低コントラスト、わずかなシャープネス、柔らかなフォーカスの微粒子ノイズ感、自然体で脱力感があり、クリーンで高級感のある、少しアンニュイで冷ややかな雰囲気。
+
+ランダムポーズ候補：
+
+🤍 片手で頬杖をつき、手のひらを頬と顎に当てて静かにカメラを見つめる
+🫧 肘をついて顔の横を支え、首を少し傾げてぼーっとする
+🌙 顔の半分を手のひらに埋め、気だるげに視線を漂わせる
+💭 指先を顎とフェイスラインに軽く添え、うつむいてからゆっくりと視線を上げる
+🪞 カメラに近づき、手のひらで顔を支え、ロングウェーブヘアが肩の前に垂れる
+☁️ 手の甲に横顔をあて、視線はフレームの外へ外す
+💤 頬に手を当て少し肩をすくめ、眠気のある瞬間にふと撮られたような姿
+✨ 顔を支えながらふわふわのクッションに寄り添い、口元にかすかな微笑みを浮かべる
+
+🎲 さまざまなポーズに合わせて、自撮りの距離感、頬杖のつき方、視線、髪の毛の流れ、薄暗い光、ピンボケや粒子感を自由に表現。顔寄りのクローズアップ特写、冷ややかなグレイッシュトーン、そしてiPhoneのインカメラで撮ったような自然なスナップの質感を重視し、おうちドリームコア × 憂鬱なアンニュイ感 × 上質でミニマルなポートレート感を追求する。
+
+複数のポーズを含んだ総合プレビュー画像を1枚生成し、そこから選べるようにしてください。
 ```
 
 [↑ カテゴリに戻る](#catalog)

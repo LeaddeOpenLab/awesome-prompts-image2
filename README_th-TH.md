@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-brightgreen)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **คัดสรรพรอมต์คุณภาพสูงทุกวัน**
 
 ค้นพบพรอมต์ฉบับเต็มสำหรับสร้างภาพ วิดีโอ และ 3D ด้วย AI เลือกตามสไตล์ อ่านหลายภาษา และดูเครดิตผู้สร้างต้นฉบับได้
@@ -109,13 +104,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2097534208541442338"></a>
 
-### กำลังแปล
+### พรอมต์ภาพโคลสอัพใบหน้าด้วยกล้องหน้า iPhone ของหญิงสาวชาวเอเชียตะวันออกผิวขาวคูลโทน พร้อมฉากหลังขนปุยสีเทาขาวและตัวเลือกท่าเท้าคางเหม่อลอยหลากสไตล์
 
 ผู้เขียน：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [โพสต์ต้นฉบับ](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 โปรไฟล์ / รูปประจำตัว · การถ่ายภาพ · ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · เผยแพร่แล้ว
 
-**สรุป:** กำลังแปล
+**สรุป:** พรอมต์ภาพโคลสอัพใบหน้าด้วยกล้องหน้า iPhone ของหญิงสาวชาวเอเชียตะวันออกผิวขาวคูลโทน พร้อมฉากหลังขนปุยสีเทาขาวและตัวเลือกท่าเท้าคางเหม่อลอยหลากสไตล์
 
 <img src="images/2097534208541442338-1.jpg" alt="รูปภาพ 1" width="480" />
 
@@ -128,7 +123,24 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 **พรอมต์**
 
 ```text
-กำลังแปล
+📱 ภาพถ่ายแบบไม่ตั้งใจด้วยกล้องหน้า iPhone, อัตราส่วน 9:16; หญิงสาวชาวเอเชียตะวันออกหน้าตาสะสวย อายุ 18–22 ปี บรรลุนิติภาวะแล้วอย่างชัดเจน ส่วนสูงประมาณ 1.75 เมตร เครื่องหน้าประณีต ผิวขาวสว่างอมชมพูแบบคูลโทนโปร่งแสง รูปร่างสูงเพรียวแบบนางแบบ สัดส่วนหน้าอกดูเป็นธรรมชาติประมาณคัพ E ผมยาวดัดลอนใหญ่หนานุ่มสลวยสีเข้ม สวมเสื้อสายเดี่ยวทรงเข้ารูปคอวีลึกสีอ่อน เผยให้เห็นลำคอ ไหล่ และแนวไหปลาร้าที่เรียบเนียน รูปตากลมมน คิ้วตรงทรงละมุน นัยน์ตาสีดำสนิทเป็นประกาย ปัดแก้มสีชมพูระเรื่อบางเบา ริมฝีปากโทนชมพูดูฉ่ำวาว อารมณ์นิ่งสงบและเกียจคร้าน
+
+🩶 ภาพถ่ายบุคคลระยะใกล้มากแบบโคลสอัพใบหน้าในห้องสลัว มีฉากหลังเป็นผ้าขนสัตว์เทียมสีเทาขาวเบลอ แสงสลัวโทนเย็น ค่าเปิดรับแสงต่ำ ฟิลเตอร์สีเทาขาวความอิ่มตัวต่ำ คอนทราสต์ต่ำ ความคมชัดเล็กน้อย เกรนเบลอนุ่มนวลชวนฝัน ดูสบายๆ ผ่อนคลาย สะอาดและเรียบหรู พร้อมบรรยากาศเย็นชาปนความหม่นเศร้าเล็กน้อย
+
+ชุดท่าโพสแบบสุ่ม:
+
+🤍 ใช้มือข้างหนึ่งเท้าคาง ฝ่ามือแนบแก้มและแนวกราม มองกล้องอย่างเงียบๆ
+🫧 เอาศอกยันไว้ข้างแก้ม เอียงคอเล็กน้อยแล้วเหม่อลอย
+🌙 ซบใบหน้าครึ่งหนึ่งลงบนฝ่ามือ สายตาเลื่อนลอยผ่อนคลาย
+💭 ปลายนิ้วแตะเบาๆ ที่คางและข้างแก้ม ก้มหน้าลงแล้วค่อยๆ ช้อนตาขึ้นมอง
+🪞 ขยับเข้าใกล้เลนส์กล้อง มือประคองแก้ม ผมดัดลอนยาวทิ้งตัวลงมาด้านหน้าไหล่
+☁️ แนบข้างแก้มกับหลังมือ ทอดสายตาออกไปนอกกรอบภาพ
+💤 มือประคองแก้มพร้อมห่อไหล่เล็กน้อย เหมือนถูกแอบถ่ายตอนง่วงนอน
+✨ เท้าคางพิงหมอนขนปุย มุมปากมีรอยยิ้มจางๆ
+
+🎲 ปรับระยะห่างในการเซลฟี่ วิธีการเท้าคาง สายตา เส้นผม แสงสลัว การหลุดโฟกัส และเกรนของภาพได้อย่างอิสระตามแต่ละท่าทาง โดยเน้นรักษาความโคลสอัพใกล้ชิด โทนสีเทาขาวเย็นชา และเท็กซ์เจอร์ภาพถ่ายกล้องหน้า iPhone แบบเป็นธรรมชาติ เพื่อให้ได้อารมณ์แบบ Home Dreamcore × บรรยากาศหม่นเศร้า × ภาพบุคคลแนวมินิมอลระดับพรีเมียม
+
+สร้างภาพพรีวิวรวมที่มีท่าทางต่างๆ ในภาพเดียวเพื่อให้ฉันเลือก
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

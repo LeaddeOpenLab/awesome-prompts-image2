@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-brightgreen)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **每日更新，精選高品質提示詞**
 
 探索用於 AI 圖像、影片與 3D 創作的完整提示詞。依風格瀏覽、切換多語言版本，查看原作者與作品來源。
@@ -109,13 +104,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097534208541442338"></a>
 
-### 翻譯中
+### 冷白皮東亞年輕女性的iPhone前置隨拍大頭近景特寫提示詞，配灰白毛絨背景與多種托臉發呆動作選項。
 
 作者：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [查看 X 原帖](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 個人檔案 / 頭像 · 攝影 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
 
-**概括:** 翻譯中
+**概括:** 冷白皮東亞年輕女性的iPhone前置隨拍大頭近景特寫提示詞，配灰白毛絨背景與多種托臉發呆動作選項。
 
 <img src="images/2097534208541442338-1.jpg" alt="圖片 1" width="480" />
 
@@ -128,7 +123,24 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **提示詞**
 
 ```text
-翻譯中
+📱 iPhone 前置鏡頭隨手抓拍，9:16；18–22 歲、明確成年的漂亮東亞女性，約 1.75 米，精緻五官，冷白透亮肌膚，高挑纖細模特身形，胸部視覺約自然 E 罩杯。深色柔順蓬鬆大波浪長捲髮，淺色修身深 V 細肩帶，露出光潔肩頸與肩膀線條，圓潤眼型、柔和平眉、烏黑清亮眼眸，淡粉腮紅與水潤粉調嘴唇，慵懶安靜。
+
+🩶 昏暗室內近距離大頭人像特寫，灰白毛絨織物虛化背景，冷調弱光、低曝光、低飽和灰白濾鏡、低對比、輕微銳化、柔焦朦朧顆粒感，隨性鬆弛、乾淨高級，帶一點憂鬱清冷氛圍。
+
+隨機動作池：
+
+🤍 單手托臉，手掌貼住臉頰與下頜，安靜看鏡頭
+🫧 手肘撐住側臉，微微歪頭髮呆
+🌙 半張臉埋進掌心，眼神慵懶放空
+💭 手指輕貼下巴與臉側，低頭再慢慢抬眼
+🪞 靠近鏡頭，手掌托臉，長捲髮垂落肩前
+☁️ 側臉貼著手背，目光偏向畫面外
+💤 手托臉頰微微蜷肩，像困倦時被抓拍
+✨ 撐臉靠近毛絨靠枕，嘴角帶一點淡淡笑意
+
+🎲 圍繞不同動作自由發揮自拍距離、托臉方式、眼神、髮絲、弱光、失焦與顆粒感，重點保留近距離大頭特寫、清冷灰白色調和 iPhone 前置隨手拍質感，追求居家夢核 × 憂鬱氛圍 × 高級簡約人像感。
+
+出一張包含不同動作的綜合預覽圖，讓我從中選擇。
 ```
 
 [↑ 返回分類目錄](#catalog)

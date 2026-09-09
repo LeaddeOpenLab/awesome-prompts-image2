@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-brightgreen)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **Tuyển chọn câu lệnh chất lượng cao mỗi ngày**
 
 Khám phá câu lệnh đầy đủ để tạo ảnh, video và 3D bằng AI. Duyệt theo phong cách, đọc nhiều ngôn ngữ và xem tác giả cùng nguồn gốc.
@@ -109,13 +104,13 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097534208541442338"></a>
 
-### Đang dịch
+### Prompt ảnh chụp cận cảnh khuôn mặt bằng camera trước iPhone của thiếu nữ Đông Á da trắng lạnh, hậu cảnh lông xám trắng cùng nhiều lựa chọn tư thế chống cằm thẫn thờ.
 
 Tác giả：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Bài gốc](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 Hồ sơ / Ảnh đại diện · Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp cận cảnh khuôn mặt bằng camera trước iPhone của thiếu nữ Đông Á da trắng lạnh, hậu cảnh lông xám trắng cùng nhiều lựa chọn tư thế chống cằm thẫn thờ.
 
 <img src="images/2097534208541442338-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -128,7 +123,24 @@ Hồ sơ / Ảnh đại diện · Nhiếp ảnh · Chân dung / Ảnh tự chụ
 **Câu lệnh**
 
 ```text
-Đang dịch
+📱 Ảnh chụp tự nhiên bằng camera trước của iPhone, tỉ lệ 9:16; người phụ nữ Đông Á xinh đẹp, chắc chắn đã trưởng thành, độ tuổi 18–22, cao khoảng 1,75m, đường nét khuôn mặt thanh tú, làn da trắng sáng trong trẻo tông lạnh, vóc dáng người mẫu cao ráo mảnh mai, vòng một tự nhiên khoảng cúp E. Mái tóc dài xoăn sóng bồng bềnh mượt mà màu sẫm, áo hai dây mảnh cổ chữ V sâu ôm sát màu sáng, để lộ đường vai và cổ thon thả mịn màng, dáng mắt tròn, lông mày ngang mềm mại, đôi mắt đen láy trong veo, má hồng phớt nhẹ và đôi môi căng mọng ánh hồng, vẻ lười biếng và tĩnh lặng.
+
+🩶 Chân dung cận cảnh đặc tả khuôn mặt trong phòng tối, hậu cảnh vải lông màu xám trắng làm mờ, ánh sáng yếu tông lạnh, độ phơi sáng thấp, bộ lọc xám trắng độ bão hòa thấp, độ tương phản thấp, độ sắc nét nhẹ, hạt mịn mờ ảo lấy nét mềm, cảm giác phóng khoáng thư thái, sạch sẽ cao cấp, pha chút không khí u buồn lạnh lùng.
+
+Nhóm tư thế ngẫu nhiên:
+
+🤍 Một tay chống cằm, lòng bàn tay áp sát má và quai hàm, lặng lẽ nhìn vào ống kính
+🫧 Chống khuỷu tay đỡ một bên má, hơi nghiêng đầu thẫn thờ
+🌙 Nửa khuôn mặt vùi vào lòng bàn tay, ánh mắt lơ đãng lười biếng
+💭 Ngón tay chạm nhẹ vào cằm và một bên mặt, cúi đầu rồi từ từ ngước mắt lên
+🪞 Tiến lại gần ống kính, lòng bàn tay đỡ lấy khuôn mặt, lọn tóc xoăn dài buông rũ trước vai
+☁️ Áp má vào mu bàn tay, ánh mắt nhìn ra ngoài khung hình
+💤 Tay đỡ má hơi co vai lại, như khoảnh khắc buồn ngủ bị chụp lén
+✨ Chống cằm nép sát gối lông, khóe môi khẽ nở nụ cười nhạt
+
+🎲 Tự do biến tấu cự ly selfie, cách chống má, ánh mắt, lọn tóc, ánh sáng mờ, độ lệch nét và độ hạt theo các động tác khác nhau; trọng tâm giữ vững góc chụp cận cảnh đặc tả khuôn mặt, tông màu xám trắng lạnh lùng và chất ảnh chụp ngẫu hứng của camera trước iPhone, hướng đến phong cách dreamcore tại nhà × bầu không khí u uất × chân dung tối giản cao cấp.
+
+Xuất ra một bức ảnh xem trước tổng hợp gồm các động tác khác nhau để tôi lựa chọn.
 ```
 
 [↑ Về danh mục](#catalog)

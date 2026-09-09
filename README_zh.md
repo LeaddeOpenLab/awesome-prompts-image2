@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **每日更新，精选高质量提示词**
 
 发现用于 AI 图像、视频与 3D 创作的完整提示词。按风格浏览，切换多语言版本，查看原作者与作品来源。
@@ -109,13 +104,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097534208541442338"></a>
 
-### 翻译中
+### 冷白皮东亚年轻女性的iPhone前置随拍大头近景特写提示词，配灰白毛绒背景与多种托脸发呆动作选项。
 
 作者：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [查看 X 原帖](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 个人资料 / 头像 · 摄影 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
 
-**概括:** 翻译中
+**概括:** 冷白皮东亚年轻女性的iPhone前置随拍大头近景特写提示词，配灰白毛绒背景与多种托脸发呆动作选项。
 
 <img src="images/2097534208541442338-1.jpg" alt="图片 1" width="480" />
 
@@ -128,7 +123,24 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **提示词**
 
 ```text
-翻译中
+📱 iPhone 前置摄像头随手抓拍，9:16；18–22 岁、明确成年的漂亮东亚女性，约 1.75 米，精致五官，冷白通透肌肤，高挑纤细模特身材，胸部视觉约自然 E 罩杯。深色柔顺蓬松大波浪长卷发，浅色修身深 V 细吊带，露出光洁肩颈与肩膀线条，圆润眼型、柔和平眉、乌黑清亮眼眸，淡粉腮红与水润粉调嘴唇，慵懒安静。
+
+🩶 昏暗室内近距离大头人像特写，灰白毛绒织物虚化背景，冷调弱光、低曝光、低饱和灰白滤镜、低对比、轻微锐化、柔焦朦胧颗粒感，随性松弛、干净高级，带一点忧郁清冷氛围。
+
+随机动作池：
+
+🤍 单手托脸，手掌贴住脸颊与下颌，安静看镜头
+🫧 手肘撑住侧脸，微微歪头发呆
+🌙 半张脸埋进掌心，眼神慵懒放空
+💭 手指轻贴下巴与脸侧，低头再慢慢抬眼
+🪞 靠近镜头，手掌托脸，长卷发垂落肩前
+☁️ 侧脸贴着手背，目光偏向画面外
+💤 手托脸颊微微蜷肩，像困倦时被抓拍
+✨ 撑脸靠近毛绒靠枕，嘴角带一点淡淡笑意
+
+🎲 围绕不同动作自由发挥自拍距离、托脸方式、眼神、发丝、弱光、失焦与颗粒感，重点保留近距离大头特写、清冷灰白色调和 iPhone 前置随手拍质感，追求居家梦核 × 忧郁氛围 × 高级简约人像感。
+
+出一张包含不同动作的综合预览图，让我从中选择。
 ```
 
 [↑ 返回分类目录](#catalog)
