@@ -126,13 +126,13 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2096901566985068734"></a>
 
-### Đang dịch
+### Prompt chụp ảnh chân dung phong cách tiếp viên hàng không Nhật Bản ở khu vực cửa máy bay, tích hợp sẵn kho hành động ngẫu nhiên.
 
 Tác giả：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Bài gốc](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chụp ảnh chân dung phong cách tiếp viên hàng không Nhật Bản ở khu vực cửa máy bay, tích hợp sẵn kho hành động ngẫu nhiên.
 
 <img src="images/2096901566985068734-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -145,7 +145,24 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / B
 **Câu lệnh**
 
 ```text
-Đang dịch
+📱 Ảnh chụp nhanh tự nhiên phong cách hàng không Nhật Bản, 3:4; người phụ nữ Đông Á xinh đẹp, chắc chắn đã trưởng thành, 18–22 tuổi, cao khoảng 1,75 m, ngũ quan ngọt ngào tinh tế, làn da trắng sứ tông lạnh, vóc dáng người mẫu cao ráo mảnh mai, ngực nhìn tự nhiên khoảng cúp E. Tóc búi gọn gàng tinh tế, áo sơ mi trắng cổ V sâu × áo vest ghi-lê tiếp viên hàng không màu xanh thẫm × chân váy ngắn kẻ sọc xanh trắng, khăn lụa vàng, giày cao gót vừa màu đen và quần tất đen.
+
+✈️ Khu vực cửa máy bay, ghế gập, tay nắm cửa, biển cảnh báo và ngăn để hành lý lọt vào khung hình một cách tự nhiên. Tông màu xám lạnh độ bão hòa thấp, bố cục nghiêng cầm tay bằng điện thoại, ánh sáng trần khuếch tán, hơi thừa sáng nhẹ, có hạt nhiễu và viền mờ mất nét, lớp trang điểm giả mặt mộc trong trẻo màu đào, cảm giác chụp nhanh nghiệp dư chân thực.
+
+Kho hành động ngẫu nhiên:
+
+💺 Ngồi trên ghế gập, một chân co lên, giơ tay chỉnh lại mái tóc búi
+✈️ Ngồi nghiêng bên cửa máy bay, quay đầu nở nụ cười ngọt ngào
+🧣 Cúi đầu chỉnh khăn lụa, bất chợt ngước mắt nhìn vào ống kính
+👜 Cúi người lục tìm trong túi xách nhỏ, bắt trọn khoảnh khắc hành động
+🙆🏻‍♀️ Tựa vào lưng ghế vươn vai, tư thế thư giãn tự nhiên
+🪞 Đứng dậy chỉnh lại áo ghi-lê và vạt váy, nghiêng người nhìn vào ống kính
+💬 Ngồi chống cằm ngẩn ngơ, hai chân đan chéo tự nhiên
+🚪 Vịnh vào mép cửa máy bay đứng dậy, quay đầu mỉm cười
+
+🎲 Sau khi rút ngẫu nhiên hành động, tự do biến tấu góc máy, chi tiết trong khoang, biểu cảm, độ nghiêng cầm tay và hiệu ứng mất nét, hướng tới sự kết hợp giữa đồng phục tiếp viên hàng không × ảnh đời thường phong cách Nhật Bản × cảm giác chụp vội bằng điện thoại.
+
+Xuất ra một bức ảnh xem trước tổng hợp bao gồm các hành động khác nhau để tôi lựa chọn.
 ```
 
 [↑ Về danh mục](#catalog)

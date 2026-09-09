@@ -126,13 +126,13 @@ Traducción en curso
 
 <a name="prompt-2096901566985068734"></a>
 
-### Traducción en curso
+### Prompt de retrato instantáneo en uniforme de azafata japonesa junto a la puerta de la cabina, con múltiples opciones de acciones aleatorias integradas.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicación original](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografía · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato instantáneo en uniforme de azafata japonesa junto a la puerta de la cabina, con múltiples opciones de acciones aleatorias integradas.
 
 <img src="images/2096901566985068734-1.jpg" alt="Imagen 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografía · Retrato / Selfie · Personaje · Resumen / Antecedentes · Public
 **Prompt**
 
 ```text
-Traducción en curso
+📱 Instantánea casual estilo aerolínea japonesa, 3:4; hermosa mujer de Asia oriental claramente adulta de 18 a 22 años, aproximadamente 1,75 m, rasgos faciales delicados y dulces, piel blanca porcelana fría, figura de modelo alta y esbelta, busto visualmente natural de copa E aproximada. Moño recogido elegante, camisa blanca con cuello en V profundo × chaleco de azafata azul marino × falda corta a rayas azules y blancas, pañuelo de seda amarillo, zapatos negros de tacón medio y medias negras.
+
+✈️ Área de la puerta del avión, asiento plegable, manija de la puerta, señales de advertencia y compartimentos superiores encuadrados de forma natural. Tonos grises fríos de baja saturación, composición inclinada tomada a mano con móvil, luz difusa de techo, ligera sobreexposición, ruido y bordes desenfocados, maquillaje translúcido efecto cara lavada en tonos melocotón, sensación auténtica de foto instantánea amateur.
+
+Grupo de acciones aleatorias:
+
+💺 Sentada en el asiento plegable con una pierna flexionada, levantando la mano para acomodarse el peinado recogido
+✈️ Sentada de lado junto a la puerta, girando la cabeza con una dulce sonrisa
+🧣 Mirando hacia abajo para arreglarse el pañuelo, levantando repentinamente la mirada hacia la cámara
+👜 Inclinándose para buscar en su bolso de mano, capturando el instante del movimiento
+🙆🏻‍♀️ Apoyada contra el respaldo estirándose, con una postura natural y relajada
+🪞 Poniéndose de pie para ajustarse el chaleco y la falda, mirando hacia la cámara de perfil
+💬 Sentada apoyando la barbilla en la mano mientras sueña despierta, con las piernas cruzadas de forma natural
+🚪 Apoyándose en el marco de la puerta para levantarse, volteando a sonreír
+
+🎲 Una vez seleccionada la acción, aplica libremente el ángulo de cámara, detalles de la cabina, expresiones, inclinación manual y efectos de desenfoque, buscando el efecto uniforme de azafata × retrato de estilo de vida japonés × foto casual con el móvil.
+
+Genera una imagen de vista previa integral que incluya diferentes acciones para que pueda elegir entre ellas.
 ```
 
 [↑ Volver a categorías](#catalog)
