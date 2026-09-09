@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
   "promptTranslations": {
-    "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face"
+    "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
+    "zh": "9:16，身穿旗袍，柔光光晕，梦幻模糊，俯视高角度拍摄，高挑纤细的模特身材，精致妆容，狐狸系美艳面容",
+    "zh-TW": "9:16，身穿旗袍，柔光光暈，夢幻模糊，由上而下俯瞰的高視角拍攝，高挑纖細的模特身材，精緻妝容，狐系美豔面孔",
+    "ja-JP": "9:16、チャイナドレス（旗袍）を着用、柔らかな光のブルーム、ドリーミーなボケ感、見下ろすハイアングルショット、背が高くスレンダーなモデル体型、洗練されたメイク、狐顔の美女",
+    "ko-KR": "9:16, 치파오 착용, 부드러운 빛 번짐, 몽환적인 블러, 내려다보는 하이 앵글 샷, 키 크고 날씬한 모델 체형, 세련된 메이크업, 여우상 미인 얼굴",
+    "th-TH": "9:16, สวมชุดกี่เพ้า, แสงฟุ้งนุ่มนวล, เบลอแบบชวนฝัน, ภาพมุมสูงมองลงมา, หุ่นนางแบบสูงเพรียว, การแต่งหน้าประณีต, ใบหน้าสวยเฉี่ยวแบบนางจิ้งจอก",
+    "vi-VN": "9:16, mặc sườn xám, ánh sáng dịu tỏa lan, mờ ảo như mơ, góc chụp cao nhìn xuống, vóc dáng người mẫu cao thanh mảnh, trang điểm tinh tế, khuôn mặt mỹ nhân đẹp sắc sảo như hồ ly",
+    "hi-IN": "9:16, चीपाओ (qipao) पहने हुए, कोमल प्रकाश का प्रस्फुटन (soft light bloom), स्वप्निल धुंधलापन, ऊपर से नीचे की ओर देखा जाने वाला हाई-एंगल शॉट, लंबा छरहरा मॉडल जैसा शरीर, परिष्कृत मेकअप, लोमड़ी जैसी सुंदर तीखे नैन-नक्श वाला चेहरा",
+    "es-ES": "9:16, vistiendo un qipao, suave halo de luz, desenfoque de ensueño, toma en plano picado mirando hacia abajo, figura de modelo alta y esbelta, maquillaje refinado, rostro de belleza felina/zorruna"
   },
   "summaryTranslations": {
-    "en": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup."
+    "en": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
+    "zh": "高角度俯拍身穿碎花旗袍的纤细女子肖像，伴有梦幻柔光和精致妆容。",
+    "zh-TW": "高角度俯拍身穿印花旗袍的纖細女子肖像，帶有夢幻柔光與精緻妝容。",
+    "ja-JP": "花柄のチャイナドレスを着たスレンダーな女性のハイアングルポートレート、夢のような柔らかなライティングと繊細なメイク。",
+    "ko-KR": "몽환적인 부드러운 조명과 섬세한 메이크업이 돋보이는 꽃무늬 치파오를 입은 날씬한 여성의 하이 앵글 인물 사진.",
+    "th-TH": "ภาพพอร์ตเทรตมุมสูงของหญิงสาวรูปร่างเพรียวบางสวมชุดกี่เพ้าลายดอกไม้ พร้อมแสงนุ่มนวลชวนฝันและการแต่งหน้าอย่างประณีต",
+    "vi-VN": "Chân dung góc cao của một người phụ nữ thanh mảnh mặc sườn xám họa tiết hoa với ánh sáng mềm mại như mơ và lối trang điểm tinh tế.",
+    "hi-IN": "फ्लोरल चीपाओ पहने हुए एक छरहरी महिला का हाई-एंगल पोर्ट्रेट, स्वप्निल कोमल रोशनी और नाजुक मेकअप के साथ।",
+    "es-ES": "Retrato en plano picado de una mujer esbelta con un qipao floral, con una iluminación suave y de ensueño y un maquillaje delicado."
   },
   "translationVersion": 2,
   "summary": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
