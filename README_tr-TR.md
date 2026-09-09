@@ -800,20 +800,32 @@ Portre / Selfie · Yayımlandı
 
 <a name="prompt-2097519422407872858"></a>
 
-### Çeviri sürüyor
+### Oyma ahşap bir satranç atının pürüzsüzce 360 derece döndüğü stüdyo döner tabla videosu.
 
 Yazar：[@higgsfield](https://x.com/higgsfield) · [Orijinal gönderi](https://x.com/higgsfield/status/2097519422407872858)
 
 Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Oyma ahşap bir satranç atının pürüzsüzce 360 derece döndüğü stüdyo döner tabla videosu.
 
 <img src="covers/2097519422407872858.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Cilalı ahşap bir satranç atının fotogerçekçi stüdyo döner tabla videosunu oluşturun.
+
+Satranç atı minimalist oyma bir at siluetine sahiptir: geniş düz kenarlar, yuvarlatılmış uzun bir burun, minik koyu bir göz, köşeli bir kulak ve hafif kavisli bir boyun. Pürüzsüz, koyu kahverengi bir ek parça sırt boyunca yeleyi takip eder. Figür, birkaç eşmerkezli basamaklı halkaya sahip geniş, dairesel ahşap bir taban üzerinde durur.
+
+Açıkça görülebilen dikey damarları, yumuşakça yuvarlatılmış kenarları ve parlak lake kaplaması olan sıcak kahverengi ahşap kullanın. Video boyunca tam şekli, oranları, ahşap damarlarını ve koyu yele ek parçasını koruyun.
+
+Tabanı da dahil olmak üzere tüm satranç taşı, dikey ekseni etrafında sabit bir hızla 360 derecelik tam bir dönüş yaparak pürüzsüzce döner. Yüzeyde mükemmel şekilde ortalanmış ve sabit kalır. Kusursuz bir döngü için ilk ve son kareler birbiriyle eşleşir.
+
+Kamerayı tamamen sabit tutun ve taşa hafifçe yukarıdan aşağıya doğru bakın. Üstte ve altta küçük bir kenar boşluğu bırakarak nesnenin tamamını gösterin. Kesintisiz açık gri bir stüdyo arka planı ve zemini, yumuşak dağınık aydınlatma, lakenin üzerinde hafif parıltılar ve tabanın altında ince bir temas gölgesi kullanın.
+
+Süre: 3 saniye. Kare hızı: 30 fps. Kare 1:1 kompozisyon.
+
+Kamera hareketi, yakınlaştırma, kesmeler, sallantı, havada durma, deformasyon, değişen oranlar, kayan ahşap dokuları, titreme, ek nesneler, metin veya logolar olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

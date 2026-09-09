@@ -800,20 +800,32 @@ Tradução em andamento
 
 <a name="prompt-2097519422407872858"></a>
 
-### Tradução em andamento
+### Vídeo de estúdio em mesa giratória de um cavalo de xadrez de madeira entalhada girando suavemente em 360 graus.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicação original](https://x.com/higgsfield/status/2097519422407872858)
 
 Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo de estúdio em mesa giratória de um cavalo de xadrez de madeira entalhada girando suavemente em 360 graus.
 
 <img src="covers/2097519422407872858.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo fotorrealista de estúdio estilo mesa giratória de um cavalo de xadrez de madeira polida.
+
+O cavalo tem uma silhueta de cavalo entalhada minimalista: laterais largas e planas, focinho alongado e arredondado, um olho escuro minúsculo, orelha angular e pescoço suavemente curvado. Um aplique marrom-escuro liso segue a crina ao longo do dorso. A figura fica apoiada sobre uma ampla base circular de madeira com vários anéis concêntricos em degraus.
+
+Use madeira marrom-quente com veios verticais claramente visíveis, bordas suavemente arredondadas e acabamento em laca brilhante. Preserve a forma exata, as proporções, os veios da madeira e o aplique escuro da crina durante todo o vídeo.
+
+A peça inteira de xadrez, incluindo a base, gira suavemente em uma volta completa de 360 graus em torno do seu eixo vertical a uma velocidade constante. Ela permanece perfeitamente centralizada e firme sobre a superfície. O primeiro e o último quadro coincidem para criar um loop perfeito.
+
+Mantenha a câmera completamente imóvel, apontando ligeiramente para baixo em direção à peça. Mostre o objeto inteiro com uma pequena margem acima e abaixo. Use fundo e piso de estúdio cinza-claro contínuos, iluminação suave e difusa, brilhos suaves na laca e uma sombra de contato sutil sob a base.
+
+Duração: 3 segundos. Taxa de quadros: 30 fps. Composição quadrada 1:1.
+
+Sem movimento de câmera, zoom, cortes, oscilação, flutuação, deformação, proporções variáveis, texturas de madeira deslizando, oscilação de luz, objetos adicionais, texto ou logotipos.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -790,20 +790,32 @@ Traduzione in corso
 
 <a name="prompt-2097519422407872858"></a>
 
-### Traduzione in corso
+### Video da studio su piattaforma girevole di un cavallo degli scacchi in legno intagliato che ruota fluidamente a 360 gradi.
 
 Autore：[@higgsfield](https://x.com/higgsfield) · [Post originale](https://x.com/higgsfield/status/2097519422407872858)
 
 Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video da studio su piattaforma girevole di un cavallo degli scacchi in legno intagliato che ruota fluidamente a 360 gradi.
 
 <img src="covers/2097519422407872858.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video fotorealistico da studio su piattaforma girevole di un cavallo degli scacchi in legno lucidato.
+
+Il cavallo ha una silhouette equina intagliata minimalista: lati ampi e piatti, un muso allungato e arrotondato, un minuscolo occhio scuro, un orecchio spigoloso e un collo leggermente curvo. Un inserto marrone scuro e liscio segue la criniera lungo il dorso. La figura poggia su un'ampia base circolare in legno con diversi anelli concentrici a gradini.
+
+Usa legno marrone caldo con venature verticali chiaramente visibili, bordi morbidamente arrotondati e una finitura laccata lucida. Mantieni l'esatta forma, le proporzioni, le venature del legno e l'inserto scuro della criniera per l'intero video.
+
+L'intero pezzo degli scacchi, inclusa la sua base, ruota fluidamente compiendo un giro completo di 360 gradi attorno al proprio asse verticale a velocità costante. Rimane perfettamente centrato e saldo sulla superficie. Il primo e l'ultimo fotogramma combaciano per un loop perfetto.
+
+Tieni la telecamera completamente immobile, puntata leggermente verso il basso verso il pezzo. Mostra l'intero oggetto con un piccolo margine sopra e sotto. Usa uno sfondo e un pavimento da studio grigio chiaro continui, illuminazione morbida e diffusa, leggeri riflessi sulla lacca e una sottile ombra di contatto sotto la base.
+
+Durata: 3 secondi. Frequenza dei fotogrammi: 30 fps. Composizione quadrata 1:1.
+
+Nessun movimento di camera, zoom, tagli, oscillazioni, fluttuazioni, deformazioni, proporzioni cangianti, texture del legno che scivolano, sfarfallii, oggetti aggiuntivi, testo o loghi.
 ```
 
 [↑ Torna alle categorie](#catalog)

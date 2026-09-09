@@ -790,20 +790,32 @@ Traduction en cours
 
 <a name="prompt-2097519422407872858"></a>
 
-### Traduction en cours
+### Vidéo de plateau tournant en studio d'un cavalier d'échecs en bois sculpté tournant doucement sur 360 degrés.
 
 Auteur：[@higgsfield](https://x.com/higgsfield) · [Publication originale](https://x.com/higgsfield/status/2097519422407872858)
 
 Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo de plateau tournant en studio d'un cavalier d'échecs en bois sculpté tournant doucement sur 360 degrés.
 
 <img src="covers/2097519422407872858.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo photoréaliste de plateau tournant en studio d'un cavalier d'échecs en bois poli.
+
+Le cavalier présente une silhouette de cheval sculptée minimaliste : des côtés larges et plats, un museau allongé arrondi, un minuscule œil sombre, une oreille angulaire et une encolure doucement courbée. Un insert marron foncé lisse suit la crinière le long du dos. La figurine repose sur une large base circulaire en bois dotée de plusieurs anneaux concentriques étagés.
+
+Utilisez un bois marron chaud avec un veinage vertical clairement visible, des bords doucement arrondis et une finition laquée brillante. Conservez la forme exacte, les proportions, le grain du bois et l'insert sombre de la crinière tout au long de la vidéo.
+
+L'ensemble de la pièce d'échecs, y compris sa base, tourne de manière fluide sur un tour complet à 360 degrés autour de son axe vertical à vitesse constante. Elle reste parfaitement centrée et solidement posée sur la surface. La première et la dernière image concordent pour une boucle fluide et sans raccord.
+
+Gardez la caméra complètement fixe, orientée légèrement vers le bas vers la pièce. Montrez l'objet dans son intégralité avec une petite marge en haut et en bas. Utilisez un arrière-plan et un sol de studio gris clair sans raccord, un éclairage doux et diffus, de légers reflets sur la laque et une ombre de contact subtile sous la base.
+
+Durée : 3 secondes. Fréquence d'images : 30 fps. Composition carrée 1:1.
+
+Aucun mouvement de caméra, zoom, coupe, vacillement, flottement, déformation, changement de proportions, texture de bois glissante, scintillement, objet supplémentaire, texte ou logo.
 ```
 
 [↑ Retour aux catégories](#catalog)

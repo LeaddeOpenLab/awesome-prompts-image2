@@ -800,20 +800,32 @@ Tradução em curso
 
 <a name="prompt-2097519422407872858"></a>
 
-### Tradução em curso
+### Vídeo de estúdio em plataforma giratória de um cavalo de xadrez em madeira esculpida a rodar suavemente 360 graus.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicação original](https://x.com/higgsfield/status/2097519422407872858)
 
 Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Vídeo de estúdio em plataforma giratória de um cavalo de xadrez em madeira esculpida a rodar suavemente 360 graus.
 
 <img src="covers/2097519422407872858.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo fotorrealista de estúdio em plataforma giratória de um cavalo de xadrez em madeira polida.
+
+O cavalo apresenta uma silhueta esculpida minimalista de cavalo: lados largos e planos, um focinho arredondado e alongado, um olho minúsculo e escuro, uma orelha angular e um pescoço suavemente curvado. Um encaixe castanho-escuro e liso acompanha a crina ao longo do dorso. A figura assenta sobre uma ampla base circular de madeira com vários anéis concêntricos em degrau.
+
+Utilize madeira castanha-quente com veios verticais claramente visíveis, arestas suavemente arredondadas e um acabamento lacado brilhante. Conserve a forma exata, as proporções, o veio da madeira e o encaixe escuro da crina ao longo de todo o vídeo.
+
+A peça de xadrez inteira, incluindo a sua base, roda suavemente através de uma rotação completa de 360 graus em torno do seu eixo vertical a uma velocidade constante. Permanece perfeitamente centrada e firme sobre a superfície. O primeiro e o último fotogramas coincidem para um loop perfeito.
+
+Mantenha a câmara completamente imóvel, a apontar ligeiramente para baixo em direção à peça. Mostre o objeto na totalidade com uma pequena margem em cima e em baixo. Utilize um fundo e chão de estúdio contínuos em cinzento-claro, iluminação suave e difusa, reflexos suaves no verniz e uma sombra de contacto subtil por baixo da base.
+
+Duração: 3 segundos. Taxa de fotogramas: 30 fps. Composição quadrada 1:1.
+
+Sem movimentos de câmara, zoom, cortes, oscilações, flutuações, deformações, proporções oscilantes, texturas de madeira a deslizar, cintilação, objetos adicionais, texto ou logótipos.
 ```
 
 [↑ Voltar às categorias](#catalog)

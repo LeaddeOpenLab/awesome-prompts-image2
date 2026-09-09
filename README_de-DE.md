@@ -790,20 +790,32 @@ Porträt / Selfie · Veröffentlicht
 
 <a name="prompt-2097519422407872858"></a>
 
-### Übersetzung läuft
+### Studio-Drehteller-Video eines geschnitzten Holz-Schachspringers, der sich sanft um 360 Grad dreht.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Originalbeitrag](https://x.com/higgsfield/status/2097519422407872858)
 
 Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Studio-Drehteller-Video eines geschnitzten Holz-Schachspringers, der sich sanft um 360 Grad dreht.
 
 <img src="covers/2097519422407872858.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein fotorealistisches Studio-Drehteller-Video eines polierten Schachspringers aus Holz.
+
+Der Springer hat eine minimalistisch geschnitzte Pferdesilhouette: breite, flache Seiten, eine abgerundete, längliche Schnauze, ein winziges dunkles Auge, ein kantiges Ohr und einen sanft geschwungenen Hals. Ein glatter, dunkelbrauner Einsatz folgt der Mähne entlang des Rückens. Die Figur steht auf einem breiten, kreisförmigen Holzsockel mit mehreren konzentrischen, gestuften Ringen.
+
+Verwende warmes braunes Holz mit deutlich sichtbarer vertikaler Maserung, sanft abgerundeten Kanten und einem glänzenden Lackfinish. Behalte die exakte Form, die Proportionen, die Holzmaserung und den dunklen Mähneneinsatz während des gesamten Videos bei.
+
+Die gesamte Schachfigur, einschließlich ihres Sockels, dreht sich mit konstanter Geschwindigkeit gleichmäßig um eine vollständige 360-Grad-Drehung um ihre vertikale Achse. Sie bleibt perfekt zentriert und fest auf der Oberfläche. Das erste und das letzte Einzelbild stimmen für eine nahtlose Schleife überein.
+
+Halte die Kamera völlig unbeweglich, leicht nach unten auf die Figur gerichtet. Zeige das gesamte Objekt mit einem kleinen Rand oben und unten. Verwende einen nahtlosen hellgrauen Studiohintergrund und -boden, weiches diffuses Licht, sanfte Glanzlichter auf dem Lack und einen dezenten Kontaktschatten unter dem Sockel.
+
+Dauer: 3 Sekunden. Bildrate: 30 fps. Quadratische 1:1-Komposition.
+
+Keine Kamerabewegung, kein Zoom, keine Schnitte, kein Wackeln, kein Schweben, keine Verformung, keine wechselnden Proportionen, keine rutschenden Holztexturen, kein Flackern, keine zusätzlichen Objekte, kein Text oder Logos.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
