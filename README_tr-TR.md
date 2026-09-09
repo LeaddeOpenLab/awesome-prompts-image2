@@ -176,20 +176,25 @@ Rastgele hareket havuzu:
 
 <a name="prompt-2097249218507461093"></a>
 
-### Çeviri sürüyor
+### Güneş ışığında Asyalı bir kadının fotogerçekçi yakın çekim iç mekân portresi
 
 Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güneş ışığında Asyalı bir kadının fotogerçekçi yakın çekim iç mekân portresi
 
 <img src="images/2097249218507461093-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aydınlık bir pencerenin yanında, dokuma rattan bir sandalyede rahatça oturan genç bir kadının fotogerçekçi yakın çekim iç mekân portresi. Sıcak kahverengi ışıltılara sahip, ortadan ayrılmış, gevşek tutamları yüzünü nazikçe çerçeveleyen ve kısmen örten, uzun ve doğal olarak dağınık koyu kahverengi saçları var. Sakin, hafif hayalperest bir ifadeyle ve doğal, hafifçe renklendirilmiş dudaklarla doğrudan kameraya bakıyor.
+Bir eli yüzünün önünde nazikçe yukarı kalkmış, parmak uçları dudaklarının ve yanağının çevresinde narin bir şekilde dinlenerek samimi ve anlık yakalanmış bir poz oluşturuyor. Parmakları ince ve doğal bir şekilde konumlanmış. Üzerinde yumuşak kumaş dokusuna sahip, kırık beyaz/açık bej renginde dökümlü (oversized) sade bir üst var.
+Pencereden üst taraftan içeri süzülen güçlü ve sıcak güneş ışığı; saçlarında, alnında, yanağında ve giysisinde güzel çizgili gölgeler ile parlak alanlar yaratıyor. Aydınlatma doğal, altın renginde ve yer yer hafifçe aşırı pozlanmış olup fotoğrafa sıcak ve samimi bir atmosfer kazandırıyor.
+Arkasında kavisli dairesel detaylara sahip büyük, beyaz dokuma/rattan bir sandalye var. Arka planda şık beyaz botanik/yaprak desenlerine sahip koyu yeşil bir duvar veya pencere paneli ile sade, koyu renkli dikey bir çerçeve görülüyor. Ortam, modern ve sıcak bir ev veya kafe hissi veriyor.
+Kompozisyon: dikey yakın çekim portre, yaklaşık 4:5 en-boy oranı, nesneye çok yakın kamera, karenin orta-sağ kısmını kaplayan yüz, hafifçe aşağıdan ve samimi kamera açısı, omuzlar ve üst gövde görünür, doğal kadrajlama.
+Fotoğraf tarzı: ultra gerçekçi akıllı telefon selfie fotoğrafçılığı, yumuşak Kore/Asya yaşam tarzı estetiği, doğal cilt dokusu, gerçekçi gözenekler, tek tek saç telleri, ince kusurlar, sıcak güneş ışığı, otantik gölgeler, yumuşak kontrast, hafif film greni, sığ alan derinliği, habersiz çekilmiş pozsuz his, yüksek ayrıntı, 4K.
 ```
 
 [↑ Kategorilere dön](#catalog)

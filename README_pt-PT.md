@@ -176,20 +176,25 @@ Gera uma imagem de pré-visualização abrangente com diferentes poses para que 
 
 <a name="prompt-2097249218507461093"></a>
 
-### Tradução em curso
+### Retrato interior em grande plano fotorrealista de uma mulher asiática à luz do sol
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato interior em grande plano fotorrealista de uma mulher asiática à luz do sol
 
 <img src="images/2097249218507461093-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato interior em grande plano fotorrealista de uma jovem mulher sentada confortavelmente numa cadeira de vime entrançado perto de uma janela luminosa. Ela tem cabelos castanho-escuros compridos e naturalmente despenteados, com reflexos castanhos quentes, ripados perto do centro, com madeixas soltas a emoldurar suavemente e a cobrir parcialmente o seu rosto. Ela olha diretamente para a câmara com uma expressão calma, ligeiramente sonhadora e lábios naturais suavemente coloridos.
+Uma mão está suavemente erguida à frente do seu rosto, com as pontas dos dedos a pousar delicadamente em torno dos seus lábios e bochecha, criando uma pose espontânea e íntima. Os seus dedos são esguios e posicionados naturalmente. Ela veste uma camisola simples oversized off-white/bege claro com textura de tecido macia.
+A luz solar forte e quente entra pela janela pelo lado superior, criando belas sombras listradas e realces no seu cabelo, testa, bochecha e roupa. A iluminação é natural, dourada e ligeiramente sobreexposta em alguns locais, conferindo à fotografia uma atmosfera acolhedora e calorosa.
+Atrás dela encontra-se uma grande cadeira de vime/entrançada branca com pormenores circulares curvos. Uma parede ou painel de janela verde-escuro com padrões botânicos/folhas brancos elegantes é visível no fundo, juntamente com uma moldura vertical escura e simples. O cenário parece uma casa ou café moderno e acolhedor.
+Composição: retrato vertical em grande plano, proporção aproximada de 4:5, câmara muito próxima do sujeito, rosto a ocupar a porção centro-direita do enquadramento, ângulo de câmara ligeiramente baixo e íntimo, ombros e tronco superior visíveis, enquadramento natural.
+Estilo de fotografia: fotografia selfie de smartphone ultrarrealista, estética suave de estilo de vida coreano/asiático, textura natural da pele, poros realistas, fios de cabelo individuais, imperfeições subtis, luz solar quente, sombras autênticas, contraste suave, ligeiro grão de película, profundidade de campo reduzida, sensação espontânea e sem pose, elevado detalhe, 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

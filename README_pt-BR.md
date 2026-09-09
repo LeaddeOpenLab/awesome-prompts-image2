@@ -176,20 +176,25 @@ Gere uma imagem de pré-visualização combinada contendo diferentes poses para 
 
 <a name="prompt-2097249218507461093"></a>
 
-### Tradução em andamento
+### Retrato interno em close-up fotorrealista de uma mulher asiática à luz do sol
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2097249218507461093)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato interno em close-up fotorrealista de uma mulher asiática à luz do sol
 
 <img src="images/2097249218507461093-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato interno em close-up fotorrealista de uma jovem mulher sentada confortavelmente em uma cadeira de vime trançado perto de uma janela iluminada. Ela tem cabelos castanho-escuros longos e naturalmente despenteados, com reflexos castanho-claros quentes, repartidos perto do centro, com mechas soltas emoldurando suavemente e cobrindo parcialmente seu rosto. Ela olha diretamente para a câmera com uma expressão calma e ligeiramente sonhadora e lábios naturais e suavemente coloridos.
+Uma das mãos está suavemente levantada na frente de seu rosto, com as pontas dos dedos descansando delicadamente ao redor de seus lábios e bochecha, criando uma pose espontânea e íntima. Seus dedos são esguios e posicionados naturalmente. Ela está vestindo uma blusa simples oversized off-white/bege claro com textura de tecido suave.
+A luz solar forte e quente entra pela janela pela parte superior lateral, criando belas sombras listradas e realces em seu cabelo, testa, bochecha e roupas. A iluminação é natural, dourada e ligeiramente superexposta em alguns pontos, conferindo à fotografia uma atmosfera acolhedora e calorosa.
+Atrás dela há uma grande cadeira de vime/trançada branca com detalhes circulares curvos. Uma parede ou painel de janela verde-escuro com padrões botânicos/folhas brancas elegantes é visível ao fundo, juntamente com uma moldura vertical escura e simples. O ambiente parece um lar ou café moderno e acolhedor.
+Composição: retrato vertical em close-up, proporção de aproximadamente 4:5, câmera muito próxima do sujeito, rosto ocupando a porção centro-direita do enquadramento, ângulo de câmera ligeiramente baixo e íntimo, ombros e tronco superior visíveis, enquadramento natural.
+Estilo de fotografia: fotografia selfie de smartphone ultrarrealista, estética suave de estilo de vida coreano/asiático, textura natural da pele, poros realistas, fios de cabelo individuais, imperfeições sutis, luz solar quente, sombras autênticas, contraste suave, leve granulação de filme, profundidade de campo rasa, sensação espontânea e sem pose, alto detalhamento, 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)
