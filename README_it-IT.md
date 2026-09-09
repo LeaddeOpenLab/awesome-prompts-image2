@@ -908,20 +908,26 @@ Traduzione in corso
 
 <a name="prompt-2096914920915001598"></a>
 
-### Traduzione in corso
+### Foto spontanea da smartphone di una giovane donna dell'Asia orientale con felpa grigia e jeans seduta sulla terrazza soleggiata a giardino di un balcone.
 
 Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto spontanea da smartphone di una giovane donna dell'Asia orientale con felpa grigia e jeans seduta sulla terrazza soleggiata a giardino di un balcone.
 
 <img src="images/2096914920915001598-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una foto spontanea da smartphone completamente naturale e fotorealistica di una giovane donna dell'Asia orientale seduta comodamente a gambe incrociate sulla terrazza a giardino di un balcone. Ha lunghi capelli castano scuro naturalmente mossi che le ricadono morbidi sulle spalle e sul davanti del corpo, con delicate ciocche singole che si muovono in modo naturale. I suoi lineamenti sono delicati e realistici, con un trucco naturale impercettibile e una grana della pelle autentica.
+Indossa una comoda felpa oversize grigio chiaro abbinata a jeans azzurri dal taglio rilassato. Seduta in modo casual e naturale, appoggia delicatamente una mano sulla guancia mentre guarda verso l'alto e leggermente di lato. La sua espressione appare genuinamente dolce e riflessiva, con un'aria appena imbronciata, come se la foto fosse stata scattata in un momento intimo e non in posa.
+È seduta su una superficie da terrazza all'aperto di colore chiaro, circondata da rigogliose piante verdi, fogliame in vaso e piccoli fiori rosa che sbocciano. Una semplice ringhiera del balcone in metallo nero scorre dietro di lei, con fitti alberi e vegetazione naturale che riempiono lo sfondo. L'ambiente trasmette una sensazione di pace, privacy e ricorda un vero balcone-giardino di tutti i giorni.
+Una luce naturale morbida e calda si posa dolcemente sul viso e sui vestiti, creando ombre realistiche e sfumate. I pori naturali della pelle, la consistenza autentica dei capelli, il tessuto realistico della felpa e i dettagli credibili del denim sono chiaramente visibili. Nulla appare eccessivamente rifinito o artificialmente in posa.
+Scattata come un'autentica fotografia casual da smartphone con una prospettiva naturale ad altezza occhi. Composizione a figura intera da seduta, inquadratura verticale, con il soggetto posizionato leggermente verso il centro-basso del fotogramma. Lo sfondo ha una delicata profondità di campo naturale, dolcemente sfocata pur rimanendo chiaramente riconoscibile.
+Fotografia ultra-realistica, proporzioni naturali, momento spontaneo quotidiano, estetica di moda casual di ispirazione coreana, colori tenui e desaturati, grana della pellicola sottile, illuminazione realistica, dettagli leggermente imperfetti della fotocamera dello smartphone, realismo 4K, nessun effetto filtro bellezza, nessun ritocco eccessivo.
+Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
 ```
 
 [↑ Torna alle categorie](#catalog)

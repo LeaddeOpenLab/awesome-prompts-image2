@@ -908,20 +908,26 @@ Infografik / Edu Visual · Porträt / Selfie · Veröffentlicht
 
 <a name="prompt-2096914920915001598"></a>
 
-### Übersetzung läuft
+### Spontanes Smartphone-Foto einer jungen ostasiatischen Frau im grauen Sweatshirt und Jeans, die auf einer sonnigen Balkongartenterrasse sitzt.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Spontanes Smartphone-Foto einer jungen ostasiatischen Frau im grauen Sweatshirt und Jeans, die auf einer sonnigen Balkongartenterrasse sitzt.
 
 <img src="images/2096914920915001598-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein völlig natürliches, fotorealistisches, spontanes Smartphone-Foto einer jungen ostasiatischen Frau, die bequem im Schneidersitz auf einer Balkongartenterrasse sitzt. Sie hat langes, natürlich gewelltes, dunkelbraunes Haar, das locker über ihre Schultern und an der Vorderseite ihres Körpers herabfällt, wobei sich feine einzelne Strähnen ganz natürlich bewegen. Ihre Gesichtszüge sind zart und realistisch, mit dezentem, natürlichem Make-up und authentischer Hauttextur.
+Sie trägt ein gemütliches Oversized-Sweatshirt in Hellgrau und locker sitzende hellblaue Jeans. Lässig und ungezwungen sitzend, stützt sie sanft eine Hand an ihre Wange, während sie nach oben und leicht zur Seite blickt. Ihr Gesichtsausdruck wirkt aufrichtig niedlich und nachdenklich, mit einem dezenten, leicht schmollenden Blick, so als sei das Foto in einem ruhigen, ungestellten Moment aufgenommen worden.
+Sie sitzt auf einer hellen Außenterrassenoberfläche, umgeben von üppig grünen Pflanzen, belaubtem Topfpflanzengrün und kleinen blühenden rosa Blumen. Ein schlichtes Balkongeländer aus schwarzem Metall verläuft hinter ihr, während dichte Bäume und natürliches Grün den Hintergrund füllen. Die Umgebung wirkt friedlich, privat und wie ein echter alltäglicher Gartenbalkon.
+Sanftes, warmes natürliches Tageslicht fällt sacht über ihr Gesicht und ihre Kleidung und erzeugt realistische, dezente Schatten. Natürliche Hautporen, authentische Haarstruktur, realistischer Sweatshirt-Stoff und glaubhafte Denim-Details sind deutlich sichtbar. Nichts wirkt übermäßig poliert oder künstlich gestellt.
+Aufgenommen wie ein authentisches, beiläufiges Smartphone-Foto aus einer natürlichen Perspektive auf Augenhöhe. Ganzkörper-Sitzkomposition, vertikaler Bildausschnitt, wobei die Person leicht im unteren mittleren Bereich des Rahmens positioniert ist. Der Hintergrund weist eine sanfte natürliche Schärfentiefe auf – weich gezeichnet, bleibt jedoch klar erkennbar.
+Ultrarealistische Fotografie, natürliche Proportionen, spontaner alltäglicher Moment, koreanisch inspirierte Casual-Fashion-Ästhetik, gedämpfte sanfte Farben, feines Filmkorn, realistische Beleuchtung, leicht unvollkommene Smartphone-Kamera-Details, 4K-Realismus, kein Beauty-Filter-Effekt, keine übermäßige Retusche.
+Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

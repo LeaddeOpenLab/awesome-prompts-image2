@@ -908,20 +908,26 @@ Traduction en cours
 
 <a name="prompt-2096914920915001598"></a>
 
-### Traduction en cours
+### Photo sur le vif au smartphone d'une jeune femme est-asiatique en sweat-shirt gris et jean assise sur la terrasse-jardin ensoleillée d'un balcon.
 
 Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo sur le vif au smartphone d'une jeune femme est-asiatique en sweat-shirt gris et jean assise sur la terrasse-jardin ensoleillée d'un balcon.
 
 <img src="images/2096914920915001598-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une photo sur le vif au smartphone totalement naturelle et photoréaliste d'une jeune femme est-asiatique assise confortablement en tailleur sur la terrasse-jardin d'un balcon. Elle a de longs cheveux châtain foncé naturellement ondulés qui tombent librement sur ses épaules et le long de sa poitrine, avec de douces mèches individuelles bougeant naturellement. Ses traits sont délicats et réalistes, avec un maquillage naturel subtil et une texture de peau authentique.
+Elle porte un sweat-shirt oversize confortable gris clair avec un jean bleu clair à la coupe décontractée. Assise de manière décontractée et naturelle, elle pose doucement une main contre sa joue tout en regardant vers le haut et légèrement sur le côté. Son expression paraît sincèrement mignonne et pensive, avec une moue subtile et légère, comme si la photo avait été capturée lors d'un moment intime et sans pose.
+Elle est assise sur une surface de terrasse extérieure de couleur claire, entourée de plantes vertes luxuriantes, de feuillages en pot verdoyants et de petites fleurs roses épanouies. Une simple rambarde de balcon en métal noir court derrière elle, avec des arbres denses et une verdure naturelle remplissant l'arrière-plan. Le cadre semble paisible, privé et évoque un véritable balcon-jardin du quotidien.
+Une douce lumière du jour naturelle et chaude caresse son visage et ses vêtements, créant des ombres subtiles et réalistes. Les pores naturels de la peau, la texture authentique des cheveux, la matière réaliste du sweat-shirt et les détails crédibles du jean sont clairement visibles. Rien n'a l'air excessivement lissé ni artificiellement posé.
+Prise comme une authentique photo décontractée au smartphone avec une perspective naturelle à hauteur des yeux. Composition en pied assise, cadrage vertical, avec le sujet positionné légèrement vers le bas et le centre du cadre. L'arrière-plan présente une douce profondeur de champ naturelle — légèrement flouté tout en restant clairement reconnaissable.
+Photographie ultra-réaliste, proportions naturelles, moment spontané du quotidien, esthétique de mode décontractée d'inspiration coréenne, couleurs douces et atténuées, grain de pellicule subtil, éclairage réaliste, détails légèrement imparfaits d'un appareil photo de smartphone, réalisme 4K, sans effet de filtre de beauté, sans retouche excessive.
+Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
 ```
 
 [↑ Retour aux catégories](#catalog)
