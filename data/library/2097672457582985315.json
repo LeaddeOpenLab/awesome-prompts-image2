@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图",
   "promptTranslations": {
-    "en": "Traveling to Rizhao, Qingdao, and Yantai for 5 days this month, generate a travel itinerary guide infographic"
+    "en": "Traveling to Rizhao, Qingdao, and Yantai for 5 days this month, generate a travel itinerary guide infographic",
+    "zh": "这个月要去日照、青岛、烟台玩5天，生成一张旅游攻略图",
+    "zh-TW": "這個月要去日照、青島、煙台玩5天，生成一張旅遊攻略圖",
+    "ja-JP": "今月、日照（リージャオ）、青島（チンタオ）、煙台（イエンタイ）へ5日間の旅行に行くので、旅行ガイドマップ／インフォグラフィック画像を1枚生成してください",
+    "ko-KR": "이번 달에 일조(르자오), 칭다오, 연대(옌타이)로 5일 동안 여행을 가려고 합니다. 여행 가이드 인포그래픽 이미지를 하나 생성해 주세요.",
+    "th-TH": "เดือนนี้จะไปเที่ยวรื่อจ้าว ชิงเต่า และเยียนไถเป็นเวลา 5 วัน ช่วยสร้างภาพแผนที่คู่มือการท่องเที่ยวให้หนึ่งภาพ",
+    "vi-VN": "Tháng này tôi sẽ đi du lịch Nhật Chiếu, Thanh Đảo, Yên Đài trong 5 ngày, hãy tạo một hình ảnh cẩm nang hướng dẫn du lịch",
+    "hi-IN": "इस महीने 5 दिनों के लिए रिझाओ, क़िंगदाओ और यानताई की यात्रा पर जाना है, एक यात्रा गाइड इन्फोग्राफिक चित्र बनाएं",
+    "es-ES": "Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días, genera una imagen de guía turística con el itinerario"
   },
   "summaryTranslations": {
-    "en": "Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai."
+    "en": "Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai.",
+    "zh": "生成日照、青岛、烟台5天行程旅游攻略图的文生图提示词。",
+    "zh-TW": "生成日照、青島、煙台5天行程旅遊攻略圖的文生圖提示詞。",
+    "ja-JP": "日照、青島、煙台の5日間の旅程を紹介する旅行ガイドマップを生成するためのプロンプト。",
+    "ko-KR": "르자오, 칭다오, 옌타이 5일 일정 여행 가이드 이미지를 생성하는 텍스트-이미지 프롬프트.",
+    "th-TH": "คำสั่งสร้างภาพคู่มือการท่องเที่ยวสำหรับแผนการเดินทาง 5 วันในรื่อจ้าว ชิงเต่า และเยียนไถ",
+    "vi-VN": "Prompt tạo ảnh cẩm nang du lịch cho lịch trình 5 ngày tại Nhật Chiếu, Thanh Đảo, Yên Đài.",
+    "hi-IN": "रिझाओ, क़िंगदाओ और यानताई की 5-दिवसीय यात्रा कार्यक्रम की गाइड छवि बनाने के लिए टेक्स्ट-टू-इमेज प्रॉम्प्ट।",
+    "es-ES": "Prompt de texto a imagen para generar una imagen de guía turística para un itinerario de 5 días en Rizhao, Qingdao y Yantai."
   },
   "translationVersion": 2,
   "summary": "生成日照、青岛、烟台5天行程旅游攻略图的文生图提示词。",
