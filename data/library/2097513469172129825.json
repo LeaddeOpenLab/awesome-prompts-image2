@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:46:56.683Z",
+  "model": "image2.5",
+  "prompt": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
+  "promptTranslations": {
+    "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face"
+  },
+  "summaryTranslations": {
+    "en": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup."
+  },
+  "translationVersion": 2,
+  "summary": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
+  "summaryEn": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097513469172129825",
+    "canonicalUrl": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "author": {
+      "username": "BubbleBrain",
+      "displayName": "BubbleBrain",
+      "profileUrl": "https://x.com/BubbleBrain"
+    },
+    "publishedAt": "2026-09-09T02:32:35.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "Portrait by GPT Image 2.5  \n\n---prompt--- \n\n9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face https://t.co/xAXKgXuDQW",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRvdLStaoAAAkSy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRvdLStaoAAAkSy.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 2,
+      "viewCount": 600
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/BubbleBrain/status/2097513469172129825",
+  "coverUrl": "https://pbs.twimg.com/media/HRvdLStaoAAAkSy.jpg",
+  "coverPath": "images/2097513469172129825-1.jpg",
+  "imagePaths": [
+    "images/2097513469172129825-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRvdLStaoAAAkSy",
+    "x-post:2097513469172129825"
+  ],
+  "analysis": {
+    "summary": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
+    "summaryEn": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches qipao, high angle, soft glow, slender model, and fox-like facial features."
+    },
+    "videoQuality": null,
+    "originalPrompt": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
+    "sourceRange": {
+      "start": 44,
+      "end": 191
+    },
+    "translations": {
+      "zh": "9:16，身穿旗袍，柔光漫射，梦幻模糊，俯视高角度拍摄，高挑修长模特身材，精致妆容，狐系美人面容",
+      "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait of an Asian beauty in a qipao",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
