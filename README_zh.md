@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**26** 条内容 · 最新收录: **2026-09-09**
+**27** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [草图 / 线稿](#category-sketch-line-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -418,6 +418,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 逼真的电影质感肖像，英俊的成年男性，留着蓬松的中长棕色头发和修剪整齐的胡茬，身穿柔软的米色针织圆领毛衣。他面向镜头，神情平静、自信且略带沉思。温暖的金黄色轮廓光在他的头发和肩膀周围形成发光的光晕，强烈的柔和主光照亮他的面部。黑暗且充满氛围感的背景，带有微妙的琥珀色薄雾和大气烟雾，戏剧性的高对比度光影，自然的皮肤纹理，犀利的眼神，逼真的面部细节，浅景深，专业摄影棚摄影，85mm人像镜头，f/1.8，奶油般虚化，温暖的电影色彩分级，奢华时尚杂志大片美学，极致细节，照片级真实，8K。
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 插画
+
+<a name="prompt-2097521286436065680"></a>
+
+### 翻译中
+
+作者：[@Tz\_2022](https://x.com/Tz_2022) · [查看 X 原帖](https://x.com/Tz_2022/status/2097521286436065680)
+
+插画 · 文本 / 排版 · 已推流
+
+查看 X 原帖：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [查看 X 原帖](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**概括:** 翻译中
+
+<img src="images/2097521286436065680-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

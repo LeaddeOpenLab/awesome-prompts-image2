@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**26** Prompts · Adição mais recente: **2026-09-09**
+**27** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Esboço / Arte Linear](#category-sketch-line-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -426,6 +426,34 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Resumo / Context
 
 ```text
 Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castanho de comprimento médio despenteado e uma barba cuidadosamente aparada, vestindo uma camisola de malha bege macia com gola redonda. Ele olha diretamente para a câmara com uma expressão calma, confiante e ligeiramente contemplativa. Uma luz de contorno dourada e quente cria uma auréola brilhante à volta do seu cabelo e ombros, enquanto uma luz principal suave e intensa ilumina o seu rosto. Fundo escuro e atmosférico com uma subtil névoa âmbar e fumo ambiental, iluminação dramática de elevado contraste, textura de pele natural, olhos nítidos, detalhes faciais realistas, profundidade de campo reduzida, fotografia profissional de estúdio, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradação de cores cinematográfica e quente, estética editorial de luxo, ultradetalhado, fotorrealista, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustração
+
+<a name="prompt-2097521286436065680"></a>
+
+### Tradução em curso
+
+Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Publicação original](https://x.com/Tz_2022/status/2097521286436065680)
+
+Ilustração · Texto / Tipografia · Publicado
+
+Publicação original：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Publicação original](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097521286436065680-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -14,13 +14,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**26** 개 · 최근 추가: **2026-09-09**
+**27** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [스케치 / 선화](#category-sketch-line-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -416,6 +416,34 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 헝클어진 중간 길이의 갈색 머리와 단정하게 다듬어진 수염을 가진 잘생긴 성인 남성의 사실적인 시네마틱 초상화. 부드러운 베이지색 니트 크루넥 스웨터를 착용하고 있다. 차분하고 자신감 넘치며 약간 사색적인 표정으로 카메라를 응시하고 있다. 따뜻한 황금빛 림 라이트가 그의 머리카락과 어깨 주변에 빛나는 헤일로를 만들어내며, 강렬하고 부드러운 키 라이트가 그의 얼굴을 밝힌다. 은은한 호박색 연무와 대기 중 연기가 있는 어둡고 분위기 있는 배경, 드라마틱한 고대비 조명, 자연스러운 피부 질감, 또렷한 눈매, 사실적인 얼굴 디테일, 얕은 심도, 전문 스튜디오 사진, 85mm 인물 렌즈, f/1.8, 크리미한 보케, 따뜻한 시네마틱 컬러 그레이딩, 럭셔리 에디토리얼 미학, 초정밀 디테일, 실사 수준, 8K.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 일러스트레이션
+
+<a name="prompt-2097521286436065680"></a>
+
+### 번역 중
+
+작성자：[@Tz\_2022](https://x.com/Tz_2022) · [원본 게시물](https://x.com/Tz_2022/status/2097521286436065680)
+
+일러스트레이션 · 텍스트 / 타이포그래피 · 배포 완료
+
+원본 게시물：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [원본 게시물](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**요약:** 번역 중
+
+<img src="images/2097521286436065680-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

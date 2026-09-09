@@ -14,13 +14,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**26** 筆內容 · 最新收錄: **2026-09-09**
+**27** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [草圖 / 線稿](#category-sketch-line-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -416,6 +416,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ```text
 逼真的電影質感肖像，英俊的成年男性，留著蓬鬆的中長棕色頭髮和修剪整齊的鬍鬚，身穿柔軟的米色針織圓領毛衣。他面向鏡頭，神情平靜、自信且略帶沉思。溫暖的金黃色輪廓光在他的頭髮和肩膀周圍形成發光的光暈，強烈的柔和主光照亮他的面部。黑暗且充滿氛圍感的背景，帶有微妙的琥珀色薄霧和大氣煙霧，戲劇性的高對比光影，自然的皮膚紋理，銳利的眼神，逼真的面部細節，淺景深，專業攝影棚攝影，85mm人像鏡頭，f/1.8，奶油般散景，溫暖的電影色彩分級，奢華時尚雜誌大片美學，極致細節，相片級真實，8K。
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 插圖
+
+<a name="prompt-2097521286436065680"></a>
+
+### 翻譯中
+
+作者：[@Tz\_2022](https://x.com/Tz_2022) · [查看 X 原帖](https://x.com/Tz_2022/status/2097521286436065680)
+
+插圖 · 文字 / 字體排版 · 已推流
+
+查看 X 原帖：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [查看 X 原帖](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**概括:** 翻譯中
+
+<img src="images/2097521286436065680-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**26** Prompt · Son eklenen: **2026-09-09**
+**27** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -426,6 +426,34 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Y
 
 ```text
 Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, yumuşak bej renkli örgü bisiklet yaka kazak giymiş yakışıklı bir yetişkin erkeğin fotogerçekçi sinematik portresi. Sakin, kendinden emin ve hafif düşünceli bir ifadeyle kameraya bakıyor. Sıcak altın sarısı kenar aydınlatması saçlarının ve omuzlarının etrafında parlayan bir hale oluştururken, güçlü ve yumuşak bir ana ışık yüzünü aydınlatıyor. İnce kehribar rengi pus ve atmosferik duman içeren karanlık, karamsar arka plan, dramatik yüksek kontrastlı aydınlatma, doğal cilt dokusu, keskin gözler, gerçekçi yüz ayrıntıları, sığ alan derinliği, profesyonel stüdyo fotoğrafçılığı, 85 mm portre lensi, f/1.8, kremsi bokeh, sıcak sinematik renk derecelendirmesi, lüks editoryal estetik, ultra detaylı, fotogerçekçi, 8K.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## İllüstrasyon
+
+<a name="prompt-2097521286436065680"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Tz\_2022](https://x.com/Tz_2022) · [Orijinal gönderi](https://x.com/Tz_2022/status/2097521286436065680)
+
+İllüstrasyon · Metin / Tipografi · Yayımlandı
+
+Orijinal gönderi：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Orijinal gönderi](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097521286436065680-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

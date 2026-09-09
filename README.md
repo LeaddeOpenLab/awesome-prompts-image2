@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**26** Prompts · Latest addition: **2026-09-09**
+**27** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Sketch / Line Art](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -425,6 +425,34 @@ Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Backgroun
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2097521286436065680"></a>
+
+### Generate an illustrated exam paper formatted like an English CET-4 test, with question contents combining civil service exam questions.
+
+Author：[@Tz\_2022](https://x.com/Tz_2022) · [Source](https://x.com/Tz_2022/status/2097521286436065680)
+
+Illustration · Text / Typography · Published
+
+Source：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Source](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**Summary:** Generate an illustrated exam paper formatted like an English CET-4 test, with question contents combining civil service exam questions.
+
+<img src="images/2097521286436065680-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a CET-4 (College English Test Band 4) exam paper, but all the questions inside are civil service examination questions, richly illustrated with both pictures and text.
 ```
 
 [↑ Back to categories](#catalog)

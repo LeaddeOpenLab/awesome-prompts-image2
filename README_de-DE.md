@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**26** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**27** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -426,6 +426,34 @@ Kinematisch / Filmstill · Porträt / Selfie · Charakter · Zusammenfassung / H
 
 ```text
 Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes mit zerzaustem, mittellangem braunem Haar und einem gepflegten Bart, der einen weichen, beigen Strickpullover mit Rundhalsausschnitt trägt. Er blickt mit einem ruhigen, selbstbewussten und leicht nachdenklichen Ausdruck in die Kamera. Warmes, goldenes Streiflicht erzeugt einen leuchtenden Heiligenschein um sein Haar und seine Schultern, während ein starkes, weiches Hauptlicht sein Gesicht erhellt. Dunkler, stimmungsvoller Hintergrund mit dezentem bernsteinfarbenem Dunst und atmosphärischem Rauch, dramatische Beleuchtung mit hohem Kontrast, natürliche Hauttextur, scharfe Augen, realistische Gesichtsdetails, geringe Schärfentiefe, professionelle Studiofotografie, 85-mm-Porträtobjektiv, f/1.8, cremiges Bokeh, warme filmische Farbkorrektur, luxuriöse redaktionelle Ästhetik, extrem detailliert, fotorealistisch, 8K.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2097521286436065680"></a>
+
+### Übersetzung läuft
+
+Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Originalbeitrag](https://x.com/Tz_2022/status/2097521286436065680)
+
+Illustration · Text / Typografie · Veröffentlicht
+
+Originalbeitrag：[@Lonely\_\_MH](https://x.com/Lonely__MH) · [Originalbeitrag](https://x.com/Lonely__MH/status/2097494755752202574)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097521286436065680-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
