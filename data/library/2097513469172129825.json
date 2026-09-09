@@ -12,7 +12,14 @@
     "th-TH": "9:16, สวมชุดกี่เพ้า, แสงฟุ้งนุ่มนวล, เบลอแบบชวนฝัน, ภาพมุมสูงมองลงมา, หุ่นนางแบบสูงเพรียว, การแต่งหน้าประณีต, ใบหน้าสวยเฉี่ยวแบบนางจิ้งจอก",
     "vi-VN": "9:16, mặc sườn xám, ánh sáng dịu tỏa lan, mờ ảo như mơ, góc chụp cao nhìn xuống, vóc dáng người mẫu cao thanh mảnh, trang điểm tinh tế, khuôn mặt mỹ nhân đẹp sắc sảo như hồ ly",
     "hi-IN": "9:16, चीपाओ (qipao) पहने हुए, कोमल प्रकाश का प्रस्फुटन (soft light bloom), स्वप्निल धुंधलापन, ऊपर से नीचे की ओर देखा जाने वाला हाई-एंगल शॉट, लंबा छरहरा मॉडल जैसा शरीर, परिष्कृत मेकअप, लोमड़ी जैसी सुंदर तीखे नैन-नक्श वाला चेहरा",
-    "es-ES": "9:16, vistiendo un qipao, suave halo de luz, desenfoque de ensueño, toma en plano picado mirando hacia abajo, figura de modelo alta y esbelta, maquillaje refinado, rostro de belleza felina/zorruna"
+    "es-ES": "9:16, vistiendo un qipao, suave halo de luz, desenfoque de ensueño, toma en plano picado mirando hacia abajo, figura de modelo alta y esbelta, maquillaje refinado, rostro de belleza felina/zorruna",
+    "es-419": "9:16, vistiendo un qipao, suave resplandor de luz, desenfoque de ensueño, toma en ángulo picado mirando hacia abajo, figura de modelo alta y esbelta, maquillaje refinado, rostro de belleza simiesca y felina parecida a un zorro",
+    "de-DE": "9:16, trägt ein Qipao, weicher Lichtschein, verträumte Unschärfe, Aufnahme aus der Vogelperspektive mit Blick nach unten, große schlanke Modelfigur, raffiniertes Make-up, fuchsartiges Schönheitsgesicht",
+    "fr-FR": "9:16, vêtue d'un qipao, doux halo de lumière, flou onirique, plongée regardant vers le bas, silhouette de mannequin grande et élancée, maquillage raffiné, visage à la beauté féline et rusée comme un renard",
+    "it-IT": "9:16, che indossa un qipao, morbido bagliore di luce, sfocatura sognante, inquadratura dall'alto verso il basso, figura da modella alta e snella, trucco raffinato, viso dalla bellezza simile a una volpe",
+    "pt-BR": "9:16, vestindo um qipao, suave efeito de luz difusa, desfoque sonhador, foto em ângulo plongée olhando para baixo, figura de modelo alta e esbelta, maquiagem refinada, rosto de beleza de raposa",
+    "pt-PT": "9:16, a usar um qipao, suave efeito de luz difusa, desfoque de sonho, plano picado a olhar para baixo, figura de modelo alta e esbelta, maquilhagem refinada, rosto de beleza semelhante a uma raposa",
+    "tr-TR": "9:16, çipao giyiyor, yumuşak ışık parlaması, rüya gibi bulanıklık, yukarıdan aşağıya bakan yüksek açılı çekim, uzun boylu ince model figürü, zarif makyaj, tilki benzeri güzel yüz"
   },
   "summaryTranslations": {
     "en": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
@@ -23,7 +30,14 @@
     "th-TH": "ภาพพอร์ตเทรตมุมสูงของหญิงสาวรูปร่างเพรียวบางสวมชุดกี่เพ้าลายดอกไม้ พร้อมแสงนุ่มนวลชวนฝันและการแต่งหน้าอย่างประณีต",
     "vi-VN": "Chân dung góc cao của một người phụ nữ thanh mảnh mặc sườn xám họa tiết hoa với ánh sáng mềm mại như mơ và lối trang điểm tinh tế.",
     "hi-IN": "फ्लोरल चीपाओ पहने हुए एक छरहरी महिला का हाई-एंगल पोर्ट्रेट, स्वप्निल कोमल रोशनी और नाजुक मेकअप के साथ।",
-    "es-ES": "Retrato en plano picado de una mujer esbelta con un qipao floral, con una iluminación suave y de ensueño y un maquillaje delicado."
+    "es-ES": "Retrato en plano picado de una mujer esbelta con un qipao floral, con una iluminación suave y de ensueño y un maquillaje delicado.",
+    "es-419": "Retrato en ángulo picado de una mujer esbelta que viste un qipao floral con una iluminación suave y de ensueño y un maquillaje delicado.",
+    "de-DE": "Porträt einer schlanken Frau im geblümten Qipao aus der Vogelperspektive mit traumhaft weichem Licht und zartem Make-up.",
+    "fr-FR": "Portrait en plongée d'une femme élancée vêtue d'un qipao à fleurs, avec un éclairage doux et onirique et un maquillage délicat.",
+    "it-IT": "Ritratto dall'alto di una donna snella che indossa un qipao floreale con un'illuminazione morbida e sognante e un trucco delicato.",
+    "pt-BR": "Retrato em ângulo plongée de uma mulher esbelta vestindo um qipao floral com iluminação suave e sonhadora e maquiagem delicada.",
+    "pt-PT": "Retrato em plano picado de uma mulher esbelta a usar um qipao floral com iluminação suave e de sonho e maquilhagem delicada.",
+    "tr-TR": "Rüya gibi yumuşak aydınlatmaya ve narin bir makyaja sahip, çiçek desenli çipao giyen ince yapılı bir kadının yüksek açılı portresi."
   },
   "translationVersion": 2,
   "summary": "High-angle portrait of a slender woman wearing a floral qipao with dreamy soft lighting and delicate makeup.",
