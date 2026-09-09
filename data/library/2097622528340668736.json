@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:34:13.540Z",
+  "model": "image2",
+  "prompt": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格",
+  "promptTranslations": {
+    "en": "Top-down 35-degree high-angle shot, a young realistic East Asian woman with reddish-brown hair facing the camera, with both hands behind her head, elbows spread wide, showing a bright, genuine, toothy smile, hands clasped behind her head. She is wearing a pink string bikini and a delicate gold necklace, standing barefoot in front of a minimalist gray concrete background. Soft indoor natural light, realistic-textured lifestyle portrait snapshot style"
+  },
+  "summaryTranslations": {
+    "en": "Realistic high-angle portrait of a young East Asian woman in a pink bikini in front of a minimalist gray background."
+  },
+  "translationVersion": 2,
+  "summary": "极简灰色背景前穿着粉色比基尼的年轻东亚女性俯拍真实肖像。",
+  "summaryEn": "High-angle realistic snapshot portrait of a young East Asian woman in a pink bikini against a minimalist grey background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097622528340668736",
+    "canonicalUrl": "https://x.com/catgirlcozy/status/2097622528340668736",
+    "author": {
+      "username": "catgirlcozy",
+      "displayName": "猫女AI提示词",
+      "profileUrl": "https://x.com/catgirlcozy"
+    },
+    "publishedAt": "2026-09-09T09:45:57.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "zh",
+    "originalText": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格\n\n#GPT #image2 #今日提示词 https://t.co/1JkhvjgRFG",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxAervbUAAwK1X.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxAervbUAAwK1X.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxAfy5aAAA2w9U.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxAfy5aAAA2w9U.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxAgonboAErZrD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxAgonboAErZrD.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 19
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/catgirlcozy/status/2097622528340668736",
+  "coverUrl": "https://pbs.twimg.com/media/HRxAervbUAAwK1X.jpg",
+  "coverPath": "images/2097622528340668736-1.jpg",
+  "imagePaths": [
+    "images/2097622528340668736-1.jpg",
+    "images/2097622528340668736-2.jpg",
+    "images/2097622528340668736-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxAervbUAAwK1X",
+    "x-image:/media/HRxAfy5aAAA2w9U",
+    "x-image:/media/HRxAgonboAErZrD",
+    "x-post:2097622528340668736"
+  ],
+  "analysis": {
+    "summary": "极简灰色背景前穿着粉色比基尼的年轻东亚女性俯拍真实肖像。",
+    "summaryEn": "High-angle realistic snapshot portrait of a young East Asian woman in a pink bikini against a minimalist grey background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片中的东亚年轻女性、红棕色头发、双手抱头姿势、粉色比基尼、金色细项链及灰色混凝土背景均与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格",
+    "sourceRange": {
+      "start": 0,
+      "end": 116
+    },
+    "translations": {
+      "zh": "俯视35角度俯拍，一位留着红棕色头发、她面对镜头，双手抱在头后，手肘张开，露出灿烂、真诚的露齿笑容,年轻真实东亚女性，双手抱头。她穿着粉色系带比基尼和细金项链，赤脚站在极简灰色混凝土背景前。室内柔和自然光，真实质感的生活人像快照风格",
+      "en": "High-angle 35-degree shot of a young East Asian woman with reddish-brown hair facing the camera, hands behind her head with elbows out, giving a radiant, genuine smile. She wears a pink tie bikini and thin gold necklace, standing barefoot before a minimalist grey concrete background. Soft indoor natural light, realistic snapshot style."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
