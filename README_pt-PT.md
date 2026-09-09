@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**16** Prompts · Adição mais recente: **2026-09-09**
+**17** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,34 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2096901566985068734"></a>
+
+### Tradução em curso
+
+Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicação original](https://x.com/AIVideoHub_/status/2096901566985068734)
+
+Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2096901566985068734-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2096901566985068734-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2096901566985068734-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2096901566985068734-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097249218507461093"></a>
 

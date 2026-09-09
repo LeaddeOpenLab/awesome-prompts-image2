@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**16** 条内容 · 最新收录: **2026-09-09**
+**17** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2096901566985068734"></a>
+
+### 翻译中
+
+作者：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [查看 X 原帖](https://x.com/AIVideoHub_/status/2096901566985068734)
+
+摄影 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2096901566985068734-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096901566985068734-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2096901566985068734-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2096901566985068734-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097249218507461093"></a>
 

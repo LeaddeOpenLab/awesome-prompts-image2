@@ -14,7 +14,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**16** 筆內容 · 最新收錄: **2026-09-09**
+**17** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2096901566985068734"></a>
+
+### 翻譯中
+
+作者：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [查看 X 原帖](https://x.com/AIVideoHub_/status/2096901566985068734)
+
+攝影 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2096901566985068734-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2096901566985068734-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2096901566985068734-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2096901566985068734-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097249218507461093"></a>
 

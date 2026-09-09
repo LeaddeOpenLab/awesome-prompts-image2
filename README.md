@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-09**
+**17** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,51 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2096901566985068734"></a>
+
+### Portrait snapshot prompt for a Japanese flight attendant uniform photoshoot against an airplane cabin door backdrop, featuring an integrated random action pool.
+
+Author：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Source](https://x.com/AIVideoHub_/status/2096901566985068734)
+
+Photography · Portrait / Selfie · Character · Abstract / Background · Published
+
+**Summary:** Portrait snapshot prompt for a Japanese flight attendant uniform photoshoot against an airplane cabin door backdrop, featuring an integrated random action pool.
+
+<img src="images/2096901566985068734-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096901566985068734-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2096901566985068734-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2096901566985068734-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+📱 Japanese airline casual snapshot, 3:4; 18–22 years old, clearly adult beautiful East Asian female, approximately 1.75 meters tall, delicate and sweet facial features, cool porcelain white skin, tall and slender model figure, visually natural E-cup bust. Exquisite updo hairstyle, deep V-neck white shirt × navy blue flight attendant vest × blue-and-white striped short skirt, yellow silk scarf, black mid-heels, and black pantyhose.
+
+✈️ Airplane cabin door area, with the folding jump seat, cabin door handle, warning signs, and overhead bins naturally in frame. Cool gray low saturation, handheld smartphone tilted composition, diffused overhead lighting, slight overexposure, noise grain, and edge defocus, clear white-peach "no-makeup" makeup look, genuine amateur candid snapshot feel.
+
+Random Action Pool:
+
+💺 Sitting on the folding jump seat, one leg bent up, raising a hand to adjust her updo
+✈️ Sitting sideways next to the cabin door, turning her head back with a sweet smile
+🧣 Looking down adjusting her silk scarf, suddenly looking up at the camera
+👜 Bending over rummaging through a personal carry-on pouch, capturing the mid-action moment
+🙆🏻‍♀️ Leaning against the seatback stretching, natural and relaxed posture
+🪞 Standing up adjusting her vest and skirt hem, turned sideways looking at the camera
+💬 Sitting resting her chin on her hand daydreaming, legs naturally staggered
+🚪 Holding onto the edge of the cabin door to stand up, turning back to smile
+
+🎲 After selecting an action, freely improvise camera angles, cabin details, expressions, handheld tilt, and defocus effects, pursuing a flight attendant uniform × Japanese lifestyle portrait × accidental smartphone candid snapshot feel.
+
+Generate a comprehensive preview image containing different actions for me to choose from.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097249218507461093"></a>
 
