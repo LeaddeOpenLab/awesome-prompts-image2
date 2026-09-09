@@ -822,20 +822,20 @@ Yazar：[@higgsfield](https://x.com/higgsfield) · [Orijinal gönderi](https://x
 
 <a name="prompt-2097513469172129825"></a>
 
-### Çeviri sürüyor
+### Rüya gibi yumuşak aydınlatmaya ve narin bir makyaja sahip, çiçek desenli çipao giyen ince yapılı bir kadının yüksek açılı portresi.
 
 Yazar：[@BubbleBrain](https://x.com/BubbleBrain) · [Orijinal gönderi](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Rüya gibi yumuşak aydınlatmaya ve narin bir makyaja sahip, çiçek desenli çipao giyen ince yapılı bir kadının yüksek açılı portresi.
 
 <img src="images/2097513469172129825-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+9:16, çipao giyiyor, yumuşak ışık parlaması, rüya gibi bulanıklık, yukarıdan aşağıya bakan yüksek açılı çekim, uzun boylu ince model figürü, zarif makyaj, tilki benzeri güzel yüz
 ```
 
 [↑ Kategorilere dön](#catalog)

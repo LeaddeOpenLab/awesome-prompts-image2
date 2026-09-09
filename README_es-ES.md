@@ -790,20 +790,32 @@ Traducción en curso
 
 <a name="prompt-2097519422407872858"></a>
 
-### Traducción en curso
+### Video de estudio en mesa giratoria de un caballo de ajedrez de madera tallada girando suavemente 360 grados.
 
 Autor：[@higgsfield](https://x.com/higgsfield) · [Publicación original](https://x.com/higgsfield/status/2097519422407872858)
 
 Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Video de estudio en mesa giratoria de un caballo de ajedrez de madera tallada girando suavemente 360 grados.
 
 <img src="covers/2097519422407872858.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video fotorrealista de mesa giratoria de estudio de un caballo de ajedrez de madera pulida.
+
+El caballo tiene una silueta de caballo tallada minimalista: laterales anchos y planos, un hocico redondeado y alargado, un ojo diminuto y oscuro, una oreja angular y un cuello suavemente curvado. Una inserción suave de color marrón oscuro recorre la crin a lo largo del lomo. La figura se apoya en una base circular ancha de madera con varios anillos escalonados concéntricos.
+
+Utiliza madera marrón cálida con vetas verticales claramente visibles, bordes suavemente redondeados y un acabado lacado brillante. Conserva la forma exacta, las proporciones, las vetas de la madera y la inserción de la crin oscura durante todo el video.
+
+Toda la pieza de ajedrez, incluida su base, gira suavemente a través de un giro completo de 360 grados alrededor de su eje vertical a una velocidad constante. Se mantiene perfectamente centrada y firme sobre la superficie. El primer y el último fotograma coinciden para crear un bucle continuo.
+
+Mantén la cámara completamente fija, mirando ligeramente hacia abajo a la pieza. Muestra todo el objeto con un pequeño margen arriba y abajo. Utiliza un fondo y suelo de estudio gris claro continuo, iluminación suave y difusa, reflejos tenues en la laca y una sombra de contacto sutil debajo de la base.
+
+Duración: 3 segundos. Frecuencia de fotogramas: 30 fps. Composición cuadrada 1:1.
+
+Sin movimiento de cámara, zoom, cortes, oscilaciones, flotaciones, deformaciones, cambios de proporción, texturas de madera deslizantes, parpadeos, objetos adicionales, texto ni logotipos.
 ```
 
 [↑ Volver a categorías](#catalog)

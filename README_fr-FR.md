@@ -812,20 +812,20 @@ Traduction en cours
 
 <a name="prompt-2097513469172129825"></a>
 
-### Traduction en cours
+### Portrait en plongée d'une femme élancée vêtue d'un qipao à fleurs, avec un éclairage doux et onirique et un maquillage délicat.
 
 Auteur：[@BubbleBrain](https://x.com/BubbleBrain) · [Publication originale](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait en plongée d'une femme élancée vêtue d'un qipao à fleurs, avec un éclairage doux et onirique et un maquillage délicat.
 
 <img src="images/2097513469172129825-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+9:16, vêtue d'un qipao, doux halo de lumière, flou onirique, plongée regardant vers le bas, silhouette de mannequin grande et élancée, maquillage raffiné, visage à la beauté féline et rusée comme un renard
 ```
 
 [↑ Retour aux catégories](#catalog)

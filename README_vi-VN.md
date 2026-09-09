@@ -768,20 +768,32 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 <a name="prompt-2097519422407872858"></a>
 
-### Đang dịch
+### Video turntable studio của quân mã cờ vua bằng gỗ chạm khắc xoay mượt mà 360 độ.
 
 Tác giả：[@higgsfield](https://x.com/higgsfield) · [Bài gốc](https://x.com/higgsfield/status/2097519422407872858)
 
 Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video turntable studio của quân mã cờ vua bằng gỗ chạm khắc xoay mượt mà 360 độ.
 
 <img src="covers/2097519422407872858.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video turntable trong studio chụp ảnh chân thực về một quân mã cờ vua bằng gỗ được đánh bóng.
+
+Quân mã có hình bóng ngựa được chạm khắc theo phong cách tối giản: hai bên phẳng rộng, mõm thuôn tròn, một mắt nhỏ màu tối, tai góc cạnh và cổ cong nhẹ nhàng. Một miếng ghép màu nâu sẫm nhẵn mịn chạy dọc theo bờm ở phía sau lưng. Tượng đứng trên một đế gỗ hình tròn rộng với nhiều vòng tròn bậc đồng tâm.
+
+Sử dụng chất liệu gỗ màu nâu ấm với vân gỗ dọc thấy rõ, các cạnh được bo tròn mềm mại và lớp hoàn thiện bằng sơn bóng bẩy. Giữ nguyên hình dạng, tỷ lệ, vân gỗ và miếng ghép bờm sẫm màu chính xác trong suốt video.
+
+Toàn bộ quân cờ, bao gồm cả phần đế, xoay mượt mà đủ một vòng 360 độ quanh trục thẳng đứng với tốc độ không đổi. Quân cờ luôn nằm ở vị trí trung tâm hoàn hảo và đứng vững chắc trên bề mặt. Khung hình đầu tiên và cuối cùng khớp nhau để tạo thành vòng lặp liền mạch.
+
+Giữ máy ảnh hoàn toàn đứng yên, nhìn hơi chúc xuống quân cờ. Hiển thị toàn bộ vật thể với một khoảng lề nhỏ ở phía trên và phía dưới. Sử dụng phông nền và sàn studio màu xám nhạt liền mạch, ánh sáng khuếch tán mềm mại, vùng sáng nhẹ nhàng trên lớp sơn bóng và bóng tiếp xúc tinh tế bên dưới đế.
+
+Thời lượng: 3 giây. Tốc độ khung hình: 30 fps. Bố cục vuông 1:1.
+
+Không có chuyển động của máy ảnh, không zoom, không cắt cảnh, không lắc lư, không trôi nổi, không biến dạng, không thay đổi tỷ lệ, không trượt vân gỗ, không nhấp nháy, không có vật thể bổ sung, văn bản hoặc logo.
 ```
 
 [↑ Về danh mục](#catalog)

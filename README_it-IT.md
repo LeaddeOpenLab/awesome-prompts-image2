@@ -812,20 +812,20 @@ Traduzione in corso
 
 <a name="prompt-2097513469172129825"></a>
 
-### Traduzione in corso
+### Ritratto dall'alto di una donna snella che indossa un qipao floreale con un'illuminazione morbida e sognante e un trucco delicato.
 
 Autore：[@BubbleBrain](https://x.com/BubbleBrain) · [Post originale](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto dall'alto di una donna snella che indossa un qipao floreale con un'illuminazione morbida e sognante e un trucco delicato.
 
 <img src="images/2097513469172129825-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+9:16, che indossa un qipao, morbido bagliore di luce, sfocatura sognante, inquadratura dall'alto verso il basso, figura da modella alta e snella, trucco raffinato, viso dalla bellezza simile a una volpe
 ```
 
 [↑ Torna alle categorie](#catalog)

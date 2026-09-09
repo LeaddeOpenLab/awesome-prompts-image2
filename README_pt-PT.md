@@ -822,20 +822,20 @@ Tradução em curso
 
 <a name="prompt-2097513469172129825"></a>
 
-### Tradução em curso
+### Retrato em plano picado de uma mulher esbelta a usar um qipao floral com iluminação suave e de sonho e maquilhagem delicada.
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicação original](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato em plano picado de uma mulher esbelta a usar um qipao floral com iluminação suave e de sonho e maquilhagem delicada.
 
 <img src="images/2097513469172129825-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+9:16, a usar um qipao, suave efeito de luz difusa, desfoque de sonho, plano picado a olhar para baixo, figura de modelo alta e esbelta, maquilhagem refinada, rosto de beleza semelhante a uma raposa
 ```
 
 [↑ Voltar às categorias](#catalog)

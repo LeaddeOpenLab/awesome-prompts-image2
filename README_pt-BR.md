@@ -822,20 +822,20 @@ Tradução em andamento
 
 <a name="prompt-2097513469172129825"></a>
 
-### Tradução em andamento
+### Retrato em ângulo plongée de uma mulher esbelta vestindo um qipao floral com iluminação suave e sonhadora e maquiagem delicada.
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicação original](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato em ângulo plongée de uma mulher esbelta vestindo um qipao floral com iluminação suave e sonhadora e maquiagem delicada.
 
 <img src="images/2097513469172129825-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+9:16, vestindo um qipao, suave efeito de luz difusa, desfoque sonhador, foto em ângulo plongée olhando para baixo, figura de modelo alta e esbelta, maquiagem refinada, rosto de beleza de raposa
 ```
 
 [↑ Voltar às categorias](#catalog)

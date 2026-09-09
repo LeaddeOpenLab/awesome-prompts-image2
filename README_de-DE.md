@@ -812,20 +812,20 @@ Produkt · Veröffentlicht
 
 <a name="prompt-2097513469172129825"></a>
 
-### Übersetzung läuft
+### Porträt einer schlanken Frau im geblümten Qipao aus der Vogelperspektive mit traumhaft weichem Licht und zartem Make-up.
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Originalbeitrag](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt einer schlanken Frau im geblümten Qipao aus der Vogelperspektive mit traumhaft weichem Licht und zartem Make-up.
 
 <img src="images/2097513469172129825-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+9:16, trägt ein Qipao, weicher Lichtschein, verträumte Unschärfe, Aufnahme aus der Vogelperspektive mit Blick nach unten, große schlanke Modelfigur, raffiniertes Make-up, fuchsartiges Schönheitsgesicht
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
