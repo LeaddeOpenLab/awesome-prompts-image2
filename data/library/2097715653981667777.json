@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:33:04.486Z",
+  "model": "image2.5",
+  "prompt": "清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格",
+  "promptTranslations": {
+    "en": "Refined and tenderly affectionate; hazy shadows of flowers; half-concealed by curtain shadows; hesitant to speak, holding back words; a bashful beauty; breathtaking grace breaking the mold"
+  },
+  "summaryTranslations": {
+    "en": "Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain."
+  },
+  "translationVersion": 2,
+  "summary": "古风仕女半掩帘后含羞肖像提示词。",
+  "summaryEn": "Prompt for a bashful traditional Chinese beauty half-concealed behind a curtain.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097367159085420949",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2097367159085420949",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "惊鸿一瞥 \n\n🔵 GPT image 2 Prompt:\n\n清雅疏淡；虚实相生；竹石琴茶；烟雨寂寥；佳人独出；破格惊鸿 https://t.co/fYLuTWq5K0"
+    },
+    "id": "2097715653981667777",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2097715653981667777",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-09T15:56:00.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "犹抱琵琶半遮面～\n\n🔵 GPT image 2.5 Prompt:\n\n清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格 https://t.co/aJbqLPHfu1",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyJOebaIAAtpK0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyJOebaIAAtpK0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRtYTzfaEAAXOpq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRtYTzfaEAAXOpq.jpg",
+        "sourcePostId": "2097367159085420949"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 205
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2097715653981667777",
+  "coverUrl": "https://pbs.twimg.com/media/HRyJOebaIAAtpK0.jpg",
+  "coverPath": "images/2097715653981667777-1.jpg",
+  "imagePaths": [
+    "images/2097715653981667777-1.jpg",
+    "images/2097715653981667777-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyJOebaIAAtpK0",
+    "x-image:/media/HRtYTzfaEAAXOpq",
+    "x-post:2097715653981667777",
+    "x-post:2097367159085420949"
+  ],
+  "analysis": {
+    "summary": "古风仕女半掩帘后含羞肖像提示词。",
+    "summaryEn": "Prompt for a bashful traditional Chinese beauty half-concealed behind a curtain.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展现了帘影半掩、身着古装的含羞仕女，花影与光影交织，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格",
+    "sourceRange": {
+      "start": 35,
+      "end": 64
+    },
+    "translations": {
+      "zh": "清雅含情；花影朦胧；帘影欲掩；欲语还休；佳人含羞；惊鸿破格",
+      "en": "Elegant and affectionate; hazy flower shadows; half-concealed behind curtains; hesitating to speak; a bashful beauty; strikingly graceful."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "古风唯美女性肖像",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
