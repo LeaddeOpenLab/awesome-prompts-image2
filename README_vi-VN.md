@@ -881,20 +881,26 @@ Infographic / Hình ảnh giáo dục · Chân dung / Ảnh tự chụp · Đã 
 
 <a name="prompt-2096914920915001598"></a>
 
-### Đang dịch
+### Ảnh chụp lén bằng điện thoại thông minh của một phụ nữ trẻ Đông Á mặc áo nỉ màu xám và quần jeans đang ngồi trên sân thượng ban công vườn đầy nắng.
 
 Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp lén bằng điện thoại thông minh của một phụ nữ trẻ Đông Á mặc áo nỉ màu xám và quần jeans đang ngồi trên sân thượng ban công vườn đầy nắng.
 
 <img src="images/2096914920915001598-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh chụp lén tự nhiên hoàn toàn bằng điện thoại thông minh, chân thực như ảnh chụp của một phụ nữ trẻ Đông Á đang ngồi xếp bằng thoải mái trên sân thượng ban công vườn. Cô có mái tóc dài màu nâu sẫm uốn sóng tự nhiên xõa nhẹ trên vai và trước ngực, với những sợi tóc mềm mại chuyển động tự nhiên. Các đường nét trên khuôn mặt cô thanh tú và chân thực, với lớp trang điểm nhẹ nhàng tự nhiên và kết cấu da chân thật.
+Cô mặc một chiếc áo nỉ phom rộng màu xám nhạt ấm cúng kết hợp với quần jeans màu xanh nhạt ống rộng. Ngồi một cách giản dị và tự nhiên, cô nhẹ nhàng tựa một tay vào má trong khi ngước nhìn lên trên và hơi chếch sang một bên. Biểu cảm của cô toát lên vẻ dễ thương và trầm ngâm thực sự, với một chút bĩu môi nhẹ tinh tế, như thể bức ảnh được chụp lại trong một khoảnh khắc yên tĩnh không hề tạo dáng.
+Cô ngồi trên bề mặt sân thượng ngoài trời sáng màu, được bao quanh bởi cây cối xanh tươi, cây cảnh nhiều lá trong chậu và những bông hoa nhỏ màu hồng đang nở rộ. Một lan can ban công bằng kim loại màu đen đơn giản chạy phía sau cô, với những tán cây rậm rạp và cây xanh tự nhiên bao phủ hậu cảnh. Khung cảnh mang lại cảm giác yên bình, riêng tư và giống như một ban công vườn thường nhật thực sự.
+Ánh sáng ban ngày tự nhiên ấm áp và dịu nhẹ chiếu nhẹ lên khuôn mặt và quần áo của cô, tạo ra những bóng đổ tinh tế, chân thực. Lỗ chân lông tự nhiên, kết cấu tóc chân thật, chất liệu vải áo nỉ thực tế và các chi tiết denim đáng tin cậy đều có thể nhìn thấy rõ ràng. Không có gì trông quá trau chuốt hoặc tạo dáng nhân tạo.
+Được chụp như một bức ảnh điện thoại thông minh thông thường chân thực với góc nhìn ngang tầm mắt tự nhiên. Bố cục ngồi toàn thân, khung hình dọc, với chủ thể được đặt hơi lệch về phía giữa dưới của khung hình. Hậu cảnh có độ sâu trường ảnh tự nhiên dịu nhẹ—được làm mờ nhẹ nhưng vẫn có thể nhận ra rõ ràng.
+Nhiếp ảnh siêu thực, tỷ lệ tự nhiên, khoảnh khắc đời thường tự nhiên, thẩm mỹ thời trang thường ngày lấy cảm hứng từ Hàn Quốc, màu sắc nhẹ nhàng dịu mắt, hạt phim tinh tế, ánh sáng chân thực, các chi tiết camera điện thoại hơi không hoàn hảo, độ chân thực 4K, không có hiệu ứng bộ lọc làm đẹp, không chỉnh sửa quá mức.
+Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
 ```
 
 [↑ Về danh mục](#catalog)

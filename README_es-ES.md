@@ -903,20 +903,26 @@ Traducción en curso
 
 <a name="prompt-2096914920915001598"></a>
 
-### Traducción en curso
+### Foto espontánea con smartphone de una joven mujer del este de Asia con sudadera gris y vaqueros sentada en la soleada terraza de un balcón con jardín.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2096914920915001598)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto espontánea con smartphone de una joven mujer del este de Asia con sudadera gris y vaqueros sentada en la soleada terraza de un balcón con jardín.
 
 <img src="images/2096914920915001598-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una foto espontánea con smartphone completamente natural y fotorrealista de una joven mujer del este de Asia sentada cómodamente con las piernas cruzadas en una terraza con jardín en el balcón. Tiene el cabello largo, castaño oscuro, naturalmente ondulado, que cae holgadamente sobre sus hombros y por la parte delantera de su cuerpo, con mechones individuales suaves que se mueven de manera natural. Sus rasgos son delicados y realistas, con un maquillaje natural sutil y una textura de piel auténtica.
+Viste una sudadera gris claro de corte oversize y muy cómoda con unos vaqueros de corte relajado en color azul claro. Sentada de manera casual y natural, apoya suavemente una mano en su mejilla mientras mira hacia arriba y ligeramente hacia un lado. Su expresión se siente genuinamente linda y pensativa, con un ligero puchero sutil, como si la foto hubiera sido capturada durante un momento tranquilo y sin posar.
+Está sentada sobre la superficie de una terraza al aire libre de color claro rodeada de frondosas plantas verdes, follaje en macetas y pequeñas flores rosadas en floración. Una barandilla de balcón de metal negro simple pasa detrás de ella, con densos árboles y vegetación natural llenando el fondo. El entorno se siente tranquilo, privado y como un auténtico balcón con jardín cotidiano.
+Una suave y cálida luz natural del día cae suavemente sobre su rostro y su ropa, creando sombras sutiles y realistas. Los poros naturales de la piel, la auténtica textura del cabello, la tela realista de la sudadera y los detalles creíbles de la mezclilla son claramente visibles. Nada parece excesivamente pulido ni posado artificialmente.
+Tomada como una auténtica fotografía casual de smartphone con una perspectiva natural a la altura de los ojos. Composición sentada de cuerpo entero, encuadre vertical, con el sujeto colocado ligeramente hacia la parte media inferior del encuadre. El fondo tiene una suave profundidad de campo natural: desenfocado con suavidad sin dejar de ser claramente reconocible.
+Fotografía ultrarrealista, proporciones naturales, momento cotidiano espontáneo, estética de moda casual de inspiración coreana, colores suaves y apagados, grano de película sutil, iluminación realista, detalles de cámara de smartphone ligeramente imperfectos, realismo 4K, sin efecto de filtro de belleza, sin retoques excesivos.
+Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
 ```
 
 [↑ Volver a categorías](#catalog)
