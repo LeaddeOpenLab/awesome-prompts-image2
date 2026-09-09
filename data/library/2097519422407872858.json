@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:14:11.962Z",
+  "model": "image2.5",
+  "prompt": "Create a photorealistic studio turntable video of a polished wooden chess knight.\n\nThe knight has a minimalist carved horse silhouette: broad flat sides, a rounded elongated muzzle, a tiny dark eye, an angular ear, and a gently curved neck. A smooth, dark brown insert follows the mane along the back. The figure stands on a wide circular wooden base with several concentric stepped rings.\n\nUse warm brown wood with clearly visible vertical grain, softly rounded edges, and a glossy lacquer finish. Preserve the exact shape, proportions, wood grain, and dark mane insert throughout the video.\n\nThe entire chess piece, including its base, rotates smoothly through one complete 360-degree turn around its vertical axis at a constant speed. It stays perfectly centered and firmly on the surface. The first and last frames match for a seamless loop.\n\nKeep the camera completely stationary, looking slightly downward at the piece. Show the entire object with a small margin above and below. Use a seamless light-gray studio background and floor, soft diffused lighting, gentle highlights on the lacquer, and a subtle contact shadow beneath the base.\n\nDuration: 3 seconds. Frame rate: 30 fps. Square 1:1 composition.\n\nNo camera movement, zoom, cuts, wobbling, floating, deformation, changing proportions, sliding wood textures, flickering, additional objects, text, or logos.",
+  "promptTranslations": {
+    "en": "Create a photorealistic studio turntable video of a polished wooden chess knight.\n\nThe knight has a minimalist carved horse silhouette: broad flat sides, a rounded elongated muzzle, a tiny dark eye, an angular ear, and a gently curved neck. A smooth, dark brown insert follows the mane along the back. The figure stands on a wide circular wooden base with several concentric stepped rings.\n\nUse warm brown wood with clearly visible vertical grain, softly rounded edges, and a glossy lacquer finish. Preserve the exact shape, proportions, wood grain, and dark mane insert throughout the video.\n\nThe entire chess piece, including its base, rotates smoothly through one complete 360-degree turn around its vertical axis at a constant speed. It stays perfectly centered and firmly on the surface. The first and last frames match for a seamless loop.\n\nKeep the camera completely stationary, looking slightly downward at the piece. Show the entire object with a small margin above and below. Use a seamless light-gray studio background and floor, soft diffused lighting, gentle highlights on the lacquer, and a subtle contact shadow beneath the base.\n\nDuration: 3 seconds. Frame rate: 30 fps. Square 1:1 composition.\n\nNo camera movement, zoom, cuts, wobbling, floating, deformation, changing proportions, sliding wood textures, flickering, additional objects, text, or logos."
+  },
+  "summaryTranslations": {
+    "en": "Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees."
+  },
+  "translationVersion": 2,
+  "summary": "Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.",
+  "summaryEn": "Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097519422407872858",
+    "canonicalUrl": "https://x.com/higgsfield/status/2097519422407872858",
+    "author": {
+      "username": "higgsfield",
+      "displayName": "Higgsfield AI 🧩",
+      "profileUrl": "https://x.com/higgsfield"
+    },
+    "publishedAt": "2026-09-09T02:56:14.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "Comparing GPT-Image 2.0 to GPT-Image 2.5\n\nPrompt below:\n\n\"Create a photorealistic studio turntable video of a polished wooden chess knight.\n\nThe knight has a minimalist carved horse silhouette: broad flat sides, a rounded elongated muzzle, a tiny dark eye, an angular ear, and a gently curved neck. A smooth, dark brown insert follows the mane along the back. The figure stands on a wide circular wooden base with several concentric stepped rings.\n\nUse warm brown wood with clearly visible vertical grain, softly rounded edges, and a glossy lacquer finish. Preserve the exact shape, proportions, wood grain, and dark mane insert throughout the video.\n\nThe entire chess piece, including its base, rotates smoothly through one complete 360-degree turn around its vertical axis at a constant speed. It stays perfectly centered and firmly on the surface. The first and last frames match for a seamless loop.\n\nKeep the camera completely stationary, looking slightly downward at the piece. Show the entire object with a small margin above and below. Use a seamless light-gray studio background and floor, soft diffused lighting, gentle highlights on the lacquer, and a subtle contact shadow beneath the base.\n\nDuration: 3 seconds. Frame rate: 30 fps. Square 1:1 composition.\n\nNo camera movement, zoom, cuts, wobbling, floating, deformation, changing proportions, sliding wood textures, flickering, additional objects, text, or logos.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/higgsfield/status/2097519422407872858",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097519322398953472/img/5Gcwe7Hi5uhohCLO.jpg",
+        "analysisUrl": "https://x.com/higgsfield/status/2097519422407872858"
+      }
+    ],
+    "metrics": {
+      "likeCount": 52,
+      "repostCount": 4,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 5062
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/higgsfield/status/2097519422407872858",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097519322398953472/img/5Gcwe7Hi5uhohCLO.jpg",
+  "coverPath": "covers/2097519422407872858.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097519322398953472",
+    "x-post:2097519422407872858"
+  ],
+  "analysis": {
+    "summary": "Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.",
+    "summaryEn": "Turntable studio video of a carved wooden chess knight smoothly rotating 360 degrees.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The media directly displays a wooden chess knight piece rotating on a turntable against a light gray background exactly as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a photorealistic studio turntable video of a polished wooden chess knight.\n\nThe knight has a minimalist carved horse silhouette: broad flat sides, a rounded elongated muzzle, a tiny dark eye, an angular ear, and a gently curved neck. A smooth, dark brown insert follows the mane along the back. The figure stands on a wide circular wooden base with several concentric stepped rings.\n\nUse warm brown wood with clearly visible vertical grain, softly rounded edges, and a glossy lacquer finish. Preserve the exact shape, proportions, wood grain, and dark mane insert throughout the video.\n\nThe entire chess piece, including its base, rotates smoothly through one complete 360-degree turn around its vertical axis at a constant speed. It stays perfectly centered and firmly on the surface. The first and last frames match for a seamless loop.\n\nKeep the camera completely stationary, looking slightly downward at the piece. Show the entire object with a small margin above and below. Use a seamless light-gray studio background and floor, soft diffused lighting, gentle highlights on the lacquer, and a subtle contact shadow beneath the base.\n\nDuration: 3 seconds. Frame rate: 30 fps. Square 1:1 composition.\n\nNo camera movement, zoom, cuts, wobbling, floating, deformation, changing proportions, sliding wood textures, flickering, additional objects, text, or logos.",
+    "sourceRange": {
+      "start": 58,
+      "end": 1427
+    },
+    "translations": {
+      "zh": "创建一段木质抛光国际象棋马（骑士）的摄影写实级影棚转盘视频。马雕刻线条极简，具平滑侧面、深色马鬃嵌饰与同心阶梯圆底座。材质为温润棕木，带垂直纹理与光泽漆面。棋子以垂直轴恒速平滑自转360度并无缝循环。固定机位俯拍，中性浅灰影棚背景柔光照明，无晃动变形。",
+      "en": "Create a photorealistic studio turntable video of a polished wooden chess knight. The knight features a minimalist carved horse silhouette with flat sides, dark mane insert, and concentric stepped circular base. Warm brown wood with vertical grain and glossy lacquer finish. Smooth 360-degree loop rotation around vertical axis. Stationary camera, downward angle, light-gray studio backdrop."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "product_showcase",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
