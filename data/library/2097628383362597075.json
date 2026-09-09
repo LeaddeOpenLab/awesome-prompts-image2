@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
   "promptTranslations": {
-    "en": "Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, conduct a detailed palmistry analysis, and present the interpretation against an off-white background, overall adopting a clean, minimalist, and luxurious magazine editorial style. Use slender fine lines, rounded cards, and deliberate negative space to create an expensive, sophisticated aesthetic. Keep the primary focus on the palmistry reading itself."
+    "en": "Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, conduct a detailed palmistry analysis, and present the interpretation against an off-white background, overall adopting a clean, minimalist, and luxurious magazine editorial style. Use slender fine lines, rounded cards, and deliberate negative space to create an expensive, sophisticated aesthetic. Keep the primary focus on the palmistry reading itself.",
+    "zh": "用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
+    "zh-TW": "用這張圖片生成一張完整的手相解讀指南資訊圖表。注意手掌上的紋路，標註關鍵掌紋，進行細緻的手相分析，並將解讀內容以米白色背景呈現，整體採用乾淨、極簡、奢雅的雜誌編輯風格。使用纖細線條、圓角卡片、講究的留白，營造昂貴的高級質感。重點突出手相解讀本身。",
+    "ja-JP": "この画像を使用して、完全な手相占いガイドのインフォグラフィックを生成してください。手のひらのシワに注目し、主要な掌線をマークし、詳細な手相分析を行ってください。オフホワイトの背景に解説内容を配置し、全体的にクリーンでミニマル、エレガントで高級感のある雑誌のエディトリアルスタイルに仕上げてください。細いライン、角丸のカード、計算された余白を活かし、洗練された高級感を演出してください。手相の鑑定・解釈そのものを強調・際立たせてください。",
+    "ko-KR": "이 이미지를 바탕으로 완전한 손금 풀이 가이드 인포그래픽을 생성해 주세요. 손바닥의 주름을 주의 깊게 관찰하여 주요 손금을 표시하고, 세심한 손금 분석을 진행해 주세요. 풀이 내용은 오프화이트 배경에 배치하며, 전체적으로 깨끗하고 미니멀하며 우아한 럭셔리 매거진 에디토리얼 스타일을 적용해 주세요. 가느다란 라인, 둥근 모서리의 카드, 감각적인 여백을 사용하여 세련되고 고급스러운 질감을 연출해 주세요. 손금 풀이 내용 자체를 강조해 주세요.",
+    "th-TH": "ใช้ภาพนี้สร้างอินโฟกราฟิกคู่มือการดูลายมือฉบับสมบูรณ์ สังเกตเส้นบนฝ่ามือ ทำเครื่องหมายระบุเส้นลายมือสำคัญ และทำการวิเคราะห์ลายมืออย่างละเอียด พร้อมนำเสนอเนื้อหาการอ่านลายมือบนพื้นหลังสีขาวนวล (off-white) โดยรวมใช้สไตล์การจัดหน้าแบบนิตยสารที่สะอาดตา มินิมอล และหรูหราสง่างาม ใช้เส้นสายที่บางเฉียบ การ์ดขอบมน และพื้นที่ว่างที่ประณีตบรรจงเพื่อสร้างสัมผัสแห่งความหรูหราเลอค่า โดยเน้นความสำคัญที่การอ่านทำนายลายมือเป็นหลัก",
+    "vi-VN": "Sử dụng hình ảnh này để tạo một đồ họa thông tin (infographic) hướng dẫn xem chỉ tay hoàn chỉnh. Chú ý đến các đường vân trên lòng bàn tay, đánh dấu các đường chỉ tay quan trọng, tiến hành phân tích chỉ tay chi tiết và trình bày nội dung luận giải trên nền màu trắng ngà (off-white), tổng thể mang phong cách biên tập tạp chí sạch sẽ, tối giản và thanh lịch, sang trọng. Sử dụng các đường nét mảnh mai, các thẻ bo tròn góc và khoảng trắng tinh tế để tạo cảm giác cao cấp đắt giá. Tập trung làm nổi bật nội dung giải đoán chỉ tay.",
+    "hi-IN": "इस छवि का उपयोग करके एक संपूर्ण हस्तरेखा व्याख्या गाइड इन्फोग्राफिक तैयार करें। हथेली की रेखाओं पर ध्यान दें, प्रमुख हस्तरेखाओं को चिह्नित करें, विस्तृत हस्तरेखा विश्लेषण करें, और व्याख्या सामग्री को ऑफ-व्हाइट (हल्के मलाईदार) बैकग्राउंड पर प्रस्तुत करें। समग्र रूप से एक स्वच्छ, मिनिमलिस्ट और सुरुचिपूर्ण मैगज़ीन संपादकीय शैली अपनाएं। परिष्कृत और महंगे प्रीमियम अहसास को रचने के लिए पतली रेखाओं, घुमावदार कोनों वाले कार्ड्स और सोच-समझकर छोड़े गए खाली स्थान (व्हाइट स्पेस) का उपयोग करें। मुख्य ध्यान हस्तरेखा की व्याख्या पर ही केंद्रित रखें।",
+    "es-ES": "Usa esta imagen para generar una infografía completa de guía de quiromancia e interpretación de las líneas de la mano. Presta atención a las líneas de la palma, marca las líneas clave de la mano, realiza un análisis detallado de quiromancia y presenta el contenido de la lectura sobre un fondo blanco roto (off-white), con un estilo editorial de revista limpio, minimalista y lujosamente elegante. Utiliza líneas finas, tarjetas con esquinas redondeadas y un espacio en blanco sofisticado para evocar una textura cara y de alta gama. Enfócate principalmente en la interpretación quiromántica en sí."
   },
   "summaryTranslations": {
-    "en": "Generate an off-white, minimalist magazine-style palmistry reading guide infographic."
+    "en": "Generate an off-white, minimalist magazine-style palmistry reading guide infographic.",
+    "zh": "生成米白色极简杂志风格的手相解读指南信息图。",
+    "zh-TW": "生成米白色極簡雜誌風格的手相解讀指南資訊圖表。",
+    "ja-JP": "オフホワイトのミニマルな雑誌スタイルの手相占いガイド・インフォグラフィックを生成。",
+    "ko-KR": "오프화이트 미니멀 매거진 스타일의 손금 풀이 가이드 인포그래픽 생성.",
+    "th-TH": "สร้างอินโฟกราฟิกคู่มือการดูลายมือสไตล์นิตยสารมินิมอลสีขาวนวล",
+    "vi-VN": "Tạo đồ họa thông tin hướng dẫn xem chỉ tay phong cách tạp chí tối giản màu trắng ngà.",
+    "hi-IN": "ऑफ-व्हाइट मिनिमलिस्ट मैगज़ीन शैली में हस्तरेखा व्याख्या गाइड इन्फोग्राफिक तैयार करें।",
+    "es-ES": "Generar una infografía de guía de quiromancia con estilo de revista minimalista en blanco roto."
   },
   "translationVersion": 2,
   "summary": "生成米白色极简杂志风格的手相解读指南信息图。",
