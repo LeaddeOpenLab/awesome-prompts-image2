@@ -12,7 +12,14 @@
     "th-TH": "อ้างอิงจากตัวละครในภาพ สร้างชุดมีม/สติกเกอร์แสดงอารมณ์ 9 แบบที่แตกต่างกันในรูปแบบตาราง 3*3 สามารถมีข้อความภาษาจีนและภาษาอังกฤษได้ พื้นหลังไล่ระดับสีโทนอ่อน",
     "vi-VN": "Tham khảo nhân vật trong ảnh, tạo 9 biểu cảm meme khác nhau xếp thành lưới 3*3, có thể xuất hiện chữ tiếng Trung và tiếng Anh, nền gradient màu sáng",
     "hi-IN": "छवि में दिए गए चरित्र के आधार पर, 3*3 के ग्रिड में कुल 9 विभिन्न इमोजी/मीम एक्सप्रेशंस बनाएं, जिसमें चीनी और अंग्रेजी पाठ शामिल हो सकते हैं, हल्का ग्रेडिएंट बैकग्राउंड",
-    "es-ES": "Tomando como referencia al personaje de la imagen, genera un conjunto de 9 expresiones diferentes en una cuadrícula de 3*3, pueden incluir texto en chino e inglés, con un fondo degradado de color claro"
+    "es-ES": "Tomando como referencia al personaje de la imagen, genera un conjunto de 9 expresiones diferentes en una cuadrícula de 3*3, pueden incluir texto en chino e inglés, con un fondo degradado de color claro",
+    "es-419": "Haciendo referencia al personaje de la imagen, genera una cuadrícula de 3*3 con un total de 9 emojis/stickers de expresiones diferentes, puede incluir texto en chino e inglés, fondo degradado claro",
+    "de-DE": "Beziehe dich auf die Person im Bild und erstelle ein 3*3-Raster mit insgesamt 9 verschiedenen Emoji-/Meme-Ausdrücken, chinesischer und englischer Text darf vorkommen, heller Farbverlaufshintergrund",
+    "fr-FR": "En vous basant sur le personnage de l'image de référence, générez une grille de 3*3 comprenant au total 9 expressions/stickers d'émoticônes différents, du texte en chinois et en anglais peut apparaître, arrière-plan dégradé clair",
+    "it-IT": "Facendo riferimento al personaggio dell'immagine, genera una griglia 3*3 con un totale di 9 diverse espressioni per sticker/meme, può contenere testo in cinese e in inglese, sfondo sfumato chiaro",
+    "pt-BR": "Com base no personagem da imagem de referência, gere uma grade de 3*3 com um total de 9 figurinhas/emotes de expressões diferentes, pode conter texto em chinês e inglês, fundo em degradê claro",
+    "pt-PT": "Com base na personagem da imagem de referência, gera uma grelha de 3*3 com um total de 9 stickers/emotes de expressões diferentes, pode conter texto em chinês e inglês, fundo em gradiente claro",
+    "tr-TR": "Görseldeki karakteri referans alarak, 3*3 formatında toplam 9 farklı ifadeye sahip çıkartma/ifade paketi oluşturun, Çince ve İngilizce metinler yer alabilir, açık renkli gradyan arka plan"
   },
   "summaryTranslations": {
     "en": "Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image.",
@@ -23,7 +30,14 @@
     "th-TH": "สร้างชุดสติกเกอร์แสดงอารมณ์หลากหลายภาษาจีนและอังกฤษแบบตาราง 3x3 เก้าช่องโดยอิงจากภาพบุคคลอ้างอิง",
     "vi-VN": "Tạo bộ biểu cảm meme đa dạng kèm chữ tiếng Trung và tiếng Anh dạng lưới 3x3 chín ô dựa trên ảnh nhân vật tham chiếu.",
     "hi-IN": "चरित्र संदर्भ छवि के आधार पर 3x3 नौ-ग्रिड चीनी और अंग्रेजी बहु-अभिव्यक्ति मीम पैक उत्पन्न करें।",
-    "es-ES": "Generación de un paquete de múltiples expresiones en cuadrícula 3x3 de nueve casillas con chino e inglés basado en una imagen de referencia del personaje."
+    "es-ES": "Generación de un paquete de múltiples expresiones en cuadrícula 3x3 de nueve casillas con chino e inglés basado en una imagen de referencia del personaje.",
+    "es-419": "Generación de cuadrícula de 3x3 con 9 emojis de expresiones múltiples en chino e inglés basada en una imagen de referencia de personaje.",
+    "de-DE": "Generierung eines 3x3-Rasters mit 9 verschiedenen chinesischen und englischen Emoji-Ausdrücken basierend auf einem Personen-Referenzbild.",
+    "fr-FR": "Génération d'une grille 3x3 de 9 émoticônes à expressions multiples en chinois et en anglais basée sur une image de référence d'un personnage.",
+    "it-IT": "Generazione di una griglia 3x3 di 9 sticker con espressioni multiple in cinese e inglese basata su un'immagine di riferimento del personaggio.",
+    "pt-BR": "Geração de grade 3x3 de 9 figurinhas de expressões múltiplas em chinês e inglês com base em imagem de referência de personagem.",
+    "pt-PT": "Geração de grelha 3x3 de 9 stickers de expressões múltiplas em chinês e inglês com base numa imagem de referência de personagem.",
+    "tr-TR": "Karakter referans görseline dayalı olarak 3x3 formatında 9'lu Çince ve İngilizce çoklu ifade paketi oluşturma."
   },
   "translationVersion": 2,
   "summary": "基于人物参考图生成3x3九宫格中英文多表情包。",
