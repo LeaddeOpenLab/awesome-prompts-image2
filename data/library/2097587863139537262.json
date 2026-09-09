@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:12:00.425Z",
+  "model": "image2.5",
+  "prompt": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.",
+  "promptTranslations": {
+    "en": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective. On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen. The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more."
+  },
+  "summaryTranslations": {
+    "en": "Fictional 3D romance RPG beach first-person game screenshot, featuring Morrigan Aensland and a complete game HUD interactive UI."
+  },
+  "translationVersion": 2,
+  "summary": "虚构3D恋爱RPG海滩第一人称游戏截图，包含莫莉卡·安斯兰特及完整游戏HUD交互UI。",
+  "summaryEn": "Fictional 3D romance RPG beach screenshot from first-person view featuring Morrigan Aensland and a full UI.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097554154554314891",
+      "canonicalUrl": "https://x.com/underwoodxie96/status/2097554154554314891",
+      "author": {
+        "username": "underwoodxie96",
+        "displayName": "underwood",
+        "profileUrl": "https://x.com/underwoodxie96"
+      },
+      "originalText": "Really helpful tutorial! When I tried it, GPT sometimes generated separate poses, which made the animation look choppy.\n\nAdding this line to the prompt gave me much smoother results:\n“All 16 frames must form one continuous sequence of the same action.”\n\nFull prompt:\nCreate a pixel-art animation sprite sheet of the character in the reference image, with a transparent background. Arrange 16 frames in a 4×4 grid, ordered from left to right, top to bottom. All 16 frames must form one continuous sequence of the same action, with smooth transitions between adjacent frames. Keep the character’s appearance, scale, and alignment consistent throughout. The action: [describe your desired action]."
+    },
+    "id": "2097587863139537262",
+    "canonicalUrl": "https://x.com/underwoodxie96/status/2097587863139537262",
+    "author": {
+      "username": "underwoodxie96",
+      "displayName": "underwood",
+      "profileUrl": "https://x.com/underwoodxie96"
+    },
+    "publishedAt": "2026-09-09T07:28:12.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "en",
+    "originalText": "GPT Image 2.5 seems to have improved lighting and detail in 3D game-style images. Characters’ skin looks more lifelike, too.\n\nprompt：\nPlease capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwgb9iaUAAcewg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwgb9iaUAAcewg.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwgg-ObEAAcuwA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwgg-ObEAAcuwA.jpg"
+      },
+      {
+        "type": "animated_gif",
+        "url": "https://x.com/underwoodxie96/status/2097587863139537262",
+        "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HRwBkeXbMAAX-Bt.jpg",
+        "analysisUrl": "https://x.com/underwoodxie96/status/2097587863139537262",
+        "sourcePostId": "2097554154554314891"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwBwX1aoAEfxPb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwBwX1aoAEfxPb.jpg",
+        "sourcePostId": "2097554154554314891"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1138
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/underwoodxie96/status/2097587863139537262",
+  "coverUrl": "https://pbs.twimg.com/media/HRwgb9iaUAAcewg.jpg",
+  "coverPath": "covers/2097587863139537262.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HRwgb9iaUAAcewg",
+    "x-image:/media/HRwgg-ObEAAcuwA",
+    "x-video:HRwBkeXbMAAX-Bt.mp4",
+    "x-video:HRwBkeXbMAAX-Bt.jpg",
+    "x-image:/media/HRwBwX1aoAEfxPb",
+    "x-post:2097587863139537262",
+    "x-post:2097554154554314891"
+  ],
+  "analysis": {
+    "summary": "虚构3D恋爱RPG海滩第一人称游戏截图，包含莫莉卡·安斯兰特及完整游戏HUD交互UI。",
+    "summaryEn": "Fictional 3D romance RPG beach screenshot from first-person view featuring Morrigan Aensland and a full UI.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the first image depicting Morrigan lying on the beach holding sunscreen with a full RPG HUD and dialogue box."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.",
+    "sourceRange": {
+      "start": 134,
+      "end": 978
+    },
+    "translations": {
+      "zh": "请从男主角第一人称视角截取一张虚构的次世代3D开放世界恋爱RPG逼真游戏截图。海滩上，《恶魔战士》中的莫莉卡·安斯兰特邀请主角帮她涂防晒霜。整体视觉风格需采用高质量卡通渲染3D角色结合虚幻引擎5级别画质，达到AAA级视觉保真度。包括超细腻的角色建模、逼真的皮肤着色、电影级光影、PBR材质与高精度服装纹理。最终画面需像真实游戏运行截图，包含完整UI界面：小地图、任务显示、状态栏、交互提示、对话字幕和HUD元素等。",
+      "en": "Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective.  On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Generates a faux next-gen 3D romance RPG gameplay screenshot with Morrigan and complete UI.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "mild suggestive"
+      ],
+      "copyright": [
+        "Darkstalkers (Morrigan Aensland)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
