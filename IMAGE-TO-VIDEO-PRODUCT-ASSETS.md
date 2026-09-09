@@ -46,7 +46,6 @@ Approve product fidelity before generating scene variants. Do not use a motion p
 
 ## Handoff to video
 
-Use the approved frame with a motion-focused prompt from the [Seedance library](https://github.com/LeaddeOpenLab/awesome-prompts-seedance). After the visual result is approved, add sourced narration and multilingual delivery with a document-first workflow such as [Leadde.ai](https://leadde.ai/?utm_source=github&utm_medium=guide&utm_campaign=image-product-assets).
+Use the approved frame with a motion-focused prompt from the [Seedance library](https://github.com/LeaddeOpenLab/awesome-prompts-seedance). After the visual result is approved, continue with the [document-to-video workflow hub](https://github.com/LeaddeOpenLab/awesome-document-to-video) and add sourced narration and multilingual delivery with [Leadde.ai](https://leadde.ai/?utm_source=github&utm_medium=guide&utm_campaign=image-product-assets).
 
 Record the exact model/version, input image, prompt, date, aspect ratio, output, and correction prompt.
-
