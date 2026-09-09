@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**11** Prompt · Son eklenen: **2026-09-09**
+**12** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
+<a name="prompt-2096982628541100464"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@sha\_zdiii](https://x.com/sha_zdiii) · [Orijinal gönderi](https://x.com/sha_zdiii/status/2096982628541100464)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096982628541100464-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2096982628541100464-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097269715966230876"></a>
 
 ### Alacakaranlıkta sığ sularda duran, ıslak ve yarı saydam beyaz bir kumaşa bürünmüş bir kadının fotoğrafik portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Alacakaranlıkta sığ sularda duran, ıslak ve yarı saydam beyaz bir kumaşa bürünmüş bir kadının fotoğrafik portre istemi.
 
@@ -78,7 +102,7 @@ Beyaz kumaşı opak yapma; hilali ve gün batımını çıkarma
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Siyah bir BMW'nin önünde poz veren şık bir kadının fotogerçekçi 9:16 portresi.
 
@@ -100,7 +124,7 @@ Modern bir şehir yolunda lüks siyah bir BMW'nin önünde özgüvenle poz veren
 
 Yazar：[@sha\_zdiii](https://x.com/sha_zdiii) · [Orijinal gönderi](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotoğrafçılık · Moda Ürünü · Dağıtım bekliyor
+Fotoğrafçılık · Moda Ürünü · Yayımlandı
 
 **Özet:** Sıcak bej bir stüdyoda saf beyaz bir atla poz veren, fildişi pelerinli kıyafet içindeki sarışın bir modelin yer aldığı ultra gerçekçi lüks moda editoryali.
 
@@ -124,7 +148,7 @@ Minimalist sıcak bej bir stüdyoda ultra gerçekçi lüks moda editoryali. Uzun
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Özet / Arka Plan · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +188,7 @@ Işıklandırma, hafif altın tonlu sıcak beyaz mum ışığı ile saray fenerl
 
 Yazar：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Orijinal gönderi](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotoğrafçılık · Yiyecek / İçecek · Dağıtım bekliyor
+Fotoğrafçılık · Yiyecek / İçecek · Yayımlandı
 
 **Özet:** Aydınlık ve modern bir mutfakta, ahşap sunum tahtası üzerinde pembe orman meyveli smoothie kavanozları, bir kavanoz organik fıstık ezmesi ve kavrulmuş fıstıkların yer aldığı ticari yemek fotoğrafçılığı sahnesi.
 
@@ -196,7 +220,7 @@ Dikey 9:16 kompozisyon, birinci sınıf ticari yemek fotoğrafçılığı, gerç
 
 Yazar：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Orijinal gönderi](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Bir tarafında patlayan su sıçramaları, diğer tarafında parıldayan ateş bulunan iki elementli bölünmüş Güney Asyalı bir adam portresi.
 
@@ -223,7 +247,7 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 Yazar：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Orijinal gönderi](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Dağıtım bekliyor
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
 **Özet:** Kasvetli bir arka plana karşı sıcak altın kenar aydınlatmalı, bej kazaklı bir adamın sinematik portresi.
 
@@ -249,7 +273,7 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2097185580224491672)
 
-Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Araç · Şehir Manzarası / Sokak · Özet / Arka Plan · Dağıtım bekliyor
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Araç · Şehir Manzarası / Sokak · Özet / Arka Plan · Yayımlandı
 
 **Özet:** 90'lar retro sokak modası portresi, klasik Amerikan arabasına yaslanmış bir adam, arka planda Oakland'ın yıpranmış şehir duvarı.
 
@@ -283,7 +307,7 @@ Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinemat
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2097204639863287913)
 
-Poster / El İlanı · Minimalizm · Karakter · Özet / Arka Plan · Dağıtım bekliyor
+Poster / El İlanı · Minimalizm · Karakter · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096838519918596234)
 
@@ -309,7 +333,7 @@ Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](
 
 Yazar：[@Sairah\_0](https://x.com/Sairah_0) · [Orijinal gönderi](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / El İlanı · İllüstrasyon · Minimalizm · Dağıtım bekliyor
+Poster / El İlanı · İllüstrasyon · Minimalizm · Yayımlandı
 
 **Özet:** Yüklenen fotoğraflara göre 3:4 çift panelli editoryal poster oluşturun: Üst yarı orijinal fotoğrafı aslına sadık şekilde korur, alt yarı ise küçük ve minimal bir el çizimi illüstrasyona dönüştürülür.
 
@@ -357,7 +381,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portre / Selfie · Karakter · Yiyecek / İçecek · Dağıtım bekliyor
+Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 
 **Özet:** Koreli bir kadın ve başörtülü küçük bir kız, altın saatte elle çizilmiş karalamalarla süslenmiş bir açık hava kafesinde kahve keyfi yapıyor.
 
@@ -374,5 +398,3 @@ Uzun, yumuşak, koyu kahverengi saçlı Koreli bir kız, ılık altın saatte sa
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

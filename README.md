@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-09**
+**12** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 ## Photography
 
+<a name="prompt-2096982628541100464"></a>
+
+### Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.
+
+Author：[@sha\_zdiii](https://x.com/sha_zdiii) · [Source](https://x.com/sha_zdiii/status/2096982628541100464)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.
+
+<img src="images/2096982628541100464-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096982628541100464-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style. IMAGE 1 — WOMAN: Create a beautiful clearly adult woman with long flowing black hair, luminous smooth skin, glamorous blue-and-silver celestial eye makeup, glossy lips, and sparkling star-like details across her face. Add elegant crescent moon and star jewelry, subtle crystal accents, and glowing cosmic particles around her. Her expression is confident, mysterious, and attractive. Surround her with deep blue nebula clouds, glowing stars, large planets, moons, cosmic dust, and electric-blue light. The galaxy energy should naturally blend around her face, hair, shoulder, and clothing. IMAGE 2 — MAN: Create a handsome clearly adult man in the exact same blue cosmic theme. He has thick slightly messy black hair, a neat dark beard, strong facial features, intense glowing blue eyes, and a confident mysterious expression. Add subtle galaxy-like glowing patterns and tiny stars across one side of his face. His hand is near his chin in a stylish fashion pose with an elegant dark metallic ring. Surround him with the same deep blue nebula clouds, glowing planets, moons, stars, cosmic dust, and electric-blue energy. IMPORTANT: Generate the woman and man as two separate images, not together in one frame. Keep the same lighting, same blue galaxy color palette, same premium fantasy fashion style, same level of detail, and matching visual identity so both images look like a coordinated pair. Ultra-realistic, premium cinematic lighting, high contrast, glossy luxury fantasy look, sharp focus, detailed skin and hair, magical blue glow, no text, no watermark. Vertical portrait composition, 9:16 for both images.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097269715966230876"></a>
 
 ### A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
 
 Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
 
@@ -78,7 +102,7 @@ Do not make the white cloth opaque; do not omit the crescent moon and the sunset
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2096809673378967588)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
@@ -100,7 +124,7 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 Author：[@sha\_zdiii](https://x.com/sha_zdiii) · [Source](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Photography · Fashion Item · Pending distribution
+Photography · Fashion Item · Published
 
 **Summary:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
@@ -124,7 +148,7 @@ Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A gl
 
 Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096631729410986083)
 
-Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Pending distribution
+Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Published
 
 Source：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +188,7 @@ Shot on an 85mm portrait lens, authentic photographic texture, high-end finished
 
 Author：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Source](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Photography · Food / Drink · Pending distribution
+Photography · Food / Drink · Published
 
 **Summary:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
@@ -196,7 +220,7 @@ Vertical 9:16 composition, premium commercial food photography, realistic textur
 
 Author：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Source](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
@@ -223,7 +247,7 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 Author：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Source](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Pending distribution
+Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Published
 
 **Summary:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
@@ -249,7 +273,7 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 
 Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2097185580224491672)
 
-Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Pending distribution
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Published
 
 **Summary:** 90s vintage streetwear editorial portrait of a man leaning against a classic American car with a weathered Oakland urban wall in the background.
 
@@ -281,7 +305,7 @@ Create an ultra realistic vertical 9:16 editorial streetwear photograph of a you
 
 Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2097204639863287913)
 
-Poster / Flyer · Minimalism · Character · Abstract / Background · Pending distribution
+Poster / Flyer · Minimalism · Character · Abstract / Background · Published
 
 Source：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096838519918596234)
 
@@ -316,7 +340,7 @@ Supplementary Requirements: Overall, it must convey a high-aesthetic New Chinese
 
 Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / Flyer · Illustration · Minimalism · Pending distribution
+Poster / Flyer · Illustration · Minimalism · Published
 
 **Summary:** Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
@@ -344,7 +368,7 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portrait / Selfie · Character · Food / Drink · Pending distribution
+Portrait / Selfie · Character · Food / Drink · Published
 
 **Summary:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
@@ -361,5 +385,3 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

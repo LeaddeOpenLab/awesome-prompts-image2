@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**11** Prompt · Ultima aggiunta: **2026-09-09**
+**12** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
+<a name="prompt-2096982628541100464"></a>
+
+### Traduzione in corso
+
+Autore：[@sha\_zdiii](https://x.com/sha_zdiii) · [Post originale](https://x.com/sha_zdiii/status/2096982628541100464)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2096982628541100464-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2096982628541100464-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097269715966230876"></a>
 
 ### Prompt per ritratto fotografico di una donna in piedi nelle secche al tramonto, avvolta in un telo bianco bagnato e semitrasparente.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Prompt per ritratto fotografico di una donna in piedi nelle secche al tramonto, avvolta in un telo bianco bagnato e semitrasparente.
 
@@ -78,7 +102,7 @@ Non rendere opaco il tessuto bianco; non omettere la falce di luna e il tramonto
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Ritratto fotorealistico 9:16 di una donna elegante che posa davanti a una BMW nera.
 
@@ -100,7 +124,7 @@ Crea un'immagine fotorealistica in formato 9:16 di una giovane donna elegante ch
 
 Autore：[@sha\_zdiii](https://x.com/sha_zdiii) · [Post originale](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografia · Articolo di moda · Distribuzione in attesa
+Fotografia · Articolo di moda · Pubblicato
 
 **Riepilogo:** Editoriale di moda di lusso ultra-realistico con una modella bionda con un outfit con mantello avorio che posa con un cavallo bianco puro in uno studio beige caldo.
 
@@ -124,7 +148,7 @@ Editoriale di moda di lusso ultra-realistico in uno studio minimalista beige cal
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Abstract / Contesto · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +188,7 @@ Obiettivo da ritratto 85mm, texture fotografica autentica e realistica, servizio
 
 Autore：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Post originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografia · Cibo / Bevande · Distribuzione in attesa
+Fotografia · Cibo / Bevande · Pubblicato
 
 **Riepilogo:** Scena di fotografia gastronomica commerciale in una luminosa cucina moderna con barattoli impilati di frullato rosa ai frutti di bosco, un barattolo di burro di arachidi biologico e arachidi tostate su un tagliere da portata in legno.
 
@@ -196,7 +220,7 @@ Composizione verticale 9:16, fotografia gastronomica commerciale di prima qualit
 
 Autore：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Post originale](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Ritratto a doppio elemento di un uomo sudasiatico diviso con schizzi d'acqua che esplodono da un lato e fuoco incandescente dall'altro.
 
@@ -223,7 +247,7 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 Autore：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Post originale](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Abstract / Contesto · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
 **Riepilogo:** Ritratto cinematografico di un uomo con un maglione beige con una calda luce perimetrale dorata su uno sfondo suggestivo.
 
@@ -249,7 +273,7 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 Autore：[@harboriis](https://x.com/harboriis) · [Post originale](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo · Paesaggio urbano / Strada · Abstract / Contesto · Distribuzione in attesa
+Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo · Paesaggio urbano / Strada · Abstract / Contesto · Pubblicato
 
 **Riepilogo:** Raffinato scatto ritratto streetwear rétro anni '90, uomo appoggiato a un'auto d'epoca americana, con una parete urbana scrostata di Oakland sullo sfondo.
 
@@ -283,7 +307,7 @@ Composizione a figura intera, fotocamera a livello degli occhi dal basso, obiett
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2097204639863287913)
 
-Poster / Volantino · Minimalismo · Personaggio · Abstract / Contesto · Distribuzione in attesa
+Poster / Volantino · Minimalismo · Personaggio · Abstract / Contesto · Pubblicato
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096838519918596234)
 
@@ -309,7 +333,7 @@ Traduzione in corso
 
 Autore：[@Sairah\_0](https://x.com/Sairah_0) · [Post originale](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / Volantino · Illustrazione · Minimalismo · Distribuzione in attesa
+Poster / Volantino · Illustrazione · Minimalismo · Pubblicato
 
 **Riepilogo:** Genera un poster editoriale diviso in due in formato 3:4 basato sulle foto caricate: la metà superiore conserva la foto originale, la metà inferiore si trasforma in una piccola illustrazione minimale disegnata a mano.
 
@@ -357,7 +381,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2097157373936935051)
 
-Ritratto / Selfie · Personaggio · Cibo / Bevande · Distribuzione in attesa
+Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 
 **Riepilogo:** Una donna coreana e una bambina con l'hijab gustano un caffè all'aperto durante l'ora d'oro, con decorazioni di scarabocchi disegnati a mano.
 
@@ -374,5 +398,3 @@ Una ragazza coreana con lunghi e morbidi capelli castano scuro è seduta in un a
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

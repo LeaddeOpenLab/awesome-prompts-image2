@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**11** Prompts · Dernier ajout: **2026-09-09**
+**12** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
+<a name="prompt-2096982628541100464"></a>
+
+### Traduction en cours
+
+Auteur：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publication originale](https://x.com/sha_zdiii/status/2096982628541100464)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2096982628541100464-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096982628541100464-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097269715966230876"></a>
 
 ### Prompt de portrait photographique d'une femme debout dans des hauts-fonds au crépuscule, vêtue d'un tissu blanc mouillé et translucide.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Photographie · Portrait / Selfie · Personnage · Diffusion en attente
+Photographie · Portrait / Selfie · Personnage · Publié
 
 **Résumé:** Prompt de portrait photographique d'une femme debout dans des hauts-fonds au crépuscule, vêtue d'un tissu blanc mouillé et translucide.
 
@@ -78,7 +102,7 @@ Ne pas rendre le tissu blanc opaque ; ne pas omettre le croissant de lune et le 
 
 Auteur：[@Lianaalane](https://x.com/Lianaalane) · [Publication originale](https://x.com/Lianaalane/status/2096809673378967588)
 
-Photographie · Portrait / Selfie · Personnage · Diffusion en attente
+Photographie · Portrait / Selfie · Personnage · Publié
 
 **Résumé:** Portrait photoréaliste 9:16 d'une femme élégante posant devant une BMW noire.
 
@@ -100,7 +124,7 @@ Créez une image photoréaliste au format 9:16 d'une jeune femme élégante posa
 
 Auteur：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publication originale](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Photographie · Article de mode · Diffusion en attente
+Photographie · Article de mode · Publié
 
 **Résumé:** Éditorial de mode de luxe ultraréaliste mettant en scène un mannequin blond vêtue d'une tenue à cape ivoire posant avec un cheval d'un blanc pur dans un studio beige chaud.
 
@@ -124,7 +148,7 @@ Photographie · Article de mode · Diffusion en attente
 
 Auteur：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2096631729410986083)
 
-Photographie · Portrait / Selfie · Personnage · Article de mode · Résumé / Contexte · Diffusion en attente
+Photographie · Portrait / Selfie · Personnage · Article de mode · Résumé / Contexte · Publié
 
 Publication originale：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +188,7 @@ Objectif portrait 85mm, texture photographique authentique, shooting photo beaut
 
 Auteur：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Publication originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Photographie · Alimentation / Boissons · Diffusion en attente
+Photographie · Alimentation / Boissons · Publié
 
 **Résumé:** Scène de photographie culinaire commerciale dans une cuisine moderne et lumineuse mettant en scène des bocaux empilés de smoothie rose aux baies, un bocal de beurre de cacahuète bio et des cacahuètes grillées sur une planche de service en bois.
 
@@ -196,7 +220,7 @@ Composition verticale 9:16, photographie culinaire commerciale haut de gamme, te
 
 Auteur：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publication originale](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Photographie · Portrait / Selfie · Personnage · Diffusion en attente
+Photographie · Portrait / Selfie · Personnage · Publié
 
 **Résumé:** Portrait à double élément d'un homme sud-asiatique divisé avec des éclaboussures d'eau jaillissantes d'un côté et un feu incandescent de l'autre.
 
@@ -223,7 +247,7 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 Auteur：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Publication originale](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Résumé / Contexte · Diffusion en attente
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 
 **Résumé:** Portrait cinématographique d'un homme en pull beige avec un éclairage de contour doré et chaud sur un fond d'ambiance sombre.
 
@@ -249,7 +273,7 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 
 Auteur：[@harboriis](https://x.com/harboriis) · [Publication originale](https://x.com/harboriis/status/2097185580224491672)
 
-Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Véhicule · Paysage urbain / Rue · Résumé / Contexte · Diffusion en attente
+Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Véhicule · Paysage urbain / Rue · Résumé / Contexte · Publié
 
 **Résumé:** Portrait de mode streetwear rétro des années 90, homme appuyé contre une voiture américaine classique, avec un mur urbain décrépi d'Oakland en arrière-plan.
 
@@ -283,7 +307,7 @@ Composition en pied, caméra à hauteur des yeux en contre-plongée, objectif 35
 
 Auteur：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2097204639863287913)
 
-Affiche / Flyer · Minimalisme · Personnage · Résumé / Contexte · Diffusion en attente
+Affiche / Flyer · Minimalisme · Personnage · Résumé / Contexte · Publié
 
 Publication originale：[@liyue\_ai](https://x.com/liyue_ai) · [Publication originale](https://x.com/liyue_ai/status/2096838519918596234)
 
@@ -309,7 +333,7 @@ Traduction en cours
 
 Auteur：[@Sairah\_0](https://x.com/Sairah_0) · [Publication originale](https://x.com/Sairah_0/status/2096807576168169628)
 
-Affiche / Flyer · Illustration · Minimalisme · Diffusion en attente
+Affiche / Flyer · Illustration · Minimalisme · Publié
 
 **Résumé:** Générez un poster éditorial scindé 3:4 à partir de photos importées : la moitié supérieure préserve fidèlement la photo originale, la moitié inférieure se transforme en une petite illustration minimaliste dessinée à la main.
 
@@ -357,7 +381,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 Auteur：[@Lianaalane](https://x.com/Lianaalane) · [Publication originale](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portrait / Selfie · Personnage · Alimentation / Boissons · Diffusion en attente
+Portrait / Selfie · Personnage · Alimentation / Boissons · Publié
 
 **Résumé:** Une femme coréenne et une jeune fille portant le hijab dégustent un café à la terrasse d'un café pendant l'heure dorée, entourées de gribouillages dessinés à la main.
 
@@ -374,5 +398,3 @@ Une jeune femme coréenne aux cheveux longs, doux et châtain foncé est assise 
 ---
 
 [Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Référence de navigation: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

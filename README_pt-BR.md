@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**11** Prompts · Última adição: **2026-09-09**
+**12** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -28,13 +28,37 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 ## Fotografia
 
+<a name="prompt-2096982628541100464"></a>
+
+### Tradução em andamento
+
+Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publicação original](https://x.com/sha_zdiii/status/2096982628541100464)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2096982628541100464-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2096982628541100464-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097269715966230876"></a>
 
 ### Prompt de retrato fotográfico de uma mulher de pé em águas rasas ao entardecer, envolta em um tecido branco molhado e translúcido.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
+Fotografia · Retrato / Selfie · Personagem · Publicado
 
 **Resumo:** Prompt de retrato fotográfico de uma mulher de pé em águas rasas ao entardecer, envolta em um tecido branco molhado e translúcido.
 
@@ -78,7 +102,7 @@ Não tornar o tecido branco opaco; não omitir a lua crescente e o pôr do sol
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
+Fotografia · Retrato / Selfie · Personagem · Publicado
 
 **Resumo:** Retrato fotorrealista 9:16 de uma mulher elegante posando em frente a uma BMW preta.
 
@@ -100,7 +124,7 @@ Crie uma imagem fotorrealista em formato 9:16 de uma jovem elegante posando com 
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publicação original](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografia · Item de Moda · Distribuição pendente
+Fotografia · Item de Moda · Publicado
 
 **Resumo:** Editorial de moda de luxo ultrarrealista com uma modelo loira em um traje de capa marfim posando com um cavalo branco puro em um estúdio em bege quente.
 
@@ -124,7 +148,7 @@ Editorial de moda de luxo ultrarrealista em um estúdio minimalista em bege quen
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Contexto · Distribuição pendente
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Contexto · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +188,7 @@ Lente de retrato 85mm, textura fotográfica realista, ensaio de beleza de nobre 
 
 Autor：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Publicação original](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografia · Alimentos / Bebidas · Distribuição pendente
+Fotografia · Alimentos / Bebidas · Publicado
 
 **Resumo:** Cena de fotografia gastronômica comercial em uma cozinha moderna e iluminada, apresentando potes empilhados de smoothie rosa de frutas vermelhas, um pote de pasta de amendoim orgânica e amendoins torrados em uma tábua de servir de madeira.
 
@@ -196,7 +220,7 @@ Composição vertical 9:16, fotografia gastronômica comercial premium, texturas
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publicação original](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografia · Retrato / Selfie · Personagem · Distribuição pendente
+Fotografia · Retrato / Selfie · Personagem · Publicado
 
 **Resumo:** Retrato de elemento duplo de um homem do sul da Ásia dividido com respingos de água explodindo de um lado e fogo brilhante do outro.
 
@@ -223,7 +247,7 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Publicação original](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Resumo / Contexto · Distribuição pendente
+Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
 **Resumo:** Retrato cinematográfico de um homem com suéter bege e iluminação dourada quente contra um fundo envolvente.
 
@@ -249,7 +273,7 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicação original](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Veículo · Paisagem Urbana / Rua · Resumo / Contexto · Distribuição pendente
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Veículo · Paisagem Urbana / Rua · Resumo / Contexto · Publicado
 
 **Resumo:** Retrato editorial de moda streetwear retrô dos anos 90, homem encostado em um carro clássico americano, com uma parede urbana desgastada de Oakland ao fundo.
 
@@ -283,7 +307,7 @@ Composição de corpo inteiro, câmera baixa no nível dos olhos, lente de 35mm,
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2097204639863287913)
 
-Pôster / Flyer · Minimalismo · Personagem · Resumo / Contexto · Distribuição pendente
+Pôster / Flyer · Minimalismo · Personagem · Resumo / Contexto · Publicado
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096838519918596234)
 
@@ -309,7 +333,7 @@ Tradução em andamento
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Publicação original](https://x.com/Sairah_0/status/2096807576168169628)
 
-Pôster / Flyer · Ilustração · Minimalismo · Distribuição pendente
+Pôster / Flyer · Ilustração · Minimalismo · Publicado
 
 **Resumo:** Gere um pôster editorial dividido 3:4 com base nas fotos enviadas: a metade superior preserva a foto original e a metade inferior transforma-se em uma pequena ilustração minimalista feita à mão.
 
@@ -357,7 +381,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicação original](https://x.com/Lianaalane/status/2097157373936935051)
 
-Retrato / Selfie · Personagem · Alimentos / Bebidas · Distribuição pendente
+Retrato / Selfie · Personagem · Alimentos / Bebidas · Publicado
 
 **Resumo:** Uma mulher coreana e uma menina de hijab apreciam um café ao ar livre durante a hora de ouro, decorada com rabiscos desenhados à mão.
 
@@ -374,5 +398,3 @@ Uma garota coreana com cabelos longos, macios e castanho-escuros está sentada e
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
