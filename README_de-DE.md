@@ -1012,13 +1012,13 @@ Verwende dieses Bild, um eine vollständige Infografik als Leitfaden zur Handles
 
 <a name="prompt-2097622528340668736"></a>
 
-### Übersetzung läuft
+### Authentisches Porträt aus der Aufsicht einer jungen ostasiatischen Frau im rosa Bikini vor minimalistischem grauem Hintergrund.
 
 Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Originalbeitrag](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalismus · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Authentisches Porträt aus der Aufsicht einer jungen ostasiatischen Frau im rosa Bikini vor minimalistischem grauem Hintergrund.
 
 <img src="images/2097622528340668736-1.jpg" alt="Bild 1" width="480" />
 
@@ -1029,7 +1029,7 @@ Minimalismus · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Vogelperspektive/Aufsicht im 35-Grad-Winkel, eine junge, authentische ostasiatische Frau mit rötlich-braunem Haar, die in die Kamera blickt, die Hände hinter dem Kopf verschränkt, die Ellbogen weit nach außen gerichtet, mit einem strahlenden, aufrichtigen Lächeln mit Zähnen, die Hände am Kopf. Sie trägt einen rosa Schnürbikini und eine zarte Goldkette und steht barfuß vor einem minimalistischen grauen Betonhintergrund. Weiches natürliches Innenlicht, authentisch strukturierter Lifestyle-Porträt-Schnappschuss-Stil.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

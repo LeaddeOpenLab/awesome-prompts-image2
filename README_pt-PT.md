@@ -1022,13 +1022,13 @@ Utilize esta imagem para gerar um infográfico completo com um guia de leitura d
 
 <a name="prompt-2097622528340668736"></a>
 
-### Tradução em curso
+### Retrato autêntico em ângulo picado de uma jovem mulher da Ásia Oriental em biquíni rosa diante de um fundo cinzento minimalista.
 
 Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicação original](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalismo · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato autêntico em ângulo picado de uma jovem mulher da Ásia Oriental em biquíni rosa diante de um fundo cinzento minimalista.
 
 <img src="images/2097622528340668736-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1039,7 +1039,7 @@ Minimalismo · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia em ângulo picado de 35 graus, uma jovem e autêntica mulher da Ásia Oriental com cabelo castanho-arruivado, virada para a câmara, com as mãos atrás da cabeça, cotovelos abertos, exibindo um sorriso radiante, sincero e rasgado mostrando os dentes, com as mãos na cabeça. Veste um biquíni rosa de atar e um colar fino de ouro, descalça diante de um fundo minimalista de betão cinzento. Luz natural suave de interior, estilo instantâneo de retrato de estilo de vida com textura realista.
 ```
 
 [↑ Voltar às categorias](#catalog)

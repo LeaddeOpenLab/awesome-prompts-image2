@@ -1012,13 +1012,13 @@ Utilisez cette image pour générer une infographie complète servant de guide d
 
 <a name="prompt-2097622528340668736"></a>
 
-### Traduction en cours
+### Portrait authentique en plongée d'une jeune femme est-asiatique en bikini rose devant un fond gris minimaliste.
 
 Auteur：[@catgirlcozy](https://x.com/catgirlcozy) · [Publication originale](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalisme · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait authentique en plongée d'une jeune femme est-asiatique en bikini rose devant un fond gris minimaliste.
 
 <img src="images/2097622528340668736-1.jpg" alt="Image 1" width="480" />
 
@@ -1029,7 +1029,7 @@ Minimalisme · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Plongée avec un angle de 35 degrés, une jeune femme est-asiatique authentique aux cheveux châtain roux, face à l'objectif, les mains derrière la tête, les coudes écartés, arborant un sourire radieux et sincère dévoilant ses dents, les mains sur la tête. Elle porte un bikini rose à lacets et un fin collier en or, pieds nus devant un fond minimaliste en béton gris. Lumière naturelle intérieure douce, style instantané de portrait lifestyle à la texture authentique.
 ```
 
 [↑ Retour aux catégories](#catalog)

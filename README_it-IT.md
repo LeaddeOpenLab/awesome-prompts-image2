@@ -1012,13 +1012,13 @@ Usa questa immagine per generare un'infografica completa con una guida alla lett
 
 <a name="prompt-2097622528340668736"></a>
 
-### Traduzione in corso
+### Ritratto autentico dall'alto di una giovane donna dell'Asia orientale in bikini rosa davanti a uno sfondo grigio minimalista.
 
 Autore：[@catgirlcozy](https://x.com/catgirlcozy) · [Post originale](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalismo · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto autentico dall'alto di una giovane donna dell'Asia orientale in bikini rosa davanti a uno sfondo grigio minimalista.
 
 <img src="images/2097622528340668736-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1029,7 +1029,7 @@ Minimalismo · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubbli
 **Prompt**
 
 ```text
-Traduzione in corso
+Ripresa dall'alto con un angolo di 35 gradi, una giovane e autentica donna dell'Asia orientale con capelli castano-rossicci, rivolta verso la fotocamera, con le mani dietro la testa, i gomiti aperti, con un sorriso radioso e sincero che mostra i denti, le mani dietro la testa. Indossa un bikini rosa con laccetti e una sottile collana d'oro, a piedi nudi davanti a uno sfondo minimalista in cemento grigio. Luce naturale morbida per interni, stile istantanea di ritratto lifestyle con texture autentica.
 ```
 
 [↑ Torna alle categorie](#catalog)

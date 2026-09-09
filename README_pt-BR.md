@@ -1022,13 +1022,13 @@ Use esta imagem para gerar um infográfico completo de guia de leitura de quirom
 
 <a name="prompt-2097622528340668736"></a>
 
-### Tradução em andamento
+### Retrato realista em ângulo picado de uma jovem do leste asiático de biquíni rosa em frente a um fundo cinza minimalista.
 
 Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicação original](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalismo · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato realista em ângulo picado de uma jovem do leste asiático de biquíni rosa em frente a um fundo cinza minimalista.
 
 <img src="images/2097622528340668736-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1039,7 +1039,7 @@ Minimalismo · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Foto em ângulo plongée de 35 graus, uma jovem e autêntica mulher do leste asiático com cabelo castanho-avermelhado, olhando para a câmera, com as mãos atrás da cabeça, cotovelos abertos para fora, exibindo um sorriso aberto, radiante e sincero mostrando os dentes, com as mãos na cabeça. Ela veste um biquíni rosa de amarrar e um colar fino de ouro, descalça em frente a um fundo minimalista de concreto cinza. Luz natural suave de interiores, estilo de retrato instantâneo casual com textura autêntica.
 ```
 
 [↑ Voltar às categorias](#catalog)

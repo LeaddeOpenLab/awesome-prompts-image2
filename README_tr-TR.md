@@ -1022,13 +1022,13 @@ Bu görseli kullanarak eksiksiz bir el falı yorumlama rehberi infografiği olu�
 
 <a name="prompt-2097622528340668736"></a>
 
-### Çeviri sürüyor
+### Minimalist gri bir arka plan önünde pembe bikinili genç Doğu Asyalı kadının yüksek açıdan otantik portresi.
 
 Yazar：[@catgirlcozy](https://x.com/catgirlcozy) · [Orijinal gönderi](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalizm · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minimalist gri bir arka plan önünde pembe bikinili genç Doğu Asyalı kadının yüksek açıdan otantik portresi.
 
 <img src="images/2097622528340668736-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1039,7 +1039,7 @@ Minimalizm · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+35 derecelik yüksek açıdan çekim, kızıl-kahverengi saçlı, kameraya bakan, elleri başının arkasında kenetli, dirsekleri iki yana açılmış, dişlerini gösteren parlak ve samimi bir gülümsemeye sahip, elleri başında genç ve otantik Doğu Asyalı bir kadın. Pembe ipli bir bikini ve ince altın bir kolye takıyor, minimalist gri beton bir arka planın önünde çıplak ayakla duruyor. Yumuşak iç mekân doğal ışığı, otantik dokulu yaşam tarzı portre enstantanesi tarzı.
 ```
 
 [↑ Kategorilere dön](#catalog)
