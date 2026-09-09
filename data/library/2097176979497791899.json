@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:14:42.605Z",
+  "model": "image2",
+  "prompt": "Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.",
+  "promptTranslations": {
+    "en": "Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph."
+  },
+  "summaryTranslations": {
+    "en": "Prompt transforms photos into an editorial art poster with mixed-media sketch styling and minimal layout."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt transforms photos into an editorial art poster with mixed-media sketch styling and minimal layout.",
+  "summaryEn": "Prompt transforms photos into an editorial art poster with mixed-media sketch styling and minimal layout.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097176979497791899",
+    "canonicalUrl": "https://x.com/saniaspeaks_/status/2097176979497791899",
+    "author": {
+      "username": "saniaspeaks_",
+      "displayName": "𝗦𝗮𝗻𝗶𝗮",
+      "profileUrl": "https://x.com/saniaspeaks_"
+    },
+    "publishedAt": "2026-09-08T04:15:30.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "en",
+    "originalText": "GPT image 2 on chatgpt \n\nPrompt \nCreate a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqrTE2aAAALDs1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqrTE2aAAALDs1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqrV33aAAAlxGO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqrV33aAAAlxGO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 587,
+      "repostCount": 77,
+      "replyCount": 47,
+      "quoteCount": 4,
+      "viewCount": 29300
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/saniaspeaks_/status/2097176979497791899",
+  "coverUrl": "https://pbs.twimg.com/media/HRqrTE2aAAALDs1.jpg",
+  "coverPath": "images/2097176979497791899-1.jpg",
+  "imagePaths": [
+    "images/2097176979497791899-1.jpg",
+    "images/2097176979497791899-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRqrTE2aAAALDs1",
+    "x-image:/media/HRqrV33aAAAlxGO",
+    "x-post:2097176979497791899"
+  ],
+  "analysis": {
+    "summary": "Prompt transforms photos into an editorial art poster with mixed-media sketch styling and minimal layout.",
+    "summaryEn": "Prompt transforms photos into an editorial art poster with mixed-media sketch styling and minimal layout.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the mixed-media sketch styling, typography, and negative space shown in the second image derived from the original portrait."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1728
+    },
+    "translations": {
+      "zh": "为每张上传的照片创建一张高端编辑艺术海报，将每张图片视为独立的构图，切勿合成多张照片。使用严格的3:4竖版比例，画布均分为上下两半：上半部分忠实呈现原始图像的写实效果，保留主体特征、姿态、衣着与光影；下半部分转换为手工混合媒介艺术诠释——在温暖的象牙白留白空间中居中呈现占下部10–20%的艺术小作，运用墨水速写、水粉色块、撕纸质感和手绘笔触，同时保留原照片的可辨识轮廓与情感。提取原图至多四种主色并以低饱和典雅色调重新诠释。可适度添加诗意标题或地点等低调编辑排版，使整体呈现如极简诗意的当代艺术刊物封面。",
+      "en": "Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "editorial art poster transformation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
