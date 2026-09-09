@@ -30,13 +30,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097532595814940683"></a>
 
-### Đang dịch
+### Lời nhắc ảnh chụp du lịch chân thực về một phụ nữ trẻ Đông Á bên bờ biển Mont Saint-Michel.
 
 Tác giả：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Bài gốc](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh chụp du lịch chân thực về một phụ nữ trẻ Đông Á bên bờ biển Mont Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -45,7 +45,13 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung du lịch tự nhiên chụp cận cảnh siêu thực về một phụ nữ trẻ Đông Á đứng trên bờ cát yên tĩnh bên cạnh những tảng đá lớn phủ rêu phong, với tu viện đá lịch sử tráng lệ và kiến trúc dạng lâu đài thời trung cổ sừng sững trên một hòn đảo đá phía sau cô. Cô có mái tóc dài thẳng màu nâu sẫm buông xõa tự nhiên qua một bên vai, đường nét khuôn mặt trẻ trung mềm mại và nụ cười ấm áp dịu dàng khi nhìn thẳng vào máy ảnh.
+
+Cô mặc một chiếc áo khoác dạ đen dài quá khổ với đôi bàn tay thảnh thơi đút vào túi áo, khoác ngoài một bộ trang phục sáng màu. Một chiếc khăn quàng cổ lớn mềm mại màu trắng kem quấn ấm áp quanh cổ, rủ xuống phía trước với một huy hiệu nhỏ phong cách nhà thiết kế màu đen gần đuôi khăn. Một chiếc túi đeo vai dây xích thanh mảnh lộ ra một phần.
+
+Bố cục thu trọn hình ảnh cô ở tiền cảnh trong khi tu viện lịch sử rộng lớn ngự trị ở hậu cảnh, bao quanh bởi những bức tường đá cổ kính, vách đá dựng đứng, bãi bồi ven biển đầy cát và bầu không khí miền duyên hải êm ả. Vài chiếc xe và người lác đác ở đằng xa mang lại tỷ lệ chân thực cho khung cảnh. Ánh sáng hoàng hôn tự nhiên êm dịu và bầu trời xanh nhạt trong trẻo tạo nên phong vị du lịch châu Âu thanh bình.
+
+Nhiếp ảnh siêu thực, ảnh du lịch chụp tự nhiên chân thực, kết cấu da tự nhiên, chi tiết vải chân thực, ánh sáng điện ảnh dịu nhẹ, thẩm mỹ máy ảnh điện thoại thông minh tinh tế, chỉnh màu hơi mơ màng, tỷ lệ tự nhiên, kiến trúc chi tiết, bầu không khí bờ biển thanh bình, bố cục dọc, tỷ lệ khung hình 3:4.
 ```
 
 [↑ Về danh mục](#catalog)

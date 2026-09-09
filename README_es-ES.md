@@ -30,13 +30,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097532595814940683"></a>
 
-### Traducción en curso
+### Prompt de foto de viaje realista de una joven mujer de Asia oriental en la orilla de Monte Saint-Michel.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicación original](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de foto de viaje realista de una joven mujer de Asia oriental en la orilla de Monte Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Imagen 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato de viaje espontáneo y fotorrealista de una joven mujer de Asia oriental de pie en una tranquila orilla arenosa junto a grandes rocas cubiertas de musgo, con una magnífica abadía histórica de piedra y una arquitectura similar a un castillo medieval que se alza espectacularmente sobre una isla rocosa detrás de ella. Tiene el cabello largo, liso y de color castaño oscuro que cae de forma natural sobre un hombro, rasgos faciales suaves y juveniles, y una sonrisa cálida y apacible mientras mira directamente a la cámara.
+
+Viste un abrigo largo negro de corte holgado con las manos metidas con naturalidad en los bolsillos, sobre un atuendo de color claro. Una bufanda grande y suave de color blanco crema le envuelve el cuello con calidez, cayendo por la parte delantera con un pequeño emblema negro de estilo diseñador cerca del extremo. Se aprecia parcialmente un delicado bolso de hombro con cadena.
+
+La composición la sitúa en primer plano mientras la vasta abadía histórica domina el fondo, rodeada de antiguas murallas de piedra, acantilados rocosos, llanuras mareales arenosas y una tranquila atmósfera costera. Unos pocos vehículos y personas diminutos a lo lejos aportan una escala realista a la escena. La suave luz natural del atardecer y un cielo despejado de color azul pálido crean un pacífico ambiente de viaje europeo.
+
+Fotografía ultrarrealista, auténtica foto de viaje espontánea, textura de piel natural, detalles realistas de las telas, iluminación cinematográfica suave, estética sutil de cámara de smartphone, etalonaje de color ligeramente de ensueño, proporciones naturales, arquitectura detallada, ambiente costero tranquilo, composición vertical, relación de aspecto 3:4.
 ```
 
 [↑ Volver a categorías](#catalog)
