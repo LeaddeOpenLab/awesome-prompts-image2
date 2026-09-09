@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:31:34.451Z",
+  "model": "image2",
+  "prompt": "Create an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\n\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\n\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\n\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\n\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\n\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance.",
+  "promptTranslations": {
+    "en": "Create an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\\n\\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\\n\\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\\n\\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\\n\\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\\n\\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance."
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.",
+  "summaryEn": "Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097222942438649948",
+    "canonicalUrl": "https://x.com/Goodmanprotocol/status/2097222942438649948",
+    "author": {
+      "username": "Goodmanprotocol",
+      "displayName": "Saul Goodman",
+      "profileUrl": "https://x.com/Goodmanprotocol"
+    },
+    "publishedAt": "2026-09-08T07:18:08.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "GPT Image 2 \n\nPrompt:\nCreate an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\n\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\n\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\n\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\n\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\n\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrVG8Zb0AE1AZ4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrVG8Zb0AE1AZ4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrVHmfaMAAW3le.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrVHmfaMAAW3le.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrVIajacAAiNWX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrVIajacAAiNWX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrVJMDaoAAJeXM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrVJMDaoAAJeXM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 2,
+      "replyCount": 15,
+      "quoteCount": 0,
+      "viewCount": 934
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Goodmanprotocol/status/2097222942438649948",
+  "coverUrl": "https://pbs.twimg.com/media/HRrVG8Zb0AE1AZ4.jpg",
+  "coverPath": "images/2097222942438649948-1.jpg",
+  "imagePaths": [
+    "images/2097222942438649948-1.jpg",
+    "images/2097222942438649948-2.jpg",
+    "images/2097222942438649948-3.jpg",
+    "images/2097222942438649948-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRrVG8Zb0AE1AZ4",
+    "x-image:/media/HRrVHmfaMAAW3le",
+    "x-image:/media/HRrVIajacAAiNWX",
+    "x-image:/media/HRrVJMDaoAAJeXM",
+    "x-post:2097222942438649948"
+  ],
+  "analysis": {
+    "summary": "Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.",
+    "summaryEn": "Prompt template for a hand-held travel card showcasing a miniature 3D destination landscape.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Attached images directly reflect hand-held cards with emerging miniature landmarks and destination typography."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\n\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\n\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\n\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\n\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\n\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance.",
+    "sourceRange": {
+      "start": 22,
+      "end": 1192
+    },
+    "translations": {
+      "zh": "创作一张超写实电影质感的4:5竖版旅行摄影：一只手自然持握一张极简时尚旅行卡，衬以辽阔天空。以[国家名称]为焦点，将卡片变为通往目的地的活体窗口，微缩空中景观跃然其上，包含标志性地标、真实建筑与独特氛围，虚实过渡天衣无缝。卡片设计融合优雅大写的[国家名称]排版。采用电影级自然光、真实质感与高端旅行摄影美学，8K细节，写实光影，无卡通插画感。",
+      "en": "Create an ultra-realistic cinematic 4:5 vertical travel photograph of a sleek, minimalist travel card held naturally in one hand against an expansive sky.\n\nUse [COUNTRY NAME] as the creative focus. Transform the card into a living window into the destination, with a breathtaking miniature aerial world seamlessly emerging from its surface. Feature the country’s most iconic landmark, surrounded by authentic landscapes, architecture, atmosphere, and subtle details unique to the destination.\n\nMake the transition between the physical card and miniature world seamless, magical, and physically believable, as if the entire destination exists inside the card.\n\nIntegrate [COUNTRY NAME] in elegant, bold uppercase typography as part of the card design.\n\nUse cinematic natural light, realistic textures, atmospheric depth, subtle reflections, dramatic perspective, soft lens falloff, and premium editorial travel-photography aesthetics.\n\nUltra-photorealistic, 8K detail, cinematic color grading, realistic skin and materials, physically accurate lighting, luxurious, emotional, aspirational, universally beautiful. No cartoon, no illustration, no artificial CGI appearance."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "Cinematic travel card concept art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
