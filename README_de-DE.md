@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**27** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**28** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,34 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="images/2097411028510179759-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097534208541442338"></a>
+
+### Übersetzung läuft
+
+Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Originalbeitrag](https://x.com/AIVideoHub_/status/2097534208541442338)
+
+Profil / Avatar · Fotografie · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097534208541442338-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097534208541442338-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097534208541442338-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097534208541442338-4.jpg" alt="Bild 4" width="480" />
 
 **Prompt**
 

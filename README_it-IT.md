@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**27** Prompt · Ultima aggiunta: **2026-09-09**
+**28** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,34 @@ Fotografia · Paesaggio / Natura · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2097411028510179759-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097534208541442338"></a>
+
+### Traduzione in corso
+
+Autore：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Post originale](https://x.com/AIVideoHub_/status/2097534208541442338)
+
+Profilo / Avatar · Fotografia · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097534208541442338-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097534208541442338-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097534208541442338-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097534208541442338-4.jpg" alt="Immagine 4" width="480" />
 
 **Prompt**
 

@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**27** Prompt · Son eklenen: **2026-09-09**
+**28** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,34 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="images/2097411028510179759-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097534208541442338"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Orijinal gönderi](https://x.com/AIVideoHub_/status/2097534208541442338)
+
+Profil / Avatar · Fotoğrafçılık · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097534208541442338-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097534208541442338-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097534208541442338-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097534208541442338-4.jpg" alt="Görsel 4" width="480" />
 
 **İstem**
 

@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**27** Prompts · Latest addition: **2026-09-09**
+**28** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -44,6 +44,51 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097534208541442338"></a>
+
+### iPhone front-facing camera close-up headshot portrait prompt for a cool-white-skinned young East Asian woman, featuring a gray-white plush background and various face-cupping and daydreaming pose options.
+
+Author：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Source](https://x.com/AIVideoHub_/status/2097534208541442338)
+
+Profile / Avatar · Photography · Portrait / Selfie · Character · Abstract / Background · Published
+
+**Summary:** iPhone front-facing camera close-up headshot portrait prompt for a cool-white-skinned young East Asian woman, featuring a gray-white plush background and various face-cupping and daydreaming pose options.
+
+<img src="images/2097534208541442338-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097534208541442338-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097534208541442338-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097534208541442338-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+📱 iPhone front-facing camera casual snapshot, 9:16; 18–22 years old, clearly adult beautiful East Asian female, approximately 1.75 meters tall, delicate facial features, cold-white translucent skin, tall and slender model physique, visually natural E-cup bust. Dark, smooth, fluffy, long wavy curly hair, light-colored slim-fit deep V delicate spaghetti-strap camisole, revealing smooth neck and shoulder lines, rounded eye shape, soft flat eyebrows, jet-black clear eyes, pale pink blush and hydrated pink-toned lips, languid and quiet.
+
+🩶 Dim indoor close-up headshot portrait, blurred background of gray-white plush fabric, cool-toned low light, low exposure, low-saturation gray-white filter, low contrast, slight sharpening, soft-focus hazy graininess, casual and relaxed, clean and high-end, with a touch of melancholy, cool, and ethereal atmosphere.
+
+Random pose pool:
+
+🤍 Supporting the face with one hand, palm pressed against cheek and jaw, quietly looking at the camera
+🫧 Resting the side of the face on an elbow, head slightly tilted, daydreaming
+🌙 Half of the face buried in the palm, gaze languid and blank
+💭 Fingers gently touching the chin and side of the face, head lowered then slowly looking up
+🪞 Leaning close to the camera, palm cupping the face, long curly hair falling over the front of the shoulders
+☁️ Side of the face resting against the back of the hand, gaze shifting outside the frame
+💤 Cupping the cheek with a hand while slightly shrugging shoulders, as if casually snapped while drowsy
+✨ Supporting the face close to a plush cushion, with a faint, subtle smile at the corners of the mouth
+
+🎲 Freely improvise around different actions regarding selfie distance, face-supporting methods, gaze, strands of hair, low light, defocus, and graininess, prioritizing the preservation of the close-up headshot, cool gray-white tone, and casual iPhone front-camera snapshot texture, pursuing an at-home dreamcore × melancholy atmosphere × high-end minimalist portrait feel.
+
+Generate a comprehensive preview image containing different poses for me to choose from.
 ```
 
 [↑ Back to categories](#catalog)
