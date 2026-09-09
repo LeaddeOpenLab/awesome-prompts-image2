@@ -727,20 +727,25 @@ Traducción en curso
 
 <a name="prompt-2097574111518375970"></a>
 
-### Traducción en curso
+### Prompt para generar una hoja de sprites en pixel art basada en el personaje adjunto, que representa 4 acciones \(correr, saltar, ataque giratorio y caer abatido, de 4 fotogramas cada una\).
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicación original](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una hoja de sprites en pixel art basada en el personaje adjunto, que representa 4 acciones \(correr, saltar, ataque giratorio y caer abatido, de 4 fotogramas cada una\).
 
 <img src="covers/2097574111518375970.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Unifica el rostro, peinado, atuendo, combinación de colores y complexión del personaje adjunto, y genera una única imagen de hoja de sprites (sprite sheet) en pixel art con 4 tipos de movimientos vistosos para videojuegos, con un máximo de 4 fotogramas cada uno. El tamaño de cada fotograma es de 256x256 px.
+· Correr: inclinar el cuerpo hacia adelante y mover los brazos y piernas de forma amplia y alterna.
+· Saltar: agacharse → impulsarse hacia arriba → extender brazos y piernas en el aire → aterrizar.
+· Ataque giratorio: de frente → de perfil → de espaldas → de perfil opuesto, completando un giro entero con todo el cuerpo.
+· Caer abatido: tambalearse → inclinarse hacia un lado → tumbarse en el suelo → cerrar los ojos y quedarse inmóvil.
+Coloca una acción por fila en disposición horizontal, y alinea el tamaño, la posición de los pies, el centro y la escala de todas las celdas. El fondo debe ser de un color plano completamente uniforme, sin sombras, texto, marcos, números, interfaz de usuario (UI), desenfoques, semitransparencias, degradados ni suavizado de bordes (antialiasing). Las acciones en bucle deben conectarse de forma fluida y natural entre el primer y el último fotograma.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -727,20 +727,25 @@ Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](htt
 
 <a name="prompt-2097574111518375970"></a>
 
-### Đang dịch
+### Prompt tạo sprite sheet pixel art vẽ 4 động tác \(chạy, nhảy, tấn công xoay tròn, ngã gục, mỗi động tác 4 khung hình\) dựa trên nhân vật đính kèm.
 
 Tác giả：[@npaka123](https://x.com/npaka123) · [Bài gốc](https://x.com/npaka123/status/2097574111518375970)
 
 Nghệ thuật Pixel · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt tạo sprite sheet pixel art vẽ 4 động tác \(chạy, nhảy, tấn công xoay tròn, ngã gục, mỗi động tác 4 khung hình\) dựa trên nhân vật đính kèm.
 
 <img src="covers/2097574111518375970.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đồng nhất khuôn mặt, kiểu tóc, trang phục, bảng màu và vóc dáng của nhân vật đính kèm, tạo một hình ảnh bảng sprite (sprite sheet) pixel art duy nhất gồm 4 chuyển động bắt mắt trong game, mỗi chuyển động tối đa 4 khung hình. Kích thước mỗi khung hình là 256x256px.
+· Chạy: Nghiêng người về phía trước, vung chân tay so le với biên độ lớn.
+· Nhảy: Ngồi xổm → Bật nhảy lên → Dang rộng tay chân trên không trung → Tiếp đất.
+· Tấn công xoay tròn: Hướng chính diện → Quay ngang → Quay lưng → Quay ngang hướng ngược lại, xoay tròn toàn thân một vòng.
+· Ngã gục: Lảo đảo → Nghiêng sang bên → Nằm rạp xuống → Nhắm mắt và bất động.
+Mỗi hàng xếp một chuyển động theo chiều ngang, đồng thời căn chỉnh kích thước, vị trí chân, tâm điểm và tỉ lệ thu phóng của toàn bộ các ô cho đồng nhất. Nền là màu đơn sắc hoàn toàn, không sử dụng bóng đổ, chữ viết, khung viền, số thứ tự, UI, làm mờ, bán trong suốt, dải màu chuyển (gradient) và khử răng cưa. Các chuyển động lặp cần nối tiếp tự nhiên giữa khung hình đầu và cuối.
 ```
 
 [↑ Về danh mục](#catalog)
