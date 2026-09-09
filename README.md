@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**43** Prompts · Latest addition: **2026-09-09**
+**44** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1068,6 +1068,44 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097611216139235779"></a>
+
+### Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Character · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Summary:** Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image.
+
+<img src="images/2097611216139235779-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+Reference the character in the image, generate a 3*3 grid with a total of 9 different emoji/sticker expressions, Chinese and English can appear, light gradient background
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

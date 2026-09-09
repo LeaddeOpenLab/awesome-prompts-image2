@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**43** 条内容 · 最新收录: **2026-09-09**
+**44** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1096,6 +1096,44 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097611216139235779"></a>
+
+### 翻译中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+角色 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**概括:** 翻译中
+
+<img src="images/2097611216139235779-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="图片 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="图片 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="图片 8" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

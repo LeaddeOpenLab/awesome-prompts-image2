@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**43** Prompts · Última incorporación: **2026-09-09**
+**44** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1092,6 +1092,44 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097611216139235779"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Personaje · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097611216139235779-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Imagen 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Imagen 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Imagen 8" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

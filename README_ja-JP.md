@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**43** 件 · 最新の追加: **2026-09-09**
+**44** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1094,6 +1094,44 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097611216139235779"></a>
+
+### 翻訳中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+キャラクター · 配信済み
+
+元の投稿：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**概要:** 翻訳中
+
+<img src="images/2097611216139235779-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="画像 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="画像 8" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

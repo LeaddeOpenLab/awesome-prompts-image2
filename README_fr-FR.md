@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**43** Prompts · Dernier ajout: **2026-09-09**
+**44** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1092,6 +1092,44 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097611216139235779"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Personnage · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097611216139235779-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Image 8" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

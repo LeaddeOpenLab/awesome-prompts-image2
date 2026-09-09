@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**43** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**44** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1092,6 +1092,44 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097611216139235779"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Charakter · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097611216139235779-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

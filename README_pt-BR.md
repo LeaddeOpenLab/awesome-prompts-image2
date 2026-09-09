@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**43** Prompts · Última adição: **2026-09-09**
+**44** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1102,6 +1102,44 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097611216139235779"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Personagem · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097611216139235779-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

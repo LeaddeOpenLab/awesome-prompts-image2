@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**43** Prompt · Bổ sung mới nhất: **2026-09-09**
+**44** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1094,6 +1094,44 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097611216139235779"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Nhân vật · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097611216139235779-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

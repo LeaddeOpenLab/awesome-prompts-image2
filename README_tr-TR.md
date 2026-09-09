@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**43** Prompt · Son eklenen: **2026-09-09**
+**44** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1102,6 +1102,44 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097611216139235779"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Karakter · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097611216139235779-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 

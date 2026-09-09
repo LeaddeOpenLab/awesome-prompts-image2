@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**43** Prompt · Ultima aggiunta: **2026-09-09**
+**44** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1092,6 +1092,44 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2097611216139235779"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097611216139235779)
+
+Personaggio · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097258933928796451)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097611216139235779-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097611216139235779-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097611216139235779-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097611216139235779-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2097611216139235779-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2097611216139235779-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2097611216139235779-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2097611216139235779-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097631043004273061"></a>
 
