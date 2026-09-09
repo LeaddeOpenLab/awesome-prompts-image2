@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:35:16.969Z",
+  "model": "image2",
+  "prompt": "**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\n\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\n\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\n\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere.",
+  "promptTranslations": {
+    "en": "**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\\n\\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\\n\\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\\n\\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Dark cinematic portrait prompt in a psychological horror game aesthetic, depicting a woman with mysterious runes on her face, marked by dust and scratches."
+  },
+  "translationVersion": 2,
+  "summary": "心理恐怖游戏美学的黑暗电影风肖像提示词，刻画脸部带神秘符文、沾染灰尘伤痕的女性。",
+  "summaryEn": "Cinematic psychological horror portrait prompt featuring a woman with dirt, scratches, and runes carved on her cheek.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097676144141312095",
+    "canonicalUrl": "https://x.com/her19845/status/2097676144141312095",
+    "author": {
+      "username": "her19845",
+      "displayName": "HER19845",
+      "profileUrl": "https://x.com/her19845"
+    },
+    "publishedAt": "2026-09-09T13:19:00.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "en",
+    "originalText": "GPT Image2\n\nPrompt:⤵️\n**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\n\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\n\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\n\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsaNFyawAAUWor.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsaNFyawAAUWor.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsaNFfaEAAlwJ3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsaNFfaEAAlwJ3.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 160
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/her19845/status/2097676144141312095",
+  "coverUrl": "https://pbs.twimg.com/media/HRsaNFyawAAUWor.jpg",
+  "coverPath": "images/2097676144141312095-1.jpg",
+  "imagePaths": [
+    "images/2097676144141312095-1.jpg",
+    "images/2097676144141312095-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRsaNFyawAAUWor",
+    "x-image:/media/HRsaNFfaEAAlwJ3",
+    "x-post:2097676144141312095"
+  ],
+  "analysis": {
+    "summary": "心理恐怖游戏美学的黑暗电影风肖像提示词，刻画脸部带神秘符文、沾染灰尘伤痕的女性。",
+    "summaryEn": "Cinematic psychological horror portrait prompt featuring a woman with dirt, scratches, and runes carved on her cheek.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images clearly depict the female subject with dirt, scratches, vertical runes on her cheek, side lighting, and dark green/shadow palette matching the prompt text."
+    },
+    "videoQuality": null,
+    "originalPrompt": "**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\n\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\n\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\n\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere.",
+    "sourceRange": {
+      "start": 22,
+      "end": 634
+    },
+    "translations": {
+      "zh": "风格：带有高端心理恐怖游戏美学的黑暗戏剧性电影摄影。\n\n主体：图像扩展中的模特。皮肤展现泥土、灰尘和细微划痕纹理。面颊上有细微刻痕或神秘垂直符文。\n\n光影与色彩：以暗翡翠绿、橄榄绿和深阴影为主的单色沉郁色调。侧光勾勒面部轮廓，半边置于黑暗中。\n\n纹理：明显的胶片颗粒、毛孔细节，以及充满灰尘、诡异和幽闭的氛围。",
+      "en": "**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\n\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\n\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\n\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "Cinematic psychological horror portrait with runic markings and gritty textures.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
