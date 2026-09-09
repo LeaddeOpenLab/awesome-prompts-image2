@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:20:35.082Z",
+  "model": "image2.5",
+  "prompt": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]",
+  "promptTranslations": {
+    "en": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]"
+  },
+  "summaryTranslations": {
+    "en": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text."
+  },
+  "translationVersion": 2,
+  "summary": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
+  "summaryEn": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097580884098764800",
+    "canonicalUrl": "https://x.com/Naiknelofar788/status/2097580884098764800",
+    "author": {
+      "username": "Naiknelofar788",
+      "displayName": "simeon-sanai",
+      "profileUrl": "https://x.com/Naiknelofar788"
+    },
+    "publishedAt": "2026-09-09T07:00:28.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "en",
+    "originalText": "GPT image 2.5 \n\nPrompt:\nCreate a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwasJYagAAxSSa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwasJYagAAxSSa.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwasJXa4AAdkHu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwasJXa4AAdkHu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwasJhbgAAnvdI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwasJhbgAAnvdI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwasJebAAAUL2Q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwasJebAAAUL2Q.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 3,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 729
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Naiknelofar788/status/2097580884098764800",
+  "coverUrl": "https://pbs.twimg.com/media/HRwasJYagAAxSSa.jpg",
+  "coverPath": "images/2097580884098764800-1.jpg",
+  "imagePaths": [
+    "images/2097580884098764800-1.jpg",
+    "images/2097580884098764800-2.jpg",
+    "images/2097580884098764800-3.jpg",
+    "images/2097580884098764800-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRwasJYagAAxSSa",
+    "x-image:/media/HRwasJXa4AAdkHu",
+    "x-image:/media/HRwasJhbgAAnvdI",
+    "x-image:/media/HRwasJebAAAUL2Q",
+    "x-post:2097580884098764800"
+  ],
+  "analysis": {
+    "summary": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
+    "summaryEn": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images depict miniature dioramas of world landmarks on wooden bases with the specified descriptive plaque text format."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]",
+    "sourceRange": {
+      "start": 24,
+      "end": 394
+    },
+    "translations": {
+      "zh": "为[城市, 国家]的[建筑名称]制作一个精致可爱的高级微缩3D立体透视模型。保持地标的高辨识度、优雅与迷人，具备干净的构图、柔和的浅粉色调、细腻的手工细节、柔和的自然光线以及精致的旅行纪念品美感。\n\n包含极简、高雅的文字：\n[建筑名称]\n[城市, 国家]\n著名原因：[简要描述]",
+      "en": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "architecture miniature souvenir diorama generator",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
