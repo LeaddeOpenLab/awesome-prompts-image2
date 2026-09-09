@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**38** Prompts · Última incorporación: **2026-09-09**
+**39** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -798,6 +798,40 @@ No uses habilidades, crea una hoja de sprites
 Esta imagen contiene el proceso de un duende masculino en estilo pixel art tensando un arco y disparando una flecha
 En total 16 fotogramas.
 Luego corta esta imagen y conviértela en un gif en bucle infinito
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Acuarela
+
+<a name="prompt-2097637962137895058"></a>
+
+### Traducción en curso
+
+Autor：[@tataemugc](https://x.com/tataemugc) · [Publicación original](https://x.com/tataemugc/status/2097637962137895058)
+
+Ilustración · Acuarela · Retro / Vintage · Publicado
+
+Publicación original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publicación original](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097637962137895058-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

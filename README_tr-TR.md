@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**38** Prompt · Son eklenen: **2026-09-09**
+**39** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -808,6 +808,40 @@ Yetenekleri kullanma, bir sprite sayfası oluştur
 Bu görsel, piksel sanatı tarzında erkek bir goblinin yay çekip ok atma sürecini içerir
 Toplam 16 kare.
 Ardından bu görseli dilimle ve sonsuz döngülü bir gif haline getir
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Suluboya
+
+<a name="prompt-2097637962137895058"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@tataemugc](https://x.com/tataemugc) · [Orijinal gönderi](https://x.com/tataemugc/status/2097637962137895058)
+
+İllüstrasyon · Suluboya · Retro / Vintage · Yayımlandı
+
+Orijinal gönderi：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Orijinal gönderi](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097637962137895058-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

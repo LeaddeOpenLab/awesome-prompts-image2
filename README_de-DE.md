@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**38** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**39** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Pixel-Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Pixel-Art](#category-pixel-art) · [Aquarell](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -798,6 +798,40 @@ Verwende keine Fähigkeiten, erstelle ein Sprite-Sheet
 Dieses Bild enthält den Ablauf, wie ein männlicher Goblin im Pixel-Art-Stil einen Bogen spannt und einen Pfeil abschießt
 Insgesamt 16 Frames.
 Schneide dieses Bild anschließend aus und erstelle daraus ein Endlos-GIF
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Aquarell
+
+<a name="prompt-2097637962137895058"></a>
+
+### Übersetzung läuft
+
+Autor：[@tataemugc](https://x.com/tataemugc) · [Originalbeitrag](https://x.com/tataemugc/status/2097637962137895058)
+
+Illustration · Aquarell · Retro / Vintage · Veröffentlicht
+
+Originalbeitrag：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Originalbeitrag](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097637962137895058-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**38** 개 · 최근 추가: **2026-09-09**
+**39** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [픽셀 아트](#category-pixel-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [픽셀 아트](#category-pixel-art) · [수채화](#category-watercolor) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -822,6 +822,40 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ```text
 스킬을 사용하지 말고, 스프라이트 시트 한 장을 제작해 주세요.\n이 이미지에는 픽셀 아트 스타일의 남성 고블린이 활을 당겨 화살을 쏘는 과정이 포함되어 있습니다.\n총 16프레임입니다.\n그런 다음 이 이미지를 분할하여 무한 반복되는 루프 GIF로 제작해 주세요.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 수채화
+
+<a name="prompt-2097637962137895058"></a>
+
+### 번역 중
+
+작성자：[@tataemugc](https://x.com/tataemugc) · [원본 게시물](https://x.com/tataemugc/status/2097637962137895058)
+
+일러스트레이션 · 수채화 · 레트로 / 빈티지 · 배포 완료
+
+원본 게시물：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [원본 게시물](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**요약:** 번역 중
+
+<img src="images/2097637962137895058-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

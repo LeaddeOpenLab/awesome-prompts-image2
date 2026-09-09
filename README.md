@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**38** Prompts · Latest addition: **2026-09-09**
+**39** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -796,6 +796,40 @@ Do not use skills, create a sprite sheet.
 This sheet contains the process of a pixel art male goblin drawing a bow and arrow and shooting.
 A total of 16 frames.
 Then slice this image and make it into a perpetual looping gif
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Watercolor
+
+<a name="prompt-2097637962137895058"></a>
+
+### Prompt for transforming a photo into a retro colored pencil and watercolor hand-drawn travel journal illustration style
+
+Author：[@tataemugc](https://x.com/tataemugc) · [Source](https://x.com/tataemugc/status/2097637962137895058)
+
+Illustration · Watercolor · Retro / Vintage · Published
+
+Source：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Source](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Summary:** Prompt for transforming a photo into a retro colored pencil and watercolor hand-drawn travel journal illustration style
+
+<img src="images/2097637962137895058-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Transform the photo into a hand-drawn travel journal style using colored pencil and watercolor. Keep the original composition, buildings, people, trees, grass, road, and perspective intact. Use warm beige aged paper to convey a hand-drawn feel showing pen strokes and watercolor bleeding. Simplify the buildings into expressive shapes, adding loose outlines, fine cross-hatching, and slightly imperfect edges. Maintain the clear summer day atmosphere, soft blue sky, warm beige buildings, green grass, and scattered leisurely figures and benches. Use faded vintage travel sketch tones. Place the illustration in the lower half of the page, leaving a wide beige margin at the top. Write '맑은 날씨' in handwriting at the top, and '— 소중한 순간 —' at the bottom. Render in a nostalgic art travel magazine style, evoking personal sketchbook memories, with no photographic feel.
 ```
 
 [↑ Back to categories](#catalog)

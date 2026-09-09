@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**38** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**39** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [3D रेंडर](#category-3d-render) · [पिक्सेल आर्ट](#category-pixel-art) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [3D रेंडर](#category-3d-render) · [पिक्सेल आर्ट](#category-pixel-art) · [वॉटरकलर](#category-watercolor) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -822,6 +822,40 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 ```text
 कौशल (skills) का उपयोग न करें, एक स्प्राइट शीट बनाएं\nइस छवि में पिक्सेल आर्ट शैली के एक पुरुष गॉब्लिन द्वारा धनुष खींचकर तीर चलाने की प्रक्रिया शामिल है\nकुल 16 फ्रेम।\nफिर इस छवि को काटें और एक अनंत लूप वाली GIF बनाएं
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## वॉटरकलर
+
+<a name="prompt-2097637962137895058"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@tataemugc](https://x.com/tataemugc) · [मूल पोस्ट](https://x.com/tataemugc/status/2097637962137895058)
+
+चित्रण · वॉटरकलर · रेट्रो / विंटेज · प्रकाशित
+
+मूल पोस्ट：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [मूल पोस्ट](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097637962137895058-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="चित्र 4" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

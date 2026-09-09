@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**38** 条内容 · 最新收录: **2026-09-09**
+**39** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素艺术](#category-pixel-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素艺术](#category-pixel-art) · [水彩画](#category-watercolor) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -824,6 +824,40 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 
 ```text
 不要使用技能,制作做一张精灵图\n这张图包含一名像素风男性哥布林拉弓箭射出的过程\n总计16帧.\n然后将该图切图,并制作成永动gif
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 水彩画
+
+<a name="prompt-2097637962137895058"></a>
+
+### 翻译中
+
+作者：[@tataemugc](https://x.com/tataemugc) · [查看 X 原帖](https://x.com/tataemugc/status/2097637962137895058)
+
+插画 · 水彩画 · 复古 / 怀旧 · 已推流
+
+查看 X 原帖：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [查看 X 原帖](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**概括:** 翻译中
+
+<img src="images/2097637962137895058-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

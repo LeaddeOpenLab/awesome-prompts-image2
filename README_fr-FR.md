@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**38** Prompts · Dernier ajout: **2026-09-09**
+**39** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarelle](#category-watercolor) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -798,6 +798,40 @@ N'utilise pas de compétences, crée une feuille de sprites
 Cette image contient le processus d'un gobelin masculin en pixel art bandant un arc et tirant une flèche
 Un total de 16 images.
 Puis découpe cette image et fais-en un gif en boucle infinie
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Aquarelle
+
+<a name="prompt-2097637962137895058"></a>
+
+### Traduction en cours
+
+Auteur：[@tataemugc](https://x.com/tataemugc) · [Publication originale](https://x.com/tataemugc/status/2097637962137895058)
+
+Illustration · Aquarelle · Rétro / Vintage · Publié
+
+Publication originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publication originale](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097637962137895058-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

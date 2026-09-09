@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**38** Prompts · Adição mais recente: **2026-09-09**
+**39** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarela](#category-watercolor) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -808,6 +808,40 @@ Não use habilidades, crie uma folha de sprites
 Esta imagem contém o processo de um goblin masculino em estilo pixel art a puxar um arco e a disparar uma flecha
 Total de 16 fotogramas.
 Em seguida, corte a imagem e crie um gif em loop contínuo
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Aquarela
+
+<a name="prompt-2097637962137895058"></a>
+
+### Tradução em curso
+
+Autor：[@tataemugc](https://x.com/tataemugc) · [Publicação original](https://x.com/tataemugc/status/2097637962137895058)
+
+Ilustração · Aquarela · Retrô / Vintage · Publicado
+
+Publicação original：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Publicação original](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097637962137895058-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

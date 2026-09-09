@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**38** Prompt · Bổ sung mới nhất: **2026-09-09**
+**39** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Nghệ thuật Pixel](#category-pixel-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Nghệ thuật Pixel](#category-pixel-art) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -822,6 +822,40 @@ Nghệ thuật Pixel · Đã xuất bản
 
 ```text
 Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\nHình ảnh này bao gồm quá trình một yêu tinh goblin nam phong cách pixel art giương cung và bắn tên\nTổng cộng 16 khung hình.\nSau đó cắt tấm hình này và tạo thành ảnh GIF lặp vô tận
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Màu nước
+
+<a name="prompt-2097637962137895058"></a>
+
+### Đang dịch
+
+Tác giả：[@tataemugc](https://x.com/tataemugc) · [Bài gốc](https://x.com/tataemugc/status/2097637962137895058)
+
+Minh họa · Màu nước · Cổ điển / Cổ điển · Đã xuất bản
+
+Bài gốc：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Bài gốc](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097637962137895058-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

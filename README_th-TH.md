@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**38** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**39** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [พิกเซลอาร์ต](#category-pixel-art) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [พิกเซลอาร์ต](#category-pixel-art) · [สีน้ำ](#category-watercolor) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -822,6 +822,40 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ```text
 ห้ามใช้ทักษะ สร้างสไปรต์ชีตหนึ่งภาพ\nภาพนี้ประกอบด้วยกระบวนการยิงธนูของก็อบลินเพศชายในสไตล์พิกเซลอาร์ต\nรวมทั้งหมด 16 เฟรม\nจากนั้นตัดแบ่งภาพนี้และทำเป็น GIF ที่วนซ้ำตลอดเวลา
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## สีน้ำ
+
+<a name="prompt-2097637962137895058"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@tataemugc](https://x.com/tataemugc) · [โพสต์ต้นฉบับ](https://x.com/tataemugc/status/2097637962137895058)
+
+ภาพประกอบ · สีน้ำ · ย้อนยุค / วินเทจ · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [โพสต์ต้นฉบับ](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2097637962137895058-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="รูปภาพ 4" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

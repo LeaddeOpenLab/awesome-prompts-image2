@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**38** 筆內容 · 最新收錄: **2026-09-09**
+**39** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素藝術](#category-pixel-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素藝術](#category-pixel-art) · [水彩](#category-watercolor) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -822,6 +822,40 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 ```text
 不要使用技能，製作一張精靈圖\n這張圖包含一名像素風男性哥布林拉弓射箭的過程\n總計16幀。\n然後將該圖切圖，並製作成循環gif
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 水彩
+
+<a name="prompt-2097637962137895058"></a>
+
+### 翻譯中
+
+作者：[@tataemugc](https://x.com/tataemugc) · [查看 X 原帖](https://x.com/tataemugc/status/2097637962137895058)
+
+插圖 · 水彩 · 復古 / 懷舊 · 已推流
+
+查看 X 原帖：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [查看 X 原帖](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**概括:** 翻譯中
+
+<img src="images/2097637962137895058-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

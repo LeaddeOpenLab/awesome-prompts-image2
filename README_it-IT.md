@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**38** Prompt · Ultima aggiunta: **2026-09-09**
+**39** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -798,6 +798,40 @@ Non usare abilità, crea uno sprite sheet
 Questa immagine include il processo di un goblin maschio in pixel art che tende un arco e scocca una freccia
 In totale 16 fotogrammi.
 Poi ritaglia l'immagine e crea una gif a ciclo continuo
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Acquerello
+
+<a name="prompt-2097637962137895058"></a>
+
+### Traduzione in corso
+
+Autore：[@tataemugc](https://x.com/tataemugc) · [Post originale](https://x.com/tataemugc/status/2097637962137895058)
+
+Illustrazione · Acquerello · Retro / Vintage · Pubblicato
+
+Post originale：[@Crypto\_QianXun](https://x.com/Crypto_QianXun) · [Post originale](https://x.com/Crypto_QianXun/status/2097174853707284785)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097637962137895058-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097637962137895058-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097637962137895058-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097637962137895058-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
