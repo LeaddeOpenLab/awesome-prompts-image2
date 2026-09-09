@@ -176,13 +176,13 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2096805553339342932"></a>
 
-### Übersetzung läuft
+### Nächtliches Straßenporträt einer lächelnden jungen Frau in einer cremefarbenen strukturierten Jacke und einem Faltenrock.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Nächtliches Straßenporträt einer lächelnden jungen Frau in einer cremefarbenen strukturierten Jacke und einem Faltenrock.
 
 <img src="images/2096805553339342932-1.jpg" alt="Bild 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffen
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches nächtliches Straßenporträt einer jungen Frau, die auf einer belebten Straße der Stadt steht und eine zarte, cremefarbene, strukturierte Jacke mit winzigen floralen Details, dekorativen Schleifen, dunklen Paspeln und perlenartigen Knöpfen trägt, kombiniert mit einem passenden Faltenrock. Sie hat langes, glattes, dunkelbraunes Haar und ein natürliches, sanftes Make-up, lächelt sanft in die Kamera und macht dabei eine verspielte Handgeste nahe ihrem Gesicht. Eine kleine schwarze Handtasche hängt an ihrem Arm. Warme Straßenlaternen, leuchtende Schaufenster, vorbeifahrende Autos und ein Radfahrer schaffen im Hintergrund eine lebendige urbane Nachtatmosphäre. Leichte Bewegungsunschärfe im Hintergrund, sanftes Umgebungslicht, spontane Smartphone-Fotografie, natürliche Hauttextur, geringe Schärfentiefe, gemütliche und elegante Ästhetik, realistische Details, vertikale Komposition, hohe Auflösung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

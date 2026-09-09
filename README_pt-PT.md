@@ -176,13 +176,13 @@ Tradução em curso
 
 <a name="prompt-2096805553339342932"></a>
 
-### Tradução em curso
+### Retrato de rua noturno de uma jovem mulher a sorrir com casaco texturado creme e saia plissada.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de rua noturno de uma jovem mulher a sorrir com casaco texturado creme e saia plissada.
 
 <img src="images/2096805553339342932-1.jpg" alt="Imagem 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotografia · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publica
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato de rua noturno e fotorrealista de uma jovem mulher de pé numa rua movimentada da cidade, vestindo um casaco delicado e texturado de cor creme com pequeninos detalhes florais, laços decorativos, vivos escuros e botões tipo pérola, combinado com uma saia plissada a condizer. Tem cabelo comprido, liso e castanho-escuro e uma maquilhagem natural e suave, sorrindo docemente para a câmara enquanto faz um gesto brincalhão com a mão junto ao rosto. Uma pequena mala de mão preta pende do seu braço. Candeeiros de rua quentes, montras iluminadas, carros a passar e um ciclista criam uma atmosfera urbana noturna vibrante em segundo plano. Ligeiro desfoque de movimento no fundo, iluminação ambiente suave, fotografia espontânea de smartphone, textura de pele natural, profundidade de campo reduzida, estética acolhedora e elegante, pormenores realistas, composição vertical, alta resolução.
 ```
 
 [↑ Voltar às categorias](#catalog)

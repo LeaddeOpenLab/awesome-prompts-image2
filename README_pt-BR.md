@@ -176,13 +176,13 @@ Tradução em andamento
 
 <a name="prompt-2096805553339342932"></a>
 
-### Tradução em andamento
+### Retrato de rua noturno de uma jovem sorridente com jaqueta texturizada creme e saia plissada.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de rua noturno de uma jovem sorridente com jaqueta texturizada creme e saia plissada.
 
 <img src="images/2096805553339342932-1.jpg" alt="Imagem 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publica
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato de rua noturno e fotorrealista de uma jovem em pé em uma rua movimentada da cidade, usando uma jaqueta delicada texturizada na cor creme com pequenos detalhes florais, laços decorativos, acabamento escuro e botões tipo pérola, combinada com uma saia plissada combinando. Ela tem cabelos longos, lisos e castanho-escuros e maquiagem natural e suave, sorrindo gentilmente para a câmera enquanto faz um gesto brincalhão com a mão perto do rosto. Uma pequena bolsa preta está pendurada em seu braço. Postes de luz quentes, vitrines iluminadas, carros passando e um ciclista criam uma atmosfera urbana noturna vibrante ao fundo. Leve desfoque de movimento no fundo, iluminação ambiente suave, fotografia espontânea de smartphone, textura natural de pele, profundidade de campo rasa, estética aconchegante e elegante, detalhes realistas, composição vertical, alta resolução.
 ```
 
 [↑ Voltar às categorias](#catalog)

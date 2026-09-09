@@ -176,13 +176,13 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2096805553339342932"></a>
 
-### Đang dịch
+### Bức chân dung đường phố ban đêm của một phụ nữ trẻ đang mỉm cười trong chiếc áo khoác gân màu kem và chân váy xếp ly.
 
 Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung đường phố ban đêm của một phụ nữ trẻ đang mỉm cười trong chiếc áo khoác gân màu kem và chân váy xếp ly.
 
 <img src="images/2096805553339342932-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -191,7 +191,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh t
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức chân dung đường phố ban đêm chân thực như ảnh chụp của một phụ nữ trẻ đang đứng trên con phố thành phố nhộn nhịp, mặc chiếc áo khoác có chất liệu gân tinh tế màu kem với các chi tiết hoa nhỏ xíu, nơ trang trí, viền tối màu và cúc áo như ngọc trai, kết hợp với chân váy xếp ly cùng điệu. Cô có mái tóc dài thẳng màu nâu sẫm và trang điểm nhẹ nhàng tự nhiên, mỉm cười dịu dàng trước ống kính trong khi làm một cử chỉ tay tinh nghịch gần khuôn mặt. Một chiếc túi xách nhỏ màu đen đeo trên tay cô. Ánh đèn đường ấm áp, các cửa hàng lung linh, xe cộ qua lại và một người đi xe đạp tạo nên bầu không khí đêm đô thị sôi động ở hậu cảnh. Hậu cảnh hơi mờ chuyển động, ánh sáng môi trường dịu nhẹ, phong cách chụp ảnh điện thoại tự nhiên, kết cấu da chân thực, độ sâu trường ảnh nông, thẩm mỹ ấm cúng thanh lịch, chi tiết chân thực, bố cục dọc, độ phân giải cao.
 ```
 
 [↑ Về danh mục](#catalog)

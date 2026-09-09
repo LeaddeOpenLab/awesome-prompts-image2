@@ -176,13 +176,13 @@ Traduction en cours
 
 <a name="prompt-2096805553339342932"></a>
 
-### Traduction en cours
+### Portrait de rue nocturne d'une jeune femme souriante vêtue d'une veste texturée crème et d'une jupe plissée.
 
 Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de rue nocturne d'une jeune femme souriante vêtue d'une veste texturée crème et d'une jupe plissée.
 
 <img src="images/2096805553339342932-1.jpg" alt="Image 1" width="480" />
 
@@ -191,7 +191,7 @@ Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publi
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait de rue nocturne et photoréaliste d'une jeune femme debout dans une rue animée de la ville, vêtue d'une délicate veste texturée crème avec de minuscules détails floraux, des nœuds décoratifs, une bordure foncée et des boutons nacrés, associée à une jupe plissée assortie. Elle a de longs cheveux raides châtain foncé et un maquillage naturel et doux, souriant doucement à l'appareil photo tout en faisant un geste espiègle de la main près de son visage. Un petit sac à main noir est suspendu à son bras. Des lampadaires chaleureux, des vitrines lumineuses, des voitures qui passent et un cycliste créent une atmosphère nocturne urbaine vibrante en arrière-plan. Léger flou de mouvement sur l'arrière-plan, éclairage ambiant doux, photographie sur le vif au smartphone, texture naturelle de la peau, faible profondeur de champ, esthétique élégante et chaleureuse, détails réalistes, composition verticale, haute résolution.
 ```
 
 [↑ Retour aux catégories](#catalog)

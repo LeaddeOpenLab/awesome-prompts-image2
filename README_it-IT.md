@@ -176,13 +176,13 @@ Traduzione in corso
 
 <a name="prompt-2096805553339342932"></a>
 
-### Traduzione in corso
+### Ritratto di strada notturno di una giovane donna sorridente con una giacca testurizzata color crema e una gonna a pieghe.
 
 Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di strada notturno di una giovane donna sorridente con una giacca testurizzata color crema e una gonna a pieghe.
 
 <img src="images/2096805553339342932-1.jpg" alt="Immagine 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · P
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto di strada notturno e fotorealistico di una giovane donna in piedi in una vivace strada cittadina, che indossa una delicata giacca testurizzata color crema con minuscoli dettagli floreali, fiocchi decorativi, bordi scuri e bottoni simili a perle, abbinata a una gonna a pieghe coordinata. Ha lunghi capelli lisci castano scuro e un trucco naturale e delicato, mentre sorride dolcemente verso la fotocamera facendo un giocoso gesto con la mano vicino al viso. Una piccola borsa nera le pende dal braccio. Caldi lampioni, vetrine luminose, auto di passaggio e un ciclista creano sullo sfondo una vibrante atmosfera notturna urbana. Leggero effetto mosso sullo sfondo, morbida illuminazione ambientale, fotografia spontanea da smartphone, texture naturale della pelle, profondità di campo ridotta, estetica accogliente ed elegante, dettagli realistici, composizione verticale, alta risoluzione.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -176,13 +176,13 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2096805553339342932"></a>
 
-### Çeviri sürüyor
+### Krem rengi dokulu ceket ve pileli etek giymiş gülümseyen genç bir kadının gece sokak portresi.
 
 Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Krem rengi dokulu ceket ve pileli etek giymiş gülümseyen genç bir kadının gece sokak portresi.
 
 <img src="images/2096805553339342932-1.jpg" alt="Görsel 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak ·
 **İstem**
 
 ```text
-Çeviri sürüyor
+Canlı bir şehir sokağında duran, minik çiçek detayları, dekoratif fiyonkları, koyu biyeleri ve inci benzeri düğmeleri olan zarif krem rengi dokulu bir ceket ile buna uyumlu pileli bir etek giymiş genç bir kadının fotogerçekçi bir gece sokak portresi. Uzun düz koyu kahverengi saçları ve doğal hafif bir makyajı var, yüzünün yanında eliyle oyuncu bir jest yaparken kameraya nazikçe gülümsüyor. Kolundan küçük siyah bir el çantası sarkıyor. Arka planda sıcak sokak lambaları, parıldayan vitrinler, geçen arabalar ve bir bisikletli canlı bir kentsel gece atmosferi yaratıyor. Arka planda hafif hareket bulanıklığı, yumuşak ortam aydınlatması, samimi akıllı telefon fotoğrafçılığı, doğal cilt dokusu, sığ alan derinliği, sıcak ve zarif bir estetik, gerçekçi detaylar, dikey kompozisyon, yüksek çözünürlük.
 ```
 
 [↑ Kategorilere dön](#catalog)

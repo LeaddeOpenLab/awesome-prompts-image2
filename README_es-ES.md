@@ -176,13 +176,13 @@ Traducción en curso
 
 <a name="prompt-2096805553339342932"></a>
 
-### Traducción en curso
+### Retrato callejero nocturno de una mujer joven sonriente con una chaqueta texturizada color crema y falda plisada.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2096805553339342932)
 
 Fotografía · Retrato / Selfie · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato callejero nocturno de una mujer joven sonriente con una chaqueta texturizada color crema y falda plisada.
 
 <img src="images/2096805553339342932-1.jpg" alt="Imagen 1" width="480" />
 
@@ -191,7 +191,7 @@ Fotografía · Retrato / Selfie · Personaje · Paisaje urbano / Calle · Public
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato callejero nocturno fotorrealista de una mujer joven de pie en una animada calle de la ciudad, vestida con una delicada chaqueta texturizada de color crema con pequeños detalles florales, lazos decorativos, ribetes oscuros y botones tipo perla, combinada con una falda plisada a juego. Tiene el pelo largo, liso y castaño oscuro, y un maquillaje suave y natural, sonriendo gentilmente a la cámara mientras hace un gesto juguetón con la mano cerca de su rostro. Un pequeño bolso negro cuelga de su brazo. Cálidas farolas, escaparates brillantes, coches que pasan y un ciclista crean una vibrante atmósfera nocturna urbana en el fondo. Ligero desenfoque de movimiento en el fondo, iluminación ambiental suave, fotografía espontánea de smartphone, textura natural de la piel, profundidad de campo reducida, estética acogedora y elegante, detalles realistas, composición vertical, alta resolución.
 ```
 
 [↑ Volver a categorías](#catalog)
