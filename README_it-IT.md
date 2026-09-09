@@ -126,13 +126,13 @@ Traduzione in corso
 
 <a name="prompt-2096901566985068734"></a>
 
-### Traduzione in corso
+### Prompt per ritratto fotografico istantaneo di hostess in divisa giapponese sullo sfondo del portellone della cabina, con set integrato di pose casuali.
 
 Autore：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Post originale](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografia · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto fotografico istantaneo di hostess in divisa giapponese sullo sfondo del portellone della cabina, con set integrato di pose casuali.
 
 <img src="images/2096901566985068734-1.jpg" alt="Immagine 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografia · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblic
 **Prompt**
 
 ```text
-Traduzione in corso
+📱 Scatto rubato casual in stile compagnia aerea giapponese, 3:4; splendida donna dell'Asia orientale di 18–22 anni, chiaramente adulta, alta circa 1,75 m, lineamenti dolci e raffinati, pelle di porcellana bianca fredda, corporatura da modella slanciata e snella, seno visivamente pari a circa una coppa E naturale. Elegante acconciatura raccolta, camicia bianca con profondo scollo a V × gilet da hostess blu scuro × gonna corta a righe bianche e blu, foulard di seta giallo, scarpe nere con tacco medio e collant neri.
+
+✈️ Area del portellone dell'aereo, con sedile pieghevole, maniglia del portellone, cartelli di avviso e cappelliere inquadrati con naturalezza. Tonalità grigio freddo a bassa saturazione, inquadratura inclinata scattata a mano con smartphone, luce diffusa delle plafoniere, leggera sovraesposizione, rumore e sfocatura sui bordi, trucco effetto nudo trasparente pesca bianca, autentico effetto scatto amatoriale.
+
+Pannello di pose casuali:
+
+💺 Seduta sul sedile pieghevole, una gamba piegata, sollevando la mano per sistemarsi i capelli raccolti
+✈️ Seduta di lato vicino al portellone, voltandosi indietro con un dolce sorriso
+🧣 A testa bassa mentre sistema il foulard, alzando all'improvviso lo sguardo verso l'obiettivo
+👜 Curva intenta a frugare nella borsetta, scatto colto nell'attimo del movimento
+🙆🏻‍♀️ Appoggiata allo schienale stiracchiandosi, postura rilassata e spontanea
+🪞 Alzandosi in piedi per sistemare gilet e gonna, voltata di profilo guardando verso la fotocamera
+💬 Seduta con il mento tra le mani a fantasticare, gambe naturalmente sfasate
+🚪 Reggendosi al bordo del portellone mentre si alza, voltandosi indietro sorridendo
+
+🎲 Dopo aver scelto la posa, piena libertà su angolazione della fotocamera, dettagli della cabina, espressione, inclinazione dello smartphone ed effetti di sfocatura, ricercando l'effetto divisa da assistente di volo × fotografia lifestyle giapponese × scatto casuale con smartphone.
+
+Genera un'immagine di anteprima complessiva contenente diverse pose tra cui scegliere.
 ```
 
 [↑ Torna alle categorie](#catalog)

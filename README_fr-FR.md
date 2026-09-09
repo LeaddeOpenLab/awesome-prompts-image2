@@ -126,13 +126,13 @@ Traduction en cours
 
 <a name="prompt-2096901566985068734"></a>
 
-### Traduction en cours
+### Prompt d'instantané de portrait d'hôtesse de l'air japonaise en uniforme devant la porte de la cabine, avec une sélection d'actions aléatoires intégrée.
 
 Auteur：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publication originale](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Photographie · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'instantané de portrait d'hôtesse de l'air japonaise en uniforme devant la porte de la cabine, avec une sélection d'actions aléatoires intégrée.
 
 <img src="images/2096901566985068734-1.jpg" alt="Image 1" width="480" />
 
@@ -145,7 +145,24 @@ Photographie · Portrait / Selfie · Personnage · Résumé / Contexte · Publi�
 **Consigne**
 
 ```text
-Traduction en cours
+📱 Instantané spontané de style compagnie aérienne japonaise, 3:4 ; magnifique femme est-asiatique de 18 à 22 ans, clairement adulte, environ 1,75 m, traits fins et doux, peau de porcelaine blanche et froide, silhouette de mannequin grande et élancée, poitrine d'environ un bonnet E naturel à l'œil nu. Chignon soigné, chemise blanche à décolleté en V plongeant × gilet d'hôtesse de l'air bleu marine × jupe courte à rayures bleues et blanches, foulard en soie jaune, escarpins noirs à talon moyen et collants noirs.
+
+✈️ Zone de la porte de l'avion, strapontin, poignée de porte, panneaux d'avertissement et compartiments à bagages naturellement visibles dans le cadre. Teintes gris froid à faible saturation, composition inclinée prise au smartphone à la main, plafonniers diffus, légère surexposition, bruit numérique et flou sur les bords, maquillage effet peau nue pêche blanche translucide, véritable sensation d'instantané amateur.
+
+Ensemble d'actions aléatoires :
+
+💺 Assise sur le strapontin, une jambe repliée, levant la main pour ajuster son chignon
+✈️ Assise de profil près de la porte de l'avion, se retournant avec un doux sourire
+🧣 Baissant la tête pour ajuster son foulard, levant soudain les yeux vers l'objectif
+👜 Penchée en train de fouiller dans son petit sac à main, mouvement pris sur le vif
+🙆🏻‍♀️ Adossée au siège en train de s'étirer langoureusement, posture naturelle et détendue
+🪞 Se levant pour ajuster son gilet et sa jupe, le corps de profil regardant l'objectif
+💬 Assise, le menton dans la main à rêvasser, les jambes naturellement décalées
+🚪 S'appuyant sur le rebord de la porte de l'avion pour se lever, se retournant en souriant
+
+🎲 Une fois l'action tirée au sort, liberté totale sur l'angle de vue, les détails de la cabine, l'expression, l'inclinaison manuelle et les effets de flou, pour rechercher l'alchimie : uniforme de stewardess × portrait lifestyle japonais × sensation de capture fortuite au smartphone.
+
+Produis une image d'aperçu composite comprenant différentes actions pour que je puisse faire mon choix.
 ```
 
 [↑ Retour aux catégories](#catalog)

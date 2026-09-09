@@ -126,13 +126,13 @@ Traducción en curso
 
 <a name="prompt-2096901566985068734"></a>
 
-### Traducción en curso
+### Prompt para instantáneas de retratos fotográficos de azafata con uniforme japonés frente a la puerta de la cabina, con banco de poses aleatorias integrado.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicación original](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografía · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para instantáneas de retratos fotográficos de azafata con uniforme japonés frente a la puerta de la cabina, con banco de poses aleatorias integrado.
 
 <img src="images/2096901566985068734-1.jpg" alt="Imagen 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografía · Retrato / Selfie · Personaje · Resumen / Antecedentes · Public
 **Prompt**
 
 ```text
-Traducción en curso
+📱 Instantánea casual estilo japonés de aerolínea, 3:4; hermosa mujer del este de Asia de 18 a 22 años, claramente adulta, de aproximadamente 1.75 m, facciones delicadas y dulces, piel de porcelana blanca fría, figura de modelo alta y esbelta, tamaño de busto visualmente alrededor de una copa E natural. Peinado recogido elegante, camisa blanca con escote en V profundo × chaleco de azafata azul marino × falda corta a rayas azules y blancas, pañuelo de seda amarillo, zapatos negros de tacón medio y medias negras.
+
+✈️ Área de la puerta de la cabina del avión, con asiento plegable, manija de la puerta de la cabina, señales de advertencia y compartimentos superiores encuadrados de forma natural. Tonos gris frío de baja saturación, composición inclinada tomada a mano con teléfono móvil, luz difusa de techo, ligera sobreexposición, ruido y desenfoque en los bordes, maquillaje no-makeup estilo durazno blanco translúcido, auténtica sensación de instantánea amateur.
+
+Banco de poses aleatorias:
+
+💺 Sentada en el asiento plegable, una pierna flexionada, levantando la mano para acomodarse el peinado recogido
+✈️ Sentada de lado junto a la puerta de la cabina, volteando hacia atrás con una dulce sonrisa
+🧣 Bajando la cabeza para acomodarse el pañuelo de seda, levantando repentinamente la mirada hacia la cámara
+👜 Inclinándose para buscar en su bolso de mano, capturando el instante del movimiento
+🙆🏻‍♀️ Apoyada contra el respaldo del asiento estirándose perezosamente, postura natural y relajada
+🪞 Poniéndose de pie para acomodarse el chaleco y la falda, de perfil mirando a la cámara
+💬 Sentada apoyando la barbilla en la mano soñando despierta, piernas naturalmente cruzadas/desfasadas
+🚪 Sosteniéndose del borde de la puerta de la cabina para levantarse, volteando hacia atrás y sonriendo
+
+🎲 Tras seleccionar una pose, juega libremente con el ángulo de cámara, los detalles de la cabina, la expresión, la inclinación de la toma a mano y los efectos de desenfoque, buscando la combinación de uniforme de azafata × fotografía de retrato de estilo de vida japonés × sensación de instantánea casual de teléfono móvil.
+
+Genera una imagen de vista previa combinada que contenga diferentes poses para que pueda elegir.
 ```
 
 [↑ Volver a categorías](#catalog)

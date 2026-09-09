@@ -126,13 +126,13 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2096901566985068734"></a>
 
-### Çeviri sürüyor
+### Kabin kapısı arka planında Japon hostes üniformalı portre enstantane komutu, entegre rastgele hareket havuzlu.
 
 Yazar：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Orijinal gönderi](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kabin kapısı arka planında Japon hostes üniformalı portre enstantane komutu, entegre rastgele hareket havuzlu.
 
 <img src="images/2096901566985068734-1.jpg" alt="Görsel 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Özet / Arka Plan · Yayıml
 **İstem**
 
 ```text
-Çeviri sürüyor
+📱 Japon havacılık tarzı anlık telefon çekimi, 3:4; 18-22 yaşlarında, bariz şekilde yetişkin, yaklaşık 1,75 m boyunda, narin ve tatlı yüz hatlarına sahip, soğuk beyaz porselen tenli, uzun boylu ve ince model fiziğine sahip, görsel olarak yaklaşık doğal E kap göğüslü güzel Doğu Asyalı kadın. Zarif topuz saç, derin V yaka beyaz gömlek × lacivert hostes yeleği × mavi-beyaz çizgili kısa etek, sarı ipek fular, siyah orta topuklu ayakkabılar ve siyah külotlu çorap.
+
+✈️ Uçak kapısı bölgesi; katlanır koltuk, kabin kapısı kolu, uyarı işaretleri ve baş üstü dolapları doğal şekilde kadraja dahil. Soğuk gri ve düşük doygunluk, elle tutulan akıllı telefonun eğik kompozisyonu, tavandan yayılan difüze ışık, hafif aşırı pozlama, gren ve kenarlarda odak kaybı, berrak beyaz şeftali tonlarında makyajsız gibi duran hafif makyaj, samimi bir amatör enstantane hissi.
+
+Rastgele hareket havuzu:
+
+💺 Katlanır koltukta otururken bir bacağını bükmüş, elini kaldırıp topuzunu düzeltiyor
+✈️ Kabin kapısının yanında yan oturmuş, arkasına dönüp tatlı bir şekilde gülümsüyor
+🧣 Başını öne eğip ipek fularını düzeltirken aniden gözlerini kaldırıp kameraya bakıyor
+👜 Küçük el çantasını karıştırmak için öne eğilmiş, hareket anı yakalanmış
+🙆🏻‍♀️ Koltuk arkalığına yaslanarak geriniyor, doğal ve rahat bir duruş
+🪞 Yeleğini ve eteğini düzeltmek için ayağa kalkmış, yan durup kameraya bakıyor
+💬 Otururken çenesini eline dayamış dalgın dalgın düşünüyor, bacakları doğal şekilde hafif aralık
+🚪 Kabin kapısının kenarına tutunarak ayağa kalkıyor, arkasına dönüp gülümsüyor
+
+🎲 Hareket seçildikten sonra kamera açısı, kabin detayları, yüz ifadesi, elde tutuş eğimi ve odak dışı efektlerde serbestçe doğaçlama yapın; hostes üniforması × Japon yaşam tarzı portresi × tesadüfi cep telefonu çekimi havasını yakalamayı hedefleyin.
+
+İçinden seçim yapabilmem için farklı hareketleri içeren tek bir birleşik önizleme görseli oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)

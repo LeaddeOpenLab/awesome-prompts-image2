@@ -126,13 +126,13 @@ Tradução em andamento
 
 <a name="prompt-2096901566985068734"></a>
 
-### Tradução em andamento
+### Prompt para foto instantânea de retrato de aeromoça com uniforme japonês em frente à porta da cabine, com banco integrado de poses aleatórias.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicação original](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para foto instantânea de retrato de aeromoça com uniforme japonês em frente à porta da cabine, com banco integrado de poses aleatórias.
 
 <img src="images/2096901566985068734-1.jpg" alt="Imagem 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+📱 Foto casual instantânea estilo companhia aérea japonesa, 3:4; linda mulher do leste asiático de 18 a 22 anos, claramente adulta, cerca de 1,75 m de altura, traços faciais delicados e doces, pele de porcelana branca e fria, corpo de modelo alta e esguia, busto visualmente em torno de um sutiã tamanho E natural. Penteado preso sofisticado, camisa branca com decote em V profundo × colete de comissária azul-marinho × saia curta listrada de azul e branco, lenço de seda amarelo, sapatos pretos de salto médio e meia-calça preta.
+
+✈️ Área da porta da cabine do avião, com assento dobrável, maçaneta da porta, placas de aviso e compartimentos superiores enquadrados naturalmente. Tons de cinza frio de baixa saturação, composição inclinada segurada à mão com smartphone, luz difusa de teto, leve superexposição, ruído e desfoque nas bordas, maquiagem estilo sem maquiagem translúcida pêssego branco, sensação autêntica de foto amadora.
+
+Banco de poses aleatórias:
+
+💺 Sentada no assento dobrável, uma perna dobrada, levantando a mão para ajeitar o penteado preso
+✈️ Sentada de lado perto da porta, virando-se para trás com um sorriso doce
+🧣 De cabeça baixa arrumando o lenço de seda, levantando de repente o olhar para a câmera
+👜 Inclinada procurando algo na bolsa de mão, capturando o instante do movimento
+🙆🏻‍♀️ Apoiada no encosto do banco se espreguiçando, postura natural e relaxada
+🪞 Levantando-se para arrumar o colete e a saia, virando-se de lado olhando para a câmera
+💬 Sentada apoiando o queixo nas mãos sonhando acordada, pernas naturalmente desalinhadas
+🚪 Apoiando-se na borda da porta para se levantar, olhando para trás e sorrindo
+
+🎲 Após sortear a pose, liberdade para criar o ângulo da câmera, detalhes da cabine, expressão, inclinação do smartphone e efeito de desfoque, buscando a combinação de uniforme de comissária de bordo × fotografia lifestyle japonesa × sensação de foto espontânea tirada com o celular.
+
+Gere uma imagem de pré-visualização combinada contendo diferentes poses para que eu possa escolher.
 ```
 
 [↑ Voltar às categorias](#catalog)

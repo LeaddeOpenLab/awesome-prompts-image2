@@ -126,13 +126,13 @@ Tradução em curso
 
 <a name="prompt-2096901566985068734"></a>
 
-### Tradução em curso
+### Prompt para instantâneo de retrato de assistente de bordo com uniforme japonês junto à porta da cabine, com conjunto integrado de ações aleatórias.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicação original](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para instantâneo de retrato de assistente de bordo com uniforme japonês junto à porta da cabine, com conjunto integrado de ações aleatórias.
 
 <img src="images/2096901566985068734-1.jpg" alt="Imagem 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+📱 Instantâneo casual estilo companhia aérea japonesa, 3:4; mulher bonita da Ásia Oriental de 18 a 22 anos, claramente adulta, com cerca de 1,75 m, traços delicados e doces, pele de porcelana branca e fria, silhueta de modelo alta e esbelta, busto visualmente equivalente a uma copa E natural. Penteado apanhado elegante, camisa branca com decote em V profundo × colete de assistente de bordo azul-escuro × saia curta às riscas azuis e brancas, lenço de seda amarelo, sapatos pretos de salto médio e collants pretos.
+
+✈️ Zona da porta da cabine do avião, com banco rebatível, puxador da porta, sinais de aviso e compartimentos superiores enquadrados com naturalidade. Tons de cinzento-frio de baixa saturação, composição inclinada tirada com telemóvel à mão, iluminação difusa de teto, ligeira sobre-exposição, ruído e desfocagem nas extremidades, maquilhagem estilo cara lavada tom pêssego branco translúcido, sensação genuína de instantâneo amador.
+
+Conjunto de poses aleatórias:
+
+💺 Sentada no banco rebatível, uma perna dobrada, a erguer a mão para ajeitar o cabelo apanhado
+✈️ Sentada de lado junto à porta da cabine, a virar-se para trás com um sorriso doce
+🧣 De cabeça baixa a arrumar o lenço de seda, erguendo subitamente o olhar para a câmara
+👜 Inclinada a remexer na mala de mão, captando o movimento no momento exato
+🙆🏻‍♀️ Encostada às costas do assento a espreguiçar-se, postura natural e descontraída
+🪞 A levantar-se para ajeitar o colete e a saia, virada de perfil a olhar para a câmara
+💬 Sentada com o queixo apoiado nas mãos a sonhar acordada, pernas naturalmente desencontradas
+🚪 A apoiar-se no rebordo da porta da cabine para se levantar, a virar-se para trás a sorrir
+
+🎲 Após selecionar a pose, liberdade total de enquadramento, detalhes da cabine, expressão, inclinação da câmara e efeitos de desfocagem, procurando a fusão entre farda de assistente de bordo × fotografia lifestyle japonesa × sensação de foto espontânea de telemóvel.
+
+Gera uma imagem de pré-visualização abrangente com diferentes poses para que eu possa escolher.
 ```
 
 [↑ Voltar às categorias](#catalog)

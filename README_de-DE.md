@@ -126,13 +126,13 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2096901566985068734"></a>
 
-### Übersetzung läuft
+### Prompt für Porträtschnappschüsse einer japanischen Flugbegleiterin in Uniform vor der Flugzeugtür mit integriertem Pool zufälliger Aktionen.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Originalbeitrag](https://x.com/AIVideoHub_/status/2096901566985068734)
 
 Fotografie · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Porträtschnappschüsse einer japanischen Flugbegleiterin in Uniform vor der Flugzeugtür mit integriertem Pool zufälliger Aktionen.
 
 <img src="images/2096901566985068734-1.jpg" alt="Bild 1" width="480" />
 
@@ -145,7 +145,24 @@ Fotografie · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund ·
 **Prompt**
 
 ```text
-Übersetzung läuft
+📱 Beiläufiger japanischer Airline-Schnappschuss, 3:4; wunderschöne ostasiatische Frau im Alter von 18–22 Jahren, eindeutig erwachsen, ca. 1,75 m groß, feine und süße Gesichtszüge, kühles weißes Porzellanhautbild, hochgewachsene schlanke Modelfigur, visuelle Oberweite ca. natürliches E-Körbchen. Elegante Hochsteckfrisur, weiße Bluse mit tiefem V-Ausschnitt × dunkelblaue Flugbegleiterinnen-Weste × blau-weiß gestreifter kurzer Rock, gelbes Seidentuch, schwarze Pumps mit mittelhohem Absatz und schwarze Strumpfhose.
+
+✈️ Bereich der Flugzeugtür, Klappsitz, Türgriff, Warnschilder und Gepäckablagen natürlich im Bildausschnitt. Kühles Grau mit niedriger Sättigung, schräge Handheld-Smartphone-Komposition, diffuses Deckenlicht, leichte Überbelichtung, Bildrauschen und Unschärfe an den Rändern, transparenter No-Makeup-Look im Pfirsichton, echte Amateurschnappschuss-Atmosphäre.
+
+Zufälliger Posen-Pool:
+
+💺 Auf dem Klappsitz sitzend, ein Bein angewinkelt, die Hand hebend, um die Hochsteckfrisur zu richten
+✈️ Seitlich neben der Flugzeugtür sitzend, sich umdrehend mit einem süßen Lächeln
+🧣 Den Kopf senkend, um das Seidentuch zu richten, plötzlich den Blick zur Kamera hebend
+👜 Vornübergebeugt in der Handtasche kramend, im Moment der Bewegung erfasst
+🙆🏻‍♀️ An die Rückenlehne gelehnt sich räkelnd, natürliche und entspannte Haltung
+🪞 Aufstehend, um Weste und Rocksaum zu richten, sich seitlich zur Kamera drehend
+💬 Sitzend das Kinn aufstützend und tagträumend, Beine natürlich versetzt
+🚪 Sich am Rand der Flugzeugtür festhaltend aufstehend, sich umdrehend und lächelnd
+
+🎲 Nach Auswahl der Pose freies Spiel mit Kameraposition, Kabinendetails, Mimik, Handheld-Neigung und Unschärfeeffekten, mit dem Ziel: Flugbegleiterinnen-Uniform × japanisches Lifestyle-Porträt × zufälliger Handy-Schnappschuss-Look.
+
+Erstelle ein kombiniertes Vorschaubild mit verschiedenen Posen, aus denen ich wählen kann.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
