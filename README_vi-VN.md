@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**10** Prompt · Bổ sung mới nhất: **2026-09-08**
+**11** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -34,7 +34,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân phối
 
 **Tóm tắt:** Prompt ảnh chân dung chụp thực tế người phụ nữ đứng giữa vùng nước nông lúc hoàng hôn, khoác tấm vải trắng bán trong suốt ướt đẫm.
 
@@ -78,7 +78,7 @@ Không làm cho tấm vải trắng bị mờ đục hoàn toàn; không bỏ qu
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2096809673378967588)
 
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân phối
 
 **Tóm tắt:** Chân dung chụp chân thực 9:16 của một người phụ nữ sành điệu tạo dáng trước chiếc BMW màu đen.
 
@@ -100,7 +100,7 @@ Tạo một bức ảnh chân thực 9:16 về một người phụ nữ trẻ s
 
 Tác giả：[@sha\_zdiii](https://x.com/sha_zdiii) · [Bài gốc](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Nhiếp ảnh · Mặt hàng thời trang · Đã xuất bản
+Nhiếp ảnh · Mặt hàng thời trang · Chờ phân phối
 
 **Tóm tắt:** Bộ ảnh thời trang cao cấp siêu thực với người mẫu tóc vàng trong trang phục áo choàng màu ngà tạo dáng cùng chú ngựa bạch thuần khiết trong studio màu be ấm.
 
@@ -124,7 +124,7 @@ Bộ ảnh thời trang cao cấp siêu thực theo phong cách biên tập tron
 
 Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096631729410986083)
 
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Chờ phân phối
 
 Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +164,7 @@ Bối cảnh là gác ấm đèn cung đình / rèm châu / bàn trang điểm g
 
 Tác giả：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Bài gốc](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Nhiếp ảnh · Thực phẩm / Đồ uống · Đã xuất bản
+Nhiếp ảnh · Thực phẩm / Đồ uống · Chờ phân phối
 
 **Tóm tắt:** Cảnh chụp ảnh ẩm thực thương mại trong gian bếp hiện đại sáng sủa với các lọ sinh tố quả mọng màu hồng xếp chồng, một lọ bơ đậu phộng hữu cơ và đậu phộng rang trên khay gỗ.
 
@@ -196,7 +196,7 @@ Bố cục dọc 9:16, chụp ảnh thương mại thực phẩm cao cấp, họ
 
 Tác giả：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Bài gốc](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Chờ phân phối
 
 **Tóm tắt:** Bức chân dung hai nguyên tố của một người đàn ông Nam Á với một bên là tia nước bùng nổ và bên kia là ngọn lửa rực sáng.
 
@@ -223,7 +223,7 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 Tác giả：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Bài gốc](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
 
 **Tóm tắt:** Chân dung điện ảnh của một người đàn ông mặc áo len màu be với ánh sáng viền vàng ấm áp trên nền tâm trạng.
 
@@ -249,7 +249,7 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 Tác giả：[@harboriis](https://x.com/harboriis) · [Bài gốc](https://x.com/harboriis/status/2097185580224491672)
 
-Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Phương tiện · Quang cảnh thành phố / Đường phố · Tóm tắt / Bối cảnh · Đã xuất bản
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Phương tiện · Quang cảnh thành phố / Đường phố · Tóm tắt / Bối cảnh · Chờ phân phối
 
 **Tóm tắt:** Ảnh chân dung thời trang dạo phố mang phong cách cổ điển thập niên 90, chàng trai tựa vào chiếc xe cổ của Mỹ với hậu cảnh là bức tường đô thị Oakland phong hóa.
 
@@ -275,13 +275,39 @@ Tạo một bức ảnh thời trang dạo phố chụp cho tạp chí theo khun
 
 ## Chủ nghĩa tối giản
 
+<a name="prompt-2097204639863287913"></a>
+
+### Đang dịch
+
+Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2097204639863287913)
+
+Áp phích / Tờ rơi · Chủ nghĩa tối giản · Nhân vật · Tóm tắt / Bối cảnh · Chờ phân phối
+
+Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096838519918596234)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097204639863287913-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097204639863287913-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2096807576168169628"></a>
 
 ### Dựa trên ảnh tải lên để tạo áp phích biên tập chia đôi 3:4, nửa trên giữ nguyên ảnh gốc, nửa dưới chuyển thành tranh vẽ tay tối giản khổ nhỏ.
 
 Tác giả：[@Sairah\_0](https://x.com/Sairah_0) · [Bài gốc](https://x.com/Sairah_0/status/2096807576168169628)
 
-Áp phích / Tờ rơi · Minh họa · Chủ nghĩa tối giản · Đã xuất bản
+Áp phích / Tờ rơi · Minh họa · Chủ nghĩa tối giản · Chờ phân phối
 
 **Tóm tắt:** Dựa trên ảnh tải lên để tạo áp phích biên tập chia đôi 3:4, nửa trên giữ nguyên ảnh gốc, nửa dưới chuyển thành tranh vẽ tay tối giản khổ nhỏ.
 
@@ -309,7 +335,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 Tác giả：[@Lianaalane](https://x.com/Lianaalane) · [Bài gốc](https://x.com/Lianaalane/status/2097157373936935051)
 
-Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Chờ phân phối
 
 **Tóm tắt:** Một người phụ nữ Hàn Quốc và một bé gái đội khăn hijab thưởng thức cà phê tại quán cà phê ngoài trời trong giờ vàng, được trang trí bằng các hình vẽ nguệch ngoạc bằng tay.
 
@@ -326,3 +352,5 @@ Một cô gái Hàn Quốc với mái tóc dài màu nâu sẫm mềm mại đan
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

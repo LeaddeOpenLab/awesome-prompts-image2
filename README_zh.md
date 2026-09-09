@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**10** 条内容 · 最新收录: **2026-09-08**
+**11** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-摄影 · 人像 / 自拍 · 角色 · 已推流
+摄影 · 人像 / 自拍 · 角色 · 待推流
 
 **概括:** 伫立于黄昏浅滩、身裹湿润半透明白布的女性写实肖像摄影提示词。
 
@@ -78,7 +78,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2096809673378967588)
 
-摄影 · 人像 / 自拍 · 角色 · 已推流
+摄影 · 人像 / 自拍 · 角色 · 待推流
 
 **概括:** 站在黑色宝马前摆姿势的时髦女性逼真 9:16 肖像。
 
@@ -100,7 +100,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@sha\_zdiii](https://x.com/sha_zdiii) · [查看 X 原帖](https://x.com/sha_zdiii/status/2096601368114937969)
 
-摄影 · 时尚单品 · 已推流
+摄影 · 时尚单品 · 待推流
 
 **概括:** 超逼真奢华时尚大片，身着象牙白斗篷套装的金发模特在暖米色摄影棚内与纯白骏马同框出镜。
 
@@ -124,7 +124,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096631729410986083)
 
-摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 摘要 / 背景 · 已推流
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 摘要 / 背景 · 待推流
 
 查看 X 原帖：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -166,7 +166,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [查看 X 原帖](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-摄影 · 食品 / 饮料 · 已推流
+摄影 · 食品 / 饮料 · 待推流
 
 **概括:** 明亮现代厨房中的商业美食摄影场景，展现了叠放的粉色莓果奶昔罐、一罐有机花生酱以及木制托盘上的烤花生。
 
@@ -198,7 +198,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [查看 X 原帖](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-摄影 · 人像 / 自拍 · 角色 · 已推流
+摄影 · 人像 / 自拍 · 角色 · 待推流
 
 **概括:** 南亚男性的双元素肖像，一侧是迸溅的水花，另一侧是炽热的烈焰。
 
@@ -225,7 +225,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [查看 X 原帖](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-电影 / 电影剧照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+电影 / 电影剧照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 待推流
 
 **概括:** 穿着米色毛衣的男士电影感肖像，在深沉氛围背景下带有温暖的金黄色轮廓光。
 
@@ -251,7 +251,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@harboriis](https://x.com/harboriis) · [查看 X 原帖](https://x.com/harboriis/status/2097185580224491672)
 
-摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 已推流
+摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 待推流
 
 **概括:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
@@ -277,13 +277,39 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ## 极简主义
 
+<a name="prompt-2097204639863287913"></a>
+
+### 翻译中
+
+作者：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2097204639863287913)
+
+海报 / 传单 · 极简主义 · 角色 · 摘要 / 背景 · 待推流
+
+查看 X 原帖：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096838519918596234)
+
+**概括:** 翻译中
+
+<img src="images/2097204639863287913-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097204639863287913-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2096807576168169628"></a>
 
 ### 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
 作者：[@Sairah\_0](https://x.com/Sairah_0) · [查看 X 原帖](https://x.com/Sairah_0/status/2096807576168169628)
 
-海报 / 传单 · 插画 · 极简主义 · 已推流
+海报 / 传单 · 插画 · 极简主义 · 待推流
 
 **概括:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
@@ -311,7 +337,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2097157373936935051)
 
-人像 / 自拍 · 角色 · 食品 / 饮料 · 已推流
+人像 / 自拍 · 角色 · 食品 / 饮料 · 待推流
 
 **概括:** 在黄金时刻，一位韩国女性和一位戴希贾布的小女孩在户外咖啡馆享用咖啡，周围装饰着手绘涂鸦。
 
@@ -328,3 +354,5 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

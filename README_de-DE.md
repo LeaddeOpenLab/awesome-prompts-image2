@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**10** Prompts · Zuletzt hinzugefügt: **2026-09-08**
+**11** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
 **Zusammenfassung:** Fotografischer Porträt-Prompt einer Frau, die in der Abenddämmerung im seichten Wasser steht und in ein nasses, durchscheinendes weißes Tuch gehüllt ist.
 
@@ -78,7 +78,7 @@ Den weißen Stoff nicht undurchsichtig machen; Mondsichel und Sonnenuntergang ni
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
 **Zusammenfassung:** Fotorealistisches 9:16-Porträt einer stilvollen Frau, die vor einem schwarzen BMW posiert.
 
@@ -100,7 +100,7 @@ Erstelle ein fotorealistisches 9:16-Bild einer stilvollen jungen Frau, die selbs
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Originalbeitrag](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografie · Modeartikel · Veröffentlicht
+Fotografie · Modeartikel · Verteilung ausstehend
 
 **Zusammenfassung:** Ultrarealistisches Luxus-Fashion-Editorial mit einem blonden Model in einem elfenbeinfarbenen Umhang-Outfit, das mit einem reinweißen Pferd in einem warmen beigen Studio posiert.
 
@@ -124,7 +124,7 @@ Ultrarealistisches Luxus-Fashion-Editorial in einem minimalistischen, warmen bei
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografie · Porträt / Selfie · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Verteilung ausstehend
 
 Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +164,7 @@ Die Beleuchtung kombiniert warmweißes, ins Goldene übergehendes Kerzenlicht mi
 
 Autor：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Originalbeitrag](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografie · Essen / Trinken · Veröffentlicht
+Fotografie · Essen / Trinken · Verteilung ausstehend
 
 **Zusammenfassung:** Kommerzielle Food-Fotografie-Szene in einer hellen modernen Küche mit gestapelten Gläsern rosa Beerensmoothie, einem Glas Bio-Erdnussbutter und gerösteten Erdnüssen auf einem Servierbrett aus Holz.
 
@@ -196,7 +196,7 @@ Vertikale 9:16-Komposition, erstklassige kommerzielle Food-Fotografie, realistis
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Originalbeitrag](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
 **Zusammenfassung:** Doppel-Element-Porträt eines südasiatischen Mannes, geteilt mit hervorbrechenden Wasserspritzern auf der einen Seite und glühendem Feuer auf der anderen.
 
@@ -223,7 +223,7 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Originalbeitrag](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Kinematisch / Filmstill · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
 
 **Zusammenfassung:** Filmisches Porträt eines Mannes im beigen Pullover mit warmem goldenem Streiflicht vor einem stimmungsvollen Hintergrund.
 
@@ -249,7 +249,7 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 Autor：[@harboriis](https://x.com/harboriis) · [Originalbeitrag](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Stadtbild / Straße · Zusammenfassung / Hintergrund · Veröffentlicht
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Stadtbild / Straße · Zusammenfassung / Hintergrund · Verteilung ausstehend
 
 **Zusammenfassung:** 90er-Jahre Retro-Streetwear-Porträtaufnahme, Mann lehnt an einem US-Oldtimer, im Hintergrund eine verwitterte Wand in Oakland.
 
@@ -277,13 +277,39 @@ Ganzkörperkomposition, Kamera auf niedriger Augenhöhe, 35mm-Objektiv, warme fi
 
 ## Minimalismus
 
+<a name="prompt-2097204639863287913"></a>
+
+### Übersetzung läuft
+
+Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2097204639863287913)
+
+Plakat / Flyer · Minimalismus · Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
+
+Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096838519918596234)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097204639863287913-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097204639863287913-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2096807576168169628"></a>
 
 ### Erstelle basierend auf hochgeladenen Fotos ein zweigeteiltes 3:4-Editorial-Poster: Die obere Hälfte bewahrt das Originalfoto originalgetreu, die untere Hälfte wird zu einer kleinen, minimalistischen, handgezeichneten Illustration.
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Originalbeitrag](https://x.com/Sairah_0/status/2096807576168169628)
 
-Plakat / Flyer · Illustration · Minimalismus · Veröffentlicht
+Plakat / Flyer · Illustration · Minimalismus · Verteilung ausstehend
 
 **Zusammenfassung:** Erstelle basierend auf hochgeladenen Fotos ein zweigeteiltes 3:4-Editorial-Poster: Die obere Hälfte bewahrt das Originalfoto originalgetreu, die untere Hälfte wird zu einer kleinen, minimalistischen, handgezeichneten Illustration.
 
@@ -331,7 +357,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2097157373936935051)
 
-Porträt / Selfie · Charakter · Essen / Trinken · Veröffentlicht
+Porträt / Selfie · Charakter · Essen / Trinken · Verteilung ausstehend
 
 **Zusammenfassung:** Eine koreanische Frau und ein junges Mädchen im Hidschab genießen während der goldenen Stunde Kaffee in einem Straßencafé, verziert mit handgezeichneten Doodles.
 
@@ -348,3 +374,5 @@ Ein koreanisches Mädchen mit langem, weichem, dunkelbraunem Haar sitzt während
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

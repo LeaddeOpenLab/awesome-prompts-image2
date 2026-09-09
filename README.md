@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-08**
+**11** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Photography · Portrait / Selfie · Character · Published
+Photography · Portrait / Selfie · Character · Pending distribution
 
 **Summary:** A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
 
@@ -78,7 +78,7 @@ Do not make the white cloth opaque; do not omit the crescent moon and the sunset
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2096809673378967588)
 
-Photography · Portrait / Selfie · Character · Published
+Photography · Portrait / Selfie · Character · Pending distribution
 
 **Summary:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
@@ -100,7 +100,7 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 Author：[@sha\_zdiii](https://x.com/sha_zdiii) · [Source](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Photography · Fashion Item · Published
+Photography · Fashion Item · Pending distribution
 
 **Summary:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
@@ -124,7 +124,7 @@ Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A gl
 
 Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096631729410986083)
 
-Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Published
+Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Pending distribution
 
 Source：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +164,7 @@ Shot on an 85mm portrait lens, authentic photographic texture, high-end finished
 
 Author：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Source](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Photography · Food / Drink · Published
+Photography · Food / Drink · Pending distribution
 
 **Summary:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
@@ -196,7 +196,7 @@ Vertical 9:16 composition, premium commercial food photography, realistic textur
 
 Author：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Source](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Photography · Portrait / Selfie · Character · Published
+Photography · Portrait / Selfie · Character · Pending distribution
 
 **Summary:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
@@ -223,7 +223,7 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 Author：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Source](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Published
+Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Pending distribution
 
 **Summary:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
@@ -249,7 +249,7 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 
 Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2097185580224491672)
 
-Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Published
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Pending distribution
 
 **Summary:** 90s vintage streetwear editorial portrait of a man leaning against a classic American car with a weathered Oakland urban wall in the background.
 
@@ -275,13 +275,48 @@ Create an ultra realistic vertical 9:16 editorial streetwear photograph of a you
 
 ## Minimalism
 
+<a name="prompt-2097204639863287913"></a>
+
+### Oriental Zen New Chinese-Style Woman Lattice Window Poster Wallpaper Prompt, featuring a color palette of jade cyan, rose red, and warm white.
+
+Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2097204639863287913)
+
+Poster / Flyer · Minimalism · Character · Abstract / Background · Pending distribution
+
+Source：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096838519918596234)
+
+**Summary:** Oriental Zen New Chinese-Style Woman Lattice Window Poster Wallpaper Prompt, featuring a color palette of jade cyan, rose red, and warm white.
+
+<img src="images/2097204639863287913-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097204639863287913-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Theme Direction: Oriental Zen minimalist cover poster
+Style Branch: Feminine aesthetic New Chinese style
+Subject Content: A classical-style woman standing in front of a lattice window, with a quiet and reserved posture
+Emotional Motif: Elegant, gentle, sense of light luxury
+Scene and Imagery: Jade-cyan lattice window, rose-red flower shadows, warm white wall, woman, minimal light gold details
+Composition and Space: 9:16 vertical composition, lattice window in the upper-middle section, figure in the lower-middle section, with a clean title area preserved at the top
+Color Control: Warm white as a bright base, jade-cyan used for the lattice window and minimal background structures, rose-red for flower shadows and localized accents, light gold only for a tiny amount of accessory highlights, character clothing in pearl white or pale pink-white; avoid the entire image being jade-cyan or rose-red
+Light and Texture: Soft natural light, vivid and translucent colors, clean graphic poster feel
+Aspect Ratio: 9:16
+Supplementary Requirements: Overall, it must convey a high-aesthetic New Chinese cover feel, exquisite without being over-decorated
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2096807576168169628"></a>
 
 ### Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
 Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / Flyer · Illustration · Minimalism · Published
+Poster / Flyer · Illustration · Minimalism · Pending distribution
 
 **Summary:** Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
@@ -309,7 +344,7 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portrait / Selfie · Character · Food / Drink · Published
+Portrait / Selfie · Character · Food / Drink · Pending distribution
 
 **Summary:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
@@ -326,3 +361,5 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
+
+Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
