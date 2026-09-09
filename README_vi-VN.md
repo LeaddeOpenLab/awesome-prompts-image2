@@ -1161,7 +1161,7 @@ Tham khảo nhân vật trong ảnh, tạo 9 biểu cảm meme khác nhau xếp 
 
 <a name="prompt-2097631043004273061"></a>
 
-### Đang dịch
+### Hoạt hình Cristiano Ronaldo đang ăn shawarma.
 
 Tác giả：[@royalpinto007](https://x.com/royalpinto007) · [Bài gốc](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1169,14 +1169,14 @@ Khác · Đã xuất bản
 
 Bài gốc：[@gabrielchua](https://x.com/gabrielchua) · [Bài gốc](https://x.com/gabrielchua/status/2097546354373603554)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hoạt hình Cristiano Ronaldo đang ăn shawarma.
 
 <img src="covers/2097631043004273061.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cristiano Ronaldo đang ăn shawarma
 ```
 
 [↑ Về danh mục](#catalog)

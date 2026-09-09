@@ -1163,7 +1163,7 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 
 <a name="prompt-2097631043004273061"></a>
 
-### 翻译中
+### 克里斯蒂亚诺·罗纳尔多吃沙威玛的动画。
 
 作者：[@royalpinto007](https://x.com/royalpinto007) · [查看 X 原帖](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1171,14 +1171,14 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 
 查看 X 原帖：[@gabrielchua](https://x.com/gabrielchua) · [查看 X 原帖](https://x.com/gabrielchua/status/2097546354373603554)
 
-**概括:** 翻译中
+**概括:** 克里斯蒂亚诺·罗纳尔多吃沙威玛的动画。
 
 <img src="covers/2097631043004273061.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+克里斯蒂亚诺·罗纳尔多吃沙威玛
 ```
 
 [↑ 返回分类目录](#catalog)
