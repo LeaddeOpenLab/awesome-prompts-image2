@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**52** Prompt · Son eklenen: **2026-09-09**
+**53** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -500,6 +500,30 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097716825668702388"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Orijinal gönderi](https://x.com/KrishnaBio1/status/2097716825668702388)
+
+Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097716825668702388-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097716825668702388-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097676144141312095"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**52** Prompts · Latest addition: **2026-09-09**
+**53** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -498,6 +498,55 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097716825668702388"></a>
+
+### Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop combining Istanbul and alpine European lake village elements.
+
+Author：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Source](https://x.com/KrishnaBio1/status/2097716825668702388)
+
+Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop combining Istanbul and alpine European lake village elements.
+
+<img src="images/2097716825668702388-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097716825668702388-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.
+
+SCENE
+Combine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.
+
+Create a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.
+
+SUNSET & LIGHTING
+Beautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.
+
+ANIMATION
+Create 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.
+
+Keep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.
+
+STYLE
+Ultra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.
+
+CAMERA
+Wide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.
+
+ANIMATION SETTINGS
+16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.
+
+NEGATIVE PROMPT
+cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097676144141312095"></a>
 

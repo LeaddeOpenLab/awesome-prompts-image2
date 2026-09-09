@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**52** Prompts · Dernier ajout: **2026-09-09**
+**53** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -490,6 +490,30 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097716825668702388"></a>
+
+### Traduction en cours
+
+Auteur：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Publication originale](https://x.com/KrishnaBio1/status/2097716825668702388)
+
+Image cinématographique / Photogramme de film · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097716825668702388-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097716825668702388-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097676144141312095"></a>
 
