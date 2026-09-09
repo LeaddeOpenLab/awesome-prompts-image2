@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:44:38.072Z",
+  "model": "image2",
+  "prompt": "Create a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined.",
+  "promptTranslations": {
+    "en": "Create a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.",
+  "summaryEn": "Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097284686448046135",
+    "canonicalUrl": "https://x.com/Naiknelofar788/status/2097284686448046135",
+    "author": {
+      "username": "Naiknelofar788",
+      "displayName": "simeon-sanai",
+      "profileUrl": "https://x.com/Naiknelofar788"
+    },
+    "publishedAt": "2026-09-08T11:23:29.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "GPT image 2\n\nMinimal Hand-Art Structure \n\nPrompt\n\nCreate a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsNTGzbAAAJKUV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsNTGzbAAAJKUV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsNTG0aYAEwpJF.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsNTG0aYAEwpJF.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsNTG3aIAAX4MN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsNTG3aIAAX4MN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRsNTG3bkAAGEVt.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRsNTG3bkAAGEVt.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 157,
+      "repostCount": 22,
+      "replyCount": 23,
+      "quoteCount": 2,
+      "viewCount": 6876
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Naiknelofar788/status/2097284686448046135",
+  "coverUrl": "https://pbs.twimg.com/media/HRsNTGzbAAAJKUV.jpg",
+  "coverPath": "images/2097284686448046135-1.jpg",
+  "imagePaths": [
+    "images/2097284686448046135-1.jpg",
+    "images/2097284686448046135-2.jpg",
+    "images/2097284686448046135-3.jpg",
+    "images/2097284686448046135-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRsNTGzbAAAJKUV",
+    "x-image:/media/HRsNTG0aYAEwpJF",
+    "x-image:/media/HRsNTG3aIAAX4MN",
+    "x-image:/media/HRsNTG3bkAAGEVt",
+    "x-post:2097284686448046135"
+  ],
+  "analysis": {
+    "summary": "Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.",
+    "summaryEn": "Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images directly match the requested ink-and-pencil travel journal style, ivory paper texture, and handwritten structural annotations across landmarks."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined.",
+    "sourceRange": {
+      "start": 50,
+      "end": 529
+    },
+    "translations": {
+      "zh": "在暖象牙色纸张上创作一幅 [STRUCTURE] 的极简手绘建筑艺术画。将建筑呈现为简约优雅的墨水速写，带有干净但略显拙朴的线条、微妙的铅笔阴影、细小的手写注释以及少量精致的建筑细节。保持构图通透留白充足，采用柔和的大地色调与纸张肌理，营造真实的手工旅行手帐质感。无照片级写实，无繁重细节与杂乱——简约、艺术且典雅。",
+      "en": "Create a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
