@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**44** Prompt · Bổ sung mới nhất: **2026-09-09**
+**45** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1026,6 +1026,32 @@ Infographic / Hình ảnh giáo dục · Chủ nghĩa tối giản · Đã xuấ
 
 ```text
 Sử dụng hình ảnh này để tạo một đồ họa thông tin (infographic) hướng dẫn xem chỉ tay hoàn chỉnh. Chú ý đến các đường vân trên lòng bàn tay, đánh dấu các đường chỉ tay quan trọng, tiến hành phân tích chỉ tay chi tiết và trình bày nội dung luận giải trên nền màu trắng ngà (off-white), tổng thể mang phong cách biên tập tạp chí sạch sẽ, tối giản và thanh lịch, sang trọng. Sử dụng các đường nét mảnh mai, các thẻ bo tròn góc và khoảng trắng tinh tế để tạo cảm giác cao cấp đắt giá. Tập trung làm nổi bật nội dung giải đoán chỉ tay.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Đang dịch
+
+Tác giả：[@catgirlcozy](https://x.com/catgirlcozy) · [Bài gốc](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097622528340668736-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

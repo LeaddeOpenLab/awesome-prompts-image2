@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**44** Prompts · Adição mais recente: **2026-09-09**
+**45** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1014,6 +1014,32 @@ Infográfico / Visual Educacional · Minimalismo · Publicado
 
 ```text
 Utilize esta imagem para gerar um infográfico completo com um guia de leitura de quiromancia. Preste atenção às linhas da palma, identifique as principais linhas da mão, realize uma análise detalhada de quiromancia e apresente as interpretações sobre um fundo branco-marfim, com um estilo editorial de revista limpo, minimalista e luxuoso. Use linhas finas, cartões com cantos arredondados e espaços em branco cuidados para criar uma textura sofisticada e de alta qualidade. Destaque a leitura da quiromancia em si.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Tradução em curso
+
+Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicação original](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalismo · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097622528340668736-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

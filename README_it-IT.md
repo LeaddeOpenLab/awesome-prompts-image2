@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**44** Prompt · Ultima aggiunta: **2026-09-09**
+**45** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1004,6 +1004,32 @@ Infografica / Contenuto Visual Educativo · Minimalismo · Pubblicato
 
 ```text
 Usa questa immagine per generare un'infografica completa con una guida alla lettura della chiromanzia. Fai attenzione alle linee del palmo, etichetta le linee chiave della mano, esegui un'analisi chiromantica dettagliata e presenta le interpretazioni su uno sfondo bianco panna, con uno stile editoriale da rivista pulito, minimalista ed elegante. Usa linee sottili, schede con angoli arrotondati e uno spazio bianco curato per creare una sensazione di lusso raffinato ed esclusivo. Metti in risalto l'interpretazione chiromantica stessa.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Traduzione in corso
+
+Autore：[@catgirlcozy](https://x.com/catgirlcozy) · [Post originale](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalismo · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097622528340668736-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

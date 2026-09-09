@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**44** Prompts · Última incorporación: **2026-09-09**
+**45** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1028,6 +1028,32 @@ Infografía / Visual Educativo · Minimalismo · Publicado
 
 ```text
 Usa esta imagen para generar una infografía completa de guía de quiromancia e interpretación de las líneas de la mano. Presta atención a las líneas de la palma, marca las líneas clave de la mano, realiza un análisis detallado de quiromancia y presenta el contenido de la lectura sobre un fondo blanco roto (off-white), con un estilo editorial de revista limpio, minimalista y lujosamente elegante. Utiliza líneas finas, tarjetas con esquinas redondeadas y un espacio en blanco sofisticado para evocar una textura cara y de alta gama. Enfócate principalmente en la interpretación quiromántica en sí.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Traducción en curso
+
+Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicación original](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalismo · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097622528340668736-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

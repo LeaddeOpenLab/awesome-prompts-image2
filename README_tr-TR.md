@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**44** Prompt · Son eklenen: **2026-09-09**
+**45** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1014,6 +1014,32 @@ Yazar：[@hahazwei](https://x.com/hahazwei) · [Orijinal gönderi](https://x.com
 
 ```text
 Bu görseli kullanarak eksiksiz bir el falı yorumlama rehberi infografiği oluşturun. Avuç içindeki çizgilere dikkat edin, temel avuç içi çizgilerini etiketleyin, ayrıntılı bir el falı analizi yapın ve yorumları kırık beyaz bir arka plan üzerinde, temiz, minimalist ve lüks bir dergi editoryal tarzında sunun. Pahalı ve üst düzey bir doku hissi yaratmak için ince çizgiler, yuvarlatılmış köşeli kartlar ve özenli boşluklar kullanın. Vurguyu el falı yorumunun kendisine verin.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@catgirlcozy](https://x.com/catgirlcozy) · [Orijinal gönderi](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalizm · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097622528340668736-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

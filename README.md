@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**44** Prompts · Latest addition: **2026-09-09**
+**45** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1000,6 +1000,32 @@ Infographic / Edu Visual · Minimalism · Published
 
 ```text
 Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, conduct a detailed palmistry analysis, and present the interpretation against an off-white background, overall adopting a clean, minimalist, and luxurious magazine editorial style. Use slender fine lines, rounded cards, and deliberate negative space to create an expensive, sophisticated aesthetic. Keep the primary focus on the palmistry reading itself.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Realistic high-angle portrait of a young East Asian woman in a pink bikini in front of a minimalist gray background.
+
+Author：[@catgirlcozy](https://x.com/catgirlcozy) · [Source](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalism · Portrait / Selfie · Character · Abstract / Background · Published
+
+**Summary:** Realistic high-angle portrait of a young East Asian woman in a pink bikini in front of a minimalist gray background.
+
+<img src="images/2097622528340668736-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Top-down 35-degree high-angle shot, a young realistic East Asian woman with reddish-brown hair facing the camera, with both hands behind her head, elbows spread wide, showing a bright, genuine, toothy smile, hands clasped behind her head. She is wearing a pink string bikini and a delicate gold necklace, standing barefoot in front of a minimalist gray concrete background. Soft indoor natural light, realistic-textured lifestyle portrait snapshot style
 ```
 
 [↑ Back to categories](#catalog)

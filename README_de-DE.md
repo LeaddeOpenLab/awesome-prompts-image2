@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**44** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**45** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1004,6 +1004,32 @@ Infografik / Edu Visual · Minimalismus · Veröffentlicht
 
 ```text
 Verwende dieses Bild, um eine vollständige Infografik als Leitfaden zur Handlesekunst zu erstellen. Achte auf die Linien auf der Handfläche, beschrifte die wichtigsten Handlinien, führe eine detaillierte Handlese-Analyse durch und präsentiere die Deutungen auf einem cremeweißen Hintergrund in einem sauberen, minimalistischen und luxuriösen Magazin-Editorial-Stil. Verwende feine Linien, abgerundete Karten und wohlüberlegten Leerraum, um eine edle, hochwertige Ästhetik zu schaffen. Hebe die Deutung der Handlesekunst selbst hervor.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Übersetzung läuft
+
+Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Originalbeitrag](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalismus · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097622528340668736-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

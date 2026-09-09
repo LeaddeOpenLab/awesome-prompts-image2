@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**44** Prompts · Última incorporación: **2026-09-09**
+**45** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1004,6 +1004,32 @@ Infografía / Visual educativo · Minimalismo · Publicado
 
 ```text
 Usa esta imagen para generar una infografía completa de guía de lectura de quiromancia. Presta atención a las líneas de la palma, etiqueta las líneas clave, realiza un análisis quiromántico detallado y presenta las interpretaciones sobre un fondo color blanco hueso, con un estilo editorial de revista limpio, minimalista y lujoso en general. Utiliza líneas finas, tarjetas con esquinas redondeadas y un espacio en blanco refinado para crear una textura sofisticada y de alta gama. Enfócate principalmente en la lectura quiromántica en sí.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Traducción en curso
+
+Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicación original](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalismo · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097622528340668736-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

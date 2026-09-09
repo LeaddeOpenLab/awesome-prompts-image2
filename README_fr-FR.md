@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**44** Prompts · Dernier ajout: **2026-09-09**
+**45** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1004,6 +1004,32 @@ Infographie / Visuel éducatif · Minimalisme · Publié
 
 ```text
 Utilisez cette image pour générer une infographie complète servant de guide de chiromancie. Portez une attention particulière aux lignes de la paume, annotez les lignes principales, effectuez une analyse chiromantique détaillée et présentez les interprétations sur un fond blanc cassé, avec un style éditorial de magazine propre, minimaliste et luxueux. Utilisez des lignes fines, des cartes aux coins arrondis et un espace blanc soigné pour créer une texture haut de gamme et raffinée. Mettez l'accent sur la lecture chiromantique elle-même.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097622528340668736"></a>
+
+### Traduction en cours
+
+Auteur：[@catgirlcozy](https://x.com/catgirlcozy) · [Publication originale](https://x.com/catgirlcozy/status/2097622528340668736)
+
+Minimalisme · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097622528340668736-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097622528340668736-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097622528340668736-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
