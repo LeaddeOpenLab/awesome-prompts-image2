@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:27:59.851Z",
+  "model": "image2",
+  "prompt": "A photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution.",
+  "promptTranslations": {
+    "en": "A photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution."
+  },
+  "summaryTranslations": {
+    "en": "Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt."
+  },
+  "translationVersion": 2,
+  "summary": "Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.",
+  "summaryEn": "Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096805553339342932",
+    "canonicalUrl": "https://x.com/Aqsahere_/status/2096805553339342932",
+    "author": {
+      "username": "Aqsahere_",
+      "displayName": "Aqsa",
+      "profileUrl": "https://x.com/Aqsahere_"
+    },
+    "publishedAt": "2026-09-07T03:39:35.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "Produced by GPT image 2\n\nPrompt:\nA photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlZhfLasAEC3g4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlZhfLasAEC3g4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlZiI-bYAABS3E.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlZiI-bYAABS3E.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 105,
+      "repostCount": 1,
+      "replyCount": 43,
+      "quoteCount": 0,
+      "viewCount": 3000
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aqsahere_/status/2096805553339342932",
+  "coverUrl": "https://pbs.twimg.com/media/HRlZhfLasAEC3g4.jpg",
+  "coverPath": "images/2096805553339342932-1.jpg",
+  "imagePaths": [
+    "images/2096805553339342932-1.jpg",
+    "images/2096805553339342932-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRlZhfLasAEC3g4",
+    "x-image:/media/HRlZiI-bYAABS3E",
+    "x-post:2096805553339342932"
+  ],
+  "analysis": {
+    "summary": "Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.",
+    "summaryEn": "Nighttime street portrait of a smiling young woman in a cream textured jacket and pleated skirt.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the subject, cream outfit with dark trim, pose, black handbag, and nighttime city street setting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution.",
+    "sourceRange": {
+      "start": 33,
+      "end": 823
+    },
+    "translations": {
+      "zh": "一张写实的年轻女子夜间街头肖像。她站在热闹的城市街道上，身穿带有精细花卉细节、装饰蝴蝶结、深色镶边和珍珠质感纽扣的精致米色纹理夹克，搭配同款百褶裙。她留着深棕色柔顺长发，妆容自然柔和，面带微笑对着镜头，手在脸颊旁摆出可爱的动作，手臂上挎着一只黑色小手提包。背景中温暖的路灯、发光的店面、过往的汽车和骑自行车的人营造出充满活力的都市夜晚氛围。背景带有轻微动态模糊，柔和的环境光，抓拍智能手机摄影风格，自然皮肤纹理，浅景深，优雅舒适美感，真实细节，竖构图，高分辨率。",
+      "en": "A photorealistic nighttime street portrait of a young woman standing on a lively city street, wearing a delicate cream-colored textured jacket with tiny floral details, decorative bows, dark trim, and pearl-like buttons, paired with a matching pleated skirt. She has long straight dark brown hair and natural soft makeup, smiling gently at the camera while making a playful hand gesture near her face. A small black handbag hangs from her arm. Warm streetlights, glowing storefronts, passing cars, and a cyclist create a vibrant urban night atmosphere in the background. Slight motion blur on the background, soft ambient lighting, candid smartphone photography, natural skin texture, shallow depth of field, cozy elegant aesthetic, realistic details, vertical composition, high resolution."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
