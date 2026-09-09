@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]",
   "promptTranslations": {
-    "en": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]"
+    "en": "Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT DESCRIPTION]",
+    "zh": "为位于 [国家，城市] 的 [建筑物名称] 创作一个高级可爱的微缩3D立体模型。保持地标的高辨识度、优雅与迷人魅力，构图简洁，采用柔和的粉彩色调、精致的手工细节、温和的自然光照，以及高雅的旅行纪念品美学风格。\n\n包含极简、高雅的文字：\n[建筑物名称]\n[国家，城市]\n著名特色：[简短描述]",
+    "zh-TW": "為位於 [國家，城市] 的 [建築物名稱] 創作一個高級可愛的微縮3D立體模型。保持地標的高辨識度、優雅與迷人魅力，構圖簡潔，採用柔和的粉彩色調、精緻的手工細節、溫和的自然光照，以及高雅的旅行紀念品美學風格。\n\n包含極簡、高雅的文字：\n[建築物名稱]\n[國家，城市]\n著名特色：[簡短描述]",
+    "ja-JP": "[国, 都市] の [建造物名] の、プレミアムでかわいいミニチュア3Dジオラマを作成してください。ランドマークの特徴がはっきりとわかり、エレガントで魅力的な外観を保ち、すっきりとした構図、柔らかなパステルトーン、繊細な手作りのディテール、穏やかな自然光、洗練された旅行土産の美学を取り入れてください。\n\n控えめで上品なテキストを含めてください：\n[建造物名]\n[国, 都市]\n有名な理由：[短い説明]",
+    "ko-KR": "[국가, 도시]의 [건축물 이름]을(를) 고급스럽고 귀여운 미니어처 3D 디오라마로 제작해 주세요. 랜드마크를 쉽게 알아볼 수 있고 우아하며 매력적으로 유지하면서 깔끔한 구도, 부드러운 파스텔 톤, 은은한 수공예 디테일, 온화한 자연광, 세련된 여행 기념품 감성을 담아내세요.\n\n최소한의 품격 있는 텍스트를 포함하세요:\n[건축물 이름]\n[국가, 도시]\n유명한 이유: [짧은 설명]",
+    "th-TH": "สร้างดิโอรามา 3 มิติขนาดจิ๋วสุดพรีเมียมน่ารักของ [ชื่อสิ่งก่อสร้าง], [เมือง, ประเทศ] ให้แลนด์มาร์กยังคงจดจำได้ง่าย สง่างาม และมีเสน่ห์ ด้วยการจัดองค์ประกอบภาพที่สะอาดตา โทนสีพาสเทลนุ่มนวล รายละเอียดงานฝีมือประณีต แสงธรรมชาติที่อ่อนโยน และสุนทรียศาสตร์ของของที่ระลึกจากการเดินทางอันประณีต\n\nใส่ข้อความเรียบง่ายอย่างมีรสนิยม:\n[ชื่อสิ่งก่อสร้าง]\n[เมือง, ประเทศ]\nมีชื่อเสียงด้าน: [คำอธิบายสั้นๆ]",
+    "vi-VN": "Tạo một mô hình sa bàn 3D thu nhỏ cao cấp, dễ thương về [TÊN CÔNG TRÌNH], [THÀNH PHỐ, QUỐC GIA]. Giữ cho địa danh dễ nhận biết, thanh lịch và duyên dáng, với bố cục gọn gàng, tông màu pastel nhẹ nhàng, các chi tiết thủ công tinh tế, ánh sáng tự nhiên êm dịu và tính thẩm mỹ tinh xảo của một món quà lưu niệm du lịch.\n\nBao gồm văn bản tối giản, trang nhã:\n[TÊN CÔNG TRÌNH]\n[THÀNH PHỐ, QUỐC GIA]\nNổi tiếng về: [MÔ TẢ NGẮN GỌN]",
+    "hi-IN": "[शहर, देश] के [संरचना का नाम] का एक प्रीमियम प्यारा लघु 3D डायओरामा बनाएं। लैंडमार्क को पहचानने योग्य, सुरुचिपूर्ण और आकर्षक रखें, जिसमें साफ-सुथरी संरचना, हल्के पेस्टल रंग, सूक्ष्म हस्तनिर्मित विवरण, सौम्य प्राकृतिक प्रकाश और एक परिष्कृत यात्रा-स्मारिका सौंदर्य हो।\n\nन्यूनतम, सुरुचिपूर्ण पाठ शामिल करें:\n[संरचना का नाम]\n[शहर, देश]\nप्रसिद्धि का कारण: [संक्षिप्त विवरण]",
+    "es-ES": "Crea un diorama 3D en miniatura, prémium y adorable, de [NOMBRE DE LA ESTRUCTURA], [CIUDAD, PAÍS]. Mantén el monumento reconocible, elegante y encantador, con una composición limpia, tonos pastel suaves, sutiles detalles artesanales, iluminación natural suave y una refinada estética de recuerdo de viaje.\n\nIncluye texto minimalista y de buen gusto:\n[NOMBRE DE LA ESTRUCTURA]\n[CIUDAD, PAÍS]\nFamoso por: [BREVE DESCRIPCIÓN]"
   },
   "summaryTranslations": {
-    "en": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text."
+    "en": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
+    "zh": "创作一个带有纪念品铭牌文字的地标高级可爱微缩3D立体模型。",
+    "zh-TW": "創作一個帶有紀念品銘牌文字的地標高級可愛微縮3D立體模型。",
+    "ja-JP": "お土産の飾り板テキストが付いた、ランドマークのプレミアムでかわいいミニチュア3Dジオラマを作成する。",
+    "ko-KR": "기념품 명판 텍스트가 포함된 랜드마크의 고급스럽고 귀여운 미니어처 3D 디오라마 제작.",
+    "th-TH": "สร้างดิโอรามา 3 มิติขนาดจิ๋วสุดพรีเมียมน่ารักของแลนด์มาร์กพร้อมข้อความป้ายของที่ระลึก",
+    "vi-VN": "Tạo một mô hình sa bàn 3D thu nhỏ cao cấp, dễ thương về một địa danh kèm văn bản biển lưu niệm.",
+    "hi-IN": "स्मारिका पट्टिका पाठ के साथ एक लैंडमार्क का प्रीमियम प्यारा लघु 3D डायओरामा बनाएं।",
+    "es-ES": "Crea un diorama 3D en miniatura, prémium y adorable, de un monumento con texto de placa de recuerdo."
   },
   "translationVersion": 2,
   "summary": "Create a premium cute miniature 3D diorama of a landmark with souvenir plaque text.",
