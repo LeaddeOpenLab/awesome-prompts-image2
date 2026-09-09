@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:20:57.341Z",
+  "model": "image2.5",
+  "prompt": "生成一张图片，讲讲上下五千年的历史",
+  "promptTranslations": {
+    "en": "Generate an image that tells the story of five thousand years of history"
+  },
+  "summaryTranslations": {
+    "en": "Generate an illustrated long infographic image of five thousand years of Chinese history"
+  },
+  "translationVersion": 2,
+  "summary": "生成中国五千年历史图解长图",
+  "summaryEn": "Generate an infographic depicting 5,000 years of Chinese history",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097665256424349855",
+    "canonicalUrl": "https://x.com/cnyzgkc/status/2097665256424349855",
+    "author": {
+      "username": "cnyzgkc",
+      "displayName": "木马人",
+      "profileUrl": "https://x.com/cnyzgkc"
+    },
+    "publishedAt": "2026-09-09T12:35:44.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "GPT Image 2.5 有点颠啊~\n\nPrompt：生成一张图片，讲讲上下五千年的历史 https://t.co/7HH1wKAfsS",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxnOSqbAAEJa0V.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxnOSqbAAEJa0V.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 1307
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/cnyzgkc/status/2097665256424349855",
+  "coverUrl": "https://pbs.twimg.com/media/HRxnOSqbAAEJa0V.jpg",
+  "coverPath": "images/2097665256424349855-1.jpg",
+  "imagePaths": [
+    "images/2097665256424349855-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxnOSqbAAEJa0V",
+    "x-post:2097665256424349855"
+  ],
+  "analysis": {
+    "summary": "生成中国五千年历史图解长图",
+    "summaryEn": "Generate an infographic depicting 5,000 years of Chinese history",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展现了从远古传说至现代中国的9个历史时期信息长图，完全贴合Prompt描述的历史主题。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "生成一张图片，讲讲上下五千年的历史",
+    "sourceRange": {
+      "start": 28,
+      "end": 45
+    },
+    "translations": {
+      "zh": "生成一张图片，讲讲上下五千年的历史",
+      "en": "Generate an image that tells the five-thousand-year history of China"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "中华上下五千年历史信息图表",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
