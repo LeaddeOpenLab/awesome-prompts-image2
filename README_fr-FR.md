@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**18** Prompts · Dernier ajout: **2026-09-09**
+**19** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2097411028510179759"></a>
+
+### Traduction en cours
+
+Auteur：[@mark\_k](https://x.com/mark_k) · [Publication originale](https://x.com/mark_k/status/2097411028510179759)
+
+Photographie · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097411028510179759-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2096901566985068734"></a>
 

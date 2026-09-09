@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**18** Prompts · Latest addition: **2026-09-09**
+**19** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097411028510179759"></a>
+
+### High-definition landscape photo prompt of a forest clearing with dense green foliage.
+
+Author：[@mark\_k](https://x.com/mark_k) · [Source](https://x.com/mark_k/status/2097411028510179759)
+
+Photography · Landscape / Nature · Published
+
+**Summary:** High-definition landscape photo prompt of a forest clearing with dense green foliage.
+
+<img src="images/2097411028510179759-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096901566985068734"></a>
 
