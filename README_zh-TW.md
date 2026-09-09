@@ -1573,20 +1573,20 @@ App / 網站設計 · 已推流
 
 <a name="prompt-2097765578161418569"></a>
 
-### 翻譯中
+### 高中男女身體互換場景的生成提示詞。
 
 作者：[@irekawarimaniax](https://x.com/irekawarimaniax) · [查看 X 原帖](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 角色 · 已推流
 
-**概括:** 翻譯中
+**概括:** 高中男女身體互換場景的生成提示詞。
 
 <img src="images/2097765578161418569-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+畫一幅高中男女靈魂互換的單格漫畫場景
 ```
 
 [↑ 返回分類目錄](#catalog)

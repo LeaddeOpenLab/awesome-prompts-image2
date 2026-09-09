@@ -1571,20 +1571,20 @@ Utilisez l'image jointe comme référence pour le schéma photographique. Conser
 
 <a name="prompt-2097765578161418569"></a>
 
-### Traduction en cours
+### Prompt de génération d'une scène d'échange de corps entre un lycéen et une lycéenne.
 
 Auteur：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publication originale](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'une scène d'échange de corps entre un lycéen et une lycéenne.
 
 <img src="images/2097765578161418569-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Dessine une case représentant l'échange de corps entre un lycéen et une lycéenne
 ```
 
 [↑ Retour aux catégories](#catalog)

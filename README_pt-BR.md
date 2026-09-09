@@ -1556,20 +1556,20 @@ Use a imagem anexada como referência para o plano fotográfico. Mantenha a rela
 
 <a name="prompt-2097765578161418569"></a>
 
-### Tradução em andamento
+### Prompt de geração de cena de troca de corpos entre um garoto e uma garota do ensino médio.
 
 Autor：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publicação original](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de geração de cena de troca de corpos entre um garoto e uma garota do ensino médio.
 
 <img src="images/2097765578161418569-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Desenhe um quadro de mangá da troca de corpos entre um garoto e uma garota do ensino médio
 ```
 
 [↑ Voltar às categorias](#catalog)

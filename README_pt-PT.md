@@ -1556,20 +1556,20 @@ Use a imagem em anexo como referência para o plano fotográfico. Mantenha a rel
 
 <a name="prompt-2097765578161418569"></a>
 
-### Tradução em curso
+### Prompt de geração para uma cena de troca de corpos entre um rapaz e uma rapariga do ensino secundário.
 
 Autor：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publicação original](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de geração para uma cena de troca de corpos entre um rapaz e uma rapariga do ensino secundário.
 
 <img src="images/2097765578161418569-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Desenha uma vinheta da troca de corpos entre um rapaz e uma rapariga do ensino secundário
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1573,20 +1573,20 @@ Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương á
 
 <a name="prompt-2097765578161418569"></a>
 
-### Đang dịch
+### Prompt tạo cảnh hoán đổi thân xác giữa nam và nữ sinh trung học phổ thông.
 
 Tác giả：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Bài gốc](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt tạo cảnh hoán đổi thân xác giữa nam và nữ sinh trung học phổ thông.
 
 <img src="images/2097765578161418569-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vẽ một khung truyện tranh về cảnh hoán đổi thân xác giữa một nam và một nữ sinh trung học phổ thông
 ```
 
 [↑ Về danh mục](#catalog)

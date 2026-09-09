@@ -1571,20 +1571,20 @@ Usa la imagen adjunta como referencia del esquema fotográfico. Mantén su relac
 
 <a name="prompt-2097765578161418569"></a>
 
-### Traducción en curso
+### Prompt de generación para una escena de intercambio de cuerpos entre un chico y una chica de preparatoria.
 
 Autor：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publicación original](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación para una escena de intercambio de cuerpos entre un chico y una chica de preparatoria.
 
 <img src="images/2097765578161418569-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Dibuja una viñeta del intercambio de cuerpos entre un chico y una chica de preparatoria
 ```
 
 [↑ Volver a categorías](#catalog)

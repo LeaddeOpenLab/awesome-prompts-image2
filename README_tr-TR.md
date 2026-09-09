@@ -1556,20 +1556,20 @@ Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisin
 
 <a name="prompt-2097765578161418569"></a>
 
-### Çeviri sürüyor
+### Liseli bir kız ve erkeğin beden değişimi sahnesi için oluşturma istemi.
 
 Yazar：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Orijinal gönderi](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Liseli bir kız ve erkeğin beden değişimi sahnesi için oluşturma istemi.
 
 <img src="images/2097765578161418569-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Liseli bir kız ve erkeğin beden değişimi yaptığı bir manga karesi çiz
 ```
 
 [↑ Kategorilere dön](#catalog)

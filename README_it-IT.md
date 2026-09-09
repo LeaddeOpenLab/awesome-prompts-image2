@@ -1571,20 +1571,20 @@ Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rap
 
 <a name="prompt-2097765578161418569"></a>
 
-### Traduzione in corso
+### Prompt di generazione per una scena di scambio di corpi tra studenti delle superiori maschio e femmina.
 
 Autore：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Post originale](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di generazione per una scena di scambio di corpi tra studenti delle superiori maschio e femmina.
 
 <img src="images/2097765578161418569-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Disegna una vignetta sullo scambio di corpi tra un ragazzo e una ragazza delle superiori
 ```
 
 [↑ Torna alle categorie](#catalog)

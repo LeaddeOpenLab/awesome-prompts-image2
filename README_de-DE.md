@@ -1571,20 +1571,20 @@ Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Bel
 
 <a name="prompt-2097765578161418569"></a>
 
-### Übersetzung läuft
+### Generierungs-Prompt für eine Körpertausch-Szene zwischen einem Oberschüler und einer Oberschülerin.
 
 Autor：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Originalbeitrag](https://x.com/irekawarimaniax/status/2097765578161418569)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generierungs-Prompt für eine Körpertausch-Szene zwischen einem Oberschüler und einer Oberschülerin.
 
 <img src="images/2097765578161418569-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zeichne ein Manga-Panel über den Körpertausch zwischen einem Oberschüler und einer Oberschülerin
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
