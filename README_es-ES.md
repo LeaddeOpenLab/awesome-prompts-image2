@@ -1036,13 +1036,13 @@ Usa esta imagen para generar una infografía completa de guía de quiromancia e 
 
 <a name="prompt-2097622528340668736"></a>
 
-### Traducción en curso
+### Retrato realista en plano picado de una joven mujer de Asia oriental en bikini rosa frente a un fondo gris minimalista.
 
 Autor：[@catgirlcozy](https://x.com/catgirlcozy) · [Publicación original](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Minimalismo · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato realista en plano picado de una joven mujer de Asia oriental en bikini rosa frente a un fondo gris minimalista.
 
 <img src="images/2097622528340668736-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1053,7 +1053,7 @@ Minimalismo · Retrato / Selfie · Personaje · Resumen / Antecedentes · Public
 **Prompt**
 
 ```text
-Traducción en curso
+Toma en ángulo picado de 35 grados, una mujer joven y realista de Asia oriental con cabello castaño rojizo, de frente a la cámara, con las manos detrás de la cabeza, los codos abiertos, mostrando una sonrisa brillante y sincera con los dientes visibles, manos detrás de la cabeza. Lleva un bikini de tiras rosa y un fino collar de oro, descalza frente a un fondo minimalista de hormigón gris. Luz natural interior suave, estilo de instantánea de retrato de estilo de vida con textura realista
 ```
 
 [↑ Volver a categorías](#catalog)

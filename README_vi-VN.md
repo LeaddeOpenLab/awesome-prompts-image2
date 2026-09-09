@@ -1034,13 +1034,13 @@ Sử dụng hình ảnh này để tạo một đồ họa thông tin (infograph
 
 <a name="prompt-2097622528340668736"></a>
 
-### Đang dịch
+### Chân dung chân thực chụp từ góc cao của một phụ nữ trẻ Đông Á mặc bikini màu hồng trước nền bê tông xám tối giản.
 
 Tác giả：[@catgirlcozy](https://x.com/catgirlcozy) · [Bài gốc](https://x.com/catgirlcozy/status/2097622528340668736)
 
 Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung chân thực chụp từ góc cao của một phụ nữ trẻ Đông Á mặc bikini màu hồng trước nền bê tông xám tối giản.
 
 <img src="images/2097622528340668736-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1051,7 +1051,7 @@ Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Nhân vật · T�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Góc chụp từ trên cao chúc xuống 35 độ, một người phụ nữ Đông Á trẻ trung chân thực với mái tóc màu nâu đỏ, đối diện ống kính, hai tay đặt sau đầu, khuỷu tay mở rộng, để lộ nụ cười rạng rỡ, chân thành hé răng, hai tay ôm sau đầu. Cô mặc bộ bikini dây màu hồng và đeo vòng cổ vàng mảnh, đứng chân trần trước bức tường bê tông xám tối giản. Ánh sáng tự nhiên dịu nhẹ trong nhà, phong cách ảnh chụp nhanh chân dung đời thường với kết cấu chân thực
 ```
 
 [↑ Về danh mục](#catalog)
