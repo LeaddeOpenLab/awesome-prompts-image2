@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:28:15.058Z",
+  "model": "image2.5",
+  "prompt": "Cristiano Ronaldo eating shawarma",
+  "promptTranslations": {
+    "en": "Cristiano Ronaldo eating shawarma"
+  },
+  "summaryTranslations": {
+    "en": "Cristiano Ronaldo eating shawarma animation."
+  },
+  "translationVersion": 2,
+  "summary": "Cristiano Ronaldo eating shawarma animation.",
+  "summaryEn": "Cristiano Ronaldo eating shawarma animation.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097546354373603554",
+      "canonicalUrl": "https://x.com/gabrielchua/status/2097546354373603554",
+      "author": {
+        "username": "gabrielchua",
+        "displayName": "Gabriel Chua",
+        "profileUrl": "https://x.com/gabrielchua"
+      },
+      "originalText": "Will Smith eating spaghetti\n\nby GPT Image 2.5 https://t.co/Xxer4bsFVw"
+    },
+    "id": "2097631043004273061",
+    "canonicalUrl": "https://x.com/royalpinto007/status/2097631043004273061",
+    "author": {
+      "username": "royalpinto007",
+      "displayName": "Royal",
+      "profileUrl": "https://x.com/royalpinto007"
+    },
+    "publishedAt": "2026-09-09T10:19:47.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "en",
+    "originalText": "Cristiano Ronaldo eating shawarma\n\nGPT Image 2.5 Sunburst frames\nAstra stitched it https://t.co/PzJ9Q3aXjz",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/royalpinto007/status/2097631043004273061",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097630838397751296/img/FcEiKglZQYS9pR6Z.jpg",
+        "analysisUrl": "https://x.com/royalpinto007/status/2097631043004273061"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/royalpinto007/status/2097631043004273061",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097546026123235328/img/9oF7d_xZT29YCm4Y.jpg",
+        "analysisUrl": "https://x.com/royalpinto007/status/2097631043004273061",
+        "sourcePostId": "2097546354373603554"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 486
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/royalpinto007/status/2097631043004273061",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097630838397751296/img/FcEiKglZQYS9pR6Z.jpg",
+  "coverPath": "covers/2097631043004273061.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097630838397751296",
+    "x-video:2097546026123235328",
+    "x-post:2097631043004273061",
+    "x-post:2097546354373603554"
+  ],
+  "analysis": {
+    "summary": "Cristiano Ronaldo eating shawarma animation.",
+    "summaryEn": "Cristiano Ronaldo eating shawarma animation.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches claymation Cristiano Ronaldo holding and eating shawarma."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cristiano Ronaldo eating shawarma",
+    "sourceRange": {
+      "start": 0,
+      "end": 33
+    },
+    "translations": {
+      "zh": "克里斯蒂亚诺·罗纳尔多吃沙威玛",
+      "en": "Cristiano Ronaldo eating shawarma"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-video",
+    "useCase": "Animation generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Cristiano Ronaldo"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
