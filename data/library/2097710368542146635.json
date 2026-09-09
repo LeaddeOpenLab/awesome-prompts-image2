@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:21:43.378Z",
+  "model": "image2.5",
+  "prompt": "生成一张清明节气海报",
+  "promptTranslations": {
+    "en": "Generate a Qingming solar term poster"
+  },
+  "summaryTranslations": {
+    "en": "Generate a Qingming solar term themed poster."
+  },
+  "translationVersion": 2,
+  "summary": "生成清明节气主题海报。",
+  "summaryEn": "Generate a Qingming Festival poster.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096740511612797206",
+      "canonicalUrl": "https://x.com/shitunote/status/2096740511612797206",
+      "author": {
+        "username": "shitunote",
+        "displayName": "马识途",
+        "profileUrl": "https://x.com/shitunote"
+      },
+      "originalText": "实测：GPT‑6 Astra VS Claude Fable 5.1\n\n这两天OpenAI 正式推出其最强旗舰模型 GPT‑6 Astra ！\n\nGPT‑6 Astra 是为复杂 Agent 工作流打造的，擅长推理、编码、Computer Use 操作和深度调研，还能把一堆杂乱零散的原始需求梳理成可交付文档。它主打多步骤链式任务，可以联动代码环境、浏览器以及各类专业软件。不管是全仓库 Debug、浏览器自动化调研，或是把碎片化、逻辑混乱的原始需求梳理成一份可直接使用的交付文档，都能胜任。模型还优化了输出的 Token 消耗，处理同等任务时，单任务预估成本比旧版模型更低，对经常跑 Agent 自动化任务的开发者很友好。\n\nAI圈炸锅了！不少人说： Astra已经实现了AGI。相信不少开发者都想迫不及待的使用一下。\n\n但很多开发者会遇到现实难题：直接对接 OpenAI 官方 API，会面临账号风控、访问链路不稳定、配置流程繁琐等一系列麻烦。不要慌，条条大路通罗马！ZenMux 已经第一时间完成 GPT‑6 Astra 上线支持，不用折腾复杂账号环境，降低上手门槛，你可以直接在 ZenMux 上体验、测试这一新模型能力。同一个 API Key 还可以自由切换不同模型，方便做横向效果、Token 消耗对比，迁移过来只需要修改 BaseURL。\n\n以下是我第一时间通过ZenMux测试的GPT‑6 Astra VS Claude Fable 5.1在生成黑洞展示（相关提示词见评论区，左边为Astra生成的，右边为Fable 5.1生成的）效果的对比，可以发现Astra生成的效果确实更好。\n\n现在 ZenMux 同步开启限时充值福利，活动有效期 7 天，每个账号仅限参与一次：\n\n.充值 $50，到账 $70，赠送 $20 额度\n\n.充值 $100，到账 $150，赠送 $50 额度\n\n如果你正在做 Agent 开发、代码工程调试、自动化研究类项目，可以趁着现在ZenMux的活动上手GPT‑6 Astra，将其加入你的agent工作流：https://t.co/ebGhtHNuU9"
+    },
+    "id": "2097710368542146635",
+    "canonicalUrl": "https://x.com/shitunote/status/2097710368542146635",
+    "author": {
+      "username": "shitunote",
+      "displayName": "马识途",
+      "profileUrl": "https://x.com/shitunote"
+    },
+    "publishedAt": "2026-09-09T15:35:00.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "OpenAI的GPT-Image-2.5发布了，ZenMux也及时上线了这个生图模型\n\n以下视频演示用ZenMux的模型PK功能对比 Image-2.5 和 Image 2.0 生成图片的效果，提示词很简单：生成一张清明节气海报 \n\n这轮对比，Image-2.5略胜一筹 \n\nZenMux模型pk功能有点意思",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/shitunote/status/2097710368542146635",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097709712276086784/img/xAImwZOSwiaAB7eZ.jpg",
+        "analysisUrl": "https://x.com/shitunote/status/2097710368542146635"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/shitunote/status/2097710368542146635",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096739189022957568/img/E2R-1Q1WniGvUdT_.jpg",
+        "analysisUrl": "https://x.com/shitunote/status/2097710368542146635",
+        "sourcePostId": "2096740511612797206"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/shitunote/status/2097710368542146635",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096739327997087745/img/BsXC15fYvvFkVJnR.jpg",
+        "analysisUrl": "https://x.com/shitunote/status/2097710368542146635",
+        "sourcePostId": "2096740511612797206"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 113
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/shitunote/status/2097710368542146635",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097709712276086784/img/xAImwZOSwiaAB7eZ.jpg",
+  "coverPath": "covers/2097710368542146635.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097709712276086784",
+    "x-video:2096739189022957568",
+    "x-video:2096739327997087745",
+    "x-post:2097710368542146635",
+    "x-post:2096740511612797206"
+  ],
+  "analysis": {
+    "summary": "生成清明节气主题海报。",
+    "summaryEn": "Generate a Qingming Festival poster.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频演示中输入此提示词直接生成了符合清明主题的中国风海报，与画面完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "生成一张清明节气海报",
+    "sourceRange": {
+      "start": 104,
+      "end": 114
+    },
+    "translations": {
+      "zh": "生成一张清明节气海报",
+      "en": "Generate a Qingming Festival poster"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "节日海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
