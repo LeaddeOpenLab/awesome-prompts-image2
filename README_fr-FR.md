@@ -30,20 +30,42 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097269715966230876"></a>
 
-### Traduction en cours
+### Prompt de portrait photographique d'une femme debout dans des hauts-fonds au crépuscule, vêtue d'un tissu blanc mouillé et translucide.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photographique d'une femme debout dans des hauts-fonds au crépuscule, vêtue d'un tissu blanc mouillé et translucide.
 
 <img src="images/2097269715966230876-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Le blanc translucide de la lune du soir
+
+Sujet :
+Photographie verticale en pied dans les hauts-fonds rocheux au crépuscule, avec une femme adulte debout au centre de l'image, drapée de la poitrine jusqu'aux pieds d'un tissu blanc translucide et mouillé.
+
+Personne et expression :
+Visage incliné vers le coin inférieur droit de l'image, regard également baissé vers la main tenant le tissu, affichant une expression sereine proche du profil. Contour du visage fin et ovale, yeux allongés baissés, arête du nez fine et lèvres pâles entrouvertes. Cheveux brun foncé mouillés descendant sous les épaules avec une raie sur le côté, de fines mèches collées aux joues et au cou.
+
+Tenue et pose :
+Un tissu fin blanc drapé depuis la poitrine comme une longue robe bustier, avec des drapés obliques superposés sur le buste et les jambes. Debout pieds nus dans les hauts-fonds, elle laisse pendre son bras droit le long du corps, pince de la main gauche le tissu devant sa hanche et avance légèrement une jambe.
+
+Arrière-plan et lumière :
+Un mince croissant de lune dans le ciel bleu-violet en haut à gauche de l'image, un coucher de soleil orange sur l'horizon droit, et la surface de la mer ainsi que des rochers noirs dans la moitié inférieure. Le soleil couchant bas, à l'arrière-plan droit, borde d'or le tissu mouillé et le corps, tandis que la face avant est baignée d'une douce lueur crépusculaire bleue.
+
+Composition et appareil photo :
+Composition verticale au format 3:4, photographie en pied prise de face en biais avec l'appareil photo placé légèrement plus bas que la taille. Le sujet occupe une place prépondérante au centre, la moitié supérieure accueille le ciel du soir et le croissant de lune, et le bord inférieur englobe l'ourlet mouillé et les pieds. Mise au point sur le sujet et le tissu translucide, arrière-plan lointain légèrement flou.
+
+Texture et style :
+Photographie réaliste photoréaliste. Rendu précis du tissu fin et mouillé épousant la peau, de minuscules gouttelettes d'eau, des reflets sur les rochers et la surface de l'eau, ainsi que des dégradés du crépuscule orangé et bleu-violet.
+
+Négatif :
+Ne pas rendre le tissu blanc opaque ; ne pas omettre le croissant de lune et le coucher de soleil
 ```
 
 [↑ Retour aux catégories](#catalog)

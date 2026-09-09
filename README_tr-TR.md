@@ -30,20 +30,42 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097269715966230876"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta sığ sularda duran, ıslak ve yarı saydam beyaz bir kumaşa bürünmüş bir kadının fotoğrafik portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta sığ sularda duran, ıslak ve yarı saydam beyaz bir kumaşa bürünmüş bir kadının fotoğrafik portre istemi.
 
 <img src="images/2097269715966230876-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tema:
+Akşam ayının yarı saydam beyazı
+
+Özne:
+Alacakaranlıkta sığ kayalık sularda, kadrajın ortasında duran, göğsünden ayaklarına kadar ıslak, yarı saydam beyaz bir kumaşa sarılmış yetişkin bir kadının tam boy dikey fotoğrafı.
+
+Kişi ve İfade:
+Yüzü ekranın sağ alt tarafına doğru eğik, bakışları kumaşı tutan eline indirilmiş, neredeyse profile yakın sakin bir ifade. İnce oval yüz hatları, aşağıya bakan çekik gözler, ince bir burun kemeri, hafifçe aralanmış soluk dudaklar. Yandan ayrılmış, omuzların altına inen ıslak koyu kahverengi saçlar, yanaklara ve boyna yapışmış ince tutamlar.
+
+Kıyafet ve Duruş:
+Göğüsten itibaren sarılmış askısız uzun bir elbise şeklinde ince beyaz kumaş; gövde ve bacaklar üzerinde üst üste binen çapraz dökümler. Sığ suda çıplak ayakla dururken kendi sağ kolunu gövdesinin yanına doğru indirmiş, sol eliyle kalçasının önündeki kumaşı tutmuş ve bir bacağını hafifçe öne doğru uzatmış.
+
+Arka Plan ve Işık:
+Kadrajın sol üstündeki mavi-mor gökyüzünde ince bir hilal, sağ ufukta turuncu bir gün batımı, alt yarıda ise deniz yüzeyi ve siyah kayalar. Kadrajın sağ arka tarafındaki alçak akşam güneşi, ıslak kumaşı ve vücudu altın sarısı bir hatla çevrelerken, ön cephe yumuşak mavi bir alacakaranlık ışığı alır.
+
+Kompozisyon ve Kamera:
+3:4 dikey kompozisyon, kameranın bel hizasının biraz altına yerleştirildiği verev cepheden tam boy fotoğraf. Kişi merkezde büyük yer kaplar, üst yarıda akşam gökyüzü ile hilal, alt kenarda ise ıslak kumaş ucu ve ayaklar yer alır. Odak kişi ve yarı saydam kumaşta, uzak arka plan hafifçe bulanıktır.
+
+Doku ve Stil:
+Fotogerçekçi canlı çekim fotoğraf. Islanarak tene yapışan ince kumaş, ince su damlacıkları, kayalardaki ve su yüzeyindeki yansımalar ile turuncu ve mavi-mor gün batımı ton geçişleri ayrıntılı bir şekilde yakalanmıştır.
+
+Negatif:
+Beyaz kumaşı opak yapma; hilali ve gün batımını çıkarma
 ```
 
 [↑ Kategorilere dön](#catalog)

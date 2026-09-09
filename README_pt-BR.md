@@ -30,20 +30,42 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097269715966230876"></a>
 
-### Tradução em andamento
+### Prompt de retrato fotográfico de uma mulher de pé em águas rasas ao entardecer, envolta em um tecido branco molhado e translúcido.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato fotográfico de uma mulher de pé em águas rasas ao entardecer, envolta em um tecido branco molhado e translúcido.
 
 <img src="images/2097269715966230876-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+O branco translúcido da lua vespertina
+
+Indivíduo:
+Fotografia vertical de corpo inteiro nas águas rasas de recifes ao entardecer, com uma mulher adulta de pé no centro do quadro, envolta do peito aos pés em um tecido branco molhado e translúcido.
+
+Pessoa e expressão:
+Rosto inclinado em direção ao canto inferior direito da imagem, com o olhar também voltado para baixo em direção à mão que segura o tecido, exibindo uma expressão serena próxima ao perfil. Contorno facial oval e fino, olhos amendoados e baixos, ponte nasal estreita e lábios claros ligeiramente entreabertos. Cabelos castanho-escuros molhados caindo abaixo dos ombros com risca lateral, com mechas finas grudadas nas bochechas e no pescoço.
+
+Vestuário e pose:
+Um tecido fino branco em formato de vestido longo sem alças enrolado a partir do busto, com drapeados diagonais sobrepostos no tronco e nas pernas. De pés descalços nas águas rasas, ela mantém o braço direito abaixado junto ao corpo, segura o tecido à frente do quadril com a mão esquerda e projeta uma perna levemente para a frente.
+
+Fundo e iluminação:
+No céu azul-arroxeado no canto superior esquerdo da imagem há uma fina lua crescente, no horizonte à direita um pôr do sol alaranjado, e na metade inferior a superfície do mar e rochas negras. O sol poente baixo, atrás e à direita do quadro, contorna o tecido molhado e o corpo com uma borda dourada, enquanto a parte frontal recebe uma suave luz azul crepuscular.
+
+Composição e câmera:
+Composição vertical 3:4, fotografia de corpo inteiro em ângulo oblíquo frontal com a câmera posicionada ligeiramente abaixo do nível da cintura. A pessoa ganha grande destaque no centro, com o céu crepuscular e a lua crescente na metade superior, e a barra molhada e os pés na borda inferior. Foco nítido na pessoa e no tecido translúcido, com o fundo distante levemente desfocado.
+
+Textura e estilo:
+Fotografia fotorrealista de cena real. Retrata com precisão o tecido fino e molhado colado à pele, gotículas de água detalhadas, reflexos nas rochas e na superfície da água, e os gradientes do entardecer em tons de laranja e azul-arroxeado.
+
+Negativo:
+Não tornar o tecido branco opaco; não omitir a lua crescente e o pôr do sol
 ```
 
 [↑ Voltar às categorias](#catalog)

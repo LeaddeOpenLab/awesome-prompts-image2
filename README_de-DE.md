@@ -30,20 +30,42 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097269715966230876"></a>
 
-### Übersetzung läuft
+### Fotografischer Porträt-Prompt einer Frau, die in der Abenddämmerung im seichten Wasser steht und in ein nasses, durchscheinendes weißes Tuch gehüllt ist.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotografischer Porträt-Prompt einer Frau, die in der Abenddämmerung im seichten Wasser steht und in ein nasses, durchscheinendes weißes Tuch gehüllt ist.
 
 <img src="images/2097269715966230876-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Das durchscheinende Weiß des Abendmonds
+
+Motiv:
+Ein vertikales Ganzkörperfoto in den seichten felsigen Gewässern der Abenddämmerung, mit einer erwachsenen Frau, die in der Bildmitte steht und von der Brust bis zu den Füßen in einen nassen, durchscheinenden weißen Stoff gehüllt ist.
+
+Person und Gesichtsausdruck:
+Das Gesicht ist zur unteren rechten Bildseite geneigt, der Blick ist ebenfalls auf die Hand gesenkt, die den Stoff hält, mit einem ruhigen, fast profilartigen Ausdruck. Zarte ovale Gesichtsform, gesenkte, längliche Augen, ein feiner Nasenrücken und leicht geöffnete, blasse Lippen. Nasses, dunkelbraunes Haar, das über die Schultern reicht, mit Seitenscheitel und dünnen Strähnen, die an Wangen und Hals kleben.
+
+Kleidung und Pose:
+Ein dünner, weißer Stoff ist wie ein langes, trägerloses Kleid ab der Brust um den Körper gewickelt, wobei sich diagonale Drapierungen über Torso und Beine legen. Barfuß im seichten Wasser stehend, lässt sie ihren rechten Arm seitlich am Körper herabhängen, greift mit der linken Hand vor der Hüfte nach dem Stoff und stellt ein Bein leicht nach vorne.
+
+Hintergrund und Licht:
+Eine feine Mondsichel am blauvioletten Himmel oben links im Bild, ein orangefarbener Sonnenuntergang am rechten Horizont und in der unteren Hälfte die Meeresoberfläche und schwarze Felsen. Die tief stehende Abendsonne hinten rechts im Bild säumt den nassen Stoff und den Körper golden ein, während die Vorderseite von sanftem, blauem Dämmerungslicht erhellt wird.
+
+Komposition und Kamera:
+3:4-Hochformat, Ganzkörperaufnahme schräg von vorne mit einer Kamera, die knapp unterhalb der Hüfthöhe positioniert ist. Die Person steht groß in der Mitte, die obere Hälfte zeigt den Abendhimmel und die Mondsichel, der untere Rand fängt den nassen Saum und die Füße ein. Schärfefokus auf Person und durchscheinenden Stoff, ferner Hintergrund leicht unscharf.
+
+Textur und Stil:
+Fotorealistisches Echtfoto. Fängt den dünnen, nassen Stoff, der sich an die Haut schmiegt, winzige Wassertropfen, Reflexionen auf Felsen und Wasseroberfläche sowie die Farbverläufe der Abenddämmerung in Orange und Blauviolett detailgetreu ein.
+
+Negativ:
+Den weißen Stoff nicht undurchsichtig machen; Mondsichel und Sonnenuntergang nicht weglassen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -30,20 +30,42 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097269715966230876"></a>
 
-### Traduzione in corso
+### Prompt per ritratto fotografico di una donna in piedi nelle secche al tramonto, avvolta in un telo bianco bagnato e semitrasparente.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto fotografico di una donna in piedi nelle secche al tramonto, avvolta in un telo bianco bagnato e semitrasparente.
 
 <img src="images/2097269715966230876-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Il bianco traslucido della luna serale
+
+Soggetto:
+Fotografia verticale a figura intera nelle secche rocciose al tramonto, con una donna adulta in piedi al centro dell'inquadratura, avvolta dal petto fino ai piedi in un tessuto bianco bagnato e semitrasparente.
+
+Persona ed espressione:
+Volto inclinato verso la parte inferiore destra dell'inquadratura, con lo sguardo anch'esso rivolto verso il basso verso la mano che tiene il tessuto, con un'espressione calma quasi di profilo. Ovale del viso sottile, occhi allungati rivolti verso il basso, ponte nasale fine e labbra pallide leggermente dischiuse. Capelli bagnati castano scuro sotto le spalle con scriminatura laterale, con sottili ciocche appiccicate alle guance e al collo.
+
+Abbigliamento e posa:
+Un tessuto sottile bianco a mo' di lungo abito senza spalline avvolto a partire dal petto, con panneggi obliqui sovrapposti su busto e gambe. A piedi nudi nelle acque basse, lascia cadere il proprio braccio destro lungo il fianco, afferra con la mano sinistra il tessuto davanti al fianco e porta una gamba leggermente in avanti.
+
+Sfondo e luce:
+Nel cielo blu-viola in alto a sinistra dell'inquadratura c'è una sottile falce di luna, sull'orizzonte a destra un tramonto arancione, e nella metà inferiore la superficie del mare e rocce nere. Il sole basso del tramonto dietro a destra profila d'oro il tessuto bagnato e il corpo, mentre la parte frontale riceve una morbida luce crepuscolare blu.
+
+Composizione e fotocamera:
+Composizione verticale 3:4, fotografia a figura intera ripresa diagonalmente dal davanti con la fotocamera posizionata leggermente sotto l'altezza della vita. Il soggetto occupa un'ampia porzione al centro, la metà superiore accoglie il cielo serale e la falce di luna, e il bordo inferiore racchiude l'orlo bagnato e i piedi. Messa a fuoco sul soggetto e sul tessuto traslucido, sfondo lontano leggermente sfocato.
+
+Texture e stile:
+Fotografia realistica fotorealistica. Raffigura con precisione il tessuto sottile e bagnato che aderisce alla pelle, minuscole gocce d'acqua, riflessi sulle rocce e sulla superficie dell'acqua, e le gradazioni del tramonto arancione e blu-viola.
+
+Negativo:
+Non rendere opaco il tessuto bianco; non omettere la falce di luna e il tramonto
 ```
 
 [↑ Torna alle categorie](#catalog)

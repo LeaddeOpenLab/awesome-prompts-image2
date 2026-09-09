@@ -30,20 +30,42 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097269715966230876"></a>
 
-### Đang dịch
+### Prompt ảnh chân dung chụp thực tế người phụ nữ đứng giữa vùng nước nông lúc hoàng hôn, khoác tấm vải trắng bán trong suốt ướt đẫm.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chân dung chụp thực tế người phụ nữ đứng giữa vùng nước nông lúc hoàng hôn, khoác tấm vải trắng bán trong suốt ướt đẫm.
 
 <img src="images/2097269715966230876-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Sắc trắng xuyên thấu dưới ánh trăng chiều
+
+Chủ thể:
+Tại vùng nước nông ven rạn đá lúc hoàng hôn, một người phụ nữ trưởng thành đứng ở chính giữa khung hình, ảnh chụp toàn thân khổ dọc, quấn tấm vải trắng mỏng manh ướt đẫm bán trong suốt từ ngực xuống tận chân.
+
+Nhân vật và biểu cảm:
+Gương mặt nghiêng nhẹ về phía góc dưới bên phải khung hình, ánh mắt cụp xuống nhìn bàn tay đang giữ tấm vải, biểu cảm tĩnh lặng gần như góc nghiêng. Khuôn mặt trái xoan thanh tú, đôi mắt dài khép hờ, sống mũi thon, đôi môi nhạt hé mở nhẹ. Mái tóc nâu sẫm ướt dài qua vai rẽ ngôi lệch, những lọn tóc mảnh dính vào má và cổ.
+
+Trang phục và tư thế:
+Quấn tấm vải mỏng màu trắng không dây giống chiếc váy dài từ ngực, những nếp rủ chéo phủ lên thân mình và đôi chân. Đứng chân trần trong làn nước nông, tay phải buông xuôi bên hông, tay trái nhẹ nhàng túm lấy mảnh vải trước eo, một chân hơi đưa nhẹ về phía trước.
+
+Bối cảnh và ánh sáng:
+Bầu trời xanh tím ở góc trên bên trái khung hình có một vầng trăng khuyết mảnh mai, đường chân trời bên phải rực rỡ ráng chiều màu cam, nửa dưới là mặt biển và những tảng đá đen. Ánh hoàng hôn buông thấp từ phía sau bên phải khung hình viền sáng ánh vàng kim quanh thân hình và tấm vải ướt, phía trước là ánh sáng chạng vạng màu xanh lam êm dịu.
+
+Bố cục và máy ảnh:
+Bố cục dọc 3:4, máy ảnh đặt thấp hơn eo một chút chụp toàn thân góc chính diện hơi chếch. Nhân vật nổi bật ở trung tâm, nửa trên đón bầu trời chiều và trăng khuyết, mép dưới thu gọn tà váy ướt và đôi chân. Tiêu điểm lấy nét vào nhân vật và tấm vải xuyên thấu, hậu cảnh làm mờ nhẹ.
+
+Chất cảm và phong cách:
+Ảnh chụp thực tế phong cách photorealism. Thể hiện sắc nét tấm vải mỏng ướt ôm sát da thịt, những giọt nước nhỏ li ti, sự phản chiếu trên đá và mặt nước, cùng dải sắc độ hoàng hôn đan xen sắc cam và xanh tím.
+
+Tiêu cực (Negative):
+Không làm cho tấm vải trắng bị mờ đục hoàn toàn; không bỏ quên trăng khuyết và ráng chiều
 ```
 
 [↑ Về danh mục](#catalog)

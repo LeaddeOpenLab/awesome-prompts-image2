@@ -30,20 +30,42 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097269715966230876"></a>
 
-### Traducción en curso
+### Prompt para un retrato fotográfico de una mujer en las aguas poco profundas al atardecer, envuelta en una tela blanca húmeda y semitransparente.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2097269715966230876)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato fotográfico de una mujer en las aguas poco profundas al atardecer, envuelta en una tela blanca húmeda y semitransparente.
 
 <img src="images/2097269715966230876-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+El blanco translúcido bajo la luna vespertina
+
+Sujeto:
+En los bajíos de un arrecife rocoso al atardecer, una mujer adulta de pie en el centro de la imagen, fotografía de cuerpo entero en formato vertical, envuelta desde el pecho hasta los pies en una tela blanca húmeda y semitransparente.
+
+Persona y expresión:
+El rostro inclinado hacia la parte inferior derecha del encuadre, con la mirada también dirigida hacia la mano que sostiene la tela, en una expresión serena cercana al perfil. Contorno ovalado y fino, ojos rasgados entornados hacia abajo, puente nasal esbelto, labios pálidos ligeramente entreabiertos. Cabello castaño oscuro, húmedo, por debajo de los hombros y con raya al lado, con mechones finos adheridos a la mejilla y al cuello.
+
+Atuendo y pose:
+Una fina tela blanca en forma de vestido largo sin tirantes envuelta desde el pecho, con pliegues diagonales que se superponen sobre el torso y las piernas. De pie descalza en el agua poco profunda, con su brazo derecho bajado al costado del cuerpo, pellizcando la tela frente a la cintura con la mano izquierda y adelantando un poco una pierna.
+
+Fondo e iluminación:
+En el cielo azul violáceo de la parte superior izquierda se aprecia una fina luna creciente, en el horizonte derecho un atardecer anaranjado, y en la mitad inferior la superficie del mar y rocas negras. El sol poniente bajo, situado detrás a la derecha del encuadre, perfila la tela húmeda y el cuerpo con un halo dorado, mientras que el frente recibe una suave luz crepuscular azulada.
+
+Composición y cámara:
+Composición vertical 3:4, fotografía de cuerpo entero tomada en ángulo frontal oblicuo con la cámara situada ligeramente por debajo de la cintura. La figura se sitúa grande en el centro, la mitad superior capta el cielo vespertino y la luna creciente, y el borde inferior abarca el dobladillo mojado y los pies. Enfoque nítido en la persona y la tela translúcida, con el fondo ligeramente desenfocado.
+
+Textura y estilo:
+Fotografía de acción real fotorrealista. Capta con gran detalle la tela fina y mojada ceñida a la piel, las diminutas gotas de agua, los reflejos en las rocas y en la superficie del agua, así como la gradación crepuscular entre tonos anaranjados y azul violáceo.
+
+Negativo:
+No hacer que la tela blanca sea opaca; no omitir la luna creciente ni el atardecer
 ```
 
 [↑ Volver a categorías](#catalog)
