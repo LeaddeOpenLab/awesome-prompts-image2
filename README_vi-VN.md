@@ -588,13 +588,13 @@ Thêm chữ viết tay trang nhã: “A Beautiful Day” ở phía trên và “
 
 <a name="prompt-2097176979497791899"></a>
 
-### Đang dịch
+### Lời nhắc chuyển đổi ảnh thành áp phích nghệ thuật biên tập với phong cách phác thảo truyền thông hỗn hợp và bố cục tối giản.
 
 Tác giả：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Bài gốc](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chuyển đổi ảnh thành áp phích nghệ thuật biên tập với phong cách phác thảo truyền thông hỗn hợp và bố cục tối giản.
 
 <img src="images/2097176979497791899-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -603,7 +603,7 @@ Tác giả：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Bài gốc](https:
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ảnh được tải lên, xử lý mỗi hình ảnh như một bố cục độc lập riêng biệt và không bao giờ ghép nhiều ảnh lại với nhau. Sử dụng định dạng dọc tỷ lệ 3:4 nghiêm ngặt với khung vẽ được chia thành hai nửa ngang hoàn toàn bằng nhau: nửa trên phải duy trì sự thể hiện chân thực, chân dung chuẩn xác của ảnh gốc, giữ nguyên danh tính chính xác của chủ thể, các đường nét khuôn mặt, tỷ lệ, tư thế, trang phục, đồ vật, bố cục, ánh sáng, bóng đổ, tâm trạng và màu sắc tự nhiên, chỉ nâng cấp bằng cách chỉnh màu biên tập tinh tế và mở rộng môi trường liền mạch khi cần thiết; nửa dưới phải biến đổi câu chuyện trực quan thành một diễn giải nghệ thuật hoàn toàn khác biệt—một tác phẩm nghệ thuật truyền thông hỗn hợp thủ công nhỏ nhắn, được bố cục cẩn thận đặt ở giữa không gian âm màu trắng ngà ấm áp rộng lớn, chỉ chiếm không quá 10–20% phần dưới, sử dụng nét phác thảo bằng mực đầy biểu cảm, các mảng màu xếp lớp giống màu gouache, kết cấu cắt dán tinh tế, mép giấy xé, nét cọ không hoàn hảo, sợi giấy nhìn thấy được, biến thể sắc tố nhẹ nhàng và những khiếm khuyết quyến rũ mang tính con người trong khi vẫn giữ lại hình bóng, cử chỉ, đồ vật và câu chuyện cảm xúc dễ nhận biết nhất từ bức ảnh gốc. Trích xuất tối đa bốn màu sắc hài hòa chủ đạo từ mỗi bức ảnh và tái hiện lại chúng trong một bảng màu dịu nhẹ, tinh tế. Chỉ thỉnh thoảng thêm kiểu chữ biên tập nhẹ nhàng khi nó thực sự nâng tầm bố cục, chẳng hạn như tiêu đề thơ mộng, địa điểm, ngày tháng hoặc một từ đơn lẻ. Kết quả tổng thể phải mang lại cảm giác như bìa ấn phẩm nghệ thuật đương đại đáng sưu tầm—tối giản, đầy chất thơ, giàu cảm xúc xúc giác, thanh lịch, tĩnh lặng về mặt cảm xúc, độc đáo về mặt thị giác và kết nối không thể nhầm lẫn với bức ảnh gốc.
 ```
 
 [↑ Về danh mục](#catalog)
