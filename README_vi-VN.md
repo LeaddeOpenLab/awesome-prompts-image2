@@ -1156,7 +1156,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097710368542146635"></a>
 
-### Đang dịch
+### Tạo áp phích chủ đề tiết khí Thanh minh.
 
 Tác giả：[@shitunote](https://x.com/shitunote) · [Bài gốc](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1164,14 +1164,14 @@ Tác giả：[@shitunote](https://x.com/shitunote) · [Bài gốc](https://x.com
 
 Bài gốc：[@shitunote](https://x.com/shitunote) · [Bài gốc](https://x.com/shitunote/status/2096740511612797206)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo áp phích chủ đề tiết khí Thanh minh.
 
 <img src="covers/2097710368542146635.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích tiết khí Thanh minh
 ```
 
 [↑ Về danh mục](#catalog)

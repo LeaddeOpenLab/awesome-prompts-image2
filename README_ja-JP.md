@@ -1156,7 +1156,7 @@ Famous for: [短い特徴的な豆知識]
 
 <a name="prompt-2097710368542146635"></a>
 
-### 翻訳中
+### 清明の節気テーマポスターの生成。
 
 作者：[@shitunote](https://x.com/shitunote) · [元の投稿](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1164,14 +1164,14 @@ Famous for: [短い特徴的な豆知識]
 
 元の投稿：[@shitunote](https://x.com/shitunote) · [元の投稿](https://x.com/shitunote/status/2096740511612797206)
 
-**概要:** 翻訳中
+**概要:** 清明の節気テーマポスターの生成。
 
 <img src="covers/2097710368542146635.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+清明の節気ポスターを1枚生成してください
 ```
 
 [↑ カテゴリに戻る](#catalog)

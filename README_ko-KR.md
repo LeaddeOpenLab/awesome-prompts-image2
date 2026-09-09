@@ -1156,7 +1156,7 @@ Famous for: [짧고 독특한 사실]
 
 <a name="prompt-2097710368542146635"></a>
 
-### 번역 중
+### 청명 절기 주제 포스터 생성.
 
 작성자：[@shitunote](https://x.com/shitunote) · [원본 게시물](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1164,14 +1164,14 @@ Famous for: [짧고 독특한 사실]
 
 원본 게시물：[@shitunote](https://x.com/shitunote) · [원본 게시물](https://x.com/shitunote/status/2096740511612797206)
 
-**요약:** 번역 중
+**요약:** 청명 절기 주제 포스터 생성.
 
 <img src="covers/2097710368542146635.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+청명 절기 포스터 한 장 생성
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

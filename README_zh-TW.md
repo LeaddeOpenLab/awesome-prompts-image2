@@ -1156,7 +1156,7 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 <a name="prompt-2097710368542146635"></a>
 
-### 翻譯中
+### 生成清明節氣主題海報。
 
 作者：[@shitunote](https://x.com/shitunote) · [查看 X 原帖](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1164,14 +1164,14 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 查看 X 原帖：[@shitunote](https://x.com/shitunote) · [查看 X 原帖](https://x.com/shitunote/status/2096740511612797206)
 
-**概括:** 翻譯中
+**概括:** 生成清明節氣主題海報。
 
 <img src="covers/2097710368542146635.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+生成一張清明節氣海報
 ```
 
 [↑ 返回分類目錄](#catalog)

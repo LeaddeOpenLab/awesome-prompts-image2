@@ -1178,7 +1178,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097710368542146635"></a>
 
-### Traducción en curso
+### Generar un póster temático del término solar Qingming.
 
 Autor：[@shitunote](https://x.com/shitunote) · [Publicación original](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1186,14 +1186,14 @@ Póster / Folleto · Publicado
 
 Publicación original：[@shitunote](https://x.com/shitunote) · [Publicación original](https://x.com/shitunote/status/2096740511612797206)
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar un póster temático del término solar Qingming.
 
 <img src="covers/2097710368542146635.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Genera un póster del término solar Qingming
 ```
 
 [↑ Volver a categorías](#catalog)

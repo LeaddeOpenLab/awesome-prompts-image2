@@ -1156,7 +1156,7 @@ Famous for: [SHORT UNIQUE FACT]
 
 <a name="prompt-2097710368542146635"></a>
 
-### กำลังแปล
+### สร้างโปสเตอร์ในธีมเทศกาลชิงหมิง
 
 ผู้เขียน：[@shitunote](https://x.com/shitunote) · [โพสต์ต้นฉบับ](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1164,14 +1164,14 @@ Famous for: [SHORT UNIQUE FACT]
 
 โพสต์ต้นฉบับ：[@shitunote](https://x.com/shitunote) · [โพสต์ต้นฉบับ](https://x.com/shitunote/status/2096740511612797206)
 
-**สรุป:** กำลังแปล
+**สรุป:** สร้างโปสเตอร์ในธีมเทศกาลชิงหมิง
 
 <img src="covers/2097710368542146635.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-กำลังแปล
+สร้างโปสเตอร์เทศกาลชิงหมิงหนึ่งแผ่น
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
