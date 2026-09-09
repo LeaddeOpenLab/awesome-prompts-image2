@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 **Zusammenfassung:** Übersetzung läuft
 
@@ -56,7 +56,7 @@ Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 **Zusammenfassung:** Fotorealistisches 9:16-Porträt einer stilvollen Frau, die vor einem schwarzen BMW posiert.
 
@@ -78,7 +78,7 @@ Erstelle ein fotorealistisches 9:16-Bild einer stilvollen jungen Frau, die selbs
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Originalbeitrag](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografie · Modeartikel · Verteilung ausstehend
+Fotografie · Modeartikel · Veröffentlicht
 
 **Zusammenfassung:** Ultrarealistisches Luxus-Fashion-Editorial mit einem blonden Model in einem elfenbeinfarbenen Umhang-Outfit, das mit einem reinweißen Pferd in einem warmen beigen Studio posiert.
 
@@ -102,7 +102,7 @@ Ultrarealistisches Luxus-Fashion-Editorial in einem minimalistischen, warmen bei
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografie · Porträt / Selfie · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Verteilung ausstehend
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
 
 Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Die Beleuchtung kombiniert warmweißes, ins Goldene übergehendes Kerzenlicht mi
 
 Autor：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Originalbeitrag](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografie · Essen / Trinken · Verteilung ausstehend
+Fotografie · Essen / Trinken · Veröffentlicht
 
 **Zusammenfassung:** Kommerzielle Food-Fotografie-Szene in einer hellen modernen Küche mit gestapelten Gläsern rosa Beerensmoothie, einem Glas Bio-Erdnussbutter und gerösteten Erdnüssen auf einem Servierbrett aus Holz.
 
@@ -174,7 +174,7 @@ Vertikale 9:16-Komposition, erstklassige kommerzielle Food-Fotografie, realistis
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Originalbeitrag](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografie · Porträt / Selfie · Charakter · Verteilung ausstehend
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 **Zusammenfassung:** Doppel-Element-Porträt eines südasiatischen Mannes, geteilt mit hervorbrechenden Wasserspritzern auf der einen Seite und glühendem Feuer auf der anderen.
 
@@ -201,7 +201,7 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Originalbeitrag](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Kinematisch / Filmstill · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Verteilung ausstehend
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
 
 **Zusammenfassung:** Filmisches Porträt eines Mannes im beigen Pullover mit warmem goldenem Streiflicht vor einem stimmungsvollen Hintergrund.
 
@@ -223,13 +223,13 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### 90er-Jahre Retro-Streetwear-Porträtaufnahme, Mann lehnt an einem US-Oldtimer, im Hintergrund eine verwitterte Wand in Oakland.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Originalbeitrag](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Stadtbild / Straße · Zusammenfassung / Hintergrund · Verteilung ausstehend
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Stadtbild / Straße · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**Zusammenfassung:** 90er-Jahre Retro-Streetwear-Porträtaufnahme, Mann lehnt an einem US-Oldtimer, im Hintergrund eine verwitterte Wand in Oakland.
 
 <img src="images/2097185580224491672-1.jpg" alt="Bild 1" width="480" />
 
@@ -242,9 +242,9 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel �
 **Prompt**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+Erstelle ein ultra-realistisches vertikales 9:16 Editorial-Streetwear-Foto eines jungen Mannes mit dichtem, lockigem dunklem Haar, der eine schwarze Sonnenbrille trägt, ein cremefarbenes und schwarzes Oversized-Poloshirt mit auffälliger College-Schrift „OAKLAND“ und kleinerem sportlichem Text darunter, eine weite schwarze Cargohose, weiße Sneaker und eine klassische Metallarmbanduhr. Er lehnt lässig an der Front eines amerikanischen Oldtimers, die Hände in den Taschen und ein Bein über das andere geschlagen.
+Platziere die Szene in einer rauen urbanen Straße mit einem alten, verwitterten Gebäude im Hintergrund. Füge eine große, verblasste Wandtypografie mit der Aufschrift „OAKLAND“ hinzu, darunter „CALIFORNIA“ und „EST. 1852“. Warmes spätnachmittägliches Sonnenlicht, gedeckte braune und beige Farbpalette, feines Filmkorn, weiche Schatten, nostalgische Streetwear-Ästhetik der 1990er Jahre, realistische Hautstruktur, natürliche Pose, filmische Tiefenschärfe, detaillierter Oldtimer, authentische Editorial-Fotografie.
+Ganzkörperkomposition, Kamera auf niedriger Augenhöhe, 35mm-Objektiv, warme filmische Beleuchtung, fotorealistisch, detailreich, 4K.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -261,7 +261,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Originalbeitrag](https://x.com/Sairah_0/status/2096807576168169628)
 
-Plakat / Flyer · Illustration · Minimalismus · Verteilung ausstehend
+Plakat / Flyer · Illustration · Minimalismus · Veröffentlicht
 
 **Zusammenfassung:** Erstelle basierend auf hochgeladenen Fotos ein zweigeteiltes 3:4-Editorial-Poster: Die obere Hälfte bewahrt das Originalfoto originalgetreu, die untere Hälfte wird zu einer kleinen, minimalistischen, handgezeichneten Illustration.
 
@@ -309,7 +309,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Originalbeitrag](https://x.com/Lianaalane/status/2097157373936935051)
 
-Porträt / Selfie · Charakter · Essen / Trinken · Verteilung ausstehend
+Porträt / Selfie · Charakter · Essen / Trinken · Veröffentlicht
 
 **Zusammenfassung:** Eine koreanische Frau und ein junges Mädchen im Hidschab genießen während der goldenen Stunde Kaffee in einem Straßencafé, verziert mit handgezeichneten Doodles.
 
@@ -326,5 +326,3 @@ Ein koreanisches Mädchen mit langem, weichem, dunkelbraunem Haar sitzt während
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

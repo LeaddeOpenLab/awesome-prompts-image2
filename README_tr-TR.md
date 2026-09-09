@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Çeviri sürüyor
 
@@ -56,7 +56,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Siyah bir BMW'nin önünde poz veren şık bir kadının fotogerçekçi 9:16 portresi.
 
@@ -78,7 +78,7 @@ Modern bir şehir yolunda lüks siyah bir BMW'nin önünde özgüvenle poz veren
 
 Yazar：[@sha\_zdiii](https://x.com/sha_zdiii) · [Orijinal gönderi](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotoğrafçılık · Moda Ürünü · Dağıtım bekliyor
+Fotoğrafçılık · Moda Ürünü · Yayımlandı
 
 **Özet:** Sıcak bej bir stüdyoda saf beyaz bir atla poz veren, fildişi pelerinli kıyafet içindeki sarışın bir modelin yer aldığı ultra gerçekçi lüks moda editoryali.
 
@@ -102,7 +102,7 @@ Minimalist sıcak bej bir stüdyoda ultra gerçekçi lüks moda editoryali. Uzun
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Özet / Arka Plan · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Işıklandırma, hafif altın tonlu sıcak beyaz mum ışığı ile saray fenerl
 
 Yazar：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Orijinal gönderi](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotoğrafçılık · Yiyecek / İçecek · Dağıtım bekliyor
+Fotoğrafçılık · Yiyecek / İçecek · Yayımlandı
 
 **Özet:** Aydınlık ve modern bir mutfakta, ahşap sunum tahtası üzerinde pembe orman meyveli smoothie kavanozları, bir kavanoz organik fıstık ezmesi ve kavrulmuş fıstıkların yer aldığı ticari yemek fotoğrafçılığı sahnesi.
 
@@ -174,7 +174,7 @@ Dikey 9:16 kompozisyon, birinci sınıf ticari yemek fotoğrafçılığı, gerç
 
 Yazar：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Orijinal gönderi](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotoğrafçılık · Portre / Selfie · Karakter · Dağıtım bekliyor
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 **Özet:** Bir tarafında patlayan su sıçramaları, diğer tarafında parıldayan ateş bulunan iki elementli bölünmüş Güney Asyalı bir adam portresi.
 
@@ -201,7 +201,7 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 Yazar：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Orijinal gönderi](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Dağıtım bekliyor
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
 **Özet:** Kasvetli bir arka plana karşı sıcak altın kenar aydınlatmalı, bej kazaklı bir adamın sinematik portresi.
 
@@ -223,13 +223,13 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### 90'lar retro sokak modası portresi, klasik Amerikan arabasına yaslanmış bir adam, arka planda Oakland'ın yıpranmış şehir duvarı.
 
 Yazar：[@harboriis](https://x.com/harboriis) · [Orijinal gönderi](https://x.com/harboriis/status/2097185580224491672)
 
-Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Araç · Şehir Manzarası / Sokak · Özet / Arka Plan · Dağıtım bekliyor
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Araç · Şehir Manzarası / Sokak · Özet / Arka Plan · Yayımlandı
 
-**Özet:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**Özet:** 90'lar retro sokak modası portresi, klasik Amerikan arabasına yaslanmış bir adam, arka planda Oakland'ın yıpranmış şehir duvarı.
 
 <img src="images/2097185580224491672-1.jpg" alt="Görsel 1" width="480" />
 
@@ -242,9 +242,9 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ür�
 **İstem**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+Siyah güneş gözlüğü, üzerinde kalın harflerle kolej tipi “OAKLAND” yazısı ve altında daha küçük sportif metin bulunan krem ve siyah renkli oversize polo tişört, bol siyah kargo pantolon, beyaz spor ayakkabılar ve klasik metal kol saati takan, gür kıvırcık koyu renk saçlı genç bir erkeğin ultra gerçekçi dikey 9:16 editoryal sokak modası fotoğrafını oluşturun. Elleri ceplerinde, bir bacağı diğerinin üzerine atılmış şekilde klasik bir Amerikan arabasının önüne rahatça yaslanmış.
+Sahneyi, arkasında eski, yıpranmış bir bina bulunan dokulu bir şehir sokağına yerleştirin. Duvarda “OAKLAND” yazan, altında ise “CALIFORNIA” ve “EST. 1852” bulunan büyük, soluk bir tipografi ekleyin. Sıcak ikindi güneşi, mat kahverengi ve bej renk paleti, hafif film greni, yumuşak gölgeler, 1990'ların nostaljik sokak modası estetiği, gerçekçi cilt dokusu, doğal poz, sinematik alan derinliği, detaylı klasik araba, özgün editoryal fotoğrafçılık.
+Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinematik aydınlatma, fotogerçekçi, yüksek detay, 4K.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -261,7 +261,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 Yazar：[@Sairah\_0](https://x.com/Sairah_0) · [Orijinal gönderi](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / El İlanı · İllüstrasyon · Minimalizm · Dağıtım bekliyor
+Poster / El İlanı · İllüstrasyon · Minimalizm · Yayımlandı
 
 **Özet:** Yüklenen fotoğraflara göre 3:4 çift panelli editoryal poster oluşturun: Üst yarı orijinal fotoğrafı aslına sadık şekilde korur, alt yarı ise küçük ve minimal bir el çizimi illüstrasyona dönüştürülür.
 
@@ -309,7 +309,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 Yazar：[@Lianaalane](https://x.com/Lianaalane) · [Orijinal gönderi](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portre / Selfie · Karakter · Yiyecek / İçecek · Dağıtım bekliyor
+Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 
 **Özet:** Koreli bir kadın ve başörtülü küçük bir kız, altın saatte elle çizilmiş karalamalarla süslenmiş bir açık hava kafesinde kahve keyfi yapıyor.
 
@@ -326,5 +326,3 @@ Uzun, yumuşak, koyu kahverengi saçlı Koreli bir kız, ılık altın saatte sa
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

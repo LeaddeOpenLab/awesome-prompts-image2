@@ -34,7 +34,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Traduzione in corso
 
@@ -56,7 +56,7 @@ Traduzione in corso
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Ritratto fotorealistico 9:16 di una donna elegante che posa davanti a una BMW nera.
 
@@ -78,7 +78,7 @@ Crea un'immagine fotorealistica in formato 9:16 di una giovane donna elegante ch
 
 Autore：[@sha\_zdiii](https://x.com/sha_zdiii) · [Post originale](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografia · Articolo di moda · Distribuzione in attesa
+Fotografia · Articolo di moda · Pubblicato
 
 **Riepilogo:** Editoriale di moda di lusso ultra-realistico con una modella bionda con un outfit con mantello avorio che posa con un cavallo bianco puro in uno studio beige caldo.
 
@@ -102,7 +102,7 @@ Editoriale di moda di lusso ultra-realistico in uno studio minimalista beige cal
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Abstract / Contesto · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Obiettivo da ritratto 85mm, texture fotografica autentica e realistica, servizio
 
 Autore：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Post originale](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografia · Cibo / Bevande · Distribuzione in attesa
+Fotografia · Cibo / Bevande · Pubblicato
 
 **Riepilogo:** Scena di fotografia gastronomica commerciale in una luminosa cucina moderna con barattoli impilati di frullato rosa ai frutti di bosco, un barattolo di burro di arachidi biologico e arachidi tostate su un tagliere da portata in legno.
 
@@ -174,7 +174,7 @@ Composizione verticale 9:16, fotografia gastronomica commerciale di prima qualit
 
 Autore：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Post originale](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografia · Ritratto / Selfie · Personaggio · Distribuzione in attesa
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 **Riepilogo:** Ritratto a doppio elemento di un uomo sudasiatico diviso con schizzi d'acqua che esplodono da un lato e fuoco incandescente dall'altro.
 
@@ -201,7 +201,7 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 Autore：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Post originale](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Abstract / Contesto · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
 **Riepilogo:** Ritratto cinematografico di un uomo con un maglione beige con una calda luce perimetrale dorata su uno sfondo suggestivo.
 
@@ -223,13 +223,13 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### Raffinato scatto ritratto streetwear rétro anni '90, uomo appoggiato a un'auto d'epoca americana, con una parete urbana scrostata di Oakland sullo sfondo.
 
 Autore：[@harboriis](https://x.com/harboriis) · [Post originale](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo · Paesaggio urbano / Strada · Abstract / Contesto · Distribuzione in attesa
+Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo · Paesaggio urbano / Strada · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**Riepilogo:** Raffinato scatto ritratto streetwear rétro anni '90, uomo appoggiato a un'auto d'epoca americana, con una parete urbana scrostata di Oakland sullo sfondo.
 
 <img src="images/2097185580224491672-1.jpg" alt="Immagine 1" width="480" />
 
@@ -242,9 +242,9 @@ Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di
 **Prompt**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+Crea una fotografia editoriale streetwear verticale 9:16 ultra realistica di un giovane uomo con folti capelli scuri e ricci, che indossa occhiali da sole neri, una polo oversize crema e nera con la scritta collegiale in grassetto «OAKLAND» e un testo sportivo più piccolo sotto, pantaloni cargo neri larghi, scarpe da ginnastica bianche e un classico orologio da polso in metallo. È appoggiato con disinvoltura alla parte anteriore di un'auto d'epoca americana con le mani in tasca e una gamba accavallata sull'altra.
+Ambienta la scena in una cruda strada urbana con un vecchio edificio usurato alle sue spalle. Aggiungi una grande scritta sbiadita sulla parete che recita «OAKLAND», con sotto «CALIFORNIA» ed «EST. 1852». Calda luce del sole del tardo pomeriggio, tavolozza di colori tenui marroni e beige, grana della pellicola sottile, ombre morbide, estetica nostalgica della moda di strada degli anni '90, texture della pelle realistica, posa naturale, profondità di campo cinematografica, auto d'epoca dettagliata, autentica fotografia editoriale.
+Composizione a figura intera, fotocamera a livello degli occhi dal basso, obiettivo 35mm, illuminazione cinematografica calda, fotorealistico, alto dettaglio, 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -261,7 +261,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 Autore：[@Sairah\_0](https://x.com/Sairah_0) · [Post originale](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / Volantino · Illustrazione · Minimalismo · Distribuzione in attesa
+Poster / Volantino · Illustrazione · Minimalismo · Pubblicato
 
 **Riepilogo:** Genera un poster editoriale diviso in due in formato 3:4 basato sulle foto caricate: la metà superiore conserva la foto originale, la metà inferiore si trasforma in una piccola illustrazione minimale disegnata a mano.
 
@@ -309,7 +309,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 Autore：[@Lianaalane](https://x.com/Lianaalane) · [Post originale](https://x.com/Lianaalane/status/2097157373936935051)
 
-Ritratto / Selfie · Personaggio · Cibo / Bevande · Distribuzione in attesa
+Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 
 **Riepilogo:** Una donna coreana e una bambina con l'hijab gustano un caffè all'aperto durante l'ora d'oro, con decorazioni di scarabocchi disegnati a mano.
 
@@ -326,5 +326,3 @@ Una ragazza coreana con lunghi e morbidi capelli castano scuro è seduta in un a
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

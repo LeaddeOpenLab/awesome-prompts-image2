@@ -34,7 +34,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@CyberTotal2026](https://x.com/CyberTotal2026) · [원본 게시물](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
 
 **요약:** 번역 중
 
@@ -56,7 +56,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@Lianaalane](https://x.com/Lianaalane) · [원본 게시물](https://x.com/Lianaalane/status/2096809673378967588)
 
-사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
 
 **요약:** 블랙 BMW 앞에서 포즈를 취하고 있는 세련된 여성의 포토리얼리스틱 9:16 인물 사진.
 
@@ -78,7 +78,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@sha\_zdiii](https://x.com/sha_zdiii) · [원본 게시물](https://x.com/sha_zdiii/status/2096601368114937969)
 
-사진술 · 패션 아이템 · 배포 대기
+사진술 · 패션 아이템 · 배포 완료
 
 **요약:** 웜 베이지 스튜디오에서 아이보리 케이프 의상을 입은 금발 모델이 순백색 백마와 함께 포즈를 취하는 초현실적 럭셔리 패션 에디토리얼.
 
@@ -102,7 +102,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@liyue\_ai](https://x.com/liyue_ai) · [원본 게시물](https://x.com/liyue_ai/status/2096631729410986083)
 
-사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 초록 / 배경 · 배포 대기
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 초록 / 배경 · 배포 완료
 
 원본 게시물：[@liyue\_ai](https://x.com/liyue_ai) · [원본 게시물](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [원본 게시물](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-사진술 · 음식 / 음료 · 배포 대기
+사진술 · 음식 / 음료 · 배포 완료
 
 **요약:** 밝고 모던한 주방에서 쌓아 올린 핑크 베리 스무디 병, 유기농 땅콩버터 병, 나무 서빙 보드 위의 볶은 땅콩을 담아낸 상업용 음식 사진 장면.
 
@@ -174,7 +174,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [원본 게시물](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 대기
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
 
 **요약:** 한쪽에는 터져 나오는 물보라, 다른 한쪽에는 타오르는 불길이 나뉜 남아시아 남성의 이중 원소 인물 사진.
 
@@ -201,7 +201,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [원본 게시물](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 대기
+시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 완료
 
 **요약:** 분위기 있는 배경 속 따뜻한 황금빛 림 라이트가 비추는 베이지색 스웨터를 입은 남성의 시네마틱 초상화.
 
@@ -223,13 +223,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### 90年代 빈티지 스트리트웨어 패션 화보 포트레이트, 클래식 아메리칸 머슬카에 기댄 남성과 배경의 오클랜드 낡은 도시 벽면.
 
 작성자：[@harboriis](https://x.com/harboriis) · [원본 게시물](https://x.com/harboriis/status/2097185580224491672)
 
-사진술 · 레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 차량 · 도시 풍경 / 거리 · 초록 / 배경 · 배포 대기
+사진술 · 레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 차량 · 도시 풍경 / 거리 · 초록 / 배경 · 배포 완료
 
-**요약:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**요약:** 90年代 빈티지 스트리트웨어 패션 화보 포트레이트, 클래식 아메리칸 머슬카에 기댄 남성과 배경의 오클랜드 낡은 도시 벽면.
 
 <img src="images/2097185580224491672-1.jpg" alt="이미지 1" width="480" />
 
@@ -242,9 +242,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+풍성한 곱슬머리의 젊은 남성을 포착한 초현실적인 세로 9:16 에디토리얼 스트리트웨어 사진을 생성하세요. 그는 블랙 선글라스를 착용하고, 굵은 “OAKLAND” 칼리지 레터링과 그 아래 작은 애슬레틱 텍스트가 새겨진 크림 및 블랙 색상의 오버사이즈 폴로 셔츠, 헐렁한 블랙 카고 스타일 팬츠, 화이트 스니커즈, 클래식한 메탈 손목시계를 착용하고 있습니다. 그는 주머니에 손을 넣고 한쪽 다리를 다른 쪽 다리에 꼰 채 빈티지 아메리칸 클래식 카 앞부분에 자연스럽게 기대어 서 있습니다. 거친 도시의 거리와 그의 뒤로 보이는 오래되고 풍화된 건물을 배경으로 설정하세요. 벽면에는 빛바랜 커다란 “OAKLAND” 타이포그래피와 그 아래에 “CALIFORNIA” 및 “EST. 1852” 텍스트를 추가하세요. 따뜻한 늦은 오후의 햇살, 차분한 브라운과 베이지 컬러 팔레트, 미묘한 필름 그레인, 부드러운 그림자, 향수를 자극하는 1990년대 스트리트 패션 감성, 사실적인 피부 질감, 자연스러운 포즈, 시네마틱한 심도, 디테일한 빈티지 카, 진정한 에디토리얼 사진. 전신 구도, 낮은 눈높이 카메라, 35mm 렌즈, 따뜻한 시네마틱 조명, 사실적 묘사, 높은 디테일, 4K.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -261,7 +259,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 작성자：[@Sairah\_0](https://x.com/Sairah_0) · [원본 게시물](https://x.com/Sairah_0/status/2096807576168169628)
 
-포스터 / 전단지 · 일러스트레이션 · 미니멀리즘 · 배포 대기
+포스터 / 전단지 · 일러스트레이션 · 미니멀리즘 · 배포 완료
 
 **요약:** 업로드된 사진을 기반으로 3:4 분할 에디토리얼 포스터를 생성하며, 상단은 원본 사진을 충실히 유지하고 하단은 작은 미니멀 핸드드로운 일러스트로 변환합니다.
 
@@ -289,7 +287,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 작성자：[@Lianaalane](https://x.com/Lianaalane) · [원본 게시물](https://x.com/Lianaalane/status/2097157373936935051)
 
-인물 사진 / 셀카 · 캐릭터 · 음식 / 음료 · 배포 대기
+인물 사진 / 셀카 · 캐릭터 · 음식 / 음료 · 배포 완료
 
 **요약:** 골든 아워에 야외 카페에서 손그림 낙서로 장식된 가운데 커피를 즐기는 한국인 여성과 히잡을 쓴 어린 소녀.
 
@@ -306,5 +304,3 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

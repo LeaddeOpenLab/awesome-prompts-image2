@@ -34,7 +34,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Fotografía · Retrato / Selfie · Personaje · Pendiente de distribución
+Fotografía · Retrato / Selfie · Personaje · Publicado
 
 **Resumen:** Traducción en curso
 
@@ -56,7 +56,7 @@ Traducción en curso
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2096809673378967588)
 
-Fotografía · Retrato / Selfie · Personaje · Pendiente de distribución
+Fotografía · Retrato / Selfie · Personaje · Publicado
 
 **Resumen:** Retrato fotorrealista 9:16 de una mujer elegante posando frente a un BMW negro.
 
@@ -78,7 +78,7 @@ Crea una imagen fotorrealista en formato 9:16 de una joven elegante posando con 
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publicación original](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Fotografía · Artículo de moda · Pendiente de distribución
+Fotografía · Artículo de moda · Publicado
 
 **Resumen:** Editorial de moda de lujo ultrarrealista con una modelo rubia con un atuendo de capa color marfil posando con un caballo blanco puro en un estudio beige cálido.
 
@@ -102,7 +102,7 @@ Editorial de moda de lujo ultrarrealista en un estudio minimalista en tono beige
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096631729410986083)
 
-Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Resumen / Antecedentes · Pendiente de distribución
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Resumen / Antecedentes · Publicado
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Lente para retrato de 85 mm, textura fotográfica realista, sesión de fotos de 
 
 Autor：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Publicación original](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Fotografía · Comida / Bebida · Pendiente de distribución
+Fotografía · Comida / Bebida · Publicado
 
 **Resumen:** Escena de fotografía gastronómica comercial en una cocina moderna y luminosa con frascos apilados de batido de frutos rojos rosa, un frasco de mantequilla de cacahuete orgánica y cacahuetes tostados sobre una tabla de servir de madera.
 
@@ -174,7 +174,7 @@ Composición vertical 9:16, fotografía gastronómica comercial premium, textura
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publicación original](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Fotografía · Retrato / Selfie · Personaje · Pendiente de distribución
+Fotografía · Retrato / Selfie · Personaje · Publicado
 
 **Resumen:** Retrato de doble elemento de un hombre del sur de Asia dividido con salpicaduras de agua que estallan en un lado y fuego resplandeciente en el otro.
 
@@ -201,7 +201,7 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 Autor：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Publicación original](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Cine / Fotograma de película · Retrato / Selfie · Personaje · Resumen / Antecedentes · Pendiente de distribución
+Cine / Fotograma de película · Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
 
 **Resumen:** Retrato cinematográfico de un hombre con suéter beige y cálida iluminación dorada de contorno contra un fondo taciturno.
 
@@ -223,13 +223,13 @@ Retrato cinematográfico fotorrealista de un apuesto hombre adulto con cabello c
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### Retrato de moda urbana retro de los años 90, hombre apoyado en un coche clásico americano, con un muro urbano desgastado de Oakland al fondo.
 
 Autor：[@harboriis](https://x.com/harboriis) · [Publicación original](https://x.com/harboriis/status/2097185580224491672)
 
-Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Vehículo · Paisaje urbano / Calle · Resumen / Antecedentes · Pendiente de distribución
+Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Vehículo · Paisaje urbano / Calle · Resumen / Antecedentes · Publicado
 
-**Resumen:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**Resumen:** Retrato de moda urbana retro de los años 90, hombre apoyado en un coche clásico americano, con un muro urbano desgastado de Oakland al fondo.
 
 <img src="images/2097185580224491672-1.jpg" alt="Imagen 1" width="480" />
 
@@ -242,9 +242,9 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de 
 **Prompt**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+Crea una fotografía editorial de moda urbana vertical 9:16 ultrarrealista de un hombre joven con pelo oscuro, rizado y grueso, que lleva gafas de sol negras, un polo oversize en tonos crema y negro con la inscripción universitaria en negrita «OAKLAND» y un texto deportivo más pequeño debajo, pantalones holgados tipo cargo negros, zapatillas blancas y un reloj de pulsera metálico clásico. Está apoyado casualmente contra la parte delantera de un coche clásico americano con las manos en los bolsillos y una pierna cruzada sobre la otra.
+Ambienta la escena en una calle urbana de aspecto rudo con un edificio antiguo y desgastado detrás de él. Añade una gran tipografía desvaída en la pared donde se lea «OAKLAND», con «CALIFORNIA» y «EST. 1852» debajo. Luz cálida de última hora de la tarde, paleta de colores apagada en marrones y beis, sutil grano de película, sombras suaves, estética nostálgica de la moda urbana de los años 90, textura de piel realista, pose natural, profundidad de campo cinematográfica, coche clásico detallado, auténtica fotografía editorial.
+Composición de cuerpo entero, cámara a la altura de los ojos en ángulo bajo, objetivo de 35 mm, iluminación cinematográfica cálida, fotorrealista, gran nivel de detalle, 4K.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -261,7 +261,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 Autor：[@Sairah\_0](https://x.com/Sairah_0) · [Publicación original](https://x.com/Sairah_0/status/2096807576168169628)
 
-Póster / Folleto · Ilustración · Minimalismo · Pendiente de distribución
+Póster / Folleto · Ilustración · Minimalismo · Publicado
 
 **Resumen:** Genera un póster editorial diptico 3:4 basado en las fotos subidas: la mitad superior conserva la foto original y la mitad inferior se transforma en una pequeña ilustración minimalista dibujada a mano.
 
@@ -309,7 +309,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 Autor：[@Lianaalane](https://x.com/Lianaalane) · [Publicación original](https://x.com/Lianaalane/status/2097157373936935051)
 
-Retrato / Selfie · Personaje · Comida / Bebida · Pendiente de distribución
+Retrato / Selfie · Personaje · Comida / Bebida · Publicado
 
 **Resumen:** Una mujer coreana y una niña con hiyab disfrutan de un café en una terraza durante la hora dorada, decorada con garabatos dibujados a mano.
 
@@ -326,5 +326,3 @@ Una chica coreana con cabello castaño oscuro, largo y suave está sentada en un
 ---
 
 [Explora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Referencia de navegación: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

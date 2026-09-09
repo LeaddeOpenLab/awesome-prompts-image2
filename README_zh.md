@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [查看 X 原帖](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-摄影 · 人像 / 自拍 · 角色 · 待推流
+摄影 · 人像 / 自拍 · 角色 · 已推流
 
 **概括:** 翻译中
 
@@ -56,7 +56,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2096809673378967588)
 
-摄影 · 人像 / 自拍 · 角色 · 待推流
+摄影 · 人像 / 自拍 · 角色 · 已推流
 
 **概括:** 站在黑色宝马前摆姿势的时髦女性逼真 9:16 肖像。
 
@@ -78,7 +78,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@sha\_zdiii](https://x.com/sha_zdiii) · [查看 X 原帖](https://x.com/sha_zdiii/status/2096601368114937969)
 
-摄影 · 时尚单品 · 待推流
+摄影 · 时尚单品 · 已推流
 
 **概括:** 超逼真奢华时尚大片，身着象牙白斗篷套装的金发模特在暖米色摄影棚内与纯白骏马同框出镜。
 
@@ -102,7 +102,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096631729410986083)
 
-摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 摘要 / 背景 · 待推流
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 摘要 / 背景 · 已推流
 
 查看 X 原帖：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -144,7 +144,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [查看 X 原帖](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-摄影 · 食品 / 饮料 · 待推流
+摄影 · 食品 / 饮料 · 已推流
 
 **概括:** 明亮现代厨房中的商业美食摄影场景，展现了叠放的粉色莓果奶昔罐、一罐有机花生酱以及木制托盘上的烤花生。
 
@@ -176,7 +176,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [查看 X 原帖](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-摄影 · 人像 / 自拍 · 角色 · 待推流
+摄影 · 人像 / 自拍 · 角色 · 已推流
 
 **概括:** 南亚男性的双元素肖像，一侧是迸溅的水花，另一侧是炽热的烈焰。
 
@@ -203,7 +203,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [查看 X 原帖](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-电影 / 电影剧照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 待推流
+电影 / 电影剧照 · 人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
 
 **概括:** 穿着米色毛衣的男士电影感肖像，在深沉氛围背景下带有温暖的金黄色轮廓光。
 
@@ -229,11 +229,9 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@harboriis](https://x.com/harboriis) · [查看 X 原帖](https://x.com/harboriis/status/2097185580224491672)
 
-摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 待推流
+摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 车辆 · 城市风光 / 街道 · 摘要 / 背景 · 已推流
 
-**概括（Prompt 原语言）：** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
-
-**English summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+**概括:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
 
 <img src="images/2097185580224491672-1.jpg" alt="图片 1" width="480" />
 
@@ -246,9 +244,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **提示词**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+创作一张超写实的垂直 9:16 时尚街头潮流杂志摄影大片。画面中是一名留着浓密深色卷发的年轻男子，戴着黑色墨镜，身穿米黑相间的宽松大版Polo衫，胸前印有醒目的“OAKLAND”大学风字样及下方的较小运动风文本，搭配宽松黑色工装风格长裤、白色运动鞋和经典金属腕表。他双手插兜，一腿交叉搭在另一腿前，随性地倚靠在一辆美式老爷车前部。场景设定在一条粗粝质感的城市街道上，身后是一座斑驳的风化老建筑。墙面上带有大面积褪色的“OAKLAND”字样壁画，下方标注有“CALIFORNIA”和“EST. 1852”。温暖的午后斜阳，低饱和度棕褐色与米色调，微妙的胶片颗粒感，柔和阴影，怀旧的1990年代街头潮流美学，逼真的皮肤纹理，自然的姿态，电影级景深，细节精致的老爷车，真实的时尚杂志摄影风格。全身构图，低机位平视视角，35mm镜头，温暖电影感光效，逼真质感，高细节，4K。
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -265,7 +261,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 作者：[@Sairah\_0](https://x.com/Sairah_0) · [查看 X 原帖](https://x.com/Sairah_0/status/2096807576168169628)
 
-海报 / 传单 · 插画 · 极简主义 · 待推流
+海报 / 传单 · 插画 · 极简主义 · 已推流
 
 **概括:** 根据上传照片生成3:4双拼编辑海报，上半部分保真原片，下半部分转为小幅极简手绘插画。
 
@@ -293,7 +289,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [查看 X 原帖](https://x.com/Lianaalane/status/2097157373936935051)
 
-人像 / 自拍 · 角色 · 食品 / 饮料 · 待推流
+人像 / 自拍 · 角色 · 食品 / 饮料 · 已推流
 
 **概括:** 在黄金时刻，一位韩国女性和一位戴希贾布的小女孩在户外咖啡馆享用咖啡，周围装饰着手绘涂鸦。
 
@@ -310,5 +306,3 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

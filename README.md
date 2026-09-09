@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** A photographic portrait prompt of a woman standing in shallow water at dusk, draped in a wet, translucent white cloth.
 
@@ -78,7 +78,7 @@ Do not make the white cloth opaque; do not omit the crescent moon and the sunset
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2096809673378967588)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** Photorealistic 9:16 portrait of a stylish woman posing in front of a black BMW.
 
@@ -100,7 +100,7 @@ Create a photorealistic 9:16 picture of a stylish young woman confidently posing
 
 Author：[@sha\_zdiii](https://x.com/sha_zdiii) · [Source](https://x.com/sha_zdiii/status/2096601368114937969)
 
-Photography · Fashion Item · Pending distribution
+Photography · Fashion Item · Published
 
 **Summary:** Ultra-realistic luxury fashion editorial featuring a blonde model in an ivory cape outfit posing with a pure white horse in a warm beige studio.
 
@@ -124,7 +124,7 @@ Ultra-realistic luxury fashion editorial in a minimalist warm beige studio. A gl
 
 Author：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096631729410986083)
 
-Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Pending distribution
+Photography · Portrait / Selfie · Character · Fashion Item · Abstract / Background · Published
 
 Source：[@liyue\_ai](https://x.com/liyue_ai) · [Source](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -164,7 +164,7 @@ Shot on an 85mm portrait lens, authentic photographic texture, high-end finished
 
 Author：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [Source](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-Photography · Food / Drink · Pending distribution
+Photography · Food / Drink · Published
 
 **Summary:** Commercial food photography scene in a bright modern kitchen featuring stacked jars of pink berry smoothie, a jar of organic peanut butter, and roasted peanuts on a wooden serving board.
 
@@ -196,7 +196,7 @@ Vertical 9:16 composition, premium commercial food photography, realistic textur
 
 Author：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Source](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-Photography · Portrait / Selfie · Character · Pending distribution
+Photography · Portrait / Selfie · Character · Published
 
 **Summary:** Dual-element portrait of a South Asian man split with bursting water splashes on one side and glowing fire on the other.
 
@@ -223,7 +223,7 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 Author：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Source](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Pending distribution
+Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Background · Published
 
 **Summary:** Cinematic portrait of a man in a beige sweater with warm golden rim lighting against a moody background.
 
@@ -245,13 +245,13 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 
 <a name="prompt-2097185580224491672"></a>
 
-### 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+### 90s vintage streetwear editorial portrait of a man leaning against a classic American car with a weathered Oakland urban wall in the background.
 
 Author：[@harboriis](https://x.com/harboriis) · [Source](https://x.com/harboriis/status/2097185580224491672)
 
-Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Pending distribution
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Cityscape / Street · Abstract / Background · Published
 
-**Summary:** 1990s streetwear editorial portrait of a young man leaning against a vintage American car by an Oakland wall.
+**Summary:** 90s vintage streetwear editorial portrait of a man leaning against a classic American car with a weathered Oakland urban wall in the background.
 
 <img src="images/2097185580224491672-1.jpg" alt="Image 1" width="480" />
 
@@ -264,9 +264,7 @@ Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item
 **Prompt**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other. Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography. Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
 ```
 
 [↑ Back to categories](#catalog)
@@ -283,7 +281,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 Author：[@Sairah\_0](https://x.com/Sairah_0) · [Source](https://x.com/Sairah_0/status/2096807576168169628)
 
-Poster / Flyer · Illustration · Minimalism · Pending distribution
+Poster / Flyer · Illustration · Minimalism · Published
 
 **Summary:** Generate a 3:4 split-screen editorial poster based on the uploaded photo: top half preserves original photo faithfully, bottom half transforms into a small minimalist hand-drawn illustration.
 
@@ -311,7 +309,7 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 
 Author：[@Lianaalane](https://x.com/Lianaalane) · [Source](https://x.com/Lianaalane/status/2097157373936935051)
 
-Portrait / Selfie · Character · Food / Drink · Pending distribution
+Portrait / Selfie · Character · Food / Drink · Published
 
 **Summary:** A Korean woman and a young girl in a hijab enjoy coffee at an outdoor café during golden hour, decorated with hand-drawn doodles.
 
@@ -328,5 +326,3 @@ A Korean girl with long, soft, dark brown hair is sitting at a cozy outdoor caf�
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

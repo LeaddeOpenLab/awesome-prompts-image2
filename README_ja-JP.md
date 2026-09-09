@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@CyberTotal2026](https://x.com/CyberTotal2026) · [元の投稿](https://x.com/CyberTotal2026/status/2097269715966230876)
 
-写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
 
 **概要:** 翻訳中
 
@@ -56,7 +56,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [元の投稿](https://x.com/Lianaalane/status/2096809673378967588)
 
-写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
 
 **概要:** 黒のBMWの前でポーズをとるスタイリッシュな女性のフォトリアリスティックな9:16ポートレート。
 
@@ -78,7 +78,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@sha\_zdiii](https://x.com/sha_zdiii) · [元の投稿](https://x.com/sha_zdiii/status/2096601368114937969)
 
-写真撮影 · ファッションアイテム · 配信待ち
+写真撮影 · ファッションアイテム · 配信済み
 
 **概要:** 温かみのあるベージュのスタジオで、アイボリーのケープアウトフィットを着たブロンドモデルが純白の馬とともにポーズをとる超リアルな高級ファッションエディトリアル。
 
@@ -102,7 +102,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@liyue\_ai](https://x.com/liyue_ai) · [元の投稿](https://x.com/liyue_ai/status/2096631729410986083)
 
-写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 要旨 / 背景 · 配信待ち
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 要旨 / 背景 · 配信済み
 
 元の投稿：[@liyue\_ai](https://x.com/liyue_ai) · [元の投稿](https://x.com/liyue_ai/status/2096269909076623535)
 
@@ -142,7 +142,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@DuaFatimaAi](https://x.com/DuaFatimaAi) · [元の投稿](https://x.com/DuaFatimaAi/status/2096555489073279173)
 
-写真撮影 · 食品・飲料 · 配信待ち
+写真撮影 · 食品・飲料 · 配信済み
 
 **概要:** 明るくモダンなキッチンを舞台にした商業フードフォトグラフィーシーン。重ねられたピンクのベリースムージーの瓶、オーガニックピーナッツバターの瓶、木製サービングボードに乗ったローストピーナッツが特徴。
 
@@ -174,7 +174,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [元の投稿](https://x.com/Aiwithamirr1/status/2097159277937115208)
 
-写真撮影 · ポートレート / セルフィー · キャラクター · 配信待ち
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
 
 **概要:** 片側に弾ける水しぶき、もう片側に輝く炎を配した、南アジア系男性のデュアルエレメント・ポートレート。
 
@@ -201,7 +201,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [元の投稿](https://x.com/iamsofiaijaz/status/2096808538534514913)
 
-シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信待ち
+シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信済み
 
 **概要:** ムーディーな背景をバックに温かみのある金色のリムライトが輝く、ベージュのセーターを着た男性のシネマティックなポートレート。
 
@@ -223,13 +223,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097185580224491672"></a>
 
-### 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+### 90年代ヴィンテージストリートファッションのエディトリアルポートレート。アメリカンクラシックカーにもたれかかる男性と、背景のオークランドの風化した都会の壁。
 
 作者：[@harboriis](https://x.com/harboriis) · [元の投稿](https://x.com/harboriis/status/2097185580224491672)
 
-写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 車両 · 街並み / ストリート · 要旨 / 背景 · 配信待ち
+写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 車両 · 街並み / ストリート · 要旨 / 背景 · 配信済み
 
-**概要:** 90年代复古街头潮流人像大片，男子依靠美式老爷车，背景为奥克兰斑驳城市墙面。
+**概要:** 90年代ヴィンテージストリートファッションのエディトリアルポートレート。アメリカンクラシックカーにもたれかかる男性と、背景のオークランドの風化した都会の壁。
 
 <img src="images/2097185580224491672-1.jpg" alt="画像 1" width="480" />
 
@@ -242,9 +242,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **プロンプト**
 
 ```text
-Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other.
-Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography.
-Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+濃い巻き毛の黒髪をした若い男性をフィーチャーした、超リアルな垂直 9:16 のエディトリアル・ストリートウェア写真を撮影してください。彼は黒のサングラスをかけ、大胆な「OAKLAND」のカレッジロゴとその下に小さなアスレチックテキストがプリントされたクリームと黒のオーバーサイズポロシャツ、ゆったりとした黒のカーゴパンツ、白いスニーカー、そしてクラシックなメタル製腕時計を身に着けています。ポケットに手を入れ、片脚をもう片方の脚の上にクロスさせて、アメリカンクラシックカーのフロントにさりげなくもたれかかっています。背景には古びた風化したビルが建つ、ざらついた都会の通りを設定してください。背後の壁には色あせた「OAKLAND」の大きなタイポグラフィ、そしてその下には「CALIFORNIA」と「EST. 1852」の文字を描いてください。暖かな午後の遅い日差し、落ち着いたブラウンとベージュのカラーパレット、ほのかなフィルムグレイン、柔らかい影、ノスタルジックな1990年代のストリートファッションの美学、リアルな肌の質感、自然なポーズ、映画のような被写界深度、細部まで作り込まれたヴィンテージカー、本物のエディトリアル写真。全身構図、ローアングルのアイレベルカメラ、35mmレンズ、暖かみのあるシネマティックライティング、フォトリアリスティック、ハイディテール、4K。
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -261,7 +259,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 作者：[@Sairah\_0](https://x.com/Sairah_0) · [元の投稿](https://x.com/Sairah_0/status/2096807576168169628)
 
-ポスター / チラシ · イラスト · ミニマリズム · 配信待ち
+ポスター / チラシ · イラスト · ミニマリズム · 配信済み
 
 **概要:** アップロードされた写真をもとに3:4の2分割エディトリアルポスターを生成し、上半分は元の写真を忠実に再現、下半分は小さなミニマル手描きイラストへと変換します。
 
@@ -289,7 +287,7 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 
 作者：[@Lianaalane](https://x.com/Lianaalane) · [元の投稿](https://x.com/Lianaalane/status/2097157373936935051)
 
-ポートレート / セルフィー · キャラクター · 食品・飲料 · 配信待ち
+ポートレート / セルフィー · キャラクター · 食品・飲料 · 配信済み
 
 **概要:** ゴールデンアワーの屋外カフェで、韓国人女性とヒジャブを身に着けた幼い少女が手描きの落書きに囲まれながらコーヒーを楽しむ様子。
 
@@ -306,5 +304,3 @@ Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting,
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=image2)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
