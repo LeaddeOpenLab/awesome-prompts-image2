@@ -939,13 +939,13 @@ Traducción en curso
 
 <a name="prompt-2097558679956664521"></a>
 
-### Traducción en curso
+### Retrato de terror cibernético que presenta a un humanoide demacrado con una máscara de porcelana agrietada, cables en la cabeza e iluminación monocromática de alto contraste.
 
 Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publicación original](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de terror cibernético que presenta a un humanoide demacrado con una máscara de porcelana agrietada, cables en la cabeza e iluminación monocromática de alto contraste.
 
 <img src="images/2097558679956664521-1.jpg" alt="Imagen 1" width="480" />
 
@@ -956,7 +956,7 @@ Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de terror cibernético, figura humanoide demacrada con máscara agrietada similar a una calavera de porcelana blanca, cuencas oculares huecas y asimétricas (un vacío hundido, un anillo metálico empotrado), dientes expuestos e irregulares, rodeada por una caótica maraña de cables negros gruesos y accesorios de bobinas industriales cableados a la cabeza, prenda superior de tela oscura y andrajosa, iluminación dramática en clave baja, fondo negro profundo, monocromo de alto contraste, fotografía de terror, cinemático, textura hiperdetallada, lente de 85 mm, profundidad de campo reducida.
 ```
 
 [↑ Volver a categorías](#catalog)

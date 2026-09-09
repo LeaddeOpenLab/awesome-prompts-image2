@@ -939,13 +939,13 @@ Traduction en cours
 
 <a name="prompt-2097558679956664521"></a>
 
-### Traduction en cours
+### Portrait d'horreur cybernétique mettant en scène un humanoïde émacié avec un masque en porcelaine fissuré, des câbles crâniens et un éclairage monochrome à fort contraste.
 
 Auteur：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publication originale](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait d'horreur cybernétique mettant en scène un humanoïde émacié avec un masque en porcelaine fissuré, des câbles crâniens et un éclairage monochrome à fort contraste.
 
 <img src="images/2097558679956664521-1.jpg" alt="Image 1" width="480" />
 
@@ -956,7 +956,7 @@ Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait d'horreur cybernétique, silhouette humanoïde émaciée avec un masque fissuré semblable à un crâne en porcelaine blanche, orbites creuses dépareillées (un vide enfoncé, un anneau métallique encastré), dents déchiquetées et exposées, entourée d'un enchevêtrement chaotique d'épais câbles noirs et d'accessoires de bobines industrielles reliés à la tête, haut en tissu sombre en lambeaux, éclairage dramatique low-key, arrière-plan noir profond, monochrome à fort contraste, photographie d'horreur, cinématographique, texture hyperdétaillée, objectif 85 mm, faible profondeur de champ.
 ```
 
 [↑ Retour aux catégories](#catalog)

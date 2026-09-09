@@ -949,13 +949,13 @@ Tradução em andamento
 
 <a name="prompt-2097558679956664521"></a>
 
-### Tradução em andamento
+### Retrato de terror cibernético apresentando um humanoide esguio com uma máscara de porcelana rachada, cabos na cabeça e iluminação monocromática de alto contraste.
 
 Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publicação original](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de terror cibernético apresentando um humanoide esguio com uma máscara de porcelana rachada, cabos na cabeça e iluminação monocromática de alto contraste.
 
 <img src="images/2097558679956664521-1.jpg" alt="Imagem 1" width="480" />
 
@@ -966,7 +966,7 @@ Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato de terror cibernético, figura humanoide esguia com máscara rachada semelhante a um crânio de porcelana branca, órbitas oculares ocas e assimétricas (um vazio afundado, um anel metálico embutido), dentes serrilhados expostos, cercada por um emaranhado caótico de cabos pretos grossos e acessórios de bobinas industriais conectados à cabeça, parte superior de tecido escuro esfarrapado, iluminação dramática em low-key, fundo preto profundo, monocromático de alto contraste, fotografia de terror, cinematográfico, textura hiperdetalhada, lente de 85 mm, profundidade de campo rasa.
 ```
 
 [↑ Voltar às categorias](#catalog)

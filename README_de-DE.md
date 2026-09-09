@@ -939,13 +939,13 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2097558679956664521"></a>
 
-### Übersetzung läuft
+### Kybernetisches Horror-Porträt mit einem hageren Humanoiden mit rissiger Porzellanmaske, Kopfkabeln und kontrastreicher monochromer Beleuchtung.
 
 Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Originalbeitrag](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kybernetisches Horror-Porträt mit einem hageren Humanoiden mit rissiger Porzellanmaske, Kopfkabeln und kontrastreicher monochromer Beleuchtung.
 
 <img src="images/2097558679956664521-1.jpg" alt="Bild 1" width="480" />
 
@@ -956,7 +956,7 @@ Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kybernetisches Horror-Porträt, hagerer humanoider Körper mit rissiger, porzellanweißer, totenkopfähnlicher Maske, ungleiche hohle Augenhöhlen (eine eingesunkene Leere, ein vertiefter Metallring), zackige freiliegende Zähne, umgeben von einem chaotischen Gewirr dicker schwarzer Kabel und industrieller Spulenaufsätze, die in den Kopf verdrahtet sind, zerlumptes Oberteil aus dunklem Stoff, dramatische Low-Key-Beleuchtung, tiefschwarzer Hintergrund, kontrastreiches Monochrom, Horror-Fotografie, filmisch, hyperdetaillierte Textur, 85mm-Objektiv, geringe Schärfentiefe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

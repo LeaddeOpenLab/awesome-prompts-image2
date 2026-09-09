@@ -949,13 +949,13 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097558679956664521"></a>
 
-### Çeviri sürüyor
+### Çatlak bir porselen maskeye, kafa kablolarına ve yüksek kontrastlı monokrom aydınlatmaya sahip sıska bir insansı figür içeren sibernetik korku portresi.
 
 Yazar：[@meng\_dagg695](https://x.com/meng_dagg695) · [Orijinal gönderi](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çatlak bir porselen maskeye, kafa kablolarına ve yüksek kontrastlı monokrom aydınlatmaya sahip sıska bir insansı figür içeren sibernetik korku portresi.
 
 <img src="images/2097558679956664521-1.jpg" alt="Görsel 1" width="480" />
 
@@ -966,7 +966,7 @@ Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sibernetik korku portresi, çatlak porselen beyazı kurukafa benzeri maskeye sahip sıska insansı figür, uyumsuz içi boş göz çukurları (biri çökmüş bir boşluk, diğeri gömülü metalik bir halka), açıkta duran tırtıklı dişler, kafaya kablolanmış kalın siyah kabloların ve endüstriyel bobin eklentilerinin kaotik bir karmaşasıyla çevrili, yırtık pırtık koyu kumaş üst, dramatik loş (low-key) aydınlatma, derin siyah arka plan, yüksek kontrastlı monokrom, korku fotoğrafçılığı, sinematik, aşırı ayrıntılı doku, 85mm lens, sığ derinlik.
 ```
 
 [↑ Kategorilere dön](#catalog)

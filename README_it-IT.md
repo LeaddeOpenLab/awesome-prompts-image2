@@ -939,13 +939,13 @@ Traduzione in corso
 
 <a name="prompt-2097558679956664521"></a>
 
-### Traduzione in corso
+### Ritratto horror cibernetico con un umanoide emaciato con maschera di porcellana fessurata, cavi sulla testa e illuminazione monocromatica ad alto contrasto.
 
 Autore：[@meng\_dagg695](https://x.com/meng_dagg695) · [Post originale](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto horror cibernetico con un umanoide emaciato con maschera di porcellana fessurata, cavi sulla testa e illuminazione monocromatica ad alto contrasto.
 
 <img src="images/2097558679956664521-1.jpg" alt="Immagine 1" width="480" />
 
@@ -956,7 +956,7 @@ Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto horror cibernetico, figura umanoide emaciata con una maschera fessurata simile a un teschio di porcellana bianca, orbite oculari cave e asimmetriche (un vuoto incavato, un anello metallico incassato), denti esposti e frastagliati, circondata da un groviglio caotico di spessi cavi neri e accessori industriali a bobina cablati nella testa, top in tessuto scuro lacero, illuminazione drammatica low-key, sfondo nero profondo, monocromatico ad alto contrasto, fotografia horror, cinematografico, texture iper-dettagliata, obiettivo 85mm, profondità di campo ridotta.
 ```
 
 [↑ Torna alle categorie](#catalog)
