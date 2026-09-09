@@ -87,20 +87,42 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 <a name="prompt-2097585546973614232"></a>
 
-### Traducción en curso
+### Prompt de estilo fotográfico de una mujer con top mostaza y falda plisada mirando hacia atrás a través de la red en una pista de tenis naranja.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2097585546973614232)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de estilo fotográfico de una mujer con top mostaza y falda plisada mirando hacia atrás a través de la red en una pista de tenis naranja.
 
 <img src="images/2097585546973614232-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Mirada hacia atrás en la pista naranja
+
+Sujeto:
+Fotografía vertical de una mujer adulta de espaldas en el centro del encuadre en una pista de tenis al aire libre en un día soleado, mirando hacia atrás por encima del hombro.
+
+Persona y expresión:
+Solo gira la cara hacia la cámara por encima de su propio hombro derecho, con una expresión serena y los labios cerrados. Rostro ovalado y fino, barbilla pequeña, ojos castaños ligeramente alargados, cejas delgadas naturales, nariz pequeña, labios de color rosa pálido. Pelo largo y ondulado de color castaño claro extendido sobre la espalda.
+
+Vestimenta y postura:
+Top sin mangas de color mostaza con espalda profundamente escotada y falda corta de tenis plisada blanca. Con el peso apoyado en una pierna y la cintura ligeramente girada, baja una raqueta blanca hacia abajo a la derecha con su propia mano derecha, mientras el brazo izquierdo descansa naturalmente junto al cuerpo.
+
+Fondo e iluminación:
+En primer plano, una red negra cruza a la altura de la cintura; de fondo, una pista de color naranja, una valla verde, árboles y un cielo azul. Una intensa luz directa de mediodía procedente de la parte superior izquierda del encuadre ilumina el cabello y los hombros, proyectando una sombra corta sobre la pista.
+
+Composición y cámara:
+Composición vertical 4:5, toma por encima de la rodilla en ángulo oblicuo desde atrás con la cámara situada a la altura de la cintura. La persona ocupa ampliamente el centro, la red actúa como línea horizontal en primer plano y la raqueta se ubica abajo a la derecha. Enfoque en la cara y la espalda, fondo ligeramente desenfocado, con la parte superior de la cabeza y el dobladillo de la falda contenidos dentro del encuadre.
+
+Textura y estilo:
+Fotografía hiperrealista. Muestra con claridad el fino brillo del cabello, el tejido elástico del top, los pliegues de la falda, la malla de la red y la superficie seca de la pista.
+
+Negativo:
+No orientar de frente; no omitir la red que cruza por delante de la cintura ni la raqueta en la parte inferior derecha
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -704,7 +726,7 @@ Famoso por: [BREVE DESCRIPCIÓN]
 
 <a name="prompt-2097587863139537262"></a>
 
-### Traducción en curso
+### Captura de pantalla de juego en primera persona en la playa de un RPG de romance 3D ficticio, que incluye a Morrigan Aensland y una interfaz de usuario de interacción HUD completa del juego.
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -712,14 +734,14 @@ Diseño de aplicaciones / web · Render 3D · Personaje · Publicado
 
 Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Resumen:** Traducción en curso
+**Resumen:** Captura de pantalla de juego en primera persona en la playa de un RPG de romance 3D ficticio, que incluye a Morrigan Aensland y una interfaz de usuario de interacción HUD completa del juego.
 
 <img src="covers/2097587863139537262.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Por favor, captura una captura de pantalla realista de un RPG de romance de mundo abierto en 3D de próxima generación ficticio, presentado desde la perspectiva en primera persona del protagonista masculino. En la playa, Morrigan Aensland de Darkstalkers invita al protagonista a ayudarla a aplicarse protector solar. El estilo visual general debe contar con personajes 3D renderizados con sombreado plano (cel-shaded) de alta calidad combinados con gráficos al nivel de Unreal Engine 5, logrando una fidelidad visual de calidad AAA. Debe incluir un modelado de personajes ultra detallado, sombreado de piel realista, iluminación cinematográfica, materiales PBR, texturas de ropa de alta precisión y entornos renderizados con delicadeza. La imagen final debe parecer una captura de pantalla real de un juego jugable, incluyendo una interfaz de usuario del juego completa: minimapa, visualización de misiones, barras de estado de personajes, avisos de interacción, subtítulos de diálogo, elementos de HUD y más.
 ```
 
 [↑ Volver a categorías](#catalog)

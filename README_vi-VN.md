@@ -87,20 +87,42 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2097585546973614232"></a>
 
-### Đang dịch
+### Prompt phong cách ảnh chụp người phụ nữ mặc áo màu vàng mù tạt và váy xếp ly ngoảnh nhìn qua lưới trên sân tennis màu cam.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2097585546973614232)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt phong cách ảnh chụp người phụ nữ mặc áo màu vàng mù tạt và váy xếp ly ngoảnh nhìn qua lưới trên sân tennis màu cam.
 
 <img src="images/2097585546973614232-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Ngoảnh nhìn lại trên sân màu cam
+
+Chủ thể:
+Bức ảnh chụp dọc một người phụ nữ trưởng thành đứng quay lưng ở giữa khung hình trên sân quần vợt ngoài trời nắng đẹp, ngoảnh đầu nhìn qua vai.
+
+Nhân vật và biểu cảm:
+Chỉ quay khuôn mặt qua vai phải của mình về phía máy ảnh, nét mặt êm dịu khép hờ môi. Khuôn mặt trái xoan thon thả, cằm nhỏ, đôi mắt nâu dài, hàng lông mày mảnh tự nhiên, mũi nhỏ nhắn, đôi môi màu hồng nhạt. Mái tóc dài gợn sóng màu nâu sáng xõa dài trên lưng.
+
+Trang phục và tư thế:
+Áo sát nách màu vàng mù tạt hở lưng sâu, cùng chân váy tennis xếp ly ngắn màu trắng. Dồn trọng lượng lên một chân và hơi vặn eo, tay phải cầm cây vợt trắng buông xuống phía dưới bên phải, cánh tay trái để tự nhiên bên hông.
+
+Bối cảnh và ánh sáng:
+Tiền cảnh là tấm lưới đen vắt ngang tầm eo, hậu cảnh là sân quần vợt màu cam, hàng rào xanh lá cây, lùm cây và bầu trời xanh. Ánh nắng trực tiếp gay gắt ban trưa từ góc trên bên trái khung hình chiếu rọi lên tóc và vai, đổ bóng ngắn xuống mặt sân.
+
+Bố cục và máy ảnh:
+Bố cục dọc 4:5, góc máy đặt ngang tầm eo chụp chéo từ phía sau từ đầu gối trở lên. Nhân vật nằm trọn ở trung tâm khung hình, lưới tennis tạo đường ngang tiền cảnh, cây vợt nằm ở góc dưới bên phải. Lấy nét vào khuôn mặt và lưng, hậu cảnh làm mờ nhẹ, đỉnh đầu và gấu váy nằm trọn trong khung hình.
+
+Chất cảm và phong cách:
+Ảnh chụp thực tế chân thực. Thể hiện rõ độ bóng mượt của sợi tóc, chất vải co giãn của áo, nếp gấp ly của váy, mắt lưới của tấm lưới và bề mặt sân khô ráo.
+
+Phủ định:
+Không để nhân vật quay mặt về phía trước; không bỏ qua tấm lưới vắt ngang eo và cây vợt ở góc dưới bên phải
 ```
 
 [↑ Về danh mục](#catalog)
@@ -704,7 +726,7 @@ Nổi tiếng về: [MÔ TẢ NGẮN GỌN]
 
 <a name="prompt-2097587863139537262"></a>
 
-### Đang dịch
+### Ảnh chụp màn hình góc nhìn thứ nhất trên bãi biển trong game RPG lãng mạn 3D hư cấu, bao gồm Morrigan Aensland và giao diện tương tác HUD hoàn chỉnh của game.
 
 Tác giả：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2097587863139537262)
 
@@ -712,14 +734,14 @@ Thiết kế ứng dụng / web · Kết xuất 3D · Nhân vật · Đã xuất
 
 Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2097554154554314891)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp màn hình góc nhìn thứ nhất trên bãi biển trong game RPG lãng mạn 3D hư cấu, bao gồm Morrigan Aensland và giao diện tương tác HUD hoàn chỉnh của game.
 
 <img src="covers/2097587863139537262.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vui lòng chụp một ảnh màn hình chân thực từ một tựa game RPG lãng mạn thế giới mở 3D thế hệ mới hư cấu, được thể hiện dưới góc nhìn thứ nhất của nam nhân vật chính. Trên bãi biển, Morrigan Aensland từ Darkstalkers đang rủ nhân vật chính giúp cô thoa kem chống nắng. Phong cách hình ảnh tổng thể phải có các nhân vật 3D cel-shaded chất lượng cao kết hợp với đồ họa đẳng cấp Unreal Engine 5, đạt độ chân thực hình ảnh chuẩn AAA. Hình ảnh phải bao gồm mô hình nhân vật siêu chi tiết, đổ bóng da chân thực, ánh sáng điện ảnh, vật liệu PBR, kết cấu trang phục có độ chính xác cao và môi trường được kết xuất tinh xảo. Hình ảnh cuối cùng phải trông giống như một ảnh chụp màn hình trò chơi có thể chơi được trên thực tế, bao gồm giao diện người dùng hoàn chỉnh của trò chơi: bản đồ thu nhỏ (minimap), bảng hiển thị nhiệm vụ, thanh trạng thái nhân vật, gợi ý tương tác, phụ đề hội thoại, các yếu tố HUD, v.v.
 ```
 
 [↑ Về danh mục](#catalog)
