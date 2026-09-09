@@ -834,13 +834,13 @@ Traduzione in corso
 
 <a name="prompt-2097486896750338125"></a>
 
-### Traduzione in corso
+### Modello di prompt image-to-image basato su un'immagine di riferimento per mantenere luci, texture e composizione, riprogettando il personaggio e il tema.
 
 Autore：[@nanyuan0412](https://x.com/nanyuan0412) · [Post originale](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt image-to-image basato su un'immagine di riferimento per mantenere luci, texture e composizione, riprogettando il personaggio e il tema.
 
 <img src="images/2097486896750338125-1.jpg" alt="Immagine 1" width="480" />
 
@@ -853,7 +853,7 @@ Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rapporto di esposizione, la direzione della luce, la consistenza dei tessuti e il ritmo compositivo; riprogetta il personaggio e la palette di colori tematica. Il personaggio deve essere un adulto, senza copiare il viso della persona di riferimento. Dopo la generazione, confrontala con l'immagine originale per verificare: l'illuminazione è stata modificata arbitrariamente, gli abiti sono stati appesantiti o la pelle è stata ritoccata risultando eccessivamente liscia?
 ```
 
 [↑ Torna alle categorie](#catalog)

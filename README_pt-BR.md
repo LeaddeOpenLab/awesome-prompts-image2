@@ -844,13 +844,13 @@ Tradução em andamento
 
 <a name="prompt-2097486896750338125"></a>
 
-### Tradução em andamento
+### Modelo de comando imagem para imagem baseado em imagem de referência para manter iluminação, textura e composição enquanto redesenha o tema e o personagem.
 
 Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicação original](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de comando imagem para imagem baseado em imagem de referência para manter iluminação, textura e composição enquanto redesenha o tema e o personagem.
 
 <img src="images/2097486896750338125-1.jpg" alt="Imagem 1" width="480" />
 
@@ -863,7 +863,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Use a imagem anexada como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo de composição; redesenhe o personagem e a paleta de cores temática. O personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, as roupas ficaram mais grossas ou a pele foi excessivamente suavizada?
 ```
 
 [↑ Voltar às categorias](#catalog)

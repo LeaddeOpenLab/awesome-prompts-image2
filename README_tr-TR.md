@@ -844,13 +844,13 @@ Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2097486896750338125"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayanarak ışık-gölgeyi, dokuyu ve kompozisyonu koruyan, karakter temasını yeniden tasarlayan görselden görsele talimat şablonu.
 
 Yazar：[@nanyuan0412](https://x.com/nanyuan0412) · [Orijinal gönderi](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayanarak ışık-gölgeyi, dokuyu ve kompozisyonu koruyan, karakter temasını yeniden tasarlayan görselden görsele talimat şablonu.
 
 <img src="images/2097486896750338125-1.jpg" alt="Görsel 1" width="480" />
 
@@ -863,7 +863,7 @@ Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisini, ışık yönünü, kumaş dokusunu ve kompozisyon ritmini koruyun; karakteri ve tematik renk paletini yeniden tasarlayın. Karakter bir yetişkin olmalı, referanstaki kişinin yüzü kopyalanmamalıdır. Üretimden sonra orijinal görselle karşılaştırarak kontrol edin: Işıklandırma izinsiz olarak değiştirildi mi, giysiler kalınlaştırıldı mı veya cilt aşırı derecede pürüzsüzleştirildi mi?
 ```
 
 [↑ Kategorilere dön](#catalog)

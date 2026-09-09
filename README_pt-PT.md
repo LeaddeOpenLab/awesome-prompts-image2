@@ -844,13 +844,13 @@ Tradução em curso
 
 <a name="prompt-2097486896750338125"></a>
 
-### Tradução em curso
+### Modelo de instrução imagem para imagem baseado numa imagem de referência para manter a iluminação, a textura e a composição, redesenhando a personagem e o tema.
 
 Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicação original](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de instrução imagem para imagem baseado numa imagem de referência para manter a iluminação, a textura e a composição, redesenhando a personagem e o tema.
 
 <img src="images/2097486896750338125-1.jpg" alt="Imagem 1" width="480" />
 
@@ -863,7 +863,7 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Use a imagem em anexo como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo da composição; redesenhe a personagem e a paleta de cores temática. A personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, a roupa ficou mais grossa ou a pele foi excessivamente suavizada?
 ```
 
 [↑ Voltar às categorias](#catalog)

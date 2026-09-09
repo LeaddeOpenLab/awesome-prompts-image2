@@ -834,13 +834,13 @@ Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2097486896750338125"></a>
 
-### Übersetzung läuft
+### Bild-zu-Bild-Befehlsvorlage zur Beibehaltung von Licht und Schatten, Textur und Komposition basierend auf einem Referenzbild bei gleichzeitiger Neugestaltung des Charakterthemas.
 
 Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Originalbeitrag](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Bild-zu-Bild-Befehlsvorlage zur Beibehaltung von Licht und Schatten, Textur und Komposition basierend auf einem Referenzbild bei gleichzeitiger Neugestaltung des Charakterthemas.
 
 <img src="images/2097486896750338125-1.jpg" alt="Bild 1" width="480" />
 
@@ -853,7 +853,7 @@ Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Belichtungsverhältnis, die Lichtrichtung, die Textur der Kleidung und den Kompositionsrhythmus bei; entwirf die Figur und das thematische Farbschema neu. Die Person ist ein Erwachsener; kopiere nicht das Gesicht der Referenzperson. Nach der Generierung im Vergleich zum Originalbild prüfen: Wurde eigenmächtig die Beleuchtung verändert, die Kleidung dicker gemacht oder die Haut übermäßig glatt retuschiert?
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

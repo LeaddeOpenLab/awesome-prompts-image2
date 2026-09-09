@@ -834,13 +834,13 @@ Traducción en curso
 
 <a name="prompt-2097486896750338125"></a>
 
-### Traducción en curso
+### Plantilla de instrucciones imagen a imagen para mantener la iluminación, la textura y la composición a partir de una imagen de referencia, rediseñando el personaje y la temática.
 
 Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicación original](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de instrucciones imagen a imagen para mantener la iluminación, la textura y la composición a partir de una imagen de referencia, rediseñando el personaje y la temática.
 
 <img src="images/2097486896750338125-1.jpg" alt="Imagen 1" width="480" />
 
@@ -853,7 +853,7 @@ Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la imagen adjunta como referencia del esquema fotográfico. Mantén su relación de exposición, dirección de la luz, textura de las telas y ritmo de composición; rediseña el personaje y la paleta de colores temática. El personaje debe ser un adulto, sin copiar el rostro de la persona de referencia. Tras la generación, compárala con la imagen original para verificar: ¿se cambió arbitrariamente la iluminación, se hizo la ropa más gruesa o se suavizó la piel en exceso?
 ```
 
 [↑ Volver a categorías](#catalog)

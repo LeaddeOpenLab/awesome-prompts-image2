@@ -834,13 +834,13 @@ Traduction en cours
 
 <a name="prompt-2097486896750338125"></a>
 
-### Traduction en cours
+### Modèle d'instruction image par image basé sur une image de référence pour conserver l'éclairage, la texture et la composition tout en repensant le personnage et le thème.
 
 Auteur：[@nanyuan0412](https://x.com/nanyuan0412) · [Publication originale](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle d'instruction image par image basé sur une image de référence pour conserver l'éclairage, la texture et la composition tout en repensant le personnage et le thème.
 
 <img src="images/2097486896750338125-1.jpg" alt="Image 1" width="480" />
 
@@ -853,7 +853,7 @@ Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez l'image jointe comme référence pour le schéma photographique. Conservez son rapport d'exposition, la direction de la lumière, la texture des tissus et le rythme de la composition ; redessinez le personnage et la palette de couleurs thématique. Le personnage est un adulte, sans copier le visage de la personne de référence. Après la génération, comparez avec l'image originale pour vérifier : l'éclairage a-t-il été modifié sans autorisation, les vêtements ont-ils été épaissis, ou la peau a-t-elle été retouchée de manière excessivement lisse ?
 ```
 
 [↑ Retour aux catégories](#catalog)
