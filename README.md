@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**53** Prompts · Latest addition: **2026-09-09**
+**54** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1217,6 +1217,30 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097780695414530375"></a>
+
+### Generate a webpage interface with a Chrome frame showing a ChatGPT conversation that generates a livestreamer screenshot.
+
+Author：[@XChatScout](https://x.com/XChatScout) · [Source](https://x.com/XChatScout/status/2097780695414530375)
+
+App / Web Design · Published
+
+**Summary:** Generate a webpage interface with a Chrome frame showing a ChatGPT conversation that generates a livestreamer screenshot.
+
+<img src="images/2097780695414530375-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097780695414530375-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a webpage screenshot that includes a Chrome browser frame, showing a user conversing on ChatGPT and using GPT-Image-2.5 to generate a screenshot of a female livestreamer streaming.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097715653981667777"></a>
 
