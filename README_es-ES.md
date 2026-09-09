@@ -54,20 +54,20 @@ Traducción en curso
 
 <a name="prompt-2097411028510179759"></a>
 
-### Traducción en curso
+### Prompt de foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde.
 
 Autor：[@mark\_k](https://x.com/mark_k) · [Publicación original](https://x.com/mark_k/status/2097411028510179759)
 
 Fotografía · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de foto de paisaje en alta definición de un claro en el bosque con densa vegetación verde.
 
 <img src="images/2097411028510179759-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 ```
 
 [↑ Volver a categorías](#catalog)

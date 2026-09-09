@@ -54,20 +54,20 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2097411028510179759"></a>
 
-### Đang dịch
+### Lời nhắc ảnh phong cảnh độ nét cao về một khoảng rừng trống với thảm thực vật xanh tươi tốt.
 
 Tác giả：[@mark\_k](https://x.com/mark_k) · [Bài gốc](https://x.com/mark_k/status/2097411028510179759)
 
 Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh phong cảnh độ nét cao về một khoảng rừng trống với thảm thực vật xanh tươi tốt.
 
 <img src="images/2097411028510179759-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
 ```
 
 [↑ Về danh mục](#catalog)
