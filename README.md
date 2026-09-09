@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**54** Prompts · Latest addition: **2026-09-09**
+**55** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1524,6 +1524,28 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097765578161418569"></a>
+
+### Generation prompt for a body swap scene between a high school boy and girl.
+
+Author：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Source](https://x.com/irekawarimaniax/status/2097765578161418569)
+
+Character · Published
+
+**Summary:** Generation prompt for a body swap scene between a high school boy and girl.
+
+<img src="images/2097765578161418569-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Draw a single panel depicting a body swap between a high school boy and girl
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**54** Prompts · Última adição: **2026-09-09**
+**55** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1548,6 +1548,28 @@ Personagem · Publicado
 
 ```text
 Use a imagem anexada como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo de composição; redesenhe o personagem e a paleta de cores temática. O personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, as roupas ficaram mais grossas ou a pele foi excessivamente suavizada?
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2097765578161418569"></a>
+
+### Tradução em andamento
+
+Autor：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publicação original](https://x.com/irekawarimaniax/status/2097765578161418569)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097765578161418569-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

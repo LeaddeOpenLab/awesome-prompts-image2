@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**54** Prompts · Dernier ajout: **2026-09-09**
+**55** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1563,6 +1563,28 @@ Personnage · Publié
 
 ```text
 Utilisez l'image jointe comme référence pour le schéma photographique. Conservez son rapport d'exposition, la direction de la lumière, la texture des tissus et le rythme de la composition ; redessinez le personnage et la palette de couleurs thématique. Le personnage est un adulte, sans copier le visage de la personne de référence. Après la génération, comparez avec l'image originale pour vérifier : l'éclairage a-t-il été modifié sans autorisation, les vêtements ont-ils été épaissis, ou la peau a-t-elle été retouchée de manière excessivement lisse ?
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2097765578161418569"></a>
+
+### Traduction en cours
+
+Auteur：[@irekawarimaniax](https://x.com/irekawarimaniax) · [Publication originale](https://x.com/irekawarimaniax/status/2097765578161418569)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097765578161418569-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)
