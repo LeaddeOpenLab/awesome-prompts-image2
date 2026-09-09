@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**28** Prompts · Latest addition: **2026-09-09**
+**29** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -688,6 +688,32 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097558679956664521"></a>
+
+### Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.
+
+Author：[@meng\_dagg695](https://x.com/meng_dagg695) · [Source](https://x.com/meng_dagg695/status/2097558679956664521)
+
+Portrait / Selfie · Published
+
+**Summary:** Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.
+
+<img src="images/2097558679956664521-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097558679956664521-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097558679956664521-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097519422407872858"></a>
 

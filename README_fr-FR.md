@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**28** Prompts · Dernier ajout: **2026-09-09**
+**29** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -688,6 +688,32 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097558679956664521"></a>
+
+### Traduction en cours
+
+Auteur：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publication originale](https://x.com/meng_dagg695/status/2097558679956664521)
+
+Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097558679956664521-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097558679956664521-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097558679956664521-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097519422407872858"></a>
 

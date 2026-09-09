@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**28** Prompts · Última incorporación: **2026-09-09**
+**29** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -688,6 +688,32 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097558679956664521"></a>
+
+### Traducción en curso
+
+Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publicación original](https://x.com/meng_dagg695/status/2097558679956664521)
+
+Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097558679956664521-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097558679956664521-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097558679956664521-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097519422407872858"></a>
 

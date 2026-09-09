@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**28** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**29** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -688,6 +688,32 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097558679956664521"></a>
+
+### Übersetzung läuft
+
+Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Originalbeitrag](https://x.com/meng_dagg695/status/2097558679956664521)
+
+Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097558679956664521-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097558679956664521-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097558679956664521-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097519422407872858"></a>
 
