@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-brightgreen)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **Her gün özenle seçilen kaliteli istemler**
 
 Yapay zekâ ile görsel, video ve 3D üretimi için eksiksiz istemleri keşfedin. Stile göre gezinin, farklı dilleri seçin ve özgün üreticilerle kaynaklarını inceleyin.
@@ -109,13 +104,13 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 <a name="prompt-2097534208541442338"></a>
 
-### Çeviri sürüyor
+### Soğuk beyaz tenli genç Doğu Asyalı kadının, gri-beyaz pelüş arka plan ve çeşitli yüz tutma/dalıp gitme poz seçenekleriyle iPhone ön kamerası tarzı yakın plan portre istemi.
 
 Yazar：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Orijinal gönderi](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 Profil / Avatar · Fotoğrafçılık · Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Soğuk beyaz tenli genç Doğu Asyalı kadının, gri-beyaz pelüş arka plan ve çeşitli yüz tutma/dalıp gitme poz seçenekleriyle iPhone ön kamerası tarzı yakın plan portre istemi.
 
 <img src="images/2097534208541442338-1.jpg" alt="Görsel 1" width="480" />
 
@@ -128,7 +123,24 @@ Profil / Avatar · Fotoğrafçılık · Portre / Selfie · Karakter · Özet / A
 **İstem**
 
 ```text
-Çeviri sürüyor
+📱 iPhone ön kamerasıyla çekilmiş anlık fotoğraf, 9:16; 18-22 yaşlarında, bariz biçimde yetişkin, yaklaşık 1.75 boyunda, narin yüz hatlarına ve soğuk beyaz, duru bir tene sahip, uzun boylu ve ince model fiziğinde, görsel olarak doğal E cup göğüslü güzel Doğu Asyalı kadın. Koyu renkli, yumuşak, hacimli ve iri dalgalı uzun saçlar; pürüzsüz omuz ve boyun çizgisini açıkta bırakan, açık renkli, vücuda oturan derin V yaka ince askılı bluz; yuvarlak hatlı gözler, yumuşak düz kaşlar, simsiyah ve ışıltılı bakışlar, hafif pembe allık ve nemli pembe tonlarında dudaklar; tembel ve dingin bir hava.
+
+🩶 Loş iç mekanda çok yakın portre çekimi, gri-beyaz pelüş kumaş dokulu bulanık arka plan, soğuk tonlu loş ışık, düşük pozlama, düşük doygunlukta gri-beyaz filtre, düşük kontrast, hafif keskinleştirme, yumuşak odaklı buğulu kumlanma (grain), samimi ve rahat, temiz ve üst düzey, hafif melankolik ve mesafeli bir atmosfer.
+
+Rastgele poz havuzu:
+
+🤍 Tek elle yüzünü tutarak, avuç içi yanağa ve çene çizgisine yapışık, sessizce kameraya bakarken
+🫧 Dirseğini dayayıp yanağını yaslayarak, başını hafifçe yana eğip dalarak
+🌙 Yüzünün yarısını avucunun içine gömmüş, tembel ve boş bakışlarla
+💭 Parmakları çeneye ve yanağa hafifçe dokunurken, başı öne eğik ve ardından yavaşça gözlerini yukarı kaldırırken
+🪞 Kameraya yakın, avuç içiyle yüzünü desteklemiş, uzun dalgalı saçları omuzlarının önüne dökülmüş
+☁️ Yüzünün yan tarafını elinin tersine dayamış, bakışları karenin dışına yönelmiş
+💤 Eli yanağında hafifçe omuzlarını kısmış, tam uykuluyken yakalanmış gibi
+✨ Yüzünü pelüş bir kırlente yaklaştırıp dayamış, dudak kenarında belli belirsiz bir tebessümle
+
+🎲 Farklı hareketler etrafında selfie mesafesini, yüzü tutuş şeklini, bakışları, saç tellerini, loş ışığı, odak dışı alanları ve kumlanmayı serbestçe yorumlayın; yakın plan portreyi, soğuk gri-beyaz tonları ve iPhone ön kamerasının anlık çekim dokusunu korumaya odaklanarak samimi bir dreamcore × melankolik hava × seçkin ve minimalist bir portre hissini yakalayın.
+
+Farklı hareketleri içeren ve içlerinden seçim yapabileceğim kapsamlı bir önizleme görseli oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-brightgreen)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **Prompt di qualità selezionati ogni giorno**
 
 Scopri prompt completi per immagini, video e creazioni 3D con l’IA. Esplora gli stili, le versioni multilingue e le fonti degli autori originali.
@@ -109,13 +104,13 @@ Traduzione in corso
 
 <a name="prompt-2097534208541442338"></a>
 
-### Traduzione in corso
+### Prompt per primissimo piano spontaneo con fotocamera frontale di iPhone di una giovane donna dell'Asia orientale dalla pelle chiarissima e fredda, con sfondo peloso grigio-bianco e diverse opzioni di pose con viso sorretto a sognare a occhi aperti.
 
 Autore：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Post originale](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 Profilo / Avatar · Fotografia · Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per primissimo piano spontaneo con fotocamera frontale di iPhone di una giovane donna dell'Asia orientale dalla pelle chiarissima e fredda, con sfondo peloso grigio-bianco e diverse opzioni di pose con viso sorretto a sognare a occhi aperti.
 
 <img src="images/2097534208541442338-1.jpg" alt="Immagine 1" width="480" />
 
@@ -128,7 +123,24 @@ Profilo / Avatar · Fotografia · Ritratto / Selfie · Personaggio · Abstract /
 **Prompt**
 
 ```text
-Traduzione in corso
+📱 Scatto spontaneo con fotocamera frontale di iPhone, 9:16; splendida donna dell'Asia orientale di 18-22 anni, chiaramente maggiorenne, alta circa 1,75 m, lineamenti raffinati, pelle chiarissima e diafana dai toni freddi, fisico da modella alto e snello, seno visivamente pari a circa una coppa E naturale. Capelli scuri, setosi e voluminosi con grandi onde lunghe, canottiera aderente a spalline sottili con profondo scollo a V in colore chiaro, che mette in risalto spalle lisce e linea del collo, occhi arrotondati, sopracciglia dritte e morbide, occhi neri e luminosi, fard rosa tenue e labbra idratate sui toni del rosa, pigra e quieta.
+
+🩶 Primissimo piano ravvicinato in interno poco illuminato, sfondo sfocato in tessuto peloso bianco e grigio, luce fioca e fredda, bassa esposizione, filtro desaturato grigio-bianco, basso contrasto, lieve nitidezza, grana morbida e sfocata con effetto foschia, disinvolta e rilassata, pulita ed elegante, con un tocco di atmosfera malinconica e fredda.
+
+Insieme di pose casuali:
+
+🤍 Con una mano che sorregge il viso, il palmo aderente alla guancia e alla mandibola, mentre fissa tranquillamente l'obiettivo
+🫧 Gomito che sostiene il lato del viso, testa leggermente reclinata a fissare il vuoto
+🌙 Metà del volto affondata nel palmo, sguardo pigro e perso
+💭 Dita poggiate con delicatezza sul mento e sul lato del viso, chinando il capo e alzando lentamente gli occhi
+🪞 Vicina all'obiettivo, palmo che sostiene il viso, lunghi capelli ondulati che ricadono sulle spalle
+☁️ Il lato del viso appoggiato al dorso della mano, lo sguardo rivolto fuori dall'inquadratura
+💤 Mano che sorregge la guancia con le spalle leggermente rannicchiate, come colta nel sonno
+✨ Viso appoggiato vicino a un cuscino morbido, con un leggero accenno di sorriso agli angoli della bocca
+
+🎲 Varia liberamente la distanza del selfie, il modo di sorreggere il viso, lo sguardo, le ciocche di capelli, la luce soffusa, la sfocatura e la grana in base alle diverse pose, mantenendo come priorità il primissimo piano ravvicinato, i toni freddi grigio-bianchi e la resa da scatto spontaneo con fotocamera frontale di iPhone, ricercando un'estetica dreamcore casalinga × atmosfera malinconica × ritratto sofisticato e minimalista.
+
+Genera un'immagine di anteprima complessiva che contenga diverse pose tra cui scegliere.
 ```
 
 [↑ Torna alle categorie](#catalog)

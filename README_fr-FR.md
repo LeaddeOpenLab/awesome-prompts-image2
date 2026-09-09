@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-brightgreen)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **Des prompts de qualité sélectionnés chaque jour**
 
 Découvrez des prompts complets pour créer des images, des vidéos et de la 3D avec l’IA. Explorez les styles, les versions multilingues et les sources des créateurs.
@@ -109,13 +104,13 @@ Traduction en cours
 
 <a name="prompt-2097534208541442338"></a>
 
-### Traduction en cours
+### Prompt de gros plan spontané pris à la caméra avant d'un iPhone d'une jeune femme est-asiatique au teint blanc froid, avec fond pelucheux gris et blanc et plusieurs options de poses soutenant le visage et rêvassant.
 
 Auteur：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publication originale](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 Profil / Avatar · Photographie · Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de gros plan spontané pris à la caméra avant d'un iPhone d'une jeune femme est-asiatique au teint blanc froid, avec fond pelucheux gris et blanc et plusieurs options de poses soutenant le visage et rêvassant.
 
 <img src="images/2097534208541442338-1.jpg" alt="Image 1" width="480" />
 
@@ -128,7 +123,24 @@ Profil / Avatar · Photographie · Portrait / Selfie · Personnage · Résumé /
 **Consigne**
 
 ```text
-Traduction en cours
+📱 Photo spontanée prise avec la caméra avant d'un iPhone, 9:16 ; belle femme est-asiatique âgée de 18 à 22 ans, clairement majeure, mesurant environ 1,75 m, traits délicats, peau diaphane et blanche aux sous-tons froids, silhouette de mannequin grande et élancée, poitrine d'environ bonnet E naturel à l'œil. Cheveux sombres, souples, volumineux à longues ondulations amples, caraco clair ajusté à fines bretelles et décolleté en V plongeant, dévoilant des épaules lisses et la ligne du cou, yeux de forme arrondie, sourcils droits et doux, yeux noirs purs et brillants, blush rose pâle et lèvres rosées bien hydratées, paresseuse et calme.
+
+🩶 Gros plan très serré en intérieur tamisé, arrière-plan flouté en tissu pelucheux gris et blanc, faible lumière aux tons froids, sous-exposition, filtre désaturé gris-blanc, faible contraste, légère netteté, grain vaporeux et flou artistique, désinvolte et détendue, épurée et haut de gamme, avec une touche d'ambiance mélancolique et froide.
+
+Sélection aléatoire de poses :
+
+🤍 Une main soutenant le visage, la paume contre la joue et la mâchoire, regardant calmement l'objectif
+🫧 Le coude soutenant le côté du visage, tête légèrement penchée dans le vague
+🌙 La moitié du visage enfouie dans la paume de la main, regard nonchalant et absent
+💭 Doigts délicatement posés sur le menton et le côté du visage, tête baissée puis relevant lentement les yeux
+🪞 Proche de l'objectif, la paume soutenant le visage, de longues mèches ondulées tombant sur le devant des épaules
+☁️ Le côté du visage appuyé contre le dos de la main, le regard tourné hors champ
+💤 Main soutenant la joue avec les épaules légèrement rentrées, comme surprise en pleine somnolence
+✨ Visage appuyé contre un coussin pelucheux, un léger sourire au coin des lèvres
+
+🎲 Variez librement la distance du selfie, la façon de soutenir le visage, le regard, les mèches de cheveux, la faible lumière, le flou et le grain selon les différentes poses, en conservant impérativement le très gros plan, la tonalité froide gris-blanc et la texture de photo spontanée prise avec la caméra frontale d'un iPhone, en recherchant une esthétique dreamcore d'intérieur × atmosphère mélancolique × portrait minimaliste et haut de gamme.
+
+Générez une image d'aperçu composite contenant différentes poses pour que je puisse choisir.
 ```
 
 [↑ Retour aux catégories](#catalog)

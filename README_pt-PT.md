@@ -2,11 +2,6 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-brightgreen)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
-**Best for:** Image 2.5 prompts for commercial visuals, layouts, keyframes, and image-to-video source assets.
-
-For PDF, PPT, SOP, training, and multilingual video workflows:
-[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
-
 > **Prompts de qualidade selecionados diariamente**
 
 Descubra prompts completos para imagens, vídeos e criações 3D com IA. Explore por estilo, consulte versões multilingues e conheça os autores e as fontes.
@@ -109,13 +104,13 @@ Tradução em curso
 
 <a name="prompt-2097534208541442338"></a>
 
-### Tradução em curso
+### Prompt para grande plano espontâneo com câmara frontal de iPhone de uma jovem mulher leste-asiática de pele branca e fria, com fundo felpudo cinzento e várias opções de poses a segurar o rosto e sonhar acordada.
 
 Autor：[@AIVideoHub\_](https://x.com/AIVideoHub_) · [Publicação original](https://x.com/AIVideoHub_/status/2097534208541442338)
 
 Perfil / Avatar · Fotografia · Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para grande plano espontâneo com câmara frontal de iPhone de uma jovem mulher leste-asiática de pele branca e fria, com fundo felpudo cinzento e várias opções de poses a segurar o rosto e sonhar acordada.
 
 <img src="images/2097534208541442338-1.jpg" alt="Imagem 1" width="480" />
 
@@ -128,7 +123,24 @@ Perfil / Avatar · Fotografia · Retrato / Selfie · Personagem · Resumo / Cont
 **Prompt**
 
 ```text
-Tradução em curso
+📱 Foto espontânea tirada com a câmara frontal do iPhone, 9:16; mulher leste-asiática bonita de 18 a 22 anos, claramente maior de idade, cerca de 1,75 m, traços faciais delicados, pele branca fria e translúcida, corpo de modelo alto e esbelto, seios visualmente em torno de uma copa E natural. Cabelo escuro, suave e volumoso com ondas compridas e largas, top de alças finas claro e justo com decote em V profundo, expondo ombros lisos e a linha do pescoço, olhos arredondados, sobrancelhas retas e suaves, olhos negros e brilhantes, blush rosa suave e lábios hidratados em tom rosado, languidamente calma.
+
+🩶 Grande plano muito aproximado de retrato em interior mal iluminado, fundo desfocado de tecido felpudo cinzento e branco, luz fraca de tons frios, baixa exposição, filtro cinzento e branco de baixa saturação, baixo contraste, nitidez ligeira, grão enevoado e suave com foco suave, casual e descontraída, limpa e sofisticada, com uma leve atmosfera melancólica e fria.
+
+Conjunto de poses aleatórias:
+
+🤍 Com uma mão a segurar o rosto, a palma encostada à bochecha e à mandíbula, olhando calmamente para a câmara
+🫧 Cotovelo a apoiar a lateral do rosto, cabeça ligeiramente inclinada a olhar para o vazio
+🌙 Metade do rosto escondida na palma da mão, olhar lânguido e distante
+💭 Dedos pousados suavemente no queixo e na lateral do rosto, baixando a cabeça e levantando lentamente os olhos
+🪞 Próxima da câmara, palma da mão a segurar o rosto, cabelo comprido e ondulado a cair sobre a frente dos ombros
+☁️ A lateral do rosto encostada às costas da mão, com o olhar virado para fora do enquadramento
+💤 Mão a segurar a bochecha com os ombros ligeiramente encolhidos, como num instante apanhado de sonolência
+✨ Apoiando o rosto junto a uma almofada felpuda, com um leve sorriso no canto dos lábios
+
+🎲 Varie livremente a distância da selfie, o modo de segurar o rosto, o olhar, as madeixas de cabelo, a luz fraca, a desfocagem e o grão consoante as diferentes poses, priorizando manter o grande plano bem aproximado, a tonalidade fria cinzenta e branca e a textura de foto espontânea de câmara frontal de iPhone, procurando uma estética dreamcore caseira × atmosfera melancólica × sensação de retrato minimalista requintado.
+
+Gere uma imagem de pré-visualização combinada com diferentes poses para que eu possa escolher.
 ```
 
 [↑ Voltar às categorias](#catalog)
