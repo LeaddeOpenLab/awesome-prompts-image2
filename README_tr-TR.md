@@ -54,13 +54,13 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak ·
 
 <a name="prompt-2096982628541100464"></a>
 
-### Çeviri sürüyor
+### Koyu mavi kozmik galaksi fantezi stilinde uyumlu bir erkek ve kadın portresi ikilisi oluşturan çift portreli prompt.
 
 Yazar：[@sha\_zdiii](https://x.com/sha_zdiii) · [Orijinal gönderi](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Koyu mavi kozmik galaksi fantezi stilinde uyumlu bir erkek ve kadın portresi ikilisi oluşturan çift portreli prompt.
 
 <img src="images/2096982628541100464-1.jpg" alt="Görsel 1" width="480" />
 
@@ -69,7 +69,20 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek bir prompt'tan, her ikisi de tamamen aynı koyu mavi kozmik galaksi temasını ve görsel stilini kullanan iki ayrı, ultra detaylı, sinematik fantezi portresi oluşturun.
+
+GÖRSEL 1 — KADIN:
+Uzun dalgalı siyah saçlı, ışıltılı pürüzsüz tenli, büyüleyici mavi ve gümüş rengi göksel göz makyajına, parlak dudaklara ve yüzünde yıldız benzeri parıldayan detaylara sahip, belirgin şekilde yetişkin, güzel bir kadın oluşturun. Çevresine hilal ve yıldız temalı zarif takılar, ince kristal vurgular ve parlayan kozmik parçacıklar ekleyin. İfadesi kendinden emin, gizemli ve çekicidir. Etrafını koyu mavi nebula bulutları, parıldayan yıldızlar, büyük gezegenler, aylar, kozmik tozlar ve elektrik mavisi ışıkla çevreleyin. Galaksi enerjisi yüzünün, saçlarının, omzunun ve giysilerinin etrafında doğal bir şekilde kaynaşmalıdır.
+
+GÖRSEL 2 — ERKEK:
+Tamamen aynı mavi kozmik temada, belirgin şekilde yetişkin, yakışıklı bir erkek oluşturun. Gür, hafif dağınık siyah saçları, bakımlı koyu renkli bir sakalı, güçlü yüz hatları, yoğun parlayan mavi gözleri ve kendinden emin, gizemli bir ifadesi vardır. Yüzünün bir tarafına galaksi benzeri hafif parlak desenler ve minik yıldızlar ekleyin. Eli, koyu renkli zarif metalik bir yüzükle şık bir moda pozunda çenesinin yakınındadır. Etrafını aynı koyu mavi nebula bulutları, parlayan gezegenler, aylar, yıldızlar, kozmik tozlar ve elektrik mavisi enerjiyle çevreleyin.
+
+ÖNEMLİ:
+Kadını ve erkeği tek bir karede birlikte değil, iki ayrı görsel olarak oluşturun. Her iki görselin birbiriyle uyumlu bir ikili gibi görünmesi için aynı aydınlatmayı, aynı mavi galaksi renk paletini, aynı seçkin fantezi moda stilini, aynı detay seviyesini ve birbiriyle eşleşen görsel kimliği koruyun.
+
+Ultra gerçekçi, seçkin sinematik aydınlatma, yüksek kontrast, parlak lüks fantezi görünümü, keskin odak, detaylı cilt ve saç, büyülü mavi ışıltı, metin yok, filigran yok.
+
+Dikey portre kompozisyonu, her iki görsel için de 9:16.
 ```
 
 [↑ Kategorilere dön](#catalog)

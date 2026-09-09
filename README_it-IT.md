@@ -54,13 +54,13 @@ Traduzione in corso
 
 <a name="prompt-2096982628541100464"></a>
 
-### Traduzione in corso
+### Prompt per doppio ritratto che crea una coppia coordinata di ritratti di un uomo e una donna in uno stile fantasy di galassia cosmica blu profondo.
 
 Autore：[@sha\_zdiii](https://x.com/sha_zdiii) · [Post originale](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per doppio ritratto che crea una coppia coordinata di ritratti di un uomo e una donna in uno stile fantasy di galassia cosmica blu profondo.
 
 <img src="images/2096982628541100464-1.jpg" alt="Immagine 1" width="480" />
 
@@ -69,7 +69,20 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea due ritratti fantasy cinematografici ultra-dettagliati e separati da un unico prompt, entrambi utilizzando esattamente lo stesso tema di galassia cosmica blu profondo e lo stesso stile visivo.
+
+IMMAGINE 1 — DONNA:
+Crea una bellissima donna chiaramente adulta con lunghi e fluenti capelli neri, pelle liscia e luminosa, un trucco occhi celeste glamour nei toni del blu e dell'argento, labbra lucide e scintillanti dettagli simili a stelle sul viso. Aggiungi eleganti gioielli a forma di luna crescente e stelle, sottili accenti di cristallo e particelle cosmiche luminose intorno a lei. La sua espressione è sicura, misteriosa e attraente. Circondala di nubi di nebulosa blu profondo, stelle luminose, grandi pianeti, lune, polvere cosmica e luce blu elettrico. L'energia della galassia dovrebbe fondersi naturalmente attorno al suo viso, ai capelli, alla spalla e ai vestiti.
+
+IMMAGINE 2 — UOMO:
+Crea un bell'uomo chiaramente adulto esattamente nello stesso tema cosmico blu. Ha capelli neri folti e leggermente spettinati, una barba scura curata, lineamenti del viso marcati, intensi occhi azzurri luminosi e un'espressione sicura e misteriosa. Aggiungi sottili motivi luminosi in stile galassia e minuscole stelle su un lato del suo viso. La sua mano è vicino al mento in una posa fashion elegante con un anello metallico scuro e raffinato. Circondalo delle stesse nubi di nebulosa blu profondo, pianeti luminosi, lune, stelle, polvere cosmica ed energia blu elettrico.
+
+IMPORTANTE:
+Genera la donna e l'uomo come due immagini separate, non insieme in un'unica inquadratura. Mantieni la stessa illuminazione, la stessa tavolozza di colori della galassia blu, lo stesso stile di moda fantasy di alta qualità, lo stesso livello di dettaglio e un'identità visiva coordinata in modo che entrambe le immagini sembrino una coppia abbinata.
+
+Ultra-realistico, illuminazione cinematografica premium, contrasto elevato, look fantasy lussuoso e lucido, messa a fuoco nitida, pelle e capelli dettagliati, magico bagliore blu, nessun testo, nessuna filigrana.
+
+Composizione da ritratto verticale, 9:16 per entrambe le immagini.
 ```
 
 [↑ Torna alle categorie](#catalog)

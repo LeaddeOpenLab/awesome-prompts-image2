@@ -54,13 +54,13 @@ Tradução em andamento
 
 <a name="prompt-2096982628541100464"></a>
 
-### Tradução em andamento
+### Prompt de retrato duplo criando um par coordenado de retratos de homem e mulher em um estilo de fantasia de galáxia cósmica azul-profundo.
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publicação original](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato duplo criando um par coordenado de retratos de homem e mulher em um estilo de fantasia de galáxia cósmica azul-profundo.
 
 <img src="images/2096982628541100464-1.jpg" alt="Imagem 1" width="480" />
 
@@ -69,7 +69,20 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie dois retratos cinematográficos de fantasia ultradetalhados e separados a partir de um único prompt, ambos usando exatamente o mesmo tema de galáxia cósmica azul-profundo e estilo visual.
+
+IMAGEM 1 — MULHER:
+Crie uma linda mulher claramente adulta com longos cabelos pretos esvoaçantes, pele macia e luminosa, maquiagem celestial glamourosa nos olhos em azul e prata, lábios brilhantes e detalhes cintilantes semelhantes a estrelas pelo rosto. Adicione elegantes joias de lua crescente e estrelas, detalhes sutis em cristal e partículas cósmicas brilhantes ao redor dela. Sua expressão é confiante, misteriosa e atraente. Cerque-a com nuvens de nebulosa azul-profundo, estrelas resplandecentes, grandes planetas, luas, poeira cósmica e luz azul-elétrica. A energia da galáxia deve se misturar naturalmente ao redor do rosto, cabelo, ombro e roupas dela.
+
+IMAGEM 2 — HOMEM:
+Crie um homem bonito, claramente adulto, exatamente no mesmo tema cósmico azul. Ele tem cabelos pretos grossos e levemente bagunçados, uma barba escura e bem aparada, traços faciais fortes, intensos olhos azuis brilhantes e uma expressão confiante e misteriosa. Adicione padrões brilhantes sutis semelhantes a uma galáxia e pequenas estrelas em um dos lados do rosto dele. A mão dele está próxima ao queixo em uma pose estilosa de moda com um elegante anel metálico escuro. Cerque-o com as mesmas nuvens de nebulosa azul-profundo, planetas brilhantes, luas, estrelas, poeira cósmica e energia azul-elétrica.
+
+IMPORTANTE:
+Gere a mulher e o homem como duas imagens separadas, não juntos no mesmo enquadramento. Mantenha a mesma iluminação, a mesma paleta de cores de galáxia azul, o mesmo estilo sofisticado de moda fantástica, o mesmo nível de detalhe e uma identidade visual correspondente para que ambas as imagens pareçam um par coordenado.
+
+Ultrarrealista, iluminação cinematográfica premium, alto contraste, visual sofisticado e brilhante de fantasia, foco nítido, pele e cabelos detalhados, brilho azul mágico, sem texto, sem marca d'água.
+
+Composição de retrato vertical, 9:16 para ambas as imagens.
 ```
 
 [↑ Voltar às categorias](#catalog)

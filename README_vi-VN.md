@@ -54,13 +54,13 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh t
 
 <a name="prompt-2096982628541100464"></a>
 
-### Đang dịch
+### Câu lệnh chân dung đôi tạo cặp chân dung nam và nữ đồng bộ theo phong cách kỳ ảo thiên hà vũ trụ màu xanh thẫm.
 
 Tác giả：[@sha\_zdiii](https://x.com/sha_zdiii) · [Bài gốc](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Câu lệnh chân dung đôi tạo cặp chân dung nam và nữ đồng bộ theo phong cách kỳ ảo thiên hà vũ trụ màu xanh thẫm.
 
 <img src="images/2096982628541100464-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -69,7 +69,20 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo hai bức chân dung kỳ ảo điện ảnh siêu chi tiết tách biệt từ một câu lệnh, cả hai đều sử dụng chính xác cùng một chủ đề thiên hà vũ trụ màu xanh thẫm và phong cách thị giác.
+
+HÌNH ẢNH 1 — PHỤ NỮ:
+Tạo một phụ nữ xinh đẹp rõ ràng là người trưởng thành với mái tóc đen dài bồng bềnh, làn da mịn màng phát sáng, lớp trang điểm mắt bầu trời đầy sao màu xanh và bạc lộng lẫy, đôi môi căng bóng và những chi tiết lấp lánh như sao trên khắp khuôn mặt. Thêm đồ trang sức hình trăng lưỡi liềm và ngôi sao thanh lịch, các điểm nhấn pha lê tinh tế và các hạt vũ trụ phát sáng xung quanh cô. Biểu cảm của cô tự tin, bí ẩn và quyến rũ. Bao quanh cô là những đám mây tinh vân màu xanh thẫm, những vì sao phát sáng, các hành tinh lớn, mặt trăng, bụi vũ trụ và ánh sáng xanh điện (electric-blue). Năng lượng thiên hà hòa quyện tự nhiên quanh khuôn mặt, mái tóc, bờ vai và trang phục của cô.
+
+HÌNH ẢNH 2 — NAM GIỚI:
+Tạo một người đàn ông đẹp trai rõ ràng là người trưởng thành trong chính xác cùng một chủ đề vũ trụ màu xanh lam. Anh có mái tóc đen dày hơi rối, bộ râu đen gọn gàng, các đường nét khuôn mặt mạnh mẽ, đôi mắt xanh phát sáng dữ dội và biểu cảm tự tin đầy bí ẩn. Thêm các họa tiết phát sáng tựa thiên hà và những ngôi sao nhỏ li ti ở một bên khuôn mặt. Bàn tay anh đặt gần cằm theo tư thế thời trang sành điệu với một chiếc nhẫn kim loại tối màu thanh lịch. Bao quanh anh là những đám mây tinh vân xanh thẫm, các hành tinh phát sáng, mặt trăng, các vì sao, bụi vũ trụ và năng lượng xanh điện tương tự.
+
+QUAN TRỌNG:
+Tạo hình người phụ nữ và người đàn ông thành hai hình ảnh riêng biệt, không ghép chung trong một khung hình. Giữ nguyên ánh sáng, cùng bảng màu thiên hà xanh lam, cùng phong cách thời trang kỳ ảo cao cấp, cùng mức độ chi tiết và nhận diện thị giác tương đồng để cả hai hình ảnh trông như một cặp đôi đồng bộ.
+
+Siêu thực, ánh sáng điện ảnh cao cấp, độ tương phản cao, vẻ ngoài kỳ ảo sang trọng bóng bẩy, lấy nét sắc nét, chi tiết da và tóc tỉ mỉ, ánh sáng xanh huyền diệu, không chữ, không hình mờ.
+
+Bố cục chân dung dọc, tỷ lệ 9:16 cho cả hai hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

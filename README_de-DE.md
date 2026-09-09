@@ -54,13 +54,13 @@ Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffen
 
 <a name="prompt-2096982628541100464"></a>
 
-### Übersetzung läuft
+### Doppelporträt-Prompt, der ein aufeinander abgestimmtes Paar von Porträts eines Mannes und einer Frau im tiefblauen kosmischen Galaxie-Fantasy-Stil erstellt.
 
 Autor：[@sha\_zdiii](https://x.com/sha_zdiii) · [Originalbeitrag](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Doppelporträt-Prompt, der ein aufeinander abgestimmtes Paar von Porträts eines Mannes und einer Frau im tiefblauen kosmischen Galaxie-Fantasy-Stil erstellt.
 
 <img src="images/2096982628541100464-1.jpg" alt="Bild 1" width="480" />
 
@@ -69,7 +69,20 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle zwei separate, hochdetaillierte, filmische Fantasy-Porträts aus einem Prompt, die beide genau dasselbe tiefblaue kosmische Galaxienthema und denselben visuellen Stil verwenden.
+
+BILD 1 — FRAU:
+Erstelle eine wunderschöne, eindeutig erwachsene Frau mit langem, wallendem schwarzem Haar, leuchtender, glatter Haut, glamourösem himmlischem Augen-Make-up in Blau und Silber, glänzenden Lippen und funkelnden sternenartigen Details auf ihrem Gesicht. Füge eleganten Schmuck mit Mondsichel- und Sternenmotiven, dezente Kristallakzente und leuchtende kosmische Partikel um sie herum hinzu. Ihr Ausdruck ist selbstbewusst, geheimnisvoll und attraktiv. Umgib sie mit tiefblauen Nebelwolken, leuchtenden Sternen, großen Planeten, Monden, kosmischem Staub und elektrisch-blauem Licht. Die Energie der Galaxie sollte sich natürlich um ihr Gesicht, ihr Haar, ihre Schulter und ihre Kleidung einfügen.
+
+BILD 2 — MANN:
+Erstelle einen gutaussehenden, eindeutig erwachsenen Mann im exakt selben blauen kosmischen Thema. Er hat dichtes, leicht zerzaustes schwarzes Haar, einen gepflegten dunklen Bart, markante Gesichtszüge, intensiv leuchtende blaue Augen und einen selbstbewussten, geheimnisvollen Ausdruck. Füge dezente galaxieartige Leuchtmuster und winzige Sterne auf einer Seite seines Gesichts hinzu. Seine Hand befindet sich in einer stilvollen Modepose mit einem eleganten dunkelmetallischen Ring nahe seinem Kinn. Umgib ihn mit denselben tiefblauen Nebelwolken, leuchtenden Planeten, Monden, Sternen, kosmischem Staub und elektrisch-blauer Energie.
+
+WICHTIG:
+Generiere die Frau und den Mann als zwei separate Bilder, nicht zusammen in einem Einzelbild. Behalte dieselbe Beleuchtung, dieselbe blaue Galaxie-Farbpalette, denselben erstklassigen Fantasy-Modestil, denselben Detaillierungsgrad und eine passende visuelle Identität bei, sodass beide Bilder wie ein abgestimmtes Paar wirken.
+
+Ultrarealistisch, erstklassige filmische Beleuchtung, hoher Kontrast, glänzender Luxus-Fantasy-Look, scharfer Fokus, detaillierte Haut und Haare, magisches blaues Leuchten, kein Text, kein Wasserzeichen.
+
+Vertikale Porträtkomposition, 9:16 für beide Bilder.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -54,13 +54,13 @@ Traduction en cours
 
 <a name="prompt-2096982628541100464"></a>
 
-### Traduction en cours
+### Prompt de double portrait créant une paire coordonnée de portraits d'un homme et d'une femme dans un style fantastique de galaxie cosmique bleu profond.
 
 Auteur：[@sha\_zdiii](https://x.com/sha_zdiii) · [Publication originale](https://x.com/sha_zdiii/status/2096982628541100464)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de double portrait créant une paire coordonnée de portraits d'un homme et d'une femme dans un style fantastique de galaxie cosmique bleu profond.
 
 <img src="images/2096982628541100464-1.jpg" alt="Image 1" width="480" />
 
@@ -69,7 +69,20 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez deux portraits fantastiques cinématographiques ultra-détaillés et distincts à partir d'un seul prompt, utilisant tous deux exactement le même thème de galaxie cosmique bleu profond et le même style visuel.
+
+IMAGE 1 — FEMME :
+Créez une magnifique femme visiblement adulte aux longs cheveux noirs flottants, à la peau lisse et lumineuse, avec un maquillage des yeux céleste glamour bleu et argenté, des lèvres brillantes et des détails scintillants en forme d'étoiles sur son visage. Ajoutez d'élégants bijoux en croissant de lune et en étoiles, de subtiles touches de cristal et des particules cosmiques incandescentes autour d'elle. Son expression est confiante, mystérieuse et séduisante. Entourez-la de nuages de nébuleuse bleu profond, d'étoiles scintillantes, de grandes planètes, de lunes, de poussière cosmique et d'une lumière bleu électrique. L'énergie de la galaxie doit se fondre naturellement autour de son visage, de ses cheveux, de son épaule et de ses vêtements.
+
+IMAGE 2 — HOMME :
+Créez un bel homme visiblement adulte dans exactement le même thème cosmique bleu. Il a des cheveux noirs épais et légèrement décoiffés, une barbe sombre bien soignée, des traits de visage affirmés, des yeux bleu vif intensément lumineux et une expression confiante et mystérieuse. Ajoutez de subtils motifs lumineux rappelant une galaxie et de minuscules étoiles sur un côté de son visage. Sa main est près de son menton dans une pose de mode élégante avec une bague raffinée en métal sombre. Entourez-le des mêmes nuages de nébuleuse bleu profond, de planètes brillantes, de lunes, d'étoiles, de poussière cosmique et d'une énergie bleu électrique.
+
+IMPORTANT :
+Générez la femme et l'homme sous forme de deux images distinctes, pas ensemble dans un même cadre. Conservez le même éclairage, la même palette de couleurs de galaxie bleue, le même style de mode fantastique haut de gamme, le même niveau de détail et une identité visuelle assortie pour que les deux images forment un ensemble harmonieux.
+
+Ultra-réaliste, éclairage cinématographique haut de gamme, contraste élevé, allure fantastique luxueuse et brillante, mise au point nette, peau et cheveux détaillés, lueur bleue magique, pas de texte, pas de filigrane.
+
+Composition de portrait vertical, 9:16 pour les deux images.
 ```
 
 [↑ Retour aux catégories](#catalog)
