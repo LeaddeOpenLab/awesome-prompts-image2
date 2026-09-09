@@ -104,20 +104,25 @@ Tradução em andamento
 
 <a name="prompt-2096909970398941572"></a>
 
-### Tradução em andamento
+### Selfie no espelho fotorrealista 9:16 de uma mulher brasileira atlética em um macacão laranja-terracota dentro de uma academia de luxo.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Publicação original](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Selfie no espelho fotorrealista 9:16 de uma mulher brasileira atlética em um macacão laranja-terracota dentro de uma academia de luxo.
 
 <img src="images/2096909970398941572-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Selfie no espelho fotorrealista em estúdio de fitness de luxo em ambiente interno, vertical 9:16, uma jovem mulher brasileira em pé em uma pose relaxada de contrapposto tirando uma selfie com smartphone. A câmera captura a cena através de um grande espelho do chão ao teto usando uma lente grande-angular de celular equivalente a 28–35 mm. A modelo está a cerca de 1 metro do espelho. O corpo inteiro, da cabeça aos tênis, está visível. Ela ocupa o centro-esquerdo do enquadramento. Piso de madeira quente, tapetes de borracha pretos e fileiras de kettlebells e máquinas de cabos aparecem à direita e ao fundo.
+A modelo é uma jovem mulher brasileira com um físico atlético-curvilíneo e compacto: ombros moderadamente largos, braços definidos, mas não volumosos, busto cheio, cintura fina, quadris arredondados e coxas naturalmente grossas. As proporções parecem fundamentadas e reais, em vez de magras como modelos ou exageradas. Pele bronzeada dourada e quente com poros visíveis e variação sutil. Iluminação suave e natural, sem pele plástica.
+Ela fica com o peso na perna direita, o joelho esquerdo ligeiramente flexionado e virado para fora, os quadris angulados em direção ao espelho. O tronco se torce suavemente para que o ombro esquerdo fique mais perto do vidro. A mão esquerda repousa sobre o quadril; a mão direita segura um smartphone escuro perto do rosto, na altura da bochecha. A cabeça está virada sobre o ombro esquerdo em direção ao telefone, o queixo ligeiramente para baixo, expressão calma e levemente confiante com um pequeno sorriso de boca fechada. Os olhos olham para a tela.
+O cabelo é castanho-escuro com mechas cor de caramelo quente, na altura dos ombros, preso em um rabo de cavalo baixo e frouxo com mechas emoldurando o rosto. O rosto é oval com maçãs do rosto proeminentes, lábios cheios em tom rosa-nude natural e olhos amendoados castanho-escuros.
+A roupa é um macacão atlético de gola alta em laranja-terracota escuro com alças finas, cobertura moderada e uma linha de perna cavada, mas ainda modesta. Tecido elástico fosco, sem logotipos. Tênis brancos com solas limpas.
+O cenário é um estúdio de fitness contemporâneo de alto padrão com grandes espelhos, tijolos aparentes em uma parede, luminárias pendentes quentes misturadas com LEDs superiores frios e algumas outras pessoas treinando suavemente fora de foco ao fundo. HDR de celular realista, granulação natural, reflexos precisos e sombras verossímeis.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -104,20 +104,25 @@ Profil / Avatar · Fotoğrafçılık · Portre / Selfie · Karakter · Özet / A
 
 <a name="prompt-2096909970398941572"></a>
 
-### Çeviri sürüyor
+### Seçkin bir spor salonunda terakota turuncusu tulum giymiş atletik Brezilyalı bir kadının fotogerçekçi 9:16 ayna selfiesi.
 
 Yazar：[@MrDasOnX](https://x.com/MrDasOnX) · [Orijinal gönderi](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Seçkin bir spor salonunda terakota turuncusu tulum giymiş atletik Brezilyalı bir kadının fotogerçekçi 9:16 ayna selfiesi.
 
 <img src="images/2096909970398941572-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lüks kapalı fitness stüdyosunda fotogerçekçi ayna selfiesi, dikey 9:16, rahat bir contrapposto pozunda duran ve akıllı telefonuyla selfie çeken genç yetişkin Brezilyalı bir kadın. Kamera sahneyi 28–35 mm eşdeğeri telefon geniş açılı lensi kullanarak tavandan tabana büyük bir aynadan yakalıyor. Özne aynadan yaklaşık 1 metre uzakta duruyor. Baştan spor ayakkabılara kadar tüm vücut görünüyor. Kadrajın sol-orta kısmını kaplıyor. Sağ tarafta ve arka planda sıcak ahşap zemin, siyah kauçuk paspaslar ve sıralı kettlebell'ler ile kablolu istasyon makineleri görünüyor.
+Özne, kompakt atletik-kıvrımlı bir yapıya sahip genç yetişkin Brezilyalı bir kadın: orta derecede geniş omuzlar, belirgin ancak hantal olmayan kollar, dolgun göğüs, ince bel, yuvarlak kalçalar ve doğal olarak dolgun üst bacaklar. Orantılar manken inceliğinde veya abartılı olmaktan ziyade ayakları yere basan ve gerçekçi hissettiriyor. Belirgin gözeneklere ve ince ton varyasyonlarına sahip sıcak altın bronz ten. Yumuşak doğal aydınlatma, plastik ten yok.
+Ağırlığını sağ bacağına vererek duruyor, sol dizi hafifçe bükülmüş ve dışa dönük, kalçaları aynaya doğru açılı. Gövdesi hafifçe dönmüş, böylece sol omzu cama daha yakın duruyor. Sol eli kalçasında; sağ eli yanak hizasında yüzüne yakın koyu renkli bir akıllı telefon tutuyor. Başı sol omzunun üzerinden telefona doğru çevrilmiş, çenesi hafifçe aşağıda, sakin ve hafifçe kendine güvenen, ağzı kapalı küçük bir gülümsemeye sahip bir ifade. Gözler ekrana bakıyor.
+Saçları sıcak karamel ışıltılara sahip koyu kahverengi, omuz hizasında, yüzü çevreleyen tutamlarla gevşek, alçak bir atkuyruğu yapılmış. Yüz, yüksek elmacık kemikleri, doğal nude-gül tonunda dolgun dudaklar ve koyu kahverengi badem gözlerle oval hatlara sahip.
+Kıyafet, ince askılı, orta derecede kapatıcılığa ve yüksek kesimli ancak yine de ölçülü bir bacak çizgisine sahip koyu terakota turuncusu balıkçı yaka atletik tek parça tulum. Mat esnek kumaş, logo yok. Temiz tabanlı beyaz spor ayakkabılar.
+Ortam; büyük aynaları, bir duvarda açıkta duran tuğlası, soğuk tavan LED'leriyle karışık sıcak sarkıt lambaları ve arka planda hafifçe odak dışı çalışan birkaç kişinin olduğu lüks çağdaş bir fitness stüdyosu. Gerçekçi telefon HDR'ı, doğal gren, doğru yansımalar ve inandırıcı gölgeler.
 ```
 
 [↑ Kategorilere dön](#catalog)

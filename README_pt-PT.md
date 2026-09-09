@@ -104,20 +104,25 @@ Tradução em curso
 
 <a name="prompt-2096909970398941572"></a>
 
-### Tradução em curso
+### Selfie no espelho fotorrealista 9:16 de uma mulher brasileira atlética num fato de treino de peça única em tom laranja-terracota dentro de um ginásio sofisticado.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Publicação original](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Selfie no espelho fotorrealista 9:16 de uma mulher brasileira atlética num fato de treino de peça única em tom laranja-terracota dentro de um ginásio sofisticado.
 
 <img src="images/2096909970398941572-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Selfie no espelho fotorrealista num estúdio de fitness de luxo em espaço interior, vertical 9:16, uma jovem mulher brasileira de pé numa pose relaxada de contrapposto a tirar uma selfie com smartphone. A câmara capta a cena através de um grande espelho do chão ao teto usando uma lente grande-angular de telemóvel equivalente a 28–35 mm. A modelo encontra-se a cerca de 1 metro do espelho. O corpo inteiro, da cabeça aos ténis, está visível. Ela ocupa o centro-esquerdo do enquadramento. Piso de madeira quente, tapetes de borracha pretos e fileiras de kettlebells e máquinas de cabos surgem à direita e ao fundo.
+A modelo é uma jovem mulher brasileira com uma constituição atlética-curvilínea e compacta: ombros moderadamente largos, braços definidos, mas não volumosos, peito cheio, cintura fina, ancas arredondadas e coxas naturalmente grossas. As proporções parecem sólidas e reais, em vez de magras de modelo ou exageradas. Pele bronzeada dourada e quente com poros visíveis e variação subtil. Iluminação suave e natural, sem pele plástica.
+Ela apoia o peso na perna direita, com o joelho esquerdo ligeiramente fletido e virado para fora, as ancas inclinadas em direção ao espelho. O tronco torce-se suavemente para que o ombro esquerdo fique mais perto do vidro. A mão esquerda repousa sobre a anca; a mão direita segura num smartphone escuro junto ao rosto, à altura da bochecha. A cabeça está virada por cima do ombro esquerdo na direção do telemóvel, o queixo ligeiramente para baixo, expressão calma e levemente confiante com um pequeno sorriso de boca fechada. Os olhos fitam o ecrã.
+O cabelo é castanho-escuro com reflexos em tom caramelo quente, à altura dos ombros, apanhado num rabo de cavalo baixo e solto com madeixas a emoldurar o rosto. O rosto é oval com maçãs do rosto salientes, lábios carnudos num tom rosa-nude natural e olhos amendoados castanho-escuros.
+O visual é um fato de treino atlético de peça única em laranja-terracota escuro de gola alta com alças finas, cobertura moderada e uma cava alta mas ainda discreta. Tecido elástico mate, sem logótipos. Ténis brancos com solas limpas.
+O cenário é um estúdio de fitness contemporâneo topo de gama com grandes espelhos, tijolo à vista numa parede, candeeiros suspensos de luz quente misturados com luzes LED superiores frias e algumas outras pessoas a treinar suavemente fora de foco em segundo plano. HDR de telemóvel realista, grão natural, reflexos precisos e sombras credíveis.
 ```
 
 [↑ Voltar às categorias](#catalog)
