@@ -671,13 +671,13 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 
 <a name="prompt-2097580884098764800"></a>
 
-### Đang dịch
+### Tạo một mô hình sa bàn 3D thu nhỏ cao cấp, dễ thương về một địa danh kèm văn bản biển lưu niệm.
 
 Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Kết xuất 3D · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một mô hình sa bàn 3D thu nhỏ cao cấp, dễ thương về một địa danh kèm văn bản biển lưu niệm.
 
 <img src="images/2097580884098764800-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -690,7 +690,12 @@ Kết xuất 3D · Kiến trúc / Nội thất · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một mô hình sa bàn 3D thu nhỏ cao cấp, dễ thương về [TÊN CÔNG TRÌNH], [THÀNH PHỐ, QUỐC GIA]. Giữ cho địa danh dễ nhận biết, thanh lịch và duyên dáng, với bố cục gọn gàng, tông màu pastel nhẹ nhàng, các chi tiết thủ công tinh tế, ánh sáng tự nhiên êm dịu và tính thẩm mỹ tinh xảo của một món quà lưu niệm du lịch.
+
+Bao gồm văn bản tối giản, trang nhã:
+[TÊN CÔNG TRÌNH]
+[THÀNH PHỐ, QUỐC GIA]
+Nổi tiếng về: [MÔ TẢ NGẮN GỌN]
 ```
 
 [↑ Về danh mục](#catalog)

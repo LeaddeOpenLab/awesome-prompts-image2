@@ -671,13 +671,13 @@ Crea un póster de arte editorial premium para cada fotografía subida, tratando
 
 <a name="prompt-2097580884098764800"></a>
 
-### Traducción en curso
+### Crea un diorama 3D en miniatura, prémium y adorable, de un monumento con texto de placa de recuerdo.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicación original](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Render 3D · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un diorama 3D en miniatura, prémium y adorable, de un monumento con texto de placa de recuerdo.
 
 <img src="images/2097580884098764800-1.jpg" alt="Imagen 1" width="480" />
 
@@ -690,7 +690,12 @@ Render 3D · Arquitectura / Interiorismo · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un diorama 3D en miniatura, prémium y adorable, de [NOMBRE DE LA ESTRUCTURA], [CIUDAD, PAÍS]. Mantén el monumento reconocible, elegante y encantador, con una composición limpia, tonos pastel suaves, sutiles detalles artesanales, iluminación natural suave y una refinada estética de recuerdo de viaje.
+
+Incluye texto minimalista y de buen gusto:
+[NOMBRE DE LA ESTRUCTURA]
+[CIUDAD, PAÍS]
+Famoso por: [BREVE DESCRIPCIÓN]
 ```
 
 [↑ Volver a categorías](#catalog)
