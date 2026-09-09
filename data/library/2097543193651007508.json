@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:14:58.725Z",
+  "model": "gpt-image",
+  "prompt": "Beautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”",
+  "promptTranslations": {
+    "en": "Beautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”"
+  },
+  "summaryTranslations": {
+    "en": "A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps."
+  },
+  "translationVersion": 2,
+  "summary": "A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.",
+  "summaryEn": "A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097543193651007508",
+    "canonicalUrl": "https://x.com/ayzalnooor24521/status/2097543193651007508",
+    "author": {
+      "username": "ayzalnooor24521",
+      "displayName": "ayzalnoor",
+      "profileUrl": "https://x.com/ayzalnooor24521"
+    },
+    "publishedAt": "2026-09-09T04:30:42.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "GPT image on chatgpt \n\nPrompt:\n\nBeautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRv4ZULaoAAGkEg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRv4ZULaoAAGkEg.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRv4aU6akAEmLN6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRv4aU6akAEmLN6.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 1,
+      "replyCount": 27,
+      "quoteCount": 1,
+      "viewCount": 409
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ayzalnooor24521/status/2097543193651007508",
+  "coverUrl": "https://pbs.twimg.com/media/HRv4ZULaoAAGkEg.jpg",
+  "coverPath": "images/2097543193651007508-1.jpg",
+  "imagePaths": [
+    "images/2097543193651007508-1.jpg",
+    "images/2097543193651007508-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRv4ZULaoAAGkEg",
+    "x-image:/media/HRv4aU6akAEmLN6",
+    "x-post:2097543193651007508"
+  ],
+  "analysis": {
+    "summary": "A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.",
+    "summaryEn": "A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The second image precisely reflects the prompt: a vertical 9:16 infographic titled 'YOUR MAKEUP ANALYSIS GUIDE', displaying close-up panels for eyes, nose, and lips with callout lines, color swatches in warm neutrals and rosy pinks, step-by-step instructions, and key product sections matching the girl in the first portrait."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Beautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”",
+    "sourceRange": {
+      "start": 32,
+      "end": 1057
+    },
+    "translations": {
+      "zh": "面容柔和自然的漂亮韩国女孩，身穿黑色服装，佩戴透明眼镜，呈现干净现代的美妆杂志风格。以上传的肖像作为主要视觉参考，制作一份专业的“MAKEUP ANALYSIS GUIDE（妆容分析指南）”信息图。保留原始面部特征、发型、皮肤纹理、眼镜和自然辨识度，避免过度修图。通过精致的局部细节面板和细腻的引出线重点突出眼部、眉毛、鼻子、脸颊及水光粉唇。添加精致的暖中性色、玫瑰粉和柔棕色妆容色盘与小型美妆色块。包含简明版块：“Makeup Steps（化妆步骤）”、“Best Makeup Looks（最佳妆容）”、“Key Products（核心产品）”与“Quick Tips（速成技巧）”，配以极简易读的文字。采用高级韩国美妆杂志美学，拥有干净的排版、柔和的米色点缀、深色杂志风背景和平衡的留白。最终构图精致利落、逼真写实，采用 9:16 竖版构图，营造出“依然是你，只是更精致（Same You, Just More Polished）”的整体氛围。",
+      "en": "Beautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”"
+    },
+    "targetModels": [
+      "gpt-image"
+    ],
+    "category": "text-to-image",
+    "useCase": "beauty infographic design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
