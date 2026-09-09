@@ -671,13 +671,13 @@ Crea un poster artistico editoriale di alto livello per ogni fotografia caricata
 
 <a name="prompt-2097580884098764800"></a>
 
-### Traduzione in corso
+### Crea un delizioso diorama 3D in miniatura di alta qualità di un monumento con il testo di una targa souvenir.
 
 Autore：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Post originale](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 Rendering 3D · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un delizioso diorama 3D in miniatura di alta qualità di un monumento con il testo di una targa souvenir.
 
 <img src="images/2097580884098764800-1.jpg" alt="Immagine 1" width="480" />
 
@@ -690,7 +690,7 @@ Rendering 3D · Architettura / Interni · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un delizioso diorama 3D in miniatura di alta qualità di [NOME DELLA STRUTTURA], [CITTÀ, PAESE]. Mantieni il monumento riconoscibile, elegante e affascinante, con una composizione pulita, delicate tonalità pastello, sottili dettagli artigianali, una luce naturale morbida e una raffinata estetica da souvenir di viaggio.\n\nIncludi un testo minimale e di buon gusto:\n[NOME DELLA STRUTTURA]\n[CITTÀ, PAESE]\nFamoso per: [BREVE DESCRIZIONE]
 ```
 
 [↑ Torna alle categorie](#catalog)

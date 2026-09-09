@@ -671,13 +671,13 @@ Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplak
 
 <a name="prompt-2097580884098764800"></a>
 
-### Übersetzung läuft
+### Erstelle ein erstklassiges, niedliches 3D-Miniatur-Diorama eines Wahrzeichens mit Souvenir-Plakettentext.
 
 Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 3D-Rendering · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein erstklassiges, niedliches 3D-Miniatur-Diorama eines Wahrzeichens mit Souvenir-Plakettentext.
 
 <img src="images/2097580884098764800-1.jpg" alt="Bild 1" width="480" />
 
@@ -690,7 +690,7 @@ Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Originalbeitrag](htt
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein erstklassiges, niedliches 3D-Miniatur-Diorama von [NAME DES BAUWERKS], [STADT, LAND]. Gestalte das Wahrzeichen wiedererkennbar, elegant und bezaubernd, mit einer sauberen Komposition, sanften Pastelltönen, dezenten handgefertigten Details, sanfter natürlicher Beleuchtung und einer raffinierten Reise-Souvenir-Ästhetik.\n\nFüge minimalistischen, geschmackvollen Text hinzu:\n[NAME DES BAUWERKS]\n[STADT, LAND]\nBekannt für: [KURZE BESCHREIBUNG]
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

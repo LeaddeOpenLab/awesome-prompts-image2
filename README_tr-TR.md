@@ -681,13 +681,13 @@ Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluştu
 
 <a name="prompt-2097580884098764800"></a>
 
-### Çeviri sürüyor
+### Bir simge yapının hatıra plaketi metni içeren birinci sınıf, sevimli bir minyatür 3D dioramasını oluşturun.
 
 Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](https://x.com/Naiknelofar788/status/2097580884098764800)
 
 3D Modelleme · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir simge yapının hatıra plaketi metni içeren birinci sınıf, sevimli bir minyatür 3D dioramasını oluşturun.
 
 <img src="images/2097580884098764800-1.jpg" alt="Görsel 1" width="480" />
 
@@ -700,7 +700,7 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+[YAPI ADI], [ŞEHİR, ÜLKE] için birinci sınıf, sevimli bir minyatür 3D diorama oluşturun. Temiz bir kompozisyon, yumuşak pastel tonlar, zarif el yapımı detaylar, nazik doğal aydınlatma ve rafine bir seyahat hatırası estetiğiyle simge yapıyı tanınabilir, zarif ve büyüleyici tutun.\n\nMinimal, zevkli bir metin ekleyin:\n[YAPI ADI]\n[ŞEHİR, ÜLKE]\nMeşhur özelliği: [KISA AÇIKLAMA]
 ```
 
 [↑ Kategorilere dön](#catalog)
