@@ -493,13 +493,13 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 <a name="prompt-2097716825668702388"></a>
 
-### Traducción en curso
+### Convierte las dos imágenes de referencia en un paisaje de viajes cinematográfico, impresionante y ultrarrealista, con un bucle de animación de atardecer fluido y continuo que combina elementos de Estambul y de un pueblo alpino europeo junto a un lago.
 
 Autor：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Publicación original](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Convierte las dos imágenes de referencia en un paisaje de viajes cinematográfico, impresionante y ultrarrealista, con un bucle de animación de atardecer fluido y continuo que combina elementos de Estambul y de un pueblo alpino europeo junto a un lago.
 
 <img src="images/2097716825668702388-1.jpg" alt="Imagen 1" width="480" />
 
@@ -508,7 +508,32 @@ Cine / Fotograma · Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Convierte las dos imágenes de referencia en un paisaje de viajes cinematográfico, impresionante y ultrarrealista, con un bucle de animación de atardecer fluido y continuo.
+
+ESCENA
+Combina los elementos clave de ambas imágenes en un único destino de aspecto natural. Incluye la grandiosa mezquita de estilo otomano con múltiples minaretes y cúpulas, el paseo marítimo estilo Estambul y los barcos de la primera imagen, junto con el apacible lago alpino, el colorido pueblo europeo, las espectaculares montañas cubiertas de nieve y el hermoso castillo de piedra en la cima de la colina de la segunda imagen.
+
+Crea una amplia vista panorámica frente al agua con arquitectura histórica de un lado y el castillo y las montañas del otro. Añade flores coloridas, árboles verdes, plantas mediterráneas, un farol vintage y una elegante terraza con una pequeña mesa de café en primer plano.
+
+ATARDECER E ILUMINACIÓN
+Hermoso atardecer de hora dorada con nubes en tonos azul pastel, rosa, durazno y naranja. La cálida luz del sol ilumina la mezquita, el castillo, el pueblo, las montañas y los barcos. El lago refleja el atardecer, los edificios y las montañas con suaves ondas realistas y reflejos dorados.
+
+ANIMACIÓN
+Crea 16 fotogramas consecutivos de un bucle fluido y continuo. Anima únicamente movimientos sutiles del entorno: nubes desplazándose lentamente, suaves ondulaciones del agua, barcos balanceándose ligeramente, aves volando a lo lejos, flores y hojas de árboles moviéndose suavemente con la brisa, y un parpadeo tenue de velas/faroles.
+
+Mantén la cámara completamente fija. Mantén la mezquita, el castillo, las montañas, las casas y todos los objetos principales perfectamente consistentes a lo largo de cada fotograma. El fotograma 16 debe hacer una transición suave de regreso al fotograma 1.
+
+ESTILO
+Fotografía de viajes cinematográfica ultrarrealista, anuncio de turismo de lujo, impresionante atmósfera de hora dorada, arquitectura realista, montañas detalladas, vegetación natural, hermosos reflejos en el agua, profundidad atmosférica, alto rango dinámico, colores ricos pero naturales, fotografía profesional, calidad fotorrealista 8K.
+
+CÁMARA
+Vista panorámica cinematográfica amplia, lente de 24 mm, cámara fija y estable, perspectiva natural, profundidad de campo realista, encuadre e iluminación consistentes en todos los fotogramas.
+
+AJUSTES DE ANIMACIÓN
+16 fotogramas, bucle completo de aproximadamente 2.2 segundos, animación GIF continua y fluida, sin movimiento de cámara, sin parpadeos.
+
+PROMPT NEGATIVO
+caricatura, anime, pintura, CGI, render 3D, baja calidad, edificios distorsionados, mezquita deformada, minaretes torcidos, castillo malformado, montañas distorsionadas, barcos duplicados, objetos flotantes, reflejos poco realistas, agua falsa, niebla excesiva, colores sobresaturados, HDR extremo, imagen borrosa, desenfoque de movimiento, vibración de cámara, zoom, parpadeo, edificios mutantes, arquitectura cambiante, objetos que desaparecen, aves duplicadas, nubes poco naturales, costuras de imagen, collage visible, texto, logotipo, marca de agua, borde, barras negras, artefactos.
 ```
 
 [↑ Volver a categorías](#catalog)

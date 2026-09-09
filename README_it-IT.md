@@ -493,13 +493,13 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2097716825668702388"></a>
 
-### Traduzione in corso
+### Trasforma le due immagini di riferimento in un paesaggio di viaggio cinematografico mozzafiato e ultra-realistico, con un loop di animazione del tramonto fluido che unisce elementi di Istanbul e di un villaggio lacustre alpino europeo.
 
 Autore：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Post originale](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasforma le due immagini di riferimento in un paesaggio di viaggio cinematografico mozzafiato e ultra-realistico, con un loop di animazione del tramonto fluido che unisce elementi di Istanbul e di un villaggio lacustre alpino europeo.
 
 <img src="images/2097716825668702388-1.jpg" alt="Immagine 1" width="480" />
 
@@ -508,7 +508,32 @@ Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubb
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma le due immagini di riferimento in un paesaggio di viaggio cinematografico mozzafiato e ultra-realistico, con un loop di animazione del tramonto fluido e continuo.
+
+SCENA
+Combina gli elementi chiave di entrambe le immagini in un'unica destinazione dall'aspetto naturale. Includi la grandiosa moschea in stile ottomano con molteplici minareti e cupole, il lungomare in stile Istanbul e le barche della prima immagine, insieme al tranquillo lago alpino, al colorato villaggio europeo, alle spettacolari montagne innevate e allo splendido castello in pietra sulla collina della seconda immagine.
+
+Crea un'ampia vista panoramica sul lungomare con l'architettura storica da un lato e il castello con le montagne dall'altro. Aggiungi fiori colorati, alberi verdi, piante mediterranee, una lanterna vintage e un'elegante terrazza con un piccolo tavolino da caffè in primo piano.
+
+TRAMONTO E ILLUMINAZIONE
+Splendido tramonto da golden hour con nuvole blu pastello, rosa, pesca e arancioni. La calda luce solare illumina la moschea, il castello, il villaggio, le montagne e le barche. Il lago riflette il tramonto, gli edifici e le montagne con realistiche onde leggere e riflessi dorati.
+
+ANIMAZIONE
+Crea 16 fotogrammi consecutivi di un loop fluido e continuo. Anima solo sottili movimenti ambientali: nuvole che scorrono lentamente, lievi increspature dell'acqua, barche che ondeggiano appena, uccelli che volano in lontananza, fiori e foglie degli alberi che si muovono dolcemente nella brezza e un leggero sfarfallio di candele/lanterne.
+
+Mantieni la telecamera completamente fissa. Mantieni la moschea, il castello, le montagne, le case e tutti i principali oggetti perfettamente coerenti in ogni singolo fotogramma. Il fotogramma 16 deve ricollegarsi in modo fluido al fotogramma 1.
+
+STILE
+Fotografia di viaggio cinematografica ultra-realistica, pubblicità turistica di lusso, atmosfera mozzafiato da golden hour, architettura realistica, montagne dettagliate, vegetazione naturale, splendidi riflessi sull'acqua, profondità atmosferica, elevata gamma dinamica, colori ricchi ma naturali, fotografia professionale, qualità fotorealistica 8K.
+
+TELECAMERA
+Ampia vista paesaggistica cinematografica, obiettivo da 24 mm, telecamera bloccata e stabile, prospettiva naturale, profondità di campo realistica, inquadratura e illuminazione coerenti in tutti i fotogrammi.
+
+IMPOSTAZIONI DI ANIMAZIONE
+16 fotogrammi, loop completo di circa 2,2 secondi, animazione GIF continua e fluida, nessun movimento di telecamera, nessuno sfarfallio.
+
+PROMPT NEGATIVO
+cartone animato, anime, dipinto, CGI, rendering 3D, bassa qualità, edifici distorti, moschea deformata, minareti storti, castello malformato, montagne distorte, barche duplicate, oggetti fluttuanti, riflessi irrealistici, acqua finta, nebbia eccessiva, colori ipersaturi, HDR estremo, immagine sfocata, sfocatura da movimento, oscillazione della telecamera, zoom, sfarfallio, edifici mutanti, architettura che cambia, oggetti che scompaiono, uccelli duplicati, nuvole innaturali, giunzioni dell'immagine, collage visibile, testo, logo, filigrana, bordo, barre nere, artefatti.
 ```
 
 [↑ Torna alle categorie](#catalog)

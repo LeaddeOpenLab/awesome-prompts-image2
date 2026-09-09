@@ -493,13 +493,13 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 <a name="prompt-2097716825668702388"></a>
 
-### Übersetzung läuft
+### Verwandle die beiden Referenzbilder in eine atemberaubende, ultrarealistische cineastische Reiselandschaft mit einer nahtlosen Sonnenuntergangs-Animationsschleife, die Elemente aus Istanbul und einem alpinen europäischen Seedorf vereint.
 
 Autor：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Originalbeitrag](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verwandle die beiden Referenzbilder in eine atemberaubende, ultrarealistische cineastische Reiselandschaft mit einer nahtlosen Sonnenuntergangs-Animationsschleife, die Elemente aus Istanbul und einem alpinen europäischen Seedorf vereint.
 
 <img src="images/2097716825668702388-1.jpg" alt="Bild 1" width="480" />
 
@@ -508,7 +508,32 @@ Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle die beiden Referenzbilder in eine atemberaubende, ultrarealistische cineastische Reiselandschaft mit einer nahtlosen Sonnenuntergangs-Animationsschleife.
+
+SZENE
+Kombiniere die Schlüsselelemente beider Bilder zu einem natürlich wirkenden Reiseziel. Binde die grandiose Moschee im osmanischen Stil mit mehreren Minaretten und Kuppeln, die Uferpromenade im Istanbul-Stil und die Boote aus dem ersten Bild ein, zusammen mit dem friedlichen Alpensee, dem farbenfrohen europäischen Dorf, den dramatischen schneebedeckten Bergen und der wunderschönen Steinburg auf dem Hügel aus dem zweiten Bild.
+
+Erstelle eine weite, malerische Uferansicht mit historischer Architektur auf der einen Seite sowie der Burg und den Bergen auf der anderen Seite. Füge im Vordergrund farbenfrohe Blumen, grüne Bäume, mediterrane Pflanzen, eine Vintage-Laterne und eine elegante Terrasse mit einem kleinen Cafétisch hinzu.
+
+SONNENUNTERGANG & BELEUCHTUNG
+Wunderschöner Sonnenuntergang zur goldenen Stunde mit pastellblauen, rosa-, pfirsich- und orangefarbenen Wolken. Warmes Sonnenlicht erhellt die Moschee, die Burg, das Dorf, die Berge und die Boote. Der See spiegelt den Sonnenuntergang, die Gebäude und die Berge mit realistischen sanften Wellen und goldenen Reflexionen wider.
+
+ANIMATION
+Erstelle 16 aufeinanderfolgende Einzelbilder einer weichen, nahtlosen Schleife. Animiere nur subtile Umweltbewegungen: langsam ziehende Wolken, sanfte Wasserwellen, sich leicht bewegende Boote, in der Ferne fliegende Vögel, sich sanft in der Brise wiegende Blumen und Baumblätter sowie dezentes Flackern von Kerzen/Laternen.
+
+Halte die Kamera vollkommen fixiert. Halte die Moschee, die Burg, die Berge, die Häuser und alle wichtigen Objekte über jedes Bild hinweg vollkommen konsistent. Bild 16 muss nahtlos wieder in Bild 1 übergehen.
+
+STIL
+Ultrarealistische cineastische Reisefotografie, luxuriöse Tourismuswerbung, atemberaubende Goldene-Stunde-Atmosphäre, realistische Architektur, detaillierte Berge, natürliche Vegetation, wunderschöne Wasserreflexionen, atmosphärische Tiefe, hoher Dynamikumfang, satte, aber natürliche Farben, professionelle Fotografie, fotorealistische 8K-Qualität.
+
+KAMERA
+Weite cineastische Landschaftsansicht, 24-mm-Objektiv, stabile, fest arretierte Kamera, natürliche Perspektive, realistische Schärfentiefe, konsistenter Bildausschnitt und Beleuchtung über alle Bilder hinweg.
+
+ANIMATIONSEINSTELLUNGEN
+16 Bilder, etwa 2,2 Sekunden lange vollständige Schleife, flüssige, kontinuierliche GIF-Animation, keine Kamerabewegung, kein Flackern.
+
+NEGATIVER PROMPT
+Cartoon, Anime, Gemälde, CGI, 3D-Render, geringe Qualität, verzerrte Gebäude, verzogene Moschee, krumme Minarette, missgebildete Burg, verzerrte Berge, duplizierte Boote, schwebende Objekte, unrealistische Reflexionen, unechtes Wasser, übermäßiger Nebel, übersättigte Farben, extremes HDR, unscharfes Bild, Bewegungsunschärfe, Kamerawackeln, Zoom, Flackern, morphende Gebäude, wechselnde Architektur, verschwindende Objekte, duplizierte Vögel, unnatürliche Wolken, Bildnähte, sichtbare Collage, Text, Logo, Wasserzeichen, Rahmen, schwarze Balken, Artefakte.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

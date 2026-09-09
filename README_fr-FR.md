@@ -493,13 +493,13 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 <a name="prompt-2097716825668702388"></a>
 
-### Traduction en cours
+### Transformez les deux images de référence en un paysage de voyage cinématographique à couper le souffle, ultra-réaliste, avec une boucle d'animation de coucher de soleil fluide combinant des éléments d'Istanbul et d'un village lacustre alpin européen.
 
 Auteur：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Publication originale](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Transformez les deux images de référence en un paysage de voyage cinématographique à couper le souffle, ultra-réaliste, avec une boucle d'animation de coucher de soleil fluide combinant des éléments d'Istanbul et d'un village lacustre alpin européen.
 
 <img src="images/2097716825668702388-1.jpg" alt="Image 1" width="480" />
 
@@ -508,7 +508,32 @@ Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez les deux images de référence en un paysage de voyage cinématographique à couper le souffle, ultra-réaliste, avec une boucle d'animation de coucher de soleil fluide et sans raccord.
+
+SCÈNE
+Combinez les éléments clés des deux images en une destination d'apparence naturelle. Intégrez la grandiose mosquée de style ottoman avec de multiples minarets et dômes, le front de mer de style stambouliote et les bateaux de la première image, ainsi que le paisible lac alpin, le village européen coloré, les spectaculaires montagnes enneigées et le magnifique château en pierre perché sur la colline de la deuxième image.
+
+Créez une large vue panoramique sur le bord de l'eau avec une architecture historique d'un côté, et le château et les montagnes de l'autre. Ajoutez des fleurs colorées, des arbres verdoyants, des plantes méditerranéennes, une lanterne vintage et une élégante terrasse avec une petite table de café au premier plan.
+
+COUCHER DE SOLEIL ET ÉCLAIRAGE
+Magnifique coucher de soleil à l'heure dorée avec des nuages bleu pastel, roses, pêche et orange. La chaude lumière du soleil illumine la mosquée, le château, le village, les montagnes et les bateaux. Le lac reflète le coucher de soleil, les bâtiments et les montagnes avec de doux clapotis réalistes et des reflets dorés.
+
+ANIMATION
+Créez 16 images consécutives d'une boucle fluide et sans raccord. N'animez que de subtils mouvements environnementaux : nuages dérivant lentement, doux clapotis de l'eau, bateaux bougeant légèrement, oiseaux volant au loin, fleurs et feuilles d'arbres ondulant doucement dans la brise, et scintillement discret des bougies/lanternes.
+
+Gardez la caméra parfaitement fixe. Gardez la mosquée, le château, les montagnes, les maisons et tous les objets majeurs parfaitement cohérents d'une image à l'autre. L'image 16 doit faire une transition fluide vers l'image 1.
+
+STYLE
+Photographie de voyage cinématographique ultra-réaliste, publicité pour le tourisme de luxe, atmosphère d'heure dorée à couper le souffle, architecture réaliste, montagnes détaillées, végétation naturelle, superbes reflets dans l'eau, profondeur atmosphérique, plage dynamique élevée, couleurs riches mais naturelles, photographie professionnelle, qualité photoréaliste 8K.
+
+CAMÉRA
+Vue panoramique cinématographique large, objectif 24 mm, caméra verrouillée et stable, perspective naturelle, profondeur de champ réaliste, cadrage et éclairage cohérents sur toutes les images.
+
+PARAMÈTRES D'ANIMATION
+16 images, boucle complète d'environ 2,2 secondes, animation GIF fluide et continue, aucun mouvement de caméra, aucun scintillement.
+
+PROMPT NÉGATIF
+dessin animé, anime, peinture, CGI, rendu 3D, basse qualité, bâtiments déformés, mosquée déformée, minarets tordus, château difforme, montagnes déformées, bateaux dupliqués, objets flottants, reflets irréalistes, fausse eau, brouillard excessif, couleurs sursaturées, HDR extrême, image floue, flou de mouvement, tremblement de caméra, zoom, scintillement, bâtiments qui se métamorphosent, architecture changeante, objets qui disparaissent, oiseaux dupliqués, nuages artificiels, raccords visibles, collage visible, texte, logo, filigrane, bordure, barres noires, artefacts.
 ```
 
 [↑ Retour aux catégories](#catalog)

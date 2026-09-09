@@ -503,13 +503,13 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 <a name="prompt-2097716825668702388"></a>
 
-### Çeviri sürüyor
+### İki referans görseli, İstanbul ile Alp Dağları eteklerindeki Avrupa göl köyü unsurlarını birleştiren, kesintisiz gün batımı animasyon döngüsüne sahip, nefes kesici, ultra gerçekçi sinematik bir seyahat manzarasına dönüştürün.
 
 Yazar：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Orijinal gönderi](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İki referans görseli, İstanbul ile Alp Dağları eteklerindeki Avrupa göl köyü unsurlarını birleştiren, kesintisiz gün batımı animasyon döngüsüne sahip, nefes kesici, ultra gerçekçi sinematik bir seyahat manzarasına dönüştürün.
 
 <img src="images/2097716825668702388-1.jpg" alt="Görsel 1" width="480" />
 
@@ -518,7 +518,7 @@ Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+İki referans görseli, kesintisiz bir gün batımı animasyon döngüsüne sahip, nefes kesici, ultra gerçekçi sinematik bir seyahat manzarasına dönüştürün. SAHNE: Her iki görseldeki temel unsurları doğal görünümlü tek bir destinasyonda birleştirin. İlk görseldeki çok sayıda minaresi ve kubbesi olan görkemli Osmanlı tarzı camiyi, İstanbul tarzı sahil şeridini ve tekneleri; ikinci görseldeki huzurlu dağ gölü, rengarenk Avrupa köyü, karlı dramatik dağlar ve tepedeki güzel taş kale ile bir araya getirin. Bir tarafında tarihi mimarinin, diğer tarafında ise kale ve dağların yer aldığı geniş, manzaralı bir sahil görünümü oluşturun. Ön plana renkli çiçekler, yeşil ağaçlar, Akdeniz bitkileri, nostaljik bir fener ve üzerinde küçük bir kafe masası bulunan zarif bir teras ekleyin. GÜNBATIMI VE AYDINLATMA: Pastel mavi, pembe, şeftali ve turuncu bulutlarla bezeli harika bir altın saat gün batımı. Sıcak güneş ışığı camiyi, kaleyi, köyü, dağları ve tekneleri aydınlatıyor. Göl; gün batımını, binaları ve dağları gerçekçi hafif dalgalanmalar ve altın sarısı yansımalarla yansıtıyor. ANİMASYON: Akıcı ve kesintisiz bir döngüye sahip ardışık 16 kare oluşturun. Yalnızca ince çevresel hareketleri canlandırın: yavaşça sürüklenen bulutlar, hafif su dalgalanmaları, hafifçe hareket eden tekneler, uzakta uçan kuşlar, esintide hafifçe salınan çiçekler ve ağaç yaprakları ile mum/fener ışığının belli belirsiz titremesi. Kamerayı tamamen sabit tutun. Camiyi, kaleyi, dağları, evleri ve tüm önemli nesneleri her karede kusursuz biçimde tutarlı tutun. 16. kare, 1. kareye pürüzsüz bir şekilde geri dönmelidir. STİL: Ultra gerçekçi sinematik seyahat fotoğrafçılığı, lüks turizm reklamı, nefes kesici altın saat atmosferi, gerçekçi mimari, ayrıntılı dağlar, doğal bitki örtüsü, güzel su yansımaları, atmosferik derinlik, yüksek dinamik aralık, zengin ama doğal renkler, profesyonel fotoğrafçılık, fotogerçekçi 8K kalitesi. KAMERA: Geniş sinematik manzara görünümü, 24 mm lens, sabit ve kilitli kamera, doğal perspektif, gerçekçi alan derinliği, tüm karelerde tutarlı kadraj ve aydınlatma. ANİMASYON AYARLARI: 16 kare, yaklaşık 2,2 saniyelik tam döngü, akıcı kesintisiz GIF animasyonu, kamera hareketi yok, titreme yok. NEGATİF PROMPT: çizgi film, anime, tablo, CGI, 3D render, düşük kalite, bozuk binalar, eğrilmiş cami, çarpık minareler, biçimsiz kale, bozulmuş dağlar, kopyalanmış tekneler, havada asılı nesneler, gerçekçi olmayan yansımalar, sahte su, aşırı sis, aşırı doygun renkler, aşırı HDR, bulanık görüntü, hareket bulanıklığı, kamera titremesi, yakınlaştırma, titreşme, şekil değiştiren binalar, değişen mimari, kaybolan nesneler, kopyalanmış kuşlar, doğal olmayan bulutlar, görsel dikiş izleri, görünür kolaj, metin, logo, filigran, kenarlık, siyah şeritler, yapay bozulmalar.
 ```
 
 [↑ Kategorilere dön](#catalog)

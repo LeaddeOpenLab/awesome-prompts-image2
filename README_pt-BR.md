@@ -503,13 +503,13 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 <a name="prompt-2097716825668702388"></a>
 
-### Tradução em andamento
+### Transforme as duas imagens de referência em uma paisagem cinematográfica de viagem deslumbrante e ultrarrealista com um loop de animação contínuo ao pôr do sol combinando elementos de Istambul e de uma vila à beira de um lago alpino europeu.
 
 Autor：[@KrishnaBio1](https://x.com/KrishnaBio1) · [Publicação original](https://x.com/KrishnaBio1/status/2097716825668702388)
 
 Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Transforme as duas imagens de referência em uma paisagem cinematográfica de viagem deslumbrante e ultrarrealista com um loop de animação contínuo ao pôr do sol combinando elementos de Istambul e de uma vila à beira de um lago alpino europeu.
 
 <img src="images/2097716825668702388-1.jpg" alt="Imagem 1" width="480" />
 
@@ -518,7 +518,7 @@ Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme as duas imagens de referência em uma paisagem cinematográfica de viagem deslumbrante e ultrarrealista com um loop de animação contínuo ao pôr do sol. CENA: Combine os elementos principais de ambas as imagens em um destino de aparência natural. Inclua a imponente mesquita em estilo otomano com múltiplos minaretes e cúpulas, a orla marítima e barcos no estilo de Istambul da primeira imagem, juntamente com o tranquilo lago alpino, a colorida vila europeia, montanhas dramáticas cobertas de neve e o belo castelo de pedra no topo da colina da segunda imagem. Crie uma ampla vista panorâmica da orla com arquitetura histórica de um lado e o castelo e as montanhas do outro. Adicione flores coloridas, árvores verdes, plantas mediterrâneas, uma lanterna vintage e um terraço elegante com uma pequena mesa de café em primeiro plano. PÔR DO SOL E ILUMINAÇÃO: Lindo pôr do sol na hora de ouro com nuvens em tons pastel de azul, rosa, pêssego e laranja. A luz solar quente ilumina a mesquita, o castelo, a vila, as montanhas e os barcos. O lago reflete o pôr do sol, os edifícios e as montanhas com ondulações suaves e realistas e reflexos dourados. ANIMAÇÃO: Crie 16 quadros consecutivos de um loop suave e contínuo. Anime apenas movimentos sutis do ambiente: nuvens derivando lentamente, suaves ondulações na água, barcos se movendo levemente, pássaros voando à distância, flores e folhas de árvores se movendo suavemente com a brisa, e um piscar sutil de velas/lanternas. Mantenha a câmera completamente fixa. Mantenha a mesquita, o castelo, as montanhas, as casas e todos os objetos principais perfeitamente consistentes em cada quadro. O quadro 16 deve transitar suavemente de volta para o quadro 1. ESTILO: Fotografia cinematográfica de viagem ultrarrealista, anúncio de turismo de luxo, atmosfera deslumbrante da hora de ouro, arquitetura realista, montanhas detalhadas, vegetação natural, belos reflexos na água, profundidade atmosférica, alto alcance dinâmico, cores ricas porém naturais, fotografia profissional, qualidade fotorrealista 8K. CÂMERA: Vista panorâmica cinematográfica ampla, lente de 24 mm, câmera estável e travada, perspectiva natural, profundidade de campo realista, enquadramento e iluminação consistentes em todos os quadros. CONFIGURAÇÕES DE ANIMAÇÃO: 16 quadros, loop completo de aproximadamente 2,2 segundos, animação GIF contínua e suave, sem movimento de câmera, sem oscilações. PROMPT NEGATIVO: desenho animado, anime, pintura, CGI, renderização 3D, baixa qualidade, edifícios distorcidos, mesquita deformada, minaretes tortos, castelo malformado, montanhas distorcidas, barcos duplicados, objetos flutuantes, reflexos irrealistas, água falsa, névoa excessiva, cores supersaturadas, HDR extremo, imagem borrada, desfoque de movimento, tremor de câmera, zoom, cintilação, edifícios se transformando, arquitetura mudando, objetos desaparecendo, pássaros duplicados, nuvens não naturais, emendas na imagem, colagem visível, texto, logotipo, marca d'água, borda, barras pretas, artefatos.
 ```
 
 [↑ Voltar às categorias](#catalog)
