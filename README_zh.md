@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**20** 条内容 · 最新收录: **2026-09-09**
+**21** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -427,6 +427,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-sketch-line-art"></a>
 
 ## 草图 / 线稿
+
+<a name="prompt-2097284686448046135"></a>
+
+### 翻译中
+
+作者：[@Naiknelofar788](https://x.com/Naiknelofar788) · [查看 X 原帖](https://x.com/Naiknelofar788/status/2097284686448046135)
+
+草图 / 线稿 · 建筑 / 室内设计 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097284686448046135-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097284686448046135-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097284686448046135-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097284686448046135-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2096902953110299096"></a>
 

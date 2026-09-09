@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**20** Prompts · Adição mais recente: **2026-09-09**
+**21** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,34 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 <a name="category-sketch-line-art"></a>
 
 ## Esboço / Arte Linear
+
+<a name="prompt-2097284686448046135"></a>
+
+### Tradução em curso
+
+Autor：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Publicação original](https://x.com/Naiknelofar788/status/2097284686448046135)
+
+Esboço / Arte Linear · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097284686448046135-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097284686448046135-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097284686448046135-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097284686448046135-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096902953110299096"></a>
 

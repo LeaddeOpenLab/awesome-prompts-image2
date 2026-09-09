@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**20** Prompt · Bổ sung mới nhất: **2026-09-09**
+**21** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,34 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 <a name="category-sketch-line-art"></a>
 
 ## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2097284686448046135"></a>
+
+### Đang dịch
+
+Tác giả：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Bài gốc](https://x.com/Naiknelofar788/status/2097284686448046135)
+
+Phác Thảo / Nét Vẽ · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097284686448046135-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097284686448046135-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097284686448046135-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097284686448046135-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096902953110299096"></a>
 

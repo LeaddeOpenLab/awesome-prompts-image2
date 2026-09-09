@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-09**
+**21** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -434,6 +434,34 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 <a name="category-sketch-line-art"></a>
 
 ## Sketch / Line Art
+
+<a name="prompt-2097284686448046135"></a>
+
+### Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.
+
+Author：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Source](https://x.com/Naiknelofar788/status/2097284686448046135)
+
+Sketch / Line Art · Architecture / Interior · Published
+
+**Summary:** Prompt for generating minimal hand-drawn architectural travel-journal sketches on ivory paper.
+
+<img src="images/2097284686448046135-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097284686448046135-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097284686448046135-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097284686448046135-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a minimal hand-drawn architectural artwork of [STRUCTURE] on warm ivory paper. Show the structure as a simple, elegant ink sketch with clean imperfect lines, subtle pencil shading, tiny handwritten annotations, and a few delicate architectural details. Keep the composition airy with plenty of blank space, muted earthy tones, soft paper texture, and an authentic handmade travel-journal feel. No photorealism, no heavy details, no clutter — simple, artistic, and refined.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096902953110299096"></a>
 
