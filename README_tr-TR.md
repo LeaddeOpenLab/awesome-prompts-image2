@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**25** Prompt · Son eklenen: **2026-09-09**
+**26** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,30 @@ Karakter · Yayımlandı
 <img src="images/2097486896750338125-3.jpg" alt="Görsel 3" width="480" />
 
 <img src="images/2097486896750338125-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097543193651007508"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Orijinal gönderi](https://x.com/ayzalnooor24521/status/2097543193651007508)
+
+İnfografik / Eğitici Görsel · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097543193651007508-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097543193651007508-2.jpg" alt="Görsel 2" width="480" />
 
 **İstem**
 

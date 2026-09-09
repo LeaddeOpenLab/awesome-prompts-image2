@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**25** Prompts · Latest addition: **2026-09-09**
+**26** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,30 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097543193651007508"></a>
+
+### A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.
+
+Author：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Source](https://x.com/ayzalnooor24521/status/2097543193651007508)
+
+Infographic / Edu Visual · Portrait / Selfie · Published
+
+**Summary:** A detailed prompt for creating a professional 9:16 Korean beauty-magazine style 'Makeup Analysis Guide' infographic based on a reference portrait, featuring close-up facial analysis, color swatches, and structured makeup steps.
+
+<img src="images/2097543193651007508-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097543193651007508-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Beautiful Korean girl with soft natural features, wearing a black outfit and clear glasses, styled in a clean modern beauty-editorial look. Create a professional “MAKEUP ANALYSIS GUIDE” infographic using the uploaded portrait as the main visual reference. Preserve the original facial features, hairstyle, skin texture, glasses, and natural recognizability without excessive retouching. Highlight the eyes, brows, nose, cheeks, and glossy pink lips with elegant close-up detail panels and subtle callout lines. Add a refined warm-neutral, rosy-pink, and soft-brown makeup color palette with small beauty swatches. Include concise sections for Makeup Steps, Best Makeup Looks, Key Products, and Quick Tips with minimal readable text. Use a premium Korean beauty-magazine aesthetic with clean typography, soft beige accents, dark editorial background, and balanced spacing. Make the final composition polished, sophisticated, photorealistic, and 9:16 vertical format, with the overall feeling of “Same You, Just More Polished.”
 ```
 
 [↑ Back to categories](#catalog)

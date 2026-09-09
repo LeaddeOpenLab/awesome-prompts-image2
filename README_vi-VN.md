@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**25** Prompt · Bổ sung mới nhất: **2026-09-09**
+**26** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -662,6 +662,30 @@ Nhân vật · Đã xuất bản
 <img src="images/2097486896750338125-3.jpg" alt="Hình ảnh 3" width="480" />
 
 <img src="images/2097486896750338125-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2097543193651007508"></a>
+
+### Đang dịch
+
+Tác giả：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Bài gốc](https://x.com/ayzalnooor24521/status/2097543193651007508)
+
+Infographic / Hình ảnh giáo dục · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097543193651007508-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097543193651007508-2.jpg" alt="Hình ảnh 2" width="480" />
 
 **Câu lệnh**
 

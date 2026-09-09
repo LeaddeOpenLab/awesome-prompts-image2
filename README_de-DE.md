@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**25** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**26** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,30 @@ Charakter · Veröffentlicht
 <img src="images/2097486896750338125-3.jpg" alt="Bild 3" width="480" />
 
 <img src="images/2097486896750338125-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097543193651007508"></a>
+
+### Übersetzung läuft
+
+Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Originalbeitrag](https://x.com/ayzalnooor24521/status/2097543193651007508)
+
+Infografik / Edu Visual · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097543193651007508-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097543193651007508-2.jpg" alt="Bild 2" width="480" />
 
 **Prompt**
 
