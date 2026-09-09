@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:17:25.858Z",
+  "model": "image2.5",
+  "prompt": "添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。\n・走る：体を前傾させ、手足を大きく交互に動かす。\n・ジャンプ：しゃがむ → 跳び上がる → 空中で手足を広げる → 着地。\n・回転攻撃：正面 → 横向き → 後ろ向き → 反対の横向きと、全身を一回転。\n・倒れる：よろめく → 横に傾く → 寝転ぶ → 目を閉じて動かなくなる。\n1行に1動作を横一列で配置し、全セルの大きさ、足元、中心、縮尺を揃える。背景は完全な単色とし、影、文字、枠、番号、UI、ぼかし、半透明、グラデーション、アンチエイリアスは使用しない。ループ動作は最初と最後が自然につながるようにする。",
+  "promptTranslations": {
+    "en": "Keep the attached character's face, hairstyle, outfit, color scheme, and physique consistent, and generate four types of game-ready pixel art motions on a single sprite sheet image, each with up to 4 frames. The size of each frame is 256x256px.\n・Running: Lean the body forward and move arms and legs alternately in large motions.\n・Jumping: Crouch → Leap up → Spread arms and legs in mid-air → Land.\n・Spin Attack: Front → Side → Back → Opposite side, rotating the entire body full circle.\n・Falling Down: Stumble → Tilt sideways → Lie down → Close eyes and become motionless.\nArrange one action per row horizontally, aligning the size, ground level, center, and scale across all cells. The background must be a completely solid flat color, with no shadows, text, borders, numbers, UI, blur, semi-transparency, gradients, or anti-aliasing. Ensure looping actions seamlessly connect from the end back to the start."
+  },
+  "summaryTranslations": {
+    "en": "A prompt to generate a pixel art sprite sheet depicting four actions (running, jumping, spinning attack, and falling down) with four frames each, based on the attached character."
+  },
+  "translationVersion": 2,
+  "summary": "添付キャラクターに基づき、走る・跳ぶ・回転攻撃・倒れるの4動作（各4フレーム）を描いたドット絵スプライトシートを生成するプロンプト。",
+  "summaryEn": "Prompt for generating a pixel art sprite sheet based on an attached character, featuring run, jump, spin attack, and fall motions across 4 frames each.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097574111518375970",
+    "canonicalUrl": "https://x.com/npaka123/status/2097574111518375970",
+    "author": {
+      "username": "npaka123",
+      "displayName": "布留川英一 / Hidekazu Furukawa",
+      "profileUrl": "https://x.com/npaka123"
+    },
+    "publishedAt": "2026-09-09T06:33:33.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "ja",
+    "originalText": "GPT Image 2.5 をおためし中\n\nプロンプト:\n添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。\n・走る：体を前傾させ、手足を大きく交互に動かす。\n・ジャンプ：しゃがむ → 跳び上がる → 空中で手足を広げる → 着地。\n・回転攻撃：正面 → 横向き → 後ろ向き → 反対の横向きと、全身を一回転。\n・倒れる：よろめく → 横に傾く → 寝転ぶ → 目を閉じて動かなくなる。\n1行に1動作を横一列で配置し、全セルの大きさ、足元、中心、縮尺を揃える。背景は完全な単色とし、影、文字、枠、番号、UI、ぼかし、半透明、グラデーション、アンチエイリアスは使用しない。ループ動作は最初と最後が自然につながるようにする。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwUe4hb0AA4WOE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwUe4hb0AA4WOE.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwUfy9akAAttE3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwUfy9akAAttE3.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/npaka123/status/2097574111518375970",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097574087061368832/img/YfO6nD2mRxRUmzD9.jpg",
+        "analysisUrl": "https://x.com/npaka123/status/2097574111518375970"
+      }
+    ],
+    "metrics": {
+      "likeCount": 35,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 2333
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/npaka123/status/2097574111518375970",
+  "coverUrl": "https://pbs.twimg.com/media/HRwUe4hb0AA4WOE.jpg",
+  "coverPath": "covers/2097574111518375970.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HRwUe4hb0AA4WOE",
+    "x-image:/media/HRwUfy9akAAttE3",
+    "x-video:2097574087061368832",
+    "x-post:2097574111518375970"
+  ],
+  "analysis": {
+    "summary": "添付キャラクターに基づき、走る・跳ぶ・回転攻撃・倒れるの4動作（各4フレーム）を描いたドット絵スプライトシートを生成するプロンプト。",
+    "summaryEn": "Prompt for generating a pixel art sprite sheet based on an attached character, featuring run, jump, spin attack, and fall motions across 4 frames each.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图和动画展示了按要求排布的黄色猫咪像素动作序列，包含跑、跳、旋转和倒下4排动作及纯色背景。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。\n・走る：体を前傾させ、手足を大きく交互に動かす。\n・ジャンプ：しゃがむ → 跳び上がる → 空中で手足を広げる → 着地。\n・回転攻撃：正面 → 横向き → 後ろ向き → 反対の横向きと、全身を一回転。\n・倒れる：よろめく → 横に傾く → 寝転ぶ → 目を閉じて動かなくなる。\n1行に1動作を横一列で配置し、全セルの大きさ、足元、中心、縮尺を揃える。背景は完全な単色とし、影、文字、枠、番号、UI、ぼかし、半透明、グラデーション、アンチエイリアスは使用しない。ループ動作は最初と最後が自然につながるようにする。",
+    "sourceRange": {
+      "start": 29,
+      "end": 383
+    },
+    "translations": {
+      "zh": "统一所附角色的脸型、发型、服装、配色和体型，生成一张包含4种适用于游戏的像素动画动作精灵表图片，每个动作最多4帧。每帧尺寸为256x256px。\n・奔跑：身体前倾，手脚大幅度交替摆动。\n・跳跃：下蹲 → 跃起 → 空中张开四肢 → 落地。\n・旋转攻击：正面 → 侧面 → 背面 → 反方向侧面，全身转一圈。\n・倒下：踉跄 → 向侧面倒去 → 躺倒 → 闭眼不再动弹。\n每行水平放置一个动作，保持所有单元格大小、脚底位置、中心和比例一致。纯单色背景，无阴影、文字、边框、编号、UI、模糊、半透明、渐变及抗锯齿。循环动作首尾自然连贯。",
+      "en": "Maintain consistent face, hair, outfit, color scheme, and build from the attached character to generate a single pixel art sprite sheet with 4 game actions, max 4 frames each. Frame size 256x256px.\n- Run: lean forward, alternating limbs widely.\n- Jump: crouch -> leap -> spread limbs mid-air -> land.\n- Spin attack: front -> side -> back -> opposite side, full rotation.\n- Fall down: stumble -> tilt -> lie down -> close eyes and stay still.\nArrange one action per row horizontally with aligned cell size, feet placement, center, and scale. Solid flat background, no shadows, text, borders, numbers, UI, blur, transparency, gradients, or anti-aliasing. Loops must seamlessly connect start and end."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "image-to-image",
+    "useCase": "sprite_sheet_generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
