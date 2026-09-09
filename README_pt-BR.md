@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Última adição: **2026-09-09**
+**15** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Esboço / Arte Linear](#category-sketch-line-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Resumo /
 
 ```text
 Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castanho médio despenteado e barba bem aparada, vestindo um suéter de tricô bege macio de gola careca. Ele encara a câmera com uma expressão calma, confiante e ligeiramente contemplativa. Uma iluminação de borda dourada e quente cria uma auréola brilhante ao redor de seus cabelos e ombros, com uma luz principal suave e marcante iluminando seu rosto. Fundo escuro e intimista com uma névoa âmbar sutil e fumaça atmosférica, iluminação dramática de alto contraste, textura de pele natural, olhos nítidos, detalhes faciais realistas, profundidade de campo rasa, fotografia profissional de estúdio, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradação de cor cinematográfica quente, estética editorial de luxo, ultradetalhado, fotorrealista, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Esboço / Arte Linear
+
+<a name="prompt-2097176979497791899"></a>
+
+### Tradução em andamento
+
+Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicação original](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Pôster / Flyer · Esboço / Arte Linear · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097176979497791899-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

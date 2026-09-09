@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**14** Prompt · Bổ sung mới nhất: **2026-09-09**
+**15** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Tác giả：[@iamsofiaijaz](https://x.com/iamsofiaijaz) · [Bài gốc](https:/
 
 ```text
 Chân dung điện ảnh chân thực của một người đàn ông trưởng thành điển trai với mái tóc nâu dài vừa rối tự nhiên và bộ râu được tỉa tót gọn gàng, mặc áo len dệt kim cổ tròn màu be mềm mại. Anh hướng về phía máy ảnh với biểu cảm điềm tĩnh, tự tin và hơi trầm ngâm. Ánh sáng viền vàng ấm áp tạo ra vầng hào quang rực rỡ quanh tóc và vai anh, với ánh sáng chính dịu nhẹ nhưng mạnh mẽ chiếu sáng khuôn mặt. Phông nền tối, đầy tâm trạng với làn sương mờ màu hổ phách tinh tế và khói khí quyển, ánh sáng tương phản cao đầy kịch tính, kết cấu da tự nhiên, đôi mắt sắc nét, chi tiết khuôn mặt chân thực, độ sâu trường ảnh nông, nhiếp ảnh studio chuyên nghiệp, ống kính chân dung 85mm, f/1.8, hiệu ứng bokeh mượt mà, chỉnh màu điện ảnh ấm áp, thẩm mỹ biên tập xa xỉ, cực kỳ chi tiết, chân thực như ảnh chụp, 8K.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2097176979497791899"></a>
+
+### Đang dịch
+
+Tác giả：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Bài gốc](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097176979497791899-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

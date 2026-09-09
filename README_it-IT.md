@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**14** Prompt · Ultima aggiunta: **2026-09-09**
+**15** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Schizzo / Line Art](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Perso
 
 ```text
 Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli castani arruffati di media lunghezza e una barba curata, che indossa un morbido maglione a girocollo lavorato a maglia beige. Guarda verso la fotocamera con un'espressione calma, sicura e leggermente contemplativa. Una calda luce perimetrale dorata crea un'aureola luminosa attorno ai suoi capelli e alle sue spalle, con una forte e morbida luce chiave che illumina il suo viso. Sfondo scuro e d'atmosfera con una sottile foschia ambrata e fumo atmosferico, illuminazione drammatica ad alto contrasto, texture naturale della pelle, occhi nitidi, dettagli del viso realistici, profondità di campo ridotta, fotografia professionale da studio, obiettivo per ritratti da 85 mm, f/1.8, bokeh cremoso, color grading cinematografico caldo, estetica editoriale di lusso, ultra-dettagliato, fotorealistico, 8K.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Schizzo / Line Art
+
+<a name="prompt-2097176979497791899"></a>
+
+### Traduzione in corso
+
+Autore：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Post originale](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Poster / Volantino · Schizzo / Line Art · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097176979497791899-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

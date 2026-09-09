@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**14** Prompts · Última incorporación: **2026-09-09**
+**15** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Cine / Fotograma de película · Retrato / Selfie · Personaje · Resumen / Ante
 
 ```text
 Retrato cinematográfico fotorrealista de un apuesto hombre adulto con cabello castaño despeinado de longitud media y una barba prolijamente recortada, vistiendo un suave suéter de punto beige de cuello redondo. Mira a la cámara con una expresión tranquila, confiada y ligeramente contemplativa. Una cálida iluminación de contorno dorada crea un halo brillante alrededor de su cabello y hombros, con una suave pero potente luz principal iluminando su rostro. Fondo oscuro y melancólico con una sutil neblina ámbar y humo atmosférico, iluminación dramática de alto contraste, textura de piel natural, ojos nítidos, detalles faciales realistas, profundidad de campo reducida, fotografía de estudio profesional, lente para retratos de 85 mm, f/1.8, efecto bokeh cremoso, etalonaje cinematográfico cálido, estética editorial de lujo, ultradetallado, fotorrealista, 8K.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Boceto / Dibujo lineal
+
+<a name="prompt-2097176979497791899"></a>
+
+### Traducción en curso
+
+Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicación original](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Póster / Folleto · Boceto / Dibujo lineal · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097176979497791899-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

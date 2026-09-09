@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Adição mais recente: **2026-09-09**
+**15** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Esboço / Arte Linear](#category-sketch-line-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Resumo / Context
 
 ```text
 Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castanho de comprimento médio despenteado e uma barba cuidadosamente aparada, vestindo uma camisola de malha bege macia com gola redonda. Ele olha diretamente para a câmara com uma expressão calma, confiante e ligeiramente contemplativa. Uma luz de contorno dourada e quente cria uma auréola brilhante à volta do seu cabelo e ombros, enquanto uma luz principal suave e intensa ilumina o seu rosto. Fundo escuro e atmosférico com uma subtil névoa âmbar e fumo ambiental, iluminação dramática de elevado contraste, textura de pele natural, olhos nítidos, detalhes faciais realistas, profundidade de campo reduzida, fotografia profissional de estúdio, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradação de cores cinematográfica e quente, estética editorial de luxo, ultradetalhado, fotorrealista, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Esboço / Arte Linear
+
+<a name="prompt-2097176979497791899"></a>
+
+### Tradução em curso
+
+Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicação original](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Pôster / Folheto · Esboço / Arte Linear · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097176979497791899-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

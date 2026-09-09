@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**14** Prompt · Son eklenen: **2026-09-09**
+**15** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -322,6 +322,34 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Y
 
 ```text
 Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, yumuşak bej renkli örgü bisiklet yaka kazak giymiş yakışıklı bir yetişkin erkeğin fotogerçekçi sinematik portresi. Sakin, kendinden emin ve hafif düşünceli bir ifadeyle kameraya bakıyor. Sıcak altın sarısı kenar aydınlatması saçlarının ve omuzlarının etrafında parlayan bir hale oluştururken, güçlü ve yumuşak bir ana ışık yüzünü aydınlatıyor. İnce kehribar rengi pus ve atmosferik duman içeren karanlık, karamsar arka plan, dramatik yüksek kontrastlı aydınlatma, doğal cilt dokusu, keskin gözler, gerçekçi yüz ayrıntıları, sığ alan derinliği, profesyonel stüdyo fotoğrafçılığı, 85 mm portre lensi, f/1.8, kremsi bokeh, sıcak sinematik renk derecelendirmesi, lüks editoryal estetik, ultra detaylı, fotogerçekçi, 8K.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Çizim / Çizgi Sanatı
+
+<a name="prompt-2097176979497791899"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Orijinal gönderi](https://x.com/saniaspeaks_/status/2097176979497791899)
+
+Poster / El İlanı · Çizim / Çizgi Sanatı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097176979497791899-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097176979497791899-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
