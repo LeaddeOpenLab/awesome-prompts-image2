@@ -781,20 +781,23 @@ Piksel Sanatı · Karakter · Yayımlandı
 
 <a name="prompt-2097559943075533257"></a>
 
-### Çeviri sürüyor
+### Piksel sanatı erkek goblinin yay çekip ok atmasını gösteren 16 karelik sprite sayfası animasyon döngüsü talimatı.
 
 Yazar：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Orijinal gönderi](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Piksel Sanatı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Piksel sanatı erkek goblinin yay çekip ok atmasını gösteren 16 karelik sprite sayfası animasyon döngüsü talimatı.
 
 <img src="covers/2097559943075533257.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yetenekleri kullanma, bir sprite sayfası oluştur
+Bu görsel, piksel sanatı tarzında erkek bir goblinin yay çekip ok atma sürecini içerir
+Toplam 16 kare.
+Ardından bu görseli dilimle ve sonsuz döngülü bir gif haline getir
 ```
 
 [↑ Kategorilere dön](#catalog)

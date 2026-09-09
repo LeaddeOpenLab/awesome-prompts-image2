@@ -771,20 +771,23 @@ Traduzione in corso
 
 <a name="prompt-2097559943075533257"></a>
 
-### Traduzione in corso
+### Istruzioni per un ciclo di animazione sprite sheet a 16 fotogrammi di un goblin maschio in pixel art che scocca una freccia con l'arco.
 
 Autore：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Post originale](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel Art · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per un ciclo di animazione sprite sheet a 16 fotogrammi di un goblin maschio in pixel art che scocca una freccia con l'arco.
 
 <img src="covers/2097559943075533257.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Non usare abilità, crea uno sprite sheet
+Questa immagine include il processo di un goblin maschio in pixel art che tende un arco e scocca una freccia
+In totale 16 fotogrammi.
+Poi ritaglia l'immagine e crea una gif a ciclo continuo
 ```
 
 [↑ Torna alle categorie](#catalog)

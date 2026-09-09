@@ -771,20 +771,23 @@ Traducción en curso
 
 <a name="prompt-2097559943075533257"></a>
 
-### Traducción en curso
+### Instrucción de bucle de animación de hoja de sprites de 16 fotogramas de un duende masculino en pixel art disparando un arco.
 
 Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publicación original](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel Art · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción de bucle de animación de hoja de sprites de 16 fotogramas de un duende masculino en pixel art disparando un arco.
 
 <img src="covers/2097559943075533257.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+No uses habilidades, crea una hoja de sprites
+Esta imagen contiene el proceso de un duende masculino en estilo pixel art tensando un arco y disparando una flecha
+En total 16 fotogramas.
+Luego corta esta imagen y conviértela en un gif en bucle infinito
 ```
 
 [↑ Volver a categorías](#catalog)

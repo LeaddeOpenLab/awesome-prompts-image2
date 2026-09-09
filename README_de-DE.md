@@ -771,20 +771,23 @@ Pixel-Art · Charakter · Veröffentlicht
 
 <a name="prompt-2097559943075533257"></a>
 
-### Übersetzung läuft
+### Anweisung für eine 16-Frame-Sprite-Sheet-Animationsschleife eines männlichen Goblins im Pixel-Art-Stil, der mit einem Bogen schießt.
 
 Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Originalbeitrag](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel-Art · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung für eine 16-Frame-Sprite-Sheet-Animationsschleife eines männlichen Goblins im Pixel-Art-Stil, der mit einem Bogen schießt.
 
 <img src="covers/2097559943075533257.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende keine Fähigkeiten, erstelle ein Sprite-Sheet
+Dieses Bild enthält den Ablauf, wie ein männlicher Goblin im Pixel-Art-Stil einen Bogen spannt und einen Pfeil abschießt
+Insgesamt 16 Frames.
+Schneide dieses Bild anschließend aus und erstelle daraus ein Endlos-GIF
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

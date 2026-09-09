@@ -781,20 +781,23 @@ Tradução em andamento
 
 <a name="prompt-2097559943075533257"></a>
 
-### Tradução em andamento
+### Instrução de loop de animação de folha de sprites de 16 quadros de um goblin masculino em pixel art disparando um arco.
 
 Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publicação original](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel Art · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instrução de loop de animação de folha de sprites de 16 quadros de um goblin masculino em pixel art disparando um arco.
 
 <img src="covers/2097559943075533257.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Não use habilidades, crie uma folha de sprites
+Esta imagem contém o processo de um goblin masculino em estilo pixel art puxando um arco e disparando uma flecha
+Total de 16 quadros.
+Em seguida, fatie a imagem e crie um gif em loop contínuo
 ```
 
 [↑ Voltar às categorias](#catalog)

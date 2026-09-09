@@ -771,20 +771,23 @@ Traduction en cours
 
 <a name="prompt-2097559943075533257"></a>
 
-### Traduction en cours
+### Instruction pour une boucle d'animation sur feuille de sprites de 16 images d'un gobelin mâle en pixel art tirant à l'arc.
 
 Auteur：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publication originale](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel Art · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction pour une boucle d'animation sur feuille de sprites de 16 images d'un gobelin mâle en pixel art tirant à l'arc.
 
 <img src="covers/2097559943075533257.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+N'utilise pas de compétences, crée une feuille de sprites
+Cette image contient le processus d'un gobelin masculin en pixel art bandant un arc et tirant une flèche
+Un total de 16 images.
+Puis découpe cette image et fais-en un gif en boucle infinie
 ```
 
 [↑ Retour aux catégories](#catalog)
