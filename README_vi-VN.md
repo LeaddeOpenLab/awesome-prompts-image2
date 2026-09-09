@@ -749,20 +749,25 @@ Nghệ thuật Pixel · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097573967955730524"></a>
 
-### Đang dịch
+### Chỉ dẫn tạo sprite sheet sắp xếp 4 loại hành động pixel art cho trò chơi \(chạy, nhảy, tấn công xoay tròn, gục ngã\) với mỗi hành động 4 khung hình dựa trên hình ảnh tham chiếu.
 
 Tác giả：[@npaka123](https://x.com/npaka123) · [Bài gốc](https://x.com/npaka123/status/2097573967955730524)
 
 Nghệ thuật Pixel · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chỉ dẫn tạo sprite sheet sắp xếp 4 loại hành động pixel art cho trò chơi \(chạy, nhảy, tấn công xoay tròn, gục ngã\) với mỗi hành động 4 khung hình dựa trên hình ảnh tham chiếu.
 
 <img src="covers/2097573967955730524.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đồng nhất khuôn mặt, kiểu tóc, trang phục, phối màu và vóc dáng của nhân vật đính kèm, tạo một hình ảnh sprite sheet gồm 4 loại chuyển động pixel art bắt mắt cho trò chơi, mỗi chuyển động tối đa 4 khung hình. Kích thước mỗi khung hình là 256x256px.
+· Chạy: Nghiêng người về phía trước, vung tay và chân luân phiên mạnh mẽ.
+· Nhảy: Ngồi xổm → Bật nhảy lên → Dang tay chân trên không trung → Tiếp đất.
+· Tấn công xoay tròn: Hướng chính diện → Hướng sang bên → Hướng ra sau → Hướng sang bên đối diện, xoay tròn toàn bộ cơ thể một vòng.
+· Gục ngã: Lảo đảo → Nghiêng sang một bên → Nằm sõng soài → Nhắm mắt và bất động.
+Sắp xếp mỗi hành động thành một hàng ngang trên từng dòng, đảm bảo kích thước tất cả các ô, vị trí đặt chân, tâm và tỷ lệ đồng nhất. Nền hoàn toàn là màu đơn sắc, không sử dụng bóng đổ, chữ viết, khung viền, số thứ tự, UI, làm mờ, bán trong suốt, chuyển màu (gradient) hay khử răng cưa. Các chuyển động lặp lại cần nối tiếp mượt mà giữa khung hình đầu và cuối.
 ```
 
 [↑ Về danh mục](#catalog)

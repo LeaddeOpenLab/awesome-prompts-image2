@@ -749,20 +749,25 @@ Traducción en curso
 
 <a name="prompt-2097573967955730524"></a>
 
-### Traducción en curso
+### Instrucción para generar una hoja de sprites basada en una imagen de referencia, organizando 4 tipos de acciones en pixel art para videojuegos \(correr, saltar, ataque giratorio y caer derrotado\) con 4 fotogramas cada una.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicación original](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para generar una hoja de sprites basada en una imagen de referencia, organizando 4 tipos de acciones en pixel art para videojuegos \(correr, saltar, ataque giratorio y caer derrotado\) con 4 fotogramas cada una.
 
 <img src="covers/2097573967955730524.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Mantén la coherencia en el rostro, peinado, atuendo, paleta de colores y complexión del personaje adjunto, y genera una única imagen de hoja de sprites (sprite sheet) con 4 tipos de movimientos en pixel art ideales para videojuegos, con un máximo de 4 fotogramas por cada uno. El tamaño de cada fotograma es de 256x256 px.
+· Correr: inclinar el cuerpo hacia adelante y mover brazos y piernas alternadamente de forma amplia.
+· Saltar: agacharse → impulsarse hacia arriba → extender brazos y piernas en el aire → aterrizar.
+· Ataque giratorio: de frente → de perfil → de espaldas → del perfil opuesto, completando un giro entero de todo el cuerpo.
+· Caer derrotado: tambalearse → inclinarse hacia un lado → caer al suelo tumbado → cerrar los ojos y quedarse inmóvil.
+Dispone una acción por fila en una hilera horizontal, alineando el tamaño de todas las celdas, el nivel de los pies, el centro y la escala. El fondo debe ser de un color completamente plano y sólido; no utilices sombras, texto, marcos, números, elementos de interfaz (UI), desenfoque, semitransparencias, degradados ni suavizado de bordes (anti-aliasing). Las acciones en bucle deben enlazar de forma fluida y natural entre el primer y el último fotograma.
 ```
 
 [↑ Volver a categorías](#catalog)
