@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**22** Prompts · Dernier ajout: **2026-09-09**
+**23** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,34 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097486896750338125"></a>
+
+### Traduction en cours
+
+Auteur：[@nanyuan0412](https://x.com/nanyuan0412) · [Publication originale](https://x.com/nanyuan0412/status/2097486896750338125)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097486896750338125-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097486896750338125-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097486896750338125-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097486896750338125-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2096914920915001598"></a>
 

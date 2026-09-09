@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**22** Prompts · Latest addition: **2026-09-09**
+**23** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -615,6 +615,34 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097486896750338125"></a>
+
+### An image-to-image prompt template for redesigning character themes while maintaining lighting, texture, and composition based on a reference image.
+
+Author：[@nanyuan0412](https://x.com/nanyuan0412) · [Source](https://x.com/nanyuan0412/status/2097486896750338125)
+
+Character · Published
+
+**Summary:** An image-to-image prompt template for redesigning character themes while maintaining lighting, texture, and composition based on a reference image.
+
+<img src="images/2097486896750338125-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097486896750338125-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097486896750338125-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097486896750338125-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096914920915001598"></a>
 
