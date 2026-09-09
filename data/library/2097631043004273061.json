@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "Cristiano Ronaldo eating shawarma",
   "promptTranslations": {
-    "en": "Cristiano Ronaldo eating shawarma"
+    "en": "Cristiano Ronaldo eating shawarma",
+    "zh": "克里斯蒂亚诺·罗纳尔多吃沙威玛",
+    "zh-TW": "克里斯蒂亞諾·羅納度吃沙威瑪",
+    "ja-JP": "シャワルマを食べるクリスティアーノ・ロナウド",
+    "ko-KR": "샤와르마를 먹고 있는 크리스티아누 호날두",
+    "th-TH": "คริสเตียโน โรนัลโด กำลังกินชาวาร์มา",
+    "vi-VN": "Cristiano Ronaldo đang ăn shawarma",
+    "hi-IN": "क्रिस्टियानो रोनाल्डो शावर्मा खाते हुए",
+    "es-ES": "Cristiano Ronaldo comiendo shawarma"
   },
   "summaryTranslations": {
-    "en": "Cristiano Ronaldo eating shawarma animation."
+    "en": "Cristiano Ronaldo eating shawarma animation.",
+    "zh": "克里斯蒂亚诺·罗纳尔多吃沙威玛的动画。",
+    "zh-TW": "克里斯蒂亞諾·羅納度吃沙威瑪的動畫。",
+    "ja-JP": "シャワルマを食べるクリスティアーノ・ロナウドのアニメーション。",
+    "ko-KR": "샤와르마를 먹고 있는 크리스티아누 호날두 애니메이션.",
+    "th-TH": "แอนิเมชัน คริสเตียโน โรนัลโด กำลังกินชาวาร์มา",
+    "vi-VN": "Hoạt hình Cristiano Ronaldo đang ăn shawarma.",
+    "hi-IN": "क्रिस्टियानो रोनाल्डो के शावर्मा खाने का एनिमेशन।",
+    "es-ES": "Animación de Cristiano Ronaldo comiendo shawarma."
   },
   "translationVersion": 2,
   "summary": "Cristiano Ronaldo eating shawarma animation.",
