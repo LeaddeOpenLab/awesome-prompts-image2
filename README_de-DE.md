@@ -563,13 +563,13 @@ Skizze / Strichzeichnung · Architektur / Interieur · Veröffentlicht
 
 <a name="prompt-2096902953110299096"></a>
 
-### Übersetzung läuft
+### Prompt verwandelt ein Referenzfoto in ein vertikales 50/50-Poster, das das Originalfoto oben mit einer Buntstift-Aquarell-Skizze unten kombiniert.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Originalbeitrag](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Plakat / Flyer · Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt verwandelt ein Referenzfoto in ein vertikales 50/50-Poster, das das Originalfoto oben mit einer Buntstift-Aquarell-Skizze unten kombiniert.
 
 <img src="images/2096902953110299096-1.jpg" alt="Bild 1" width="480" />
 
@@ -578,7 +578,13 @@ Plakat / Flyer · Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein erstklassiges vertikales Reisetagebuch-Poster in einer exakten 50/50-Teilung.
+
+Obere 50 %: Behalte das originale Referenzfoto völlig echt und unverändert bei – dieselbe Komposition, Architektur, Personen, Farben, Beleuchtung, Perspektive und Details.
+
+Untere 50 %: Verwandle dasselbe Foto in eine zarte, handgezeichnete Buntstift- und Aquarellskizze auf warmem cremefarbenem Papier, mit sichtbaren Bleistiftstrichen, sanften Lavierungen, feiner Papierkörnung, unvollkommenen Konturen und sanften Schraffuren. Halte jedes Motiv erkennbar.
+
+Füge eleganten handschriftlichen Text hinzu: “A Beautiful Day” oben und “Memories to Keep” unten. Minimalistische, nostalgische, anspruchsvolle Reisemagazin-Ästhetik. Keine zusätzlichen Objekte, kein Fotorealismus in der unteren Hälfte, exaktes 50/50-Layout.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

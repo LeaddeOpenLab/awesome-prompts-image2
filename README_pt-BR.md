@@ -563,13 +563,13 @@ Tradução em andamento
 
 <a name="prompt-2096902953110299096"></a>
 
-### Tradução em andamento
+### O prompt transforma uma foto de referência em um pôster vertical 50/50, combinando a foto original na parte superior com um esboço em lápis de cor e aquarela na parte inferior.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Pôster / Flyer · Esboço / Arte Linear · Aquarela · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** O prompt transforma uma foto de referência em um pôster vertical 50/50, combinando a foto original na parte superior com um esboço em lápis de cor e aquarela na parte inferior.
 
 <img src="images/2096902953110299096-1.jpg" alt="Imagem 1" width="480" />
 
@@ -578,7 +578,13 @@ Pôster / Flyer · Esboço / Arte Linear · Aquarela · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster vertical premium de diário de viagem em uma divisão exata de 50/50.
+
+50% superior: Mantenha a foto de referência original completamente real e inalterada: mesma composição, arquitetura, pessoas, cores, iluminação, perspectiva e detalhes.
+
+50% inferior: Transforme a mesma foto em um esboço delicado feito à mão com lápis de cor e aquarela sobre papel creme quente, com traços visíveis de lápis, aguadas suaves, textura sutil de papel, contornos imperfeitos e hachuras suaves. Mantenha cada elemento reconhecível.
+
+Adicione um texto elegante escrito à mão: “A Beautiful Day” acima e “Memories to Keep” abaixo. Estética minimalista, nostálgica e sofisticada de revista de viagens. Sem objetos extras, sem fotorrealismo na metade inferior, layout exato de 50/50.
 ```
 
 [↑ Voltar às categorias](#catalog)

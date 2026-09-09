@@ -563,13 +563,13 @@ Traducción en curso
 
 <a name="prompt-2096902953110299096"></a>
 
-### Traducción en curso
+### El prompt transforma una foto de referencia en un póster vertical 50/50, combinando la foto original arriba con un boceto a lápiz de color y acuarela abajo.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicación original](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Póster / Volante · Boceto / Arte lineal · Acuarela · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** El prompt transforma una foto de referencia en un póster vertical 50/50, combinando la foto original arriba con un boceto a lápiz de color y acuarela abajo.
 
 <img src="images/2096902953110299096-1.jpg" alt="Imagen 1" width="480" />
 
@@ -578,7 +578,13 @@ Póster / Volante · Boceto / Arte lineal · Acuarela · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster vertical premium de diario de viajes con una división exacta de 50/50.
+
+50% superior: Mantén la foto de referencia original completamente real y sin cambios, con la misma composición, arquitectura, personas, colores, iluminación, perspectiva y detalles.
+
+50% inferior: Transforma la misma foto en un delicado boceto a mano con lápices de colores y acuarela sobre papel crema cálido, con trazos visibles de lápiz, aguadas suaves, textura sutil de papel, contornos imperfectos y un suave tramado cruzado. Mantén reconocible cada sujeto.
+
+Agrega un elegante texto manuscrito: “A Beautiful Day” arriba y “Memories to Keep” abajo. Estética minimalista, nostálgica y sofisticada de revista de viajes. Sin objetos adicionales, sin fotorrealismo en la mitad inferior, diseño exacto de 50/50.
 ```
 
 [↑ Volver a categorías](#catalog)

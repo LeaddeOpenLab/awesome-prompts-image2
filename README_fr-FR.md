@@ -563,13 +563,13 @@ Traduction en cours
 
 <a name="prompt-2096902953110299096"></a>
 
-### Traduction en cours
+### Le prompt transforme une photo de référence en une affiche verticale 50/50, associant la photo originale en haut à un croquis aux crayons de couleur et à l'aquarelle en bas.
 
 Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Affiche / Flyer · Croquis / Dessin au trait · Aquarelle · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Le prompt transforme une photo de référence en une affiche verticale 50/50, associant la photo originale en haut à un croquis aux crayons de couleur et à l'aquarelle en bas.
 
 <img src="images/2096902953110299096-1.jpg" alt="Image 1" width="480" />
 
@@ -578,7 +578,13 @@ Affiche / Flyer · Croquis / Dessin au trait · Aquarelle · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche verticale haut de gamme de carnet de voyage avec une séparation exacte à 50/50.
+
+50 % supérieurs : Conservez la photo de référence originale complètement réelle et inchangée : même composition, architecture, personnes, couleurs, éclairage, perspective et détails.
+
+50 % inférieurs : Transformez la même photo en un délicat croquis fait main aux crayons de couleur et à l'aquarelle sur papier crème chaud, avec des traits de crayon visibles, de doux lavis, un grain de papier subtil, des contours imparfaits et de délicates hachures croisées. Gardez chaque sujet reconnaissable.
+
+Ajoutez un élégant texte manuscrit : “A Beautiful Day” au-dessus et “Memories to Keep” en dessous. Esthétique minimaliste, nostalgique et sophistiquée de magazine de voyage. Aucun objet supplémentaire, aucun photoréalisme dans la moitié inférieure, mise en page exacte 50/50.
 ```
 
 [↑ Retour aux catégories](#catalog)

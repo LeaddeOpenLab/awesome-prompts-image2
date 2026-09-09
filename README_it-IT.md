@@ -563,13 +563,13 @@ Traduzione in corso
 
 <a name="prompt-2096902953110299096"></a>
 
-### Traduzione in corso
+### Il prompt trasforma una foto di riferimento in un poster verticale 50/50, abbinando la foto originale in alto a uno schizzo con matite colorate e acquerello in basso.
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Poster / Volantino · Schizzo / Line Art · Acquerello · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Il prompt trasforma una foto di riferimento in un poster verticale 50/50, abbinando la foto originale in alto a uno schizzo con matite colorate e acquerello in basso.
 
 <img src="images/2096902953110299096-1.jpg" alt="Immagine 1" width="480" />
 
@@ -578,7 +578,13 @@ Poster / Volantino · Schizzo / Line Art · Acquerello · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster verticale premium in stile diario di viaggio con una suddivisione esatta 50/50.
+
+50% superiore: Mantieni la foto di riferimento originale completamente reale e invariata: stessa composizione, architettura, persone, colori, illuminazione, prospettiva e dettagli.
+
+50% inferiore: Trasforma la stessa foto in un delicato schizzo a mano con matite colorate e acquerello su carta color crema calda, con tratti di matita visibili, velature morbide, una sottile grana della carta, contorni imperfetti e un leggero tratteggio incrociato. Mantieni riconoscibile ogni soggetto.
+
+Aggiungi un elegante testo scritto a mano: “A Beautiful Day” in alto e “Memories to Keep” in basso. Estetica minimalista, nostalgica e sofisticata da rivista di viaggi. Nessun oggetto extra, nessun fotorealismo nella metà inferiore, layout esatto 50/50.
 ```
 
 [↑ Torna alle categorie](#catalog)

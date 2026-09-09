@@ -563,13 +563,13 @@ Yazar：[@Naiknelofar788](https://x.com/Naiknelofar788) · [Orijinal gönderi](h
 
 <a name="prompt-2096902953110299096"></a>
 
-### Çeviri sürüyor
+### Prompt, bir referans fotoğrafını üstte orijinal fotoğraf ve altta renkli kurşun kalem suluboya taslağını eşleştiren 50/50 dikey bir postere dönüştürür.
 
 Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Poster / El İlanı · Çizim / Çizgi Sanatı · Suluboya · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Prompt, bir referans fotoğrafını üstte orijinal fotoğraf ve altta renkli kurşun kalem suluboya taslağını eşleştiren 50/50 dikey bir postere dönüştürür.
 
 <img src="images/2096902953110299096-1.jpg" alt="Görsel 1" width="480" />
 
@@ -578,7 +578,13 @@ Poster / El İlanı · Çizim / Çizgi Sanatı · Suluboya · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tam 50/50 bölünmüş, birinci sınıf dikey bir seyahat günlüğü posteri oluşturun.
+
+Üst %50: Orijinal referans fotoğrafını tamamen gerçek ve değişmemiş olarak koruyun; aynı kompozisyon, mimari, insanlar, renkler, aydınlatma, perspektif ve ayrıntılar.
+
+Alt %50: Aynı fotoğrafı sıcak krem rengi kâğıt üzerine, görünür kurşun kalem darbeleri, yumuşak yıkamalar, zarif kâğıt dokusu, kusurlu hatlar ve nazik çapraz taramalar içeren narin, elle çizilmiş renkli kurşun kalem + suluboya taslağına dönüştürün. Her özneyi tanınabilir tutun.
+
+Zarif bir el yazısı metin ekleyin: Üstte “A Beautiful Day” ve altta “Memories to Keep”. Minimalist, nostaljik, sofistike seyahat dergisi estetiği. Ekstra nesne yok, alt yarıda fotogerçekçilik yok, tam 50/50 yerleşim.
 ```
 
 [↑ Kategorilere dön](#catalog)
