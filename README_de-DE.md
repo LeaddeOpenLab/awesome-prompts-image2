@@ -727,20 +727,25 @@ Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbe
 
 <a name="prompt-2097574111518375970"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung eines Pixel-Art-Sprite-Sheets basierend auf dem beigefügten Charakter mit 4 Bewegungen \(Rennen, Springen, Wirbelangriff, Umfallen\) à 4 Frames.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Originalbeitrag](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel-Art · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung eines Pixel-Art-Sprite-Sheets basierend auf dem beigefügten Charakter mit 4 Bewegungen \(Rennen, Springen, Wirbelangriff, Umfallen\) à 4 Frames.
 
 <img src="covers/2097574111518375970.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Halte Gesicht, Frisur, Outfit, Farbpalette und Körperbau des beigefügten Charakters einheitlich und erstelle 4 Arten von Pixel-Art-Bewegungen, die im Spiel gut zur Geltung kommen, mit jeweils maximal 4 Frames auf einem einzigen Sprite-Sheet-Bild. Die Größe jedes Frames beträgt 256x256 px.
+・Rennen: Den Körper nach vorne beugen und Arme und Beine weit und abwechselnd bewegen.
+・Springen: In die Hocke gehen → hochspringen → Arme und Beine in der Luft ausbreiten → landen.
+・Wirbelangriff: Frontalansicht → Seitenansicht → Rückenansicht → entgegengesetzte Seitenansicht, um eine vollständige 360-Grad-Drehung des Körpers auszuführen.
+・Umfallen: Taumeln → zur Seite neigen → flach hinlegen → die Augen schließen und regungslos verharren.
+Ordne jede Bewegung in einer horizontalen Reihe an und halte Zellengröße, Fußlinie, Ausrichtung zur Mitte und Maßstab für alle Zellen einheitlich. Der Hintergrund muss vollständig einfarbig sein; verwende keine Schatten, Texte, Rahmen, Nummern, UI-Elemente, Unschärfen, Halbtransparenzen, Farbverläufe oder Antialiasing. Looping-Animationen sollten nahtlos und natürlich zwischen Anfang und Ende übergehen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -727,20 +727,25 @@ Traducción en curso
 
 <a name="prompt-2097574111518375970"></a>
 
-### Traducción en curso
+### Prompt para generar una hoja de sprites en pixel art basada en el personaje adjunto, que ilustra 4 acciones \(correr, saltar, ataque giratorio y caer\) con 4 fotogramas cada una.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicación original](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una hoja de sprites en pixel art basada en el personaje adjunto, que ilustra 4 acciones \(correr, saltar, ataque giratorio y caer\) con 4 fotogramas cada una.
 
 <img src="covers/2097574111518375970.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Mantén consistentes la cara, el peinado, el atuendo, la paleta de colores y la contextura física del personaje adjunto, y genera 4 tipos de movimientos en pixel art que se vean bien en un juego, con un máximo de 4 fotogramas cada uno, en una sola imagen de hoja de sprites (sprite sheet). El tamaño de cada fotograma es de 256x256 px.
+・Correr: inclina el cuerpo hacia adelante y mueve brazos y piernas alternadamente con amplitud.
+・Saltar: agacharse → elevarse de un salto → abrir brazos y piernas en el aire → aterrizar.
+・Ataque giratorio: frente → perfil → espalda → perfil opuesto, completando un giro entero de todo el cuerpo.
+・Caer / ser derrotado: tambalearse → inclinarse hacia un lado → caer al suelo tendido → cerrar los ojos y quedar inmóvil.
+Coloca cada acción en una fila horizontal, y alinea el tamaño de todas las celdas, la posición de los pies en el suelo, el centro y la escala. El fondo debe ser de un color completamente sólido, y no utilices sombras, texto, marcos, números, elementos de interfaz de usuario (UI), desenfoque, semitransparencias, degradados ni suavizado de bordes (antialiasing). Las animaciones en bucle deben conectarse de manera fluida y natural entre el inicio y el final.
 ```
 
 [↑ Volver a categorías](#catalog)

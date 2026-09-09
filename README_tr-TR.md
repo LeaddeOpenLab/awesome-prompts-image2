@@ -737,20 +737,25 @@ Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal
 
 <a name="prompt-2097574111518375970"></a>
 
-### Çeviri sürüyor
+### Ekli karaktere dayanarak koşma, zıplama, dönerek saldırı ve yere düşme şeklinde 4 hareketi \(her biri 4 kare\) gösteren bir piksel sanatı sprite sheet görseli üretme istemi.
 
 Yazar：[@npaka123](https://x.com/npaka123) · [Orijinal gönderi](https://x.com/npaka123/status/2097574111518375970)
 
 Piksel Sanatı · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ekli karaktere dayanarak koşma, zıplama, dönerek saldırı ve yere düşme şeklinde 4 hareketi \(her biri 4 kare\) gösteren bir piksel sanatı sprite sheet görseli üretme istemi.
 
 <img src="covers/2097574111518375970.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ekli karakterin yüzünü, saç stilini, kıyafetini, renk paletini ve vücut yapısını tutarlı tutarak oyunda dikkat çekici duracak 4 farklı piksel sanatı hareketini, her biri en fazla 4 kareden oluşacak şekilde tek bir sprite sheet görselinde üretin. Her karenin boyutu 256x256 pikseldir.
+・Koşma: Gövdeyi öne eğip el ve ayakları geniş adımlarla sırayla hareket ettirme.
+・Zıplama: Çömelme → yukarı sıçrama → havada kol ve bacakları açma → yere iniş.
+・Dönerek saldırı: Ön cephe → yan profil → arka → ters yan profil olmak üzere tüm vücudu tam tur döndürme.
+・Yere düşme: Sendeler → yana eğilir → yere uzanır → gözlerini kapatıp hareketsiz kalır.
+Her hareketi yatay bir sıra halinde düzenleyin ve tüm karelerin boyutunu, ayak hizasını, merkez noktasını ve ölçeğini birbiriyle eşitleyin. Arka plan tamamen tek renk olmalı; gölge, yazı, çerçeve, numara, kullanıcı arayüzü (UI), bulanıklık, yarı saydamlık, degrade veya kenar yumuşatma (antialiasing) kullanılmamalıdır. Döngüsel animasyonların başı ve sonu birbirine doğal ve kusursuz bir şekilde bağlanmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

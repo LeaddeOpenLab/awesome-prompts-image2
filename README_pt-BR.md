@@ -737,20 +737,25 @@ Tradução em andamento
 
 <a name="prompt-2097574111518375970"></a>
 
-### Tradução em andamento
+### Prompt para gerar uma folha de sprites em pixel art baseada no personagem anexado, contendo 4 ações \(correr, pular, ataque giratório e cair\) com 4 quadros cada.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicação original](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para gerar uma folha de sprites em pixel art baseada no personagem anexado, contendo 4 ações \(correr, pular, ataque giratório e cair\) com 4 quadros cada.
 
 <img src="covers/2097574111518375970.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Mantenha consistentes o rosto, penteado, traje, paleta de cores e porte físico do personagem anexado e gere 4 tipos de animações em pixel art que se destaquem em um jogo, com no máximo 4 quadros cada, em uma única imagem de folha de sprites (sprite sheet). O tamanho de cada quadro é de 256x256 px.
+・Correr: inclinar o corpo para a frente e mover braços e pernas de forma ampla e alternada.
+・Pular: agachar → saltar → abrir braços e pernas no ar → aterrissar.
+・Ataque giratório: frente → perfil → costas → perfil oposto, completando um giro total de 360 graus do corpo.
+・Cair / ser derrotado: cambalear → inclinar para o lado → deitar no chão → fechar os olhos e ficar imóvel.
+Disponha cada ação em uma linha horizontal e alinhe o tamanho de todas as células, a posição dos pés no chão, a centralização e a escala. O fundo deve ser de uma cor completamente sólida, sem sombras, texto, molduras, números, elementos de interface de usuário (UI), desfoque, semitransparência, gradientes ou suavização de serrilhado (antialiasing). As animações em loop devem se conectar de forma suave e natural entre o início e o fim.
 ```
 
 [↑ Voltar às categorias](#catalog)

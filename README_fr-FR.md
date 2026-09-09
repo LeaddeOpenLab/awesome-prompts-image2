@@ -727,20 +727,25 @@ Traduction en cours
 
 <a name="prompt-2097574111518375970"></a>
 
-### Traduction en cours
+### Prompt pour générer une feuille de sprites en pixel art basée sur le personnage joint, illustrant 4 actions \(courir, sauter, attaque tournoyante, tomber\) de 4 images chacune.
 
 Auteur：[@npaka123](https://x.com/npaka123) · [Publication originale](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer une feuille de sprites en pixel art basée sur le personnage joint, illustrant 4 actions \(courir, sauter, attaque tournoyante, tomber\) de 4 images chacune.
 
 <img src="covers/2097574111518375970.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Harmonisez le visage, la coiffure, la tenue, la palette de couleurs et la corpulence du personnage joint, et générez 4 types d'animations en pixel art adaptées à un jeu vidéo, avec un maximum de 4 images par mouvement, sur une seule image de feuille de sprites (sprite sheet). La taille de chaque case est de 256x256 px.
+・Courir : pencher le corps en avant et balancer largement et alternativement les bras et les jambes.
+・Sauter : s'accroupir → bondir → écarter les bras et les jambes dans les airs → atterrir.
+・Attaque tournoyante : face → profil → dos → profil opposé, effectuant une rotation complète du corps.
+・Tomber : tituber → basculer sur le côté → s'allonger au sol → fermer les yeux et rester immobile.
+Disposez chaque action sur une ligne horizontale, et alignez la taille de toutes les cases, la ligne des pieds, le centrage et l'échelle. L'arrière-plan doit être d'une couleur totalement unie, sans ombres, texte, bordures, numéros, interface utilisateur (UI), flou, semi-transparence, dégradés ni anticrénelage. Les animations en boucle doivent s'enchaîner de manière fluide et naturelle entre le début et la fin.
 ```
 
 [↑ Retour aux catégories](#catalog)

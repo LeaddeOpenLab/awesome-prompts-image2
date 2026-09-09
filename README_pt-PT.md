@@ -737,20 +737,25 @@ Tradução em curso
 
 <a name="prompt-2097574111518375970"></a>
 
-### Tradução em curso
+### Prompt para gerar uma folha de sprites em pixel art baseada no personagem anexado, retratando 4 ações \(correr, saltar, ataque giratório e cair\) com 4 fotogramas cada.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicação original](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para gerar uma folha de sprites em pixel art baseada no personagem anexado, retratando 4 ações \(correr, saltar, ataque giratório e cair\) com 4 fotogramas cada.
 
 <img src="covers/2097574111518375970.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Mantenha consistentes o rosto, penteado, fato, paleta de cores e compleição física do personagem anexado e gere 4 tipos de movimentos em pixel art com impacto visual para um jogo, com um máximo de 4 fotogramas cada, numa única imagem de folha de sprites (sprite sheet). A dimensão de cada fotograma é de 256x256 px.
+・Correr: inclinar o corpo para a frente e movimentar braços e pernas amplamente de forma alternada.
+・Saltar: agachar-se → saltar → abrir braços e pernas no ar → aterrar.
+・Ataque giratório: frente → perfil → costas → perfil oposto, completando uma rotação total do corpo.
+・Cair: cambalear → inclinar-se lateralmente → deitar-se no chão → fechar os olhos e ficar imóvel.
+Disponha cada ação numa linha horizontal e uniformize o tamanho de todas as células, o nível dos pés, a centragem e a escala. O fundo deve ser totalmente monocromático e liso, sem sombras, texto, molduras, números, elementos de interface (UI), desfocagem, semitransparências, gradientes ou suavização de contornos (antialiasing). As animações em ciclo contínuo devem ligar-se de modo natural e fluido entre o início e o fim.
 ```
 
 [↑ Voltar às categorias](#catalog)

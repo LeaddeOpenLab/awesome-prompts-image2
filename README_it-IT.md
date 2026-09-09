@@ -727,20 +727,25 @@ Traduzione in corso
 
 <a name="prompt-2097574111518375970"></a>
 
-### Traduzione in corso
+### Prompt per generare uno sprite sheet in pixel art basato sul personaggio allegato, raffigurante 4 azioni \(corsa, salto, attacco rotante, caduta\) di 4 frame ciascuna.
 
 Autore：[@npaka123](https://x.com/npaka123) · [Post originale](https://x.com/npaka123/status/2097574111518375970)
 
 Pixel Art · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generare uno sprite sheet in pixel art basato sul personaggio allegato, raffigurante 4 azioni \(corsa, salto, attacco rotante, caduta\) di 4 frame ciascuna.
 
 <img src="covers/2097574111518375970.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Mantieni coerenti viso, acconciatura, abbigliamento, palette di colori e corporatura del personaggio allegato e genera 4 tipi di movimenti in pixel art ideali per un videogioco, con un massimo di 4 frame ciascuno, su un'unica immagine sprite sheet. La dimensione di ciascun frame è di 256x256 px.
+・Correre: inclinare il busto in avanti e muovere braccia e gambe in modo ampio e alternato.
+・Saltare: accovacciarsi → spiccare il salto → allargare braccia e gambe a mezz'aria → atterrare.
+・Attacco rotante: fronte → vista laterale → retro → vista laterale opposta, compiendo una rotazione completa a 360 gradi del corpo.
+・Cadere: barcollare → inclinarsi lateralmente → stendersi a terra → chiudere gli occhi e rimanere immobile.
+Disponi ogni azione su una riga orizzontale, uniformando per tutte le celle dimensioni, linea dei piedi, centraggio e scala. Lo sfondo deve essere interamente a tinta unita, senza ombre, testo, cornici, numeri, elementi dell'interfaccia utente (UI), sfocature, semitrasparenze, sfumature o antialiasing. Le animazioni a ciclo continuo (loop) devono raccordarsi in modo naturale e fluido tra l'inizio e la fine.
 ```
 
 [↑ Torna alle categorie](#catalog)
