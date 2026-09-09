@@ -598,13 +598,13 @@ Adicione um elegante texto manuscrito: “A Beautiful Day” em cima e “Memori
 
 <a name="prompt-2097176979497791899"></a>
 
-### Tradução em curso
+### Prompt transforma fotos num cartaz de arte editorial com estilo de esboço em técnica mista e esquema minimalista.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicação original](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Pôster / Folheto · Esboço / Arte Linear · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt transforma fotos num cartaz de arte editorial com estilo de esboço em técnica mista e esquema minimalista.
 
 <img src="images/2097176979497791899-1.jpg" alt="Imagem 1" width="480" />
 
@@ -613,7 +613,7 @@ Pôster / Folheto · Esboço / Arte Linear · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz de arte editorial de alta qualidade para cada fotografia enviada, tratando cada imagem como uma composição independente própria e nunca fundindo várias fotos. Utilize um formato vertical estrito de 3:4 com a tela dividida em duas metades horizontais perfeitamente iguais: a metade superior deve permanecer uma apresentação fiel e fotorrealista da imagem original, preservando a identidade exata do sujeito, traços faciais, proporções, pose, roupas, objetos, composição, iluminação, sombras, ambiente e cores naturais, melhorada apenas com uma sofisticada gradação de cores editorial e extensão ambiental perfeita onde necessário; a metade inferior deve transformar a narrativa visual numa interpretação artística completamente diferente — uma minúscula obra de arte em técnica mista feita à mão, cuidadosamente composta e centrada num amplo espaço negativo em marfim quente, não ocupando mais de 10 a 20% da secção inferior, utilizando esboços expressivos a tinta, campos de cor em camadas semelhantes a guache, texturas subtis de colagem, rebordos de papel rasgado, pinceladas imperfeitas, fibras visíveis, suaves variações de pigmento e imperfeições humanas encantadoras, mantendo simultaneamente a silhueta, o gesto, os objetos e a narrativa emocional mais reconhecíveis da foto original. Extraia até quatro cores dominantes e harmoniosas de cada fotografia e reinterprete-as numa paleta sóbria e sofisticada. Adicione apenas tipografia editorial discreta ocasional quando esta enriquecer genuinamente a composição, como um título poético, local, data ou uma única palavra. O resultado geral deve assemelhar-se à capa colecionável de uma publicação de arte contemporânea — minimalista, poética, tátil, elegante, emocionalmente serena, visualmente distinta e inconfundivelmente ligada à sua fotografia original.
 ```
 
 [↑ Voltar às categorias](#catalog)

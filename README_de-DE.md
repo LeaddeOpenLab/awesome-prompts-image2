@@ -593,13 +593,13 @@ Füge eleganten handschriftlichen Text hinzu: “A Beautiful Day” oben und “
 
 <a name="prompt-2097176979497791899"></a>
 
-### Übersetzung läuft
+### Prompt transformiert Fotos in ein redaktionelles Kunstplakat mit Mixed-Media-Skizzenstil und minimalistischem Layout.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Originalbeitrag](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Plakat / Flyer · Skizze / Strichzeichnung · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt transformiert Fotos in ein redaktionelles Kunstplakat mit Mixed-Media-Skizzenstil und minimalistischem Layout.
 
 <img src="images/2097176979497791899-1.jpg" alt="Bild 1" width="480" />
 
@@ -608,7 +608,7 @@ Plakat / Flyer · Skizze / Strichzeichnung · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplakat, behandle jedes Bild als seine eigene unabhängige Komposition und führe niemals mehrere Fotos zusammen. Verwende ein striktes vertikales 3:4-Format, bei dem die Leinwand in zwei vollkommen gleiche horizontale Hälften geteilt ist: Die obere Hälfte soll eine originalgetreue, fotorealistische Darstellung des Originalbildes bleiben, wobei die exakte Identität des Motivs, Gesichtszüge, Proportionen, Pose, Kleidung, Objekte, Komposition, Beleuchtung, Schatten, Stimmung und natürliche Farben erhalten bleiben, nur aufgewertet durch ein anspruchsvolles redaktionelles Color Grading und nahtlose Umgebungserweiterung, wo nötig; die untere Hälfte soll die visuelle Geschichte in eine völlig andere künstlerische Interpretation verwandeln – ein winziges, sorgfältig komponiertes, handgefertigtes Mixed-Media-Kunstwerk, zentriert in einem weitläufigen warmen elfenbeinfarbenen Negativraum, das nicht mehr als 10–20 % des unteren Abschnitts einnimmt, unter Verwendung von ausdrucksstarken Tuschzeichnungen, geschichteten gouacheartigen Farbflächen, subtilen Collage-Texturen, gerissenen Papierkanten, unvollkommenen Pinselstrichen, sichtbaren Fasern, sanften Pigmentvariationen und bezaubernden menschlichen Unvollkommenheiten, während die am besten wiedererkennbare Silhouette, Geste, Objekte und die emotionale Erzählung des Originalfotos beibehalten werden. Extrahiere bis zu vier dominante harmonische Farben aus jedem Foto und reinterpretiere sie in einer gedeckten, anspruchsvollen Farbpalette. Füge nur gelegentlich dezente redaktionelle Typografie hinzu, wenn sie die Komposition wirklich bereichert, wie etwa einen poetischen Titel, Ort, Datum oder ein einzelnes Wort. Das Gesamtergebnis sollte wie das Titelblatt einer sammelwürdigen Publikation zeitgenössischer Kunst wirken – minimalistisch, poetisch, haptisch, elegant, emotional ruhig, visuell unverwechselbar und unverkennbar mit dem Originalfoto verbunden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

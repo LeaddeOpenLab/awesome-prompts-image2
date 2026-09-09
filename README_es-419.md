@@ -593,13 +593,13 @@ Agrega un elegante texto manuscrito: “A Beautiful Day” arriba y “Memories 
 
 <a name="prompt-2097176979497791899"></a>
 
-### Traducción en curso
+### El prompt transforma fotos en un póster de arte editorial con estilo de boceto en técnica mixta y diseño minimalista.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicación original](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Póster / Volante · Boceto / Arte lineal · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** El prompt transforma fotos en un póster de arte editorial con estilo de boceto en técnica mixta y diseño minimalista.
 
 <img src="images/2097176979497791899-1.jpg" alt="Imagen 1" width="480" />
 
@@ -608,7 +608,7 @@ Póster / Volante · Boceto / Arte lineal · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster de arte editorial prémium para cada fotografía subida, tratando cada imagen como su propia composición independiente y sin fusionar nunca varias fotos entre sí. Utiliza un estricto formato vertical de 3:4 con el lienzo dividido en dos mitades horizontales perfectamente iguales: la mitad superior debe seguir siendo una presentación fiel y fotorrealista de la imagen original, conservando la identidad exacta del sujeto, los rasgos faciales, las proporciones, la pose, la vestimenta, los objetos, la composición, la iluminación, las sombras, el ambiente y los colores naturales, mejorada únicamente con una sofisticada gradación de color editorial y una extensión ambiental fluida donde sea necesario; la mitad inferior debe transformar la historia visual en una interpretación artística completamente diferente: una pequeña obra de arte hecha a mano en técnica mixta cuidadosamente compuesta y centrada dentro de un amplio espacio negativo de color marfil cálido, que no ocupe más del 10 al 20 % de la sección inferior, utilizando un boceto a tinta expresivo, campos de color estratificados similares al gouache, texturas sutiles de collage, bordes de papel rasgado, pinceladas imperfectas, fibras visibles, suaves variaciones de pigmento y encantadoras imperfecciones humanas, mientras conserva la silueta, el gesto, los objetos y la narrativa emocional más reconocibles de la foto original. Extrae hasta cuatro colores dominantes y armoniosos de cada fotografía y reinterprétalos en una paleta apagada y sofisticada. Añade solo tipografía editorial sutil ocasional cuando realmente mejore la composición, como un título poético, lugar, fecha o una sola palabra. El resultado general debe sentirse como la portada coleccionable de una publicación de arte contemporáneo: minimalista, poética, táctil, elegante, emocionalmente serena, visualmente distintiva e inconfundiblemente conectada con su fotografía original.
 ```
 
 [↑ Volver a categorías](#catalog)

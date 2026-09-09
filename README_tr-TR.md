@@ -598,13 +598,13 @@ Zarif bir el yazısı metin ekleyin: Üstte “A Beautiful Day” ve altta “Me
 
 <a name="prompt-2097176979497791899"></a>
 
-### Çeviri sürüyor
+### İstem, fotoğrafları karma teknik eskiz stili ve minimalist bir düzen ile editoryal bir sanat afişine dönüştürür.
 
 Yazar：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Orijinal gönderi](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Poster / El İlanı · Çizim / Çizgi Sanatı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İstem, fotoğrafları karma teknik eskiz stili ve minimalist bir düzen ile editoryal bir sanat afişine dönüştürür.
 
 <img src="images/2097176979497791899-1.jpg" alt="Görsel 1" width="480" />
 
@@ -613,7 +613,7 @@ Poster / El İlanı · Çizim / Çizgi Sanatı · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluşturun; her görüntüyü kendi bağımsız kompozisyonu olarak ele alın ve asla birden fazla fotoğrafı birbiriyle birleştirmeyin. Tuvalin tam olarak iki eşit yatay yarıya bölündüğü katı bir 3:4 dikey format kullanın: üst yarı, orijinal görüntünün sadık, fotogerçekçi bir sunumu olarak kalmalı; öznenin tam kimliğini, yüz hatlarını, oranlarını, pozunu, giysilerini, nesnelerini, kompozisyonunu, aydınlatmasını, gölgelerini, havasını ve doğal renklerini korumalı, yalnızca sofistike editoryal renk derecelendirmesi ve gerektiğinde kusursuz çevresel uzantı ile geliştirilmelidir; alt yarı ise görsel hikayeyi tamamen farklı bir sanatsal yoruma dönüştürmelidir; geniş, sıcak fildişi rengi bir negatif alanın ortasında yer alan, alt bölümün en fazla %10-20'sini kaplayan, orijinal fotoğraftaki en tanınabilir silueti, jesti, nesneleri ve duygusal anlatıyı korurken etkileyici mürekkep çizimleri, guaj benzeri katmanlı renk alanları, zarif kolaj dokuları, yırtık kağıt kenarları, kusurlu fırça darbeleri, görünür lifler, yumuşak pigment varyasyonları ve büyüleyici insani kusurlar kullanan, özenle bestelenmiş minik, el yapımı bir karma teknik sanat eseri olmalıdır. Her fotoğraftan en fazla dört baskın uyumlu renk çıkarın ve bunları mat, sofistike bir palette yeniden yorumlayın. Yalnızca kompozisyonu gerçekten zenginleştirdiğinde, şiirsel bir başlık, yer, tarih veya tek bir kelime gibi ara sıra sade editoryal tipografi ekleyin. Genel sonuç, koleksiyonluk bir çağdaş sanat yayını kapağı gibi hissettirmelidir; minimalist, şiirsel, dokunsal, zarif, duygusal olarak dingin, görsel olarak ayırt edici ve orijinal fotoğrafıyla açıkça bağlantılı olmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

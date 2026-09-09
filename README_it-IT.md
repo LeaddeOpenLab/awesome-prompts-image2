@@ -593,13 +593,13 @@ Aggiungi un elegante testo scritto a mano: “A Beautiful Day” in alto e “Me
 
 <a name="prompt-2097176979497791899"></a>
 
-### Traduzione in corso
+### Il prompt trasforma le foto in un poster artistico editoriale con uno stile di schizzo in tecnica mista e un layout minimale.
 
 Autore：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Post originale](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Poster / Volantino · Schizzo / Line Art · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Il prompt trasforma le foto in un poster artistico editoriale con uno stile di schizzo in tecnica mista e un layout minimale.
 
 <img src="images/2097176979497791899-1.jpg" alt="Immagine 1" width="480" />
 
@@ -608,7 +608,7 @@ Poster / Volantino · Schizzo / Line Art · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster artistico editoriale di alto livello per ogni fotografia caricata, trattando ciascuna immagine come una composizione indipendente a sé stante e senza mai fondere insieme più foto. Utilizza un rigoroso formato verticale 3:4 con la tela divisa in due metà orizzontali perfettamente uguali: la metà superiore deve rimanere una presentazione fedele e fotorealistica dell'immagine originale, preservando l'esatta identità del soggetto, i tratti del viso, le proporzioni, la posa, l'abbigliamento, gli oggetti, la composizione, l'illuminazione, le ombre, l'atmosfera e i colori naturali, migliorata solo con una sofisticata gradazione del colore editoriale e un'estensione ambientale fluida dove necessario; la metà inferiore deve trasformare la storia visiva in un'interpretazione artistica completamente diversa: una minuscola opera d'arte mista realizzata a mano e attentamente composta, centrata all'interno di un ampio spazio negativo color avorio caldo, che non occupi più del 10-20% della sezione inferiore, utilizzando espressivi schizzi a inchiostro, campi di colore stratificati simili a tempera, sottili trame di collage, bordi di carta strappata, pennellate imperfette, fibre visibili, morbide variazioni di pigmento e affascinanti imperfezioni umane, pur conservando la silhouette, il gesto, gli oggetti e la narrazione emotiva più riconoscibili della foto originale. Estrai fino a quattro colori armoniosi dominanti da ciascuna fotografia e reinterpretarli in una tavolozza tenue e sofisticata. Aggiungi solo un'occasionale e sobria tipografia editoriale quando migliora genuinamente la composizione, come un titolo poetico, un luogo, una data o una singola parola. Il risultato complessivo deve sembrare la copertina collezionabile di una pubblicazione di arte contemporanea: minimale, poetica, materica, elegante, emotivamente pacata, visivamente distintiva e inequivocabilmente collegata alla fotografia originale.
 ```
 
 [↑ Torna alle categorie](#catalog)

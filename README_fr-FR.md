@@ -593,13 +593,13 @@ Ajoutez un élégant texte manuscrit : “A Beautiful Day” au-dessus et “Mem
 
 <a name="prompt-2097176979497791899"></a>
 
-### Traduction en cours
+### Ce prompt transforme des photos en une affiche d'art éditoriale avec un style de croquis en techniques mixtes et une mise en page minimaliste.
 
 Auteur：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publication originale](https://x.com/saniaspeaks_/status/2097176979497791899)
 
 Affiche / Flyer · Croquis / Dessin au trait · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Ce prompt transforme des photos en une affiche d'art éditoriale avec un style de croquis en techniques mixtes et une mise en page minimaliste.
 
 <img src="images/2097176979497791899-1.jpg" alt="Image 1" width="480" />
 
@@ -608,7 +608,7 @@ Affiche / Flyer · Croquis / Dessin au trait · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche d'art éditoriale haut de gamme pour chaque photographie importée, en traitant chaque image comme sa propre composition indépendante et sans jamais fusionner plusieurs photos ensemble. Utilisez un format vertical strict de 3:4 avec la toile divisée en deux moitiés horizontales parfaitement égales : la moitié supérieure doit rester une présentation fidèle et photoréaliste de l'image originale, en préservant l'identité exacte du sujet, les traits du visage, les proportions, la pose, les vêtements, les objets, la composition, l'éclairage, les ombres, l'ambiance et les couleurs naturelles, améliorée uniquement par un étalonnage des couleurs éditorial sophistiqué et une extension harmonieuse de l'environnement si nécessaire ; la moitié inférieure doit transformer l'histoire visuelle en une interprétation artistique entièrement différente — une œuvre d'art miniature faite main en techniques mixtes, soigneusement composée et centrée dans un vaste espace négatif ivoire chaud, occupant pas plus de 10 à 20 % de la section inférieure, utilisant des croquis à l'encre expressifs, des champs de couleur superposés semblables à de la gouache, de subtiles textures de collage, des bords de papier déchiré, des coups de pinceau imparfaits, des fibres visibles, de douces variations de pigments et de charmantes imperfections humaines tout en conservant la silhouette, le geste, les objets et le récit émotionnel les plus reconnaissables de la photo originale. Extrayez jusqu'à quatre couleurs dominantes et harmonieuses de chaque photographie et réinterprétez-les dans une palette feutrée et sophistiquée. N'ajoutez qu'une typographie éditoriale discrète et occasionnelle lorsqu'elle enrichit véritablement la composition, comme un titre poétique, un lieu, une date ou un seul mot. Le résultat global doit évoquer la couverture d'une publication d'art contemporain de collection — minimaliste, poétique, tactile, élégante, émotionnellement calme, visuellement distinctive et indéniablement liée à sa photographie d'origine.
 ```
 
 [↑ Retour aux catégories](#catalog)
