@@ -30,13 +30,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097532595814940683"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto fotografico di viaggio realistico di una giovane donna dell'Asia orientale sulla costa di Mont Saint-Michel.
 
 Autore：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Post originale](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto fotografico di viaggio realistico di una giovane donna dell'Asia orientale sulla costa di Mont Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Immagine 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto di viaggio spontaneo e fotorealistico di una giovane donna dell'Asia orientale in piedi su una tranquilla riva sabbiosa accanto a grandi rocce ricoperte di muschio, con una magnifica abbazia storica in pietra e un'architettura medievale simile a un castello che si erge drammaticamente su un'isola rocciosa alle sue spalle. Ha lunghi capelli lisci castano scuro che le ricadono naturalmente su una spalla, lineamenti del viso morbidi e giovanili e un sorriso dolce e caloroso mentre guarda direttamente verso l'obiettivo.
+
+Indossa un lungo cappotto nero oversize con le mani infilate con disinvoltura nelle tasche, sopra un completo di colore chiaro. Una grande e morbida sciarpa bianco crema è avvolta calorosamente intorno al collo, scendendo sul davanti con un piccolo emblema nero in stile stilista vicino all'estremità. Si intravede parzialmente una delicata borsa a tracolla con catena.
+
+La composizione la cattura in primo piano mentre la vasta abbazia storica domina lo sfondo, circondata da antiche mura di pietra, scogliere rocciose, piane di marea sabbiose e una calma atmosfera costiera. Alcuni piccoli veicoli e persone in lontananza conferiscono una scala realistica alla scena. La morbida luce naturale della sera e un limpido cielo azzurro pallido creano una rilassante atmosfera da viaggio europeo.
+
+Fotografia ultra-realistica, autentica foto di viaggio spontanea, texture della pelle naturale, dettagli realistici dei tessuti, morbida illuminazione cinematografica, sottile estetica da fotocamera di smartphone, color grading leggermente sognante, proporzioni naturali, architettura dettagliata, tranquilla atmosfera costiera, composizione verticale, proporzioni 3:4.
 ```
 
 [↑ Torna alle categorie](#catalog)

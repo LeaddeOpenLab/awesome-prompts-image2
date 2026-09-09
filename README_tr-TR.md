@@ -30,13 +30,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097532595814940683"></a>
 
-### Çeviri sürüyor
+### Mont Saint-Michel kıyısında genç Doğu Asyalı bir kadının gerçekçi seyahat fotoğrafı istemi.
 
 Yazar：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Orijinal gönderi](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mont Saint-Michel kıyısında genç Doğu Asyalı bir kadının gerçekçi seyahat fotoğrafı istemi.
 
 <img src="images/2097532595814940683-1.jpg" alt="Görsel 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Büyük yosun kaplı kayaların yanında, sakin ve kumluk bir kıyıda duran genç bir Doğu Asyalı kadının fotogerçekçi, doğal bir seyahat portresi; arkasında kayalık bir adanın üzerinde görkemli tarihi bir taş manastır ve orta çağa ait şato benzeri bir mimari etkileyici bir şekilde yükseliyor. Kadının bir omzuna doğal bir şekilde dökülen uzun, düz, koyu kahverengi saçları, yumuşak genç yüz hatları ve doğrudan kameraya bakarken sergilediği tatlı, sıcak bir gülümsemesi var.
+
+Üzerinde açık renkli kıyafetlerin üzerine giyilmiş, elleri rahatça ceplerine sokulmuş, uzun ve dökümlü siyah bir kaban var. Boynuna sıcak tutacak şekilde sarılmış, ucuna yakın küçük siyah tasarımcı tarzı bir amblem bulunan, ön kısma sarkan büyük, yumuşak krem beyazı bir atkı bulunuyor. Zarif zincirli bir omuz çantası kısmen görünüyor.
+
+Kompozisyon kadını ön planda yakalarken, arka planda kadim taş surlar, kayalık uçurumlar, kumlu gelgit düzlükleri ve sakin bir kıyı atmosferiyle çevrili uçsuz bucaksız tarihi manastır hakimiyet kuruyor. Uzaktaki birkaç küçük araç ve insan sahneye gerçekçi bir ölçek katıyor. Yumuşak doğal akşam ışığı ve berrak, soluk mavi bir gökyüzü huzurlu bir Avrupa seyahati havası yaratıyor.
+
+Ultra gerçekçi fotoğrafçılık, özgün doğal seyahat fotoğrafı, doğal cilt dokusu, gerçekçi kumaş detayları, yumuşak sinematik aydınlatma, ince akıllı telefon kamerası estetiği, hafif rüya gibi renk tonlaması, doğal oranlar, detaylı mimari, huzurlu kıyı atmosferi, dikey kompozisyon, 3:4 en boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

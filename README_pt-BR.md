@@ -30,13 +30,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097532595814940683"></a>
 
-### Tradução em andamento
+### Prompt de foto de viagem realista de uma jovem do leste asiático na costa do Monte Saint-Michel.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicação original](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de foto de viagem realista de uma jovem do leste asiático na costa do Monte Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Imagem 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato de viagem espontâneo e fotorrealista de uma jovem mulher do leste asiático parada em uma praia arenosa e tranquila ao lado de grandes rochas cobertas de musgo, com uma magnífica abadia histórica de pedra e uma arquitetura medieval semelhante a um castelo erguendo-se dramaticamente em uma ilha rochosa atrás dela. Ela tem longos cabelos castanho-escuros lisos que caem naturalmente sobre um ombro, traços faciais suaves e juvenis e um sorriso gentil e caloroso enquanto olha diretamente para a câmera.
+
+Ela está vestindo um casaco preto longo e oversized com as mãos casualmente enfiadas nos bolsos, sobreposto a uma roupa de cor clara. Um cachecol grande e macio branco-creme está enrolado calorosamente em seu pescoço, caindo pela frente com um pequeno emblema preto em estilo de grife perto da ponta. Uma delicada bolsa de ombro com corrente fica parcialmente visível.
+
+A composição a captura em primeiro plano enquanto a vasta abadia histórica domina o fundo, cercada por antigas muralhas de pedra, falésias rochosas, planícies de maré arenosas e uma calma atmosfera costeira. Alguns pequenos veículos e pessoas distantes adicionam uma escala realista à cena. A luz suave e natural do entardecer e um céu azul-pálido e límpido criam um clima tranquilo de viagem europeia.
+
+Fotografia ultrarrealista, foto de viagem autêntica e espontânea, textura de pele natural, detalhes realistas de tecido, iluminação cinematográfica suave, estética sutil de câmera de smartphone, gradação de cores ligeiramente sonhadora, proporções naturais, arquitetura detalhada, atmosfera costeira pacífica, composição vertical, proporção de tela 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

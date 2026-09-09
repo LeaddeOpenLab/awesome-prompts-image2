@@ -30,13 +30,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097532595814940683"></a>
 
-### Übersetzung läuft
+### Prompt für ein realistisches Reisefoto einer jungen ostasiatischen Frau an der Küste des Mont-Saint-Michel.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Originalbeitrag](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Reisefoto einer jungen ostasiatischen Frau an der Küste des Mont-Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Bild 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches, ungestelltes Reiseporträt einer jungen ostasiatischen Frau, die an einer ruhigen Sandküste neben großen moosbedeckten Felsen steht, während sich hinter ihr auf einer felsigen Insel eine prächtige historische Steinabtei und eine mittelalterliche, schlossähnliche Architektur dramatisch erhebt. Sie hat langes, glattes, dunkelbraunes Haar, das natürlich über eine Schulter fällt, weiche jugendliche Gesichtszüge und ein sanftes, warmes Lächeln, während sie direkt in die Kamera blickt.
+
+Sie trägt einen langen, übergroßen schwarzen Mantel, die Hände lässig in den Taschen vergraben, über einem hellen Outfit. Ein großer, weicher, cremeweißer Schal ist wärmend um ihren Hals gewickelt und hängt nach vorne herab, mit einem kleinen schwarzen Designer-Emblem nahe dem Ende. Eine zarte Kettenumhängetasche ist teilweise sichtbar.
+
+Die Komposition fängt sie im Vordergrund ein, während die gewaltige historische Abtei den Hintergrund dominiert, umgeben von alten Steinmauern, felsigen Klippen, sandigen Wattflächen und einer ruhigen Küstenatmosphäre. Einige wenige kleine, entfernte Fahrzeuge und Menschen verleihen der Szene einen realistischen Maßstab. Weiches, natürliches Abendlicht und ein klarer, blassblauer Himmel erzeugen eine friedliche europäische Reisestimmung.
+
+Ultrarealistische Fotografie, authentisches Schnappschuss-Reisefoto, natürliche Hautstruktur, realistische Stoffdetails, weiche filmische Beleuchtung, subtile Smartphone-Kamera-Ästhetik, leicht verträumte Farbgebung, natürliche Proportionen, detaillierte Architektur, friedliche Küstenatmosphäre, vertikale Komposition, Seitenverhältnis 3:4.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -30,13 +30,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097532595814940683"></a>
 
-### Tradução em curso
+### Prompt para retrato fotográfico de viagem realista de uma jovem mulher do leste asiático na costa do Monte Saint-Michel.
 
 Autor：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publicação original](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para retrato fotográfico de viagem realista de uma jovem mulher do leste asiático na costa do Monte Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Imagem 1" width="480" />
 
@@ -45,7 +45,13 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato de viagem espontâneo e fotorrealista de uma jovem mulher do leste asiático em pé numa costa arenosa e tranquila ao lado de grandes rochas cobertas de musgo, com uma magnífica abadia histórica de pedra e uma arquitetura medieval semelhante a um castelo a erguer-se dramaticamente numa ilha rochosa atrás de si. Tem cabelos compridos e lisos, castanho-escuros, que caem naturalmente sobre um ombro, traços faciais suaves e juvenis e um sorriso terno e acolhedor enquanto olha diretamente para a câmara.
+
+Veste um casaco preto comprido e oversized com as mãos casualmente metidas nos bolsos, sobreposto a uma indumentária de cor clara. Um cachecol grande e macio branco-creme está enrolado confortavelmente à volta do pescoço, descendo pela frente com um pequeno emblema preto de estilo de designer perto da ponta. Uma mala de tiracolo delicada com corrente está parcialmente visível.
+
+A composição capta-a em primeiro plano enquanto a vasta abadia histórica domina o fundo, cercada por antigas muralhas de pedra, falésias rochosas, planícies de maré arenosas e uma atmosfera costeira serena. Alguns veículos e pessoas pequenos e distantes conferem uma escala realista à cena. A suave luz natural do entardecer e um céu azul-pálido e límpido criam uma atmosfera pacífica de viagem europeia.
+
+Fotografia ultrarrealista, fotografia de viagem autêntica e espontânea, textura de pele natural, detalhes de tecido realistas, iluminação cinematográfica suave, estética subtil de câmara de smartphone, gradação de cores ligeiramente onírica, proporções naturais, arquitetura detalhada, atmosfera costeira pacífica, composição vertical, proporção de 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

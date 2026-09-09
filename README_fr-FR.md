@@ -30,13 +30,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097532595814940683"></a>
 
-### Traduction en cours
+### Prompt pour un portrait photo de voyage réaliste d'une jeune femme est-asiatique sur la côte du Mont-Saint-Michel.
 
 Auteur：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publication originale](https://x.com/saniaspeaks_/status/2097532595814940683)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour un portrait photo de voyage réaliste d'une jeune femme est-asiatique sur la côte du Mont-Saint-Michel.
 
 <img src="images/2097532595814940683-1.jpg" alt="Image 1" width="480" />
 
@@ -45,7 +45,13 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait de voyage sur le vif et photoréaliste d'une jeune femme est-asiatique debout sur un rivage sablonneux et paisible à côté de gros rochers couverts de mousse, avec une magnifique abbaye historique en pierre et une architecture médiévale semblable à un château qui s'élève de manière spectaculaire sur une île rocheuse derrière elle. Elle a de longs cheveux lisses châtain foncé qui retombent naturellement sur une épaule, des traits de visage doux et juvéniles, et un doux sourire chaleureux tout en regardant directement l'appareil photo.
+
+Elle porte un long manteau noir surdimensionné avec les mains négligemment enfouies dans les poches, par-dessus une tenue de couleur claire. Une grande écharpe douce blanc crème est enroulée chaudement autour de son cou, retombant sur le devant avec un petit emblème noir de style créateur près de l'extrémité. Un sac à bandoulière à chaîne délicate est partiellement visible.
+
+La composition la saisit au premier plan tandis que la vaste abbaye historique domine l'arrière-plan, entourée d'anciens remparts en pierre, de falaises rocheuses, d'estans sablonneux et d'une atmosphère côtière calme. Quelques petits véhicules et personnes au loin ajoutent une échelle réaliste à la scène. Une douce lumière naturelle du soir et un ciel bleu pâle et dégagé créent une ambiance paisible de voyage européen.
+
+Photographie ultra-réaliste, photo de voyage authentique prise sur le vif, texture naturelle de la peau, détails réalistes des tissus, éclairage cinématographique doux, esthétique subtile d'appareil photo de smartphone, étalonnage des couleurs légèrement onirique, proportions naturelles, architecture détaillée, atmosphère côtière paisible, composition verticale, format d'image 3:4.
 ```
 
 [↑ Retour aux catégories](#catalog)
