@@ -844,13 +844,13 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 <a name="prompt-2097628670143954978"></a>
 
-### Traduzione in corso
+### Crea un poster di diario di viaggio a due pannelli: in alto scena di strada realistica, in basso stile illustrazione vintage con identica composizione, con impaginazione tipografica.
 
 Autore：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Post originale](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Poster / Volantino · Fotografia · Illustrazione · Retro / Vintage · Paesaggio urbano / Strada · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un poster di diario di viaggio a due pannelli: in alto scena di strada realistica, in basso stile illustrazione vintage con identica composizione, con impaginazione tipografica.
 
 <img src="images/2097628670143954978-1.jpg" alt="Immagine 1" width="480" />
 
@@ -859,7 +859,67 @@ Poster / Volantino · Fotografia · Illustrazione · Retro / Vintage · Paesaggi
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster realistico a due pannelli in stile diario di viaggio editoriale utilizzando la prima immagine come composizione/riferimento esatto e la seconda immagine caricata come riferimento facciale.
+
+Sostituisci la donna nel poster originale con la donna della mia foto di riferimento. Preserva accuratamente la mia identità facciale e i miei tratti distintivi riconoscibili: forma del viso, occhi, sopracciglia, naso, labbra, tonalità della pelle e proporzioni naturali. Non abbellire, alterare o ridisegnare il mio viso.
+
+PANNELLO SUPERIORE
+
+Ricrea esattamente la scena di strada originale:
+
+Stretta strada acciottolata in stile europeo
+
+Edifici storici color crema
+
+Insegne di caffè, finestre, balconi, lampioni e dissuasori
+
+Stessa angolazione della fotocamera, inquadratura, prospettiva e composizione
+
+Stessa posa seduta/appoggiata e posizione del corpo
+
+Stesso maglione/cappotto nero testurizzato
+
+Capelli lunghi scuri naturali
+
+Luce diurna cinematografica e morbida
+
+Texture della pelle fotorealistica e illuminazione realistica
+
+Integra il mio viso in modo naturale con la posa originale, l'angolazione della testa e l'illuminazione
+
+PANNELLO INFERIORE
+
+Crea la versione illustrata a mano/stampata coordinata della stessa scena.
+
+Mantieni la stessa posa, abbigliamento, acconciatura e identità facciale
+
+Converti la fotografia in un'illustrazione editoriale vintage texturizzata
+
+Tavolozza di inchiostri blu, crema e arancione caldo tenue
+
+Grana della carta visibile e texture dell'inchiostro imperfetta
+
+Mantieni i miei lineamenti del viso riconoscibili adattandoli allo stile illustrato
+
+Preserva la strada, gli edifici, le piante, le auto e la prospettiva dell'originale
+
+TIPOGRAFIA E LAYOUT
+
+Mantieni il layout originale del poster e lo stile tipografico:
+
+Grande titolo scritto a mano: “By the Street”
+
+Piccolo testo di diario in inglese
+
+Testo in cinese in alto a sinistra
+
+Data: 2026.08.29
+
+Piccolo numero di diario/dettagli
+
+Frase sul lato destro: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Aspetto più importante: Il mio viso deve essere l'unica identità facciale utilizzata. Non copiare il viso della donna originale. Mantieni la composizione generale del poster, la posa, l'abbigliamento, lo sfondo e lo stile artistico il più possibile fedeli al riferimento. Integrazione del viso di alta qualità, naturale e uniforme, pannello superiore fotorealistico e pannello inferiore in autentica illustrazione stampata.
 ```
 
 [↑ Torna alle categorie](#catalog)

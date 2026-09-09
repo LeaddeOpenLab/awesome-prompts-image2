@@ -844,13 +844,13 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2097628670143954978"></a>
 
-### Übersetzung läuft
+### Zweigeteiltes Reisetagebuch-Poster erstellen: oben realistische Straßenszene, unten Vintage-Illustrationsstil bei gleicher Komposition, mit Typografie.
 
 Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Originalbeitrag](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Plakat / Flyer · Fotografie · Illustration · Retro / Vintage · Stadtbild / Straße · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Zweigeteiltes Reisetagebuch-Poster erstellen: oben realistische Straßenszene, unten Vintage-Illustrationsstil bei gleicher Komposition, mit Typografie.
 
 <img src="images/2097628670143954978-1.jpg" alt="Bild 1" width="480" />
 
@@ -859,7 +859,67 @@ Plakat / Flyer · Fotografie · Illustration · Retro / Vintage · Stadtbild / S
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein realistisches zweigeteiltes redaktionelles Reisetagebuch-Poster, wobei das erste Bild als exakte Komposition/Referenz und das zweite hochgeladene Bild als Gesichtsreferenz verwendet wird.
+
+Ersetze die Frau im Originalposter durch die Frau aus meinem Referenzfoto. Bewahre meine Gesichtsidentität und wiedererkennbaren Gesichtszüge präzise—Gesichtsform, Augen, Augenbrauen, Nase, Lippen, Hautton und natürliche Proportionen. Verschönere, verändere oder gestalte mein Gesicht nicht neu.
+
+OBERES PANEL
+
+Stelle die ursprüngliche Straßenszene exakt nach:
+
+Schmale europäische Kopfsteinpflasterstraße
+
+Historische cremefarbene Gebäude
+
+Café-Schilder, Fenster, Balkone, Straßenlaternen und Poller
+
+Gleicher Kamerawinkel, Bildausschnitt, Perspektive und Komposition
+
+Gleiche sitzende/angelehnte Pose und Körperhaltung
+
+Gleicher schwarzer strukturierter Pullover/Mantel
+
+Natürliches langes dunkles Haar
+
+Weiches kinoreifes Tageslicht
+
+Fotorealistische Hauttextur und realistische Beleuchtung
+
+Integriere mein Gesicht natürlich in die Originalpose, den Kopfwinkel und die Beleuchtung
+
+UNTERES PANEL
+
+Erstelle die passende handgezeichnete/gedruckte Illustrationsversion derselben Szene.
+
+Behalte die gleiche Pose, Kleidung, Frisur und Gesichtsidentität bei
+
+Wandle das Foto in eine strukturierte Vintage-Editorial-Illustration um
+
+Tuschpalette aus Blau, Creme und gedecktem warmem Orange
+
+Sichtbare Papierkörnung und unvollkommene Tuschtextur
+
+Halte meine Gesichtszüge wiedererkennbar, während sie dem illustrierten Stil angepasst werden
+
+Bewahre die Straße, Gebäude, Pflanzen, Autos und Perspektive des Originals
+
+TYPOGRAFIE & LAYOUT
+
+Behalte das ursprüngliche Poster-Layout und den typografischen Stil bei:
+
+Großer handgeschriebener Titel: „By the Street“
+
+Kleiner englischer Tagebuchtext
+
+Chinesischer Text oben links
+
+Datum: 2026.08.29
+
+Kleine Tagebuchnummer/Details
+
+Rechtsseitiger Satz: „GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.“
+
+Am wichtigsten: Mein Gesicht sollte die einzige verwendete Gesichtsidentität sein. Kopiere nicht das Gesicht der ursprünglichen Frau. Halte die Gesamtkomposition des Posters, Pose, Kleidung, Hintergrund und künstlerischen Stil so nah wie möglich an der Referenz. Hochwertige, natürliche, nahtlose Gesichtsintegration, fotorealistisches oberes Panel und authentische gedruckte Illustration im unteren Panel.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

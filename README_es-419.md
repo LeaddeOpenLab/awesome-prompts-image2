@@ -844,13 +844,13 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 
 <a name="prompt-2097628670143954978"></a>
 
-### Traducción en curso
+### Crear póster de diario de viaje de dos paneles: escena callejera realista arriba, estilo de ilustración vintage con la misma composición abajo, con tipografía.
 
 Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publicación original](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Póster / Volante · Fotografía · Ilustración · Retro / Vintage · Paisaje urbano / Calle · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crear póster de diario de viaje de dos paneles: escena callejera realista arriba, estilo de ilustración vintage con la misma composición abajo, con tipografía.
 
 <img src="images/2097628670143954978-1.jpg" alt="Imagen 1" width="480" />
 
@@ -859,7 +859,67 @@ Póster / Volante · Fotografía · Ilustración · Retro / Vintage · Paisaje u
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster realista de diario de viaje editorial de dos paneles utilizando la primera imagen como la composición/referencia exacta y la segunda imagen subida como referencia facial.
+
+Reemplaza a la mujer del póster original con la mujer de mi foto de referencia. Conserva mi identidad facial y mis rasgos faciales reconocibles con precisión: forma del rostro, ojos, cejas, nariz, labios, tono de piel y proporciones naturales. No embellezcas, alteres ni rediseñes mi rostro.
+
+PANEL SUPERIOR
+
+Recrea la escena callejera original exactamente:
+
+Calle estrecha de adoquines de estilo europeo
+
+Edificios históricos de color crema
+
+Letreros de cafeterías, ventanas, balcones, farolas y bolardos
+
+El mismo ángulo de cámara, encuadre, perspectiva y composición
+
+La misma pose sentada/inclinada y posición corporal
+
+El mismo suéter/abrigo texturizado negro
+
+Cabello largo y oscuro natural
+
+Luz diurna cinemática y suave
+
+Textura de piel fotorrealista e iluminación realista
+
+Integra mi rostro de forma natural con la pose original, el ángulo de la cabeza y la iluminación
+
+PANEL INFERIOR
+
+Crea la versión de ilustración a juego dibujada a mano/impresa de la misma escena.
+
+Mantén la misma pose, ropa, peinado e identidad facial
+
+Convierte la fotografía en una ilustración editorial vintage con textura
+
+Paleta de tinta en azul, crema y naranja cálido apagado
+
+Grano de papel visible y textura de tinta imperfecta
+
+Mantén mis rasgos faciales reconocibles mientras se adaptan al estilo ilustrado
+
+Conserva la calle, los edificios, las plantas, los autos y la perspectiva del original
+
+TIPOGRAFÍA Y DISEÑO
+
+Conserva el diseño del póster original y el estilo tipográfico:
+
+Título grande escrito a mano: “By the Street”
+
+Texto pequeño de diario en inglés
+
+Texto en chino en la parte superior izquierda
+
+Fecha: 2026.08.29
+
+Número/detalles pequeños de diario
+
+Frase del lado derecho: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Lo más importante: Mi rostro debe ser la única identidad facial utilizada. No copies el rostro de la mujer original. Mantén la composición general del póster, la pose, la ropa, el fondo y el estilo artístico lo más cerca posible de la referencia. Integración facial de alta calidad, natural y fluida, panel superior fotorrealista y panel inferior de ilustración impresa auténtica.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -854,13 +854,13 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 
 <a name="prompt-2097628670143954978"></a>
 
-### Tradução em andamento
+### Criar pôster de diário de viagem em dois painéis: cena de rua realista na parte superior, estilo de ilustração vintage com a mesma composição na parte inferior, com tipografia.
 
 Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publicação original](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Pôster / Flyer · Fotografia · Ilustração · Retrô / Vintage · Paisagem Urbana / Rua · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Criar pôster de diário de viagem em dois painéis: cena de rua realista na parte superior, estilo de ilustração vintage com a mesma composição na parte inferior, com tipografia.
 
 <img src="images/2097628670143954978-1.jpg" alt="Imagem 1" width="480" />
 
@@ -869,7 +869,67 @@ Pôster / Flyer · Fotografia · Ilustração · Retrô / Vintage · Paisagem Ur
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster editorial realista de diário de viagem em dois painéis usando a primeira imagem como a composição/referência exata e a segunda imagem enviada como referência facial.
+
+Substitua a mulher do pôster original pela mulher da minha foto de referência. Preserve minha identidade facial e traços faciais reconhecíveis com precisão — formato do rosto, olhos, sobrancelhas, nariz, lábios, tom de pele e proporções naturais. Não embeleze, altere ou redesenhe meu rosto.
+
+PAINEL SUPERIOR
+
+Recrie a cena de rua original exatamente:
+
+Rua estreita de paralelepípedos em estilo europeu
+
+Edifícios históricos em tom creme
+
+Letreiros de cafés, janelas, varandas, postes de iluminação pública e balizadores
+
+Mesmo ângulo de câmera, enquadramento, perspectiva e composição
+
+Mesma pose sentada/inclinada e posição corporal
+
+Mesmo suéter/casaco preto texturizado
+
+Cabelo escuro longo e natural
+
+Luz do dia cinematográfica suave
+
+Textura de pele fotorrealista e iluminação realista
+
+Integre meu rosto naturalmente com a pose original, ângulo da cabeça e iluminação
+
+PAINEL INFERIOR
+
+Crie a versão correspondente em ilustração desenhada à mão/impressa da mesma cena.
+
+Mantenha a mesma pose, roupas, penteado e identidade facial
+
+Converta a fotografia em uma ilustração editorial vintage texturizada
+
+Paleta de tintas em azul, creme e laranja-quente suave
+
+Grão de papel visível e textura de tinta imperfeita
+
+Mantenha meus traços faciais reconhecíveis enquanto combina com o estilo ilustrado
+
+Preserve a rua, edifícios, plantas, carros e a perspectiva do original
+
+TIPOGRAFIA E LAYOUT
+
+Mantenha o layout do pôster original e o estilo de tipografia:
+
+Título grande manuscrito: “By the Street”
+
+Pequeno texto de diário em inglês
+
+Texto em chinês no canto superior esquerdo
+
+Data: 2026.08.29
+
+Pequeno número/detalhes do diário
+
+Frase do lado direito: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Mais importante: meu rosto deve ser a única identidade facial usada. Não copie o rosto da mulher original. Mantenha a composição geral do pôster, a pose, as roupas, o fundo e o estilo artístico o mais próximo possível da referência. Alta qualidade, integração facial natural e perfeita, painel superior fotorrealista e painel inferior de ilustração impressa autêntica.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -854,13 +854,13 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 
 <a name="prompt-2097628670143954978"></a>
 
-### Tradução em curso
+### Criar cartaz de diário de viagem em dois painéis: cena de rua realista na parte superior, estilo de ilustração vintage com a mesma composição na parte inferior, com tipografia.
 
 Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publicação original](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Pôster / Folheto · Fotografia · Ilustração · Retrô / Vintage · Paisagem urbana / Rua · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Criar cartaz de diário de viagem em dois painéis: cena de rua realista na parte superior, estilo de ilustração vintage com a mesma composição na parte inferior, com tipografia.
 
 <img src="images/2097628670143954978-1.jpg" alt="Imagem 1" width="480" />
 
@@ -869,7 +869,67 @@ Pôster / Folheto · Fotografia · Ilustração · Retrô / Vintage · Paisagem 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz editorial realista de diário de viagem em dois painéis usando a primeira imagem como a composição/referência exata e a segunda imagem enviada como referência facial.
+
+Substitua a mulher do cartaz original pela mulher da minha fotografia de referência. Preserve a minha identidade facial e traços faciais reconhecíveis com precisão — formato do rosto, olhos, sobrancelhas, nariz, lábios, tom de pele e proporções naturais. Não embeleze, altere ou redesenhe o meu rosto.
+
+PAINEL SUPERIOR
+
+Recrie a cena de rua original exatamente:
+
+Rua estreita de calçada em estilo europeu
+
+Edifícios históricos em tom creme
+
+Letreiros de cafés, janelas, varandas, candeeiros de iluminação pública e pilaretes
+
+Mesmo ângulo de câmara, enquadramento, perspetiva e composição
+
+Mesma pose sentada/inclinada e posição corporal
+
+Mesma camisola/casaco preto texturado
+
+Cabelo escuro comprido e natural
+
+Luz do dia cinematográfica suave
+
+Textura de pele fotorrealista e iluminação realista
+
+Integre o meu rosto naturalmente com a pose original, ângulo da cabeça e iluminação
+
+PAINEL INFERIOR
+
+Crie a versão correspondente em ilustração desenhada à mão/impressa da mesma cena.
+
+Mantenha a mesma pose, vestuário, penteado e identidade facial
+
+Converta a fotografia numa ilustração editorial vintage texturada
+
+Paleta de tintas em azul, creme e laranja-quente suave
+
+Grão de papel visível e textura de tinta imperfeita
+
+Mantenha os meus traços faciais reconhecíveis enquanto combina com o estilo ilustrado
+
+Preserve a rua, edifícios, plantas, carros e a perspetiva do original
+
+TIPOGRAFIA E DISPOSIÇÃO
+
+Mantenha a disposição do cartaz original e o estilo de tipografia:
+
+Título grande manuscrito: “By the Street”
+
+Pequeno texto de diário em inglês
+
+Texto em chinês no canto superior esquerdo
+
+Data: 2026.08.29
+
+Pequeno número/pormenores do diário
+
+Frase do lado direito: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Mais importante: o meu rosto deve ser a única identidade facial usada. Não copie o rosto da mulher original. Mantenha a composição geral do cartaz, a pose, o vestuário, o fundo e o estilo artístico o mais próximo possível da referência. Alta qualidade, integração facial natural e perfeita, painel superior fotorrealista e painel inferior de ilustração impressa autêntica.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -854,13 +854,13 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2097628670143954978"></a>
 
-### Çeviri sürüyor
+### İki panelli seyahat günlüğü posteri oluştur: üstte gerçekçi sokak manzarası, altta aynı kompozisyona sahip nostaljik illüstrasyon tarzı, tipografi ile birlikte.
 
 Yazar：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Orijinal gönderi](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Poster / El İlanı · Fotoğrafçılık · İllüstrasyon · Retro / Vintage · Şehir Manzarası / Sokak · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İki panelli seyahat günlüğü posteri oluştur: üstte gerçekçi sokak manzarası, altta aynı kompozisyona sahip nostaljik illüstrasyon tarzı, tipografi ile birlikte.
 
 <img src="images/2097628670143954978-1.jpg" alt="Görsel 1" width="480" />
 
@@ -869,7 +869,67 @@ Poster / El İlanı · Fotoğrafçılık · İllüstrasyon · Retro / Vintage ·
 **İstem**
 
 ```text
-Çeviri sürüyor
+İlk görseli birebir kompozisyon/referans ve yüklenen ikinci görseli yüz referansı olarak kullanarak gerçekçi, iki panelli bir editoryal seyahat günlüğü posteri oluşturun.
+
+Orijinal posterdeki kadını referans fotoğrafımdaki kadınla değiştirin. Yüz kimliğimi ve tanınabilir yüz özelliklerimi — yüz şekli, gözler, kaşlar, burun, dudaklar, cilt tonu ve doğal oranları — aslına sadık kalarak koruyun. Yüzümü güzelleştirmeyin, değiştirmeyin veya yeniden tasarlamayın.
+
+ÜST PANEL
+
+Orijinal sokak sahnesini birebir yeniden oluşturun:
+
+Avrupa tarzı dar arnavut kaldırımlı sokak
+
+Tarihi krem rengi binalar
+
+Kafe tabelaları, pencereler, balkonlar, sokak lambaları ve mantar dubalar
+
+Aynı kamera açısı, kadraj, perspektif ve kompozisyon
+
+Aynı oturma/yaslanma pozu ve vücut pozisyonu
+
+Aynı siyah dokulu kazak/kaban
+
+Doğal uzun koyu saçlar
+
+Yumuşak sinematik gün ışığı
+
+Fotogerçekçi cilt dokusu ve gerçekçi aydınlatma
+
+Yüzümü orijinal poz, baş açısı ve aydınlatma ile doğal bir şekilde bütünleştirin
+
+ALT PANEL
+
+Aynı sahnenin elle çizilmiş/baskı illüstrasyon uyarlamasını oluşturun.
+
+Aynı pozu, kıyafeti, saç stilini ve yüz kimliğini koruyun
+
+Fotoğrafı dokulu vintage bir editoryal illüstrasyona dönüştürün
+
+Mavi, krem ve mat sıcak turuncu mürekkep paleti
+
+Görünür kâğıt dokusu ve kusurlu mürekkep dokusu
+
+İllüstrasyon tarzına uyarlarken yüz özelliklerimi tanınabilir tutun
+
+Orijinaldeki sokağı, binaları, bitkileri, arabaları ve perspektifi koruyun
+
+TİPOGRAFİ VE YERLEŞİM
+
+Orijinal poster düzenini ve tipografi stilini koruyun:
+
+Büyük el yazısı başlık: “By the Street”
+
+Küçük İngilizce günlük metni
+
+Sol üstte Çince metin
+
+Tarih: 2026.08.29
+
+Küçük günlük numarası/detayları
+
+Sağ taraftaki ifade: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+En önemlisi: Yalnızca benim yüzümün kimliği kullanılmalıdır. Orijinal kadının yüzünü kopyalamayın. Genel poster kompozisyonunu, pozu, kıyafeti, arka planı ve sanatsal tarzı referansa olabildiğince yakın tutun. Yüksek kaliteli, doğal, kusursuz yüz entegrasyonu, fotogerçekçi üst panel ve özgün baskı illüstrasyonu alt panel.
 ```
 
 [↑ Kategorilere dön](#catalog)

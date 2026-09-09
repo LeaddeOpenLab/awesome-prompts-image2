@@ -844,13 +844,13 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2097628670143954978"></a>
 
-### Traduction en cours
+### Créer une affiche de carnet de voyage à deux volets : scène de rue réaliste en haut, style illustration vintage de même composition en bas, avec typographie.
 
 Auteur：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publication originale](https://x.com/Alina_with_Ai/status/2097628670143954978)
 
 Affiche / Flyer · Photographie · Illustration · Rétro / Vintage · Paysage urbain / Rue · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créer une affiche de carnet de voyage à deux volets : scène de rue réaliste en haut, style illustration vintage de même composition en bas, avec typographie.
 
 <img src="images/2097628670143954978-1.jpg" alt="Image 1" width="480" />
 
@@ -859,7 +859,67 @@ Affiche / Flyer · Photographie · Illustration · Rétro / Vintage · Paysage u
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche de carnet de voyage éditoriale réaliste à deux volets en utilisant la première image comme composition/référence exacte et la deuxième image importée comme référence faciale.
+
+Remplacez la femme de l'affiche originale par la femme de ma photo de référence. Préservez avec précision mon identité faciale et mes traits reconnaissables : forme du visage, yeux, sourcils, nez, lèvres, teint de peau et proportions naturelles. Ne pas embellir, altérer ou redessiner mon visage.
+
+PANNEAU SUPÉRIEUR
+
+Recréez exactement la scène de rue d'origine :
+
+Ruelle pavée étroite de style européen
+
+Bâtiments historiques couleur crème
+
+Enseignes de cafés, fenêtres, balcons, lampadaires et bornes
+
+Même angle de caméra, cadrage, perspective et composition
+
+Même pose assise/adossée et posture corporelle
+
+Même pull/manteau texturé noir
+
+Longs cheveux bruns naturels
+
+Lumière du jour douce et cinématographique
+
+Texture de peau photoréaliste et éclairage réaliste
+
+Intégrez mon visage naturellement à la pose d'origine, à l'angle de la tête et à l'éclairage
+
+PANNEAU INFÉRIEUR
+
+Créez la version d'illustration assortie dessinée à la main/imprimée de la même scène.
+
+Conservez la même pose, les mêmes vêtements, la même coiffure et la même identité faciale
+
+Convertissez la photographie en une illustration éditoriale vintage texturée
+
+Palette d'encres bleu, crème et orange chaud atténué
+
+Grain de papier visible et texture d'encre imparfaite
+
+Gardez mes traits du visage reconnaissables tout en correspondant au style illustré
+
+Préservez la rue, les bâtiments, les plantes, les voitures et la perspective d'origine
+
+TYPOGRAPHIE ET MISE EN PAGE
+
+Conservez la mise en page de l'affiche et le style typographique d'origine :
+
+Grand titre manuscrit : « By the Street »
+
+Petit texte de journal intime en anglais
+
+Texte en chinois en haut à gauche
+
+Date : 2026.08.29
+
+Petits détails/numéro de journal
+
+Phrase sur le côté droit : « GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS. »
+
+Le plus important : Mon visage doit être la seule identité faciale utilisée. Ne copiez pas le visage de la femme d'origine. Gardez la composition globale de l'affiche, la pose, les vêtements, l'arrière-plan et le style artistique aussi proches que possible de la référence. Intégration de visage de haute qualité, naturelle et fluide, panneau supérieur photoréaliste et panneau inférieur d'illustration imprimée authentique.
 ```
 
 [↑ Retour aux catégories](#catalog)
