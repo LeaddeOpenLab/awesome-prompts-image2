@@ -1259,13 +1259,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097780695414530375"></a>
 
-### Traduction en cours
+### Génération d'une interface de page Web avec cadre Chrome affichant une conversation ChatGPT générant une capture d'écran de streameuse.
 
 Auteur：[@XChatScout](https://x.com/XChatScout) · [Publication originale](https://x.com/XChatScout/status/2097780695414530375)
 
 Conception d'applications / de sites web · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Génération d'une interface de page Web avec cadre Chrome affichant une conversation ChatGPT générant une capture d'écran de streameuse.
 
 <img src="images/2097780695414530375-1.jpg" alt="Image 1" width="480" />
 
@@ -1274,7 +1274,7 @@ Conception d'applications / de sites web · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une capture d'écran d'une page Web incluant le cadre du navigateur Chrome, montrant un utilisateur discutant sur ChatGPT et utilisant GPT-Image-2.5 pour générer une capture d'écran d'un stream en direct d'une streameuse.
 ```
 
 [↑ Retour aux catégories](#catalog)

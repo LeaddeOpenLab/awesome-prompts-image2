@@ -1244,13 +1244,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097780695414530375"></a>
 
-### Tradução em curso
+### Gerar uma interface de página web com moldura do Chrome a apresentar uma conversa do ChatGPT para gerar a captura de ecrã de uma streamer.
 
 Autor：[@XChatScout](https://x.com/XChatScout) · [Publicação original](https://x.com/XChatScout/status/2097780695414530375)
 
 Design de Aplicações / Web · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Gerar uma interface de página web com moldura do Chrome a apresentar uma conversa do ChatGPT para gerar a captura de ecrã de uma streamer.
 
 <img src="images/2097780695414530375-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1259,7 +1259,7 @@ Design de Aplicações / Web · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Cria uma captura de ecrã de uma página web que inclua a moldura do navegador Chrome, cujo conteúdo seja um utilizador a conversar no ChatGPT e a usar o GPT-Image-2.5 para gerar uma captura de ecrã de uma transmissão em direto de uma streamer.
 ```
 
 [↑ Voltar às categorias](#catalog)

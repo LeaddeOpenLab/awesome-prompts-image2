@@ -1259,13 +1259,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097780695414530375"></a>
 
-### Übersetzung läuft
+### Generierung einer Webseiten-Oberfläche mit Chrome-Rahmen, die einen ChatGPT-Dialog zur Erstellung eines Streamer-Screenshots zeigt.
 
 Autor：[@XChatScout](https://x.com/XChatScout) · [Originalbeitrag](https://x.com/XChatScout/status/2097780695414530375)
 
 App- / Webdesign · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generierung einer Webseiten-Oberfläche mit Chrome-Rahmen, die einen ChatGPT-Dialog zur Erstellung eines Streamer-Screenshots zeigt.
 
 <img src="images/2097780695414530375-1.jpg" alt="Bild 1" width="480" />
 
@@ -1274,7 +1274,7 @@ App- / Webdesign · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen Webseiten-Screenshot inklusive Chrome-Browserrahmen, dessen Inhalt zeigt, wie ein Benutzer auf ChatGPT chattet und mit GPT-Image-2.5 den Screenshot eines Livestreams einer Streamerin generiert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

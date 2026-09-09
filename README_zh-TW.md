@@ -1261,13 +1261,13 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 <a name="prompt-2097780695414530375"></a>
 
-### 翻譯中
+### 生成包含 Chrome 外框且顯示 ChatGPT 對話生成直播主螢幕截圖的網頁介面。
 
 作者：[@XChatScout](https://x.com/XChatScout) · [查看 X 原帖](https://x.com/XChatScout/status/2097780695414530375)
 
 App / 網站設計 · 已推流
 
-**概括:** 翻譯中
+**概括:** 生成包含 Chrome 外框且顯示 ChatGPT 對話生成直播主螢幕截圖的網頁介面。
 
 <img src="images/2097780695414530375-1.jpg" alt="圖片 1" width="480" />
 
@@ -1276,7 +1276,7 @@ App / 網站設計 · 已推流
 **提示詞**
 
 ```text
-翻譯中
+製作一個包含 chrome 瀏覽器外框的網頁螢幕截圖，內容是使用者在 ChatGPT 上對話並使用 GPT-Image-2.5 生成一張女直播主直播的螢幕截圖。
 ```
 
 [↑ 返回分類目錄](#catalog)

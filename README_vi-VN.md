@@ -1261,13 +1261,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097780695414530375"></a>
 
-### Đang dịch
+### Tạo giao diện trang web bao gồm viền Chrome hiển thị cuộc trò chuyện ChatGPT tạo ảnh chụp màn hình nữ streamer.
 
 Tác giả：[@XChatScout](https://x.com/XChatScout) · [Bài gốc](https://x.com/XChatScout/status/2097780695414530375)
 
 Thiết kế ứng dụng / web · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo giao diện trang web bao gồm viền Chrome hiển thị cuộc trò chuyện ChatGPT tạo ảnh chụp màn hình nữ streamer.
 
 <img src="images/2097780695414530375-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1276,7 +1276,7 @@ Thiết kế ứng dụng / web · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một ảnh chụp màn hình trang web bao gồm cả viền trình duyệt Chrome, nội dung là người dùng đang trò chuyện trên ChatGPT và sử dụng GPT-Image-2.5 để tạo ảnh chụp màn hình một nữ streamer đang phát trực tiếp.
 ```
 
 [↑ Về danh mục](#catalog)

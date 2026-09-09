@@ -1259,13 +1259,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097780695414530375"></a>
 
-### Traducción en curso
+### Generar una interfaz de página web con marco de Chrome que muestre una conversación de ChatGPT generando una captura de pantalla de una streamer.
 
 Autor：[@XChatScout](https://x.com/XChatScout) · [Publicación original](https://x.com/XChatScout/status/2097780695414530375)
 
 Diseño de aplicaciones / web · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una interfaz de página web con marco de Chrome que muestre una conversación de ChatGPT generando una captura de pantalla de una streamer.
 
 <img src="images/2097780695414530375-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1274,7 +1274,7 @@ Diseño de aplicaciones / web · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una captura de pantalla de una página web que incluya el marco del navegador Chrome, con contenido de un usuario conversando en ChatGPT y usando GPT-Image-2.5 para generar una captura de pantalla de una streamer mujer transmitiendo en vivo.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1244,13 +1244,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097780695414530375"></a>
 
-### Çeviri sürüyor
+### Yayıncı ekran görüntüsü oluşturan ChatGPT sohbetini gösteren ve Chrome çerçevesi içeren bir web sayfası arayüzü oluşturma.
 
 Yazar：[@XChatScout](https://x.com/XChatScout) · [Orijinal gönderi](https://x.com/XChatScout/status/2097780695414530375)
 
 Uygulama / Web Tasarımı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yayıncı ekran görüntüsü oluşturan ChatGPT sohbetini gösteren ve Chrome çerçevesi içeren bir web sayfası arayüzü oluşturma.
 
 <img src="images/2097780695414530375-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1259,7 +1259,7 @@ Uygulama / Web Tasarımı · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Chrome tarayıcı çerçevesini içeren bir web sayfası ekran görüntüsü oluşturun; içeriğinde bir kullanıcının ChatGPT üzerinde sohbet ettiği ve GPT-Image-2.5 kullanarak canlı yayın yapan bir kadın yayıncının ekran görüntüsünü ürettiği görülsün.
 ```
 
 [↑ Kategorilere dön](#catalog)

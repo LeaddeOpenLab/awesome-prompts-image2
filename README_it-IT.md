@@ -1259,13 +1259,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097780695414530375"></a>
 
-### Traduzione in corso
+### Generazione di un'interfaccia di pagina web con cornice Chrome che mostra la conversazione su ChatGPT per generare uno screenshot di una streamer.
 
 Autore：[@XChatScout](https://x.com/XChatScout) · [Post originale](https://x.com/XChatScout/status/2097780695414530375)
 
 App / Web Design · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generazione di un'interfaccia di pagina web con cornice Chrome che mostra la conversazione su ChatGPT per generare uno screenshot di una streamer.
 
 <img src="images/2097780695414530375-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1274,7 +1274,7 @@ App / Web Design · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno screenshot di una pagina web comprensivo della cornice del browser Chrome, con il contenuto di un utente che conversa su ChatGPT e utilizza GPT-Image-2.5 per generare lo screenshot di una live stream di una streamer.
 ```
 
 [↑ Torna alle categorie](#catalog)
