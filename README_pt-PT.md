@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**51** Prompts · Adição mais recente: **2026-09-09**
+**52** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -500,6 +500,30 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2097676144141312095"></a>
+
+### Tradução em curso
+
+Autor：[@her19845](https://x.com/her19845) · [Publicação original](https://x.com/her19845/status/2097676144141312095)
+
+Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097676144141312095-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097676144141312095-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097222942438649948"></a>
 

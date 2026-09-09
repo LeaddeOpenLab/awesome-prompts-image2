@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**51** Prompts · Latest addition: **2026-09-09**
+**52** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -498,6 +498,30 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097676144141312095"></a>
+
+### Dark cinematic portrait prompt in a psychological horror game aesthetic, depicting a woman with mysterious runes on her face, marked by dust and scratches.
+
+Author：[@her19845](https://x.com/her19845) · [Source](https://x.com/her19845/status/2097676144141312095)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Published
+
+**Summary:** Dark cinematic portrait prompt in a psychological horror game aesthetic, depicting a woman with mysterious runes on her face, marked by dust and scratches.
+
+<img src="images/2097676144141312095-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097676144141312095-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+**Style:** Dark and dramatic cinematic photography with a high-end psychological horror video game aesthetic.\n\n**Subject:** The model included in the image extension. Her skin displays detailed textures of dirt, dust, and subtle scratches. Fine etched marks or mysterious vertical runes are visible on her cheek.\n\n**Lighting and Color:** A monochromatic and somber color palette dominated by dark emerald green, olive, and deep shadows. Side lighting sculpts the face, leaving half the scene in darkness.\n\n**Textures:** Pronounced analog film grain, detailed pores, a dusty, eerie, and claustrophobic atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097222942438649948"></a>
 

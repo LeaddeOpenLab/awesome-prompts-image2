@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**51** Prompt · Son eklenen: **2026-09-09**
+**52** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -500,6 +500,30 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097676144141312095"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@her19845](https://x.com/her19845) · [Orijinal gönderi](https://x.com/her19845/status/2097676144141312095)
+
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097676144141312095-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097676144141312095-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097222942438649948"></a>
 
