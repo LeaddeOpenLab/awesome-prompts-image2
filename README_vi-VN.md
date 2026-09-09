@@ -771,20 +771,20 @@ Nghệ thuật Pixel · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097559943075533257"></a>
 
-### Đang dịch
+### Lệnh tạo vòng lặp hoạt ảnh sprite sheet 16 khung hình về một yêu tinh goblin nam phong cách pixel art giương cung bắn tên.
 
 Tác giả：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Bài gốc](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Nghệ thuật Pixel · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lệnh tạo vòng lặp hoạt ảnh sprite sheet 16 khung hình về một yêu tinh goblin nam phong cách pixel art giương cung bắn tên.
 
 <img src="covers/2097559943075533257.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Không sử dụng kỹ năng, hãy tạo một bảng sprite sheet\nHình ảnh này bao gồm quá trình một yêu tinh goblin nam phong cách pixel art giương cung và bắn tên\nTổng cộng 16 khung hình.\nSau đó cắt tấm hình này và tạo thành ảnh GIF lặp vô tận
 ```
 
 [↑ Về danh mục](#catalog)
@@ -914,13 +914,13 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 <a name="prompt-2097558679956664521"></a>
 
-### Đang dịch
+### Chân dung kinh dị điều khiển học khắc họa một người gầy gò với mặt nạ sứ nứt nẻ, dây cáp trên đầu và ánh sáng đơn sắc tương phản cao.
 
 Tác giả：[@meng\_dagg695](https://x.com/meng_dagg695) · [Bài gốc](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung kinh dị điều khiển học khắc họa một người gầy gò với mặt nạ sứ nứt nẻ, dây cáp trên đầu và ánh sáng đơn sắc tương phản cao.
 
 <img src="images/2097558679956664521-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -931,7 +931,7 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung kinh dị điều khiển học, hình dáng dạng người hốc hác với chiếc mặt nạ hình đầu lâu màu trắng sứ bị nứt nẻ, hốc mắt rỗng không cân xứng (một bên là khoảng trống chìm sâu, một bên là vòng kim loại lõm vào), hàm răng lởm chởm lộ ra, xung quanh là mớ dây cáp đen dày hỗn độn cùng các phụ kiện ống/cuộn dây công nghiệp được nối vào đầu, áo vải sẫm màu rách rưới, ánh sáng low-key đầy kịch tính, hậu cảnh đen sâu thẳm, đơn sắc tương phản cao, nhiếp ảnh kinh dị, đậm chất điện ảnh, bề mặt siêu chi tiết, ống kính 85mm, độ sâu trường ảnh nông.
 ```
 
 [↑ Về danh mục](#catalog)

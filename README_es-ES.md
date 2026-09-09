@@ -771,20 +771,20 @@ Traducción en curso
 
 <a name="prompt-2097559943075533257"></a>
 
-### Traducción en curso
+### Instrucción para generar un bucle de animación en hoja de sprites de 16 fotogramas de un goblin masculino de estilo pixel art tensando un arco y disparando.
 
 Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publicación original](https://x.com/Fomsky_Wei/status/2097559943075533257)
 
 Pixel Art · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para generar un bucle de animación en hoja de sprites de 16 fotogramas de un goblin masculino de estilo pixel art tensando un arco y disparando.
 
 <img src="covers/2097559943075533257.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+No utilices habilidades, crea una hoja de sprites\nEsta imagen contiene el proceso de un goblin masculino en estilo pixel art tensando un arco y disparando una flecha\nEn total 16 fotogramas.\nLuego corta la imagen y crea un gif en bucle infinito
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -936,13 +936,13 @@ Traducción en curso
 
 <a name="prompt-2097558679956664521"></a>
 
-### Traducción en curso
+### Retrato de terror cibernético que presenta a un humanoide demacrado con una máscara de porcelana agrietada, cables en la cabeza e iluminación monocromática de alto contraste.
 
 Autor：[@meng\_dagg695](https://x.com/meng_dagg695) · [Publicación original](https://x.com/meng_dagg695/status/2097558679956664521)
 
 Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de terror cibernético que presenta a un humanoide demacrado con una máscara de porcelana agrietada, cables en la cabeza e iluminación monocromática de alto contraste.
 
 <img src="images/2097558679956664521-1.jpg" alt="Imagen 1" width="480" />
 
@@ -953,7 +953,7 @@ Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de horror cibernético, figura humanoide demacrada con una máscara agrietada similar a una calavera de porcelana blanca, cuencas oculares huecas asimétricas (una un vacío hundido, la otra un anillo metálico empotrado), dientes dentados expuestos, rodeada por una maraña caótica de gruesos cables negros y accesorios industriales de bobinas/rollos conectados a la cabeza, parte superior de tela oscura y andrajosa, iluminación dramática en clave baja, fondo negro profundo, monocromo de alto contraste, fotografía de terror, cinematográfico, textura hiperdetallada, lente de 85 mm, profundidad de campo reducida.
 ```
 
 [↑ Volver a categorías](#catalog)
