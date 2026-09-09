@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T02:27:40.410Z",
+  "model": "image2",
+  "prompt": "Create two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style.\n\nIMAGE 1 — WOMAN:\nCreate a beautiful clearly adult woman with long flowing black hair, luminous smooth skin, glamorous blue-and-silver celestial eye makeup, glossy lips, and sparkling star-like details across her face. Add elegant crescent moon and star jewelry, subtle crystal accents, and glowing cosmic particles around her. Her expression is confident, mysterious, and attractive. Surround her with deep blue nebula clouds, glowing stars, large planets, moons, cosmic dust, and electric-blue light. The galaxy energy should naturally blend around her face, hair, shoulder, and clothing.\n\nIMAGE 2 — MAN:\nCreate a handsome clearly adult man in the exact same blue cosmic theme. He has thick slightly messy black hair, a neat dark beard, strong facial features, intense glowing blue eyes, and a confident mysterious expression. Add subtle galaxy-like glowing patterns and tiny stars across one side of his face. His hand is near his chin in a stylish fashion pose with an elegant dark metallic ring. Surround him with the same deep blue nebula clouds, glowing planets, moons, stars, cosmic dust, and electric-blue energy.\n\nIMPORTANT:\nGenerate the woman and man as two separate images, not together in one frame. Keep the same lighting, same blue galaxy color palette, same premium fantasy fashion style, same level of detail, and matching visual identity so both images look like a coordinated pair.\n\nUltra-realistic, premium cinematic lighting, high contrast, glossy luxury fantasy look, sharp focus, detailed skin and hair, magical blue glow, no text, no watermark.\n\nVertical portrait composition, 9:16 for both images.",
+  "promptTranslations": {
+    "en": "Create two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style. IMAGE 1 — WOMAN: Create a beautiful clearly adult woman with long flowing black hair, luminous smooth skin, glamorous blue-and-silver celestial eye makeup, glossy lips, and sparkling star-like details across her face. Add elegant crescent moon and star jewelry, subtle crystal accents, and glowing cosmic particles around her. Her expression is confident, mysterious, and attractive. Surround her with deep blue nebula clouds, glowing stars, large planets, moons, cosmic dust, and electric-blue light. The galaxy energy should naturally blend around her face, hair, shoulder, and clothing. IMAGE 2 — MAN: Create a handsome clearly adult man in the exact same blue cosmic theme. He has thick slightly messy black hair, a neat dark beard, strong facial features, intense glowing blue eyes, and a confident mysterious expression. Add subtle galaxy-like glowing patterns and tiny stars across one side of his face. His hand is near his chin in a stylish fashion pose with an elegant dark metallic ring. Surround him with the same deep blue nebula clouds, glowing planets, moons, stars, cosmic dust, and electric-blue energy. IMPORTANT: Generate the woman and man as two separate images, not together in one frame. Keep the same lighting, same blue galaxy color palette, same premium fantasy fashion style, same level of detail, and matching visual identity so both images look like a coordinated pair. Ultra-realistic, premium cinematic lighting, high contrast, glossy luxury fantasy look, sharp focus, detailed skin and hair, magical blue glow, no text, no watermark. Vertical portrait composition, 9:16 for both images."
+  },
+  "summaryTranslations": {
+    "en": "Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style."
+  },
+  "translationVersion": 2,
+  "summary": "Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.",
+  "summaryEn": "Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096982628541100464",
+    "canonicalUrl": "https://x.com/sha_zdiii/status/2096982628541100464",
+    "author": {
+      "username": "sha_zdiii",
+      "displayName": "shah_zadii",
+      "profileUrl": "https://x.com/sha_zdiii"
+    },
+    "publishedAt": "2026-09-07T15:23:13.000Z",
+    "collectedAt": "2026-09-08T11:32:47.871Z",
+    "language": "en",
+    "originalText": "GPT Image 2 on ChatGPT\n\nMASTER PROMPT:\n\nCreate two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style.\n\nIMAGE 1 — WOMAN:\nCreate a beautiful clearly adult woman with long flowing black hair, luminous smooth skin, glamorous blue-and-silver celestial eye makeup, glossy lips, and sparkling star-like details across her face. Add elegant crescent moon and star jewelry, subtle crystal accents, and glowing cosmic particles around her. Her expression is confident, mysterious, and attractive. Surround her with deep blue nebula clouds, glowing stars, large planets, moons, cosmic dust, and electric-blue light. The galaxy energy should naturally blend around her face, hair, shoulder, and clothing.\n\nIMAGE 2 — MAN:\nCreate a handsome clearly adult man in the exact same blue cosmic theme. He has thick slightly messy black hair, a neat dark beard, strong facial features, intense glowing blue eyes, and a confident mysterious expression. Add subtle galaxy-like glowing patterns and tiny stars across one side of his face. His hand is near his chin in a stylish fashion pose with an elegant dark metallic ring. Surround him with the same deep blue nebula clouds, glowing planets, moons, stars, cosmic dust, and electric-blue energy.\n\nIMPORTANT:\nGenerate the woman and man as two separate images, not together in one frame. Keep the same lighting, same blue galaxy color palette, same premium fantasy fashion style, same level of detail, and matching visual identity so both images look like a coordinated pair.\n\nUltra-realistic, premium cinematic lighting, high contrast, glossy luxury fantasy look, sharp focus, detailed skin and hair, magical blue glow, no text, no watermark.\n\nVertical portrait composition, 9:16 for both images.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRn6kGybAAAjGf9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRn6kGybAAAjGf9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRn6k7bW8AAFHl3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRn6k7bW8AAFHl3.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 103,
+      "repostCount": 29,
+      "replyCount": 64,
+      "quoteCount": 0,
+      "viewCount": 3433
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/sha_zdiii/status/2096982628541100464",
+  "coverUrl": "https://pbs.twimg.com/media/HRn6kGybAAAjGf9.jpg",
+  "coverPath": "images/2096982628541100464-1.jpg",
+  "imagePaths": [
+    "images/2096982628541100464-1.jpg",
+    "images/2096982628541100464-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRn6kGybAAAjGf9",
+    "x-image:/media/HRn6k7bW8AAFHl3",
+    "x-post:2096982628541100464"
+  ],
+  "analysis": {
+    "summary": "Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.",
+    "summaryEn": "Dual-portrait prompt creating a coordinated pair of man and woman portraits in a deep blue cosmic galaxy fantasy style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both attached vertical images precisely depict the man and woman with celestial blue makeup, jewelry/ring poses, and matching planetary nebula backgrounds as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style.\n\nIMAGE 1 — WOMAN:\nCreate a beautiful clearly adult woman with long flowing black hair, luminous smooth skin, glamorous blue-and-silver celestial eye makeup, glossy lips, and sparkling star-like details across her face. Add elegant crescent moon and star jewelry, subtle crystal accents, and glowing cosmic particles around her. Her expression is confident, mysterious, and attractive. Surround her with deep blue nebula clouds, glowing stars, large planets, moons, cosmic dust, and electric-blue light. The galaxy energy should naturally blend around her face, hair, shoulder, and clothing.\n\nIMAGE 2 — MAN:\nCreate a handsome clearly adult man in the exact same blue cosmic theme. He has thick slightly messy black hair, a neat dark beard, strong facial features, intense glowing blue eyes, and a confident mysterious expression. Add subtle galaxy-like glowing patterns and tiny stars across one side of his face. His hand is near his chin in a stylish fashion pose with an elegant dark metallic ring. Surround him with the same deep blue nebula clouds, glowing planets, moons, stars, cosmic dust, and electric-blue energy.\n\nIMPORTANT:\nGenerate the woman and man as two separate images, not together in one frame. Keep the same lighting, same blue galaxy color palette, same premium fantasy fashion style, same level of detail, and matching visual identity so both images look like a coordinated pair.\n\nUltra-realistic, premium cinematic lighting, high contrast, glossy luxury fantasy look, sharp focus, detailed skin and hair, magical blue glow, no text, no watermark.\n\nVertical portrait composition, 9:16 for both images.",
+    "sourceRange": {
+      "start": 40,
+      "end": 1816
+    },
+    "translations": {
+      "zh": "通过一个提示词生成两张独立的超精细电影质感奇幻肖像，均采用相同的深蓝宇宙星系主题和视觉风格。\n\n图1 — 女性：生成美丽成熟女性，长黑发、发光皮肤、银蓝星空眼妆及面部星尘细节，佩戴星月首饰，环绕深蓝星云、发光恒星与行星。\n\n图2 — 男性：生成英俊成熟男性，黑色微乱发、胡须、深邃发光蓝眸，脸侧有星系光纹与微星，手戴金属戒指置于下巴处，环绕相同的蓝色星云与宇宙能量。\n\n关键要求：分别生成两张独立画面，统一光照、蓝色星系色调与奢华质感。9:16竖屏，超逼真且无文字水印。",
+      "en": "Create two separate ultra-detailed cinematic fantasy portraits from one prompt, both using the exact same deep blue cosmic galaxy theme and visual style.\n\nIMAGE 1 — WOMAN:\nCreate a beautiful adult woman with flowing black hair, celestial eye makeup, star jewelry, surrounded by deep blue nebulae and planets.\n\nIMAGE 2 — MAN:\nCreate a handsome adult man with black hair, beard, glowing blue eyes, star patterns on his face, hand near chin, surrounded by blue cosmic clouds and energy.\n\nIMPORTANT:\nGenerate as two separate 9:16 images sharing the exact same lighting, luxury fantasy palette, and visual identity."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
