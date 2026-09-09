@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**31** Prompts · Dernier ajout: **2026-09-09**
+**32** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2097532595814940683"></a>
+
+### Traduction en cours
+
+Auteur：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Publication originale](https://x.com/saniaspeaks_/status/2097532595814940683)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097532595814940683-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097532595814940683-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097411028510179759"></a>
 

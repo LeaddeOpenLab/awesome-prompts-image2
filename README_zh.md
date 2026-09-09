@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**31** 条内容 · 最新收录: **2026-09-09**
+**32** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2097532595814940683"></a>
+
+### 翻译中
+
+作者：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [查看 X 原帖](https://x.com/saniaspeaks_/status/2097532595814940683)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097532595814940683-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097532595814940683-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097411028510179759"></a>
 

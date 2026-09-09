@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**31** Prompts · Latest addition: **2026-09-09**
+**32** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097532595814940683"></a>
+
+### Realistic travel portrait prompt of a young East Asian woman on the coast of Mont Saint-Michel.
+
+Author：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Source](https://x.com/saniaspeaks_/status/2097532595814940683)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic travel portrait prompt of a young East Asian woman on the coast of Mont Saint-Michel.
+
+<img src="images/2097532595814940683-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097532595814940683-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097411028510179759"></a>
 
