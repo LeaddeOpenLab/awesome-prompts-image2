@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**33** Prompt · Son eklenen: **2026-09-09**
+**34** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Piksel Sanatı](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -630,6 +630,34 @@ Poster / El İlanı · Çizim / Çizgi Sanatı · Yayımlandı
 
 ```text
 Yüklenen her fotoğraf için birinci sınıf bir editoryal sanat afişi oluşturun; her görüntüyü kendi bağımsız kompozisyonu olarak ele alın ve asla birden fazla fotoğrafı birbiriyle birleştirmeyin. Tuvalin tam olarak iki eşit yatay yarıya bölündüğü katı bir 3:4 dikey format kullanın: üst yarı, orijinal görüntünün sadık, fotogerçekçi bir sunumu olarak kalmalı; öznenin tam kimliğini, yüz hatlarını, oranlarını, pozunu, giysilerini, nesnelerini, kompozisyonunu, aydınlatmasını, gölgelerini, havasını ve doğal renklerini korumalı, yalnızca sofistike editoryal renk derecelendirmesi ve gerektiğinde kusursuz çevresel uzantı ile geliştirilmelidir; alt yarı ise görsel hikayeyi tamamen farklı bir sanatsal yoruma dönüştürmelidir; geniş, sıcak fildişi rengi bir negatif alanın ortasında yer alan, alt bölümün en fazla %10-20'sini kaplayan, orijinal fotoğraftaki en tanınabilir silueti, jesti, nesneleri ve duygusal anlatıyı korurken etkileyici mürekkep çizimleri, guaj benzeri katmanlı renk alanları, zarif kolaj dokuları, yırtık kağıt kenarları, kusurlu fırça darbeleri, görünür lifler, yumuşak pigment varyasyonları ve büyüleyici insani kusurlar kullanan, özenle bestelenmiş minik, el yapımı bir karma teknik sanat eseri olmalıdır. Her fotoğraftan en fazla dört baskın uyumlu renk çıkarın ve bunları mat, sofistike bir palette yeniden yorumlayın. Yalnızca kompozisyonu gerçekten zenginleştirdiğinde, şiirsel bir başlık, yer, tarih veya tek bir kelime gibi ara sıra sade editoryal tipografi ekleyin. Genel sonuç, koleksiyonluk bir çağdaş sanat yayını kapağı gibi hissettirmelidir; minimalist, şiirsel, dokunsal, zarif, duygusal olarak dingin, görsel olarak ayırt edici ve orijinal fotoğrafıyla açıkça bağlantılı olmalıdır.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Modelleme
+
+<a name="prompt-2097587863139537262"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Uygulama / Web Tasarımı · 3D Modelleme · Karakter · Yayımlandı
+
+Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097587863139537262.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

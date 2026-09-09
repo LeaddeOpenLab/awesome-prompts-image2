@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**33** Prompt · Ultima aggiunta: **2026-09-09**
+**34** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -620,6 +620,34 @@ Poster / Volantino · Schizzo / Line Art · Pubblicato
 
 ```text
 Crea un poster artistico editoriale di alto livello per ogni fotografia caricata, trattando ciascuna immagine come una composizione indipendente a sé stante e senza mai fondere insieme più foto. Utilizza un rigoroso formato verticale 3:4 con la tela divisa in due metà orizzontali perfettamente uguali: la metà superiore deve rimanere una presentazione fedele e fotorealistica dell'immagine originale, preservando l'esatta identità del soggetto, i tratti del viso, le proporzioni, la posa, l'abbigliamento, gli oggetti, la composizione, l'illuminazione, le ombre, l'atmosfera e i colori naturali, migliorata solo con una sofisticata gradazione del colore editoriale e un'estensione ambientale fluida dove necessario; la metà inferiore deve trasformare la storia visiva in un'interpretazione artistica completamente diversa: una minuscola opera d'arte mista realizzata a mano e attentamente composta, centrata all'interno di un ampio spazio negativo color avorio caldo, che non occupi più del 10-20% della sezione inferiore, utilizzando espressivi schizzi a inchiostro, campi di colore stratificati simili a tempera, sottili trame di collage, bordi di carta strappata, pennellate imperfette, fibre visibili, morbide variazioni di pigmento e affascinanti imperfezioni umane, pur conservando la silhouette, il gesto, gli oggetti e la narrazione emotiva più riconoscibili della foto originale. Estrai fino a quattro colori armoniosi dominanti da ciascuna fotografia e reinterpretarli in una tavolozza tenue e sofisticata. Aggiungi solo un'occasionale e sobria tipografia editoriale quando migliora genuinamente la composizione, come un titolo poetico, un luogo, una data o una singola parola. Il risultato complessivo deve sembrare la copertina collezionabile di una pubblicazione di arte contemporanea: minimale, poetica, materica, elegante, emotivamente pacata, visivamente distintiva e inequivocabilmente collegata alla fotografia originale.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendering 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Traduzione in corso
+
+Autore：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2097587863139537262)
+
+App / Web Design · Rendering 3D · Personaggio · Pubblicato
+
+Post originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097587863139537262.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

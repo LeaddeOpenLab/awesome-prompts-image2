@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**33** Prompts · Última incorporación: **2026-09-09**
+**34** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Render 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -626,6 +626,34 @@ Crea un póster de arte editorial premium para cada fotografía subida, tratando
 
 ---
 
+<a name="category-3d-render"></a>
+
+## Render 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Traducción en curso
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Diseño de aplicaciones / web · Render 3D · Personaje · Publicado
+
+Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097587863139537262.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
@@ -907,20 +935,20 @@ Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la r
 
 <a name="prompt-2097533103376081383"></a>
 
-### Traducción en curso
+### Retrato de moda de un joven elegante con gafas de sol y chaqueta de mezclilla haciendo el gesto de 'shh' contra una pared grunge.
 
 Autor：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Publicación original](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de moda de un joven elegante con gafas de sol y chaqueta de mezclilla haciendo el gesto de 'shh' contra una pared grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de moda cinematográfico y ultrarrealista de un joven elegante con cabello oscuro, grueso y voluminoso, y una barba prolijamente recortada, que lleva gafas de sol negras con montura roja, una camiseta negra, una chaqueta de mezclilla negra desgastada y un collar con chapa militar metálica. Mantiene un dedo verticalmente contra sus labios en un gesto confiado de "shh". Iluminación dramática y cálida de estudio, detalles faciales nítidos, fuerte contraste, estética streetwear ruda. El fondo presenta una pared vintage desgastada con llamativas secciones de pintura verticales en verde azulado, crema y rojo, textura grunge pesada, salpicaduras de pintura y pintura negra que gotea. Composición centrada, retrato de cintura para arriba, fotografía de moda editorial, alto nivel de detalle, textura de piel realista, profundidad de campo reducida, 4K, temperamental y elegante, calidad de póster.
 ```
 
 [↑ Volver a categorías](#catalog)

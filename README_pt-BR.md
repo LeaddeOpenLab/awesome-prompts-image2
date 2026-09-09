@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**33** Prompts · Última adição: **2026-09-09**
+**34** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -630,6 +630,34 @@ Pôster / Flyer · Esboço / Arte Linear · Publicado
 
 ```text
 Crie um pôster de arte editorial de alto padrão para cada fotografia enviada, tratando cada imagem como uma composição independente própria e nunca mesclando várias fotos. Use um formato vertical estrito de 3:4 com a tela dividida em duas metades horizontais perfeitamente iguais: a metade superior deve permanecer uma apresentação fiel e fotorrealista da imagem original, preservando a identidade exata do sujeito, traços faciais, proporções, pose, roupas, objetos, composição, iluminação, sombras, clima e cores naturais, aprimorada apenas com gradação de cores editorial sofisticada e extensão ambiental contínua quando necessário; a metade inferior deve transformar a história visual em uma interpretação artística completamente diferente — uma minúscula obra de arte mista feita à mão e cuidadosamente composta, centralizada dentro de um amplo espaço negativo marfim quente, ocupando não mais que 10 a 20% da seção inferior, usando esboços expressivos em tinta, campos de cores em camadas semelhantes a guache, texturas sutis de colagem, bordas de papel rasgado, pinceladas imperfeitas, fibras visíveis, variações suaves de pigmentos e encantadoras imperfeições humanas, ao mesmo tempo em que mantém a silhueta, o gesto, os objetos e a narrativa emocional mais reconhecíveis da foto original. Extraia até quatro cores harmoniosas dominantes de cada fotografia e reinterprete-as em uma paleta suave e sofisticada. Adicione apenas tipografia editorial sutil e ocasional quando ela genuinamente enriquecer a composição, como um título poético, lugar, data ou uma única palavra. O resultado geral deve se parecer com a capa colecionável de uma publicação de arte contemporânea — minimalista, poética, tátil, elegante, emocionalmente serena, visualmente distinta e inconfundivelmente conectada à sua fotografia original.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderização 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Tradução em andamento
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Design de Aplicativos / Web · Renderização 3D · Personagem · Publicado
+
+Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097587863139537262.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

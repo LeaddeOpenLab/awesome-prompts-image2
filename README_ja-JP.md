@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**33** 件 · 最新の追加: **2026-09-09**
+**34** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [ピクセルアート](#category-pixel-art) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [ピクセルアート](#category-pixel-art) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -626,6 +626,34 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ---
 
+<a name="category-3d-render"></a>
+
+## 3D レンダリング
+
+<a name="prompt-2097587863139537262"></a>
+
+### 翻訳中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [元の投稿](https://x.com/underwoodxie96/status/2097587863139537262)
+
+アプリ / Web デザイン · 3D レンダリング · キャラクター · 配信済み
+
+元の投稿：[@underwoodxie96](https://x.com/underwoodxie96) · [元の投稿](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**概要:** 翻訳中
+
+<img src="covers/2097587863139537262.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## ピクセルアート
@@ -885,20 +913,20 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2097533103376081383"></a>
 
-### 翻訳中
+### グランジ感のある壁を背景に、サングラスとデニムジャケットを着たスタイリッシュな若い男性が「シー」のジェスチャーをするファッションポートレート。
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [元の投稿](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
 
-**概要:** 翻訳中
+**概要:** グランジ感のある壁を背景に、サングラスとデニムジャケットを着たスタイリッシュな若い男性が「シー」のジェスチャーをするファッションポートレート。
 
 <img src="images/2097533103376081383-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+ボリュームのある豊かなダークヘアと綺麗に整えられたあごひげを持つスタイリッシュな若い男性の、映画のような超リアルなファッションポートレートを作成してください。彼は赤フレームの黒いサングラス、黒のTシャツ、ダメージ加工のブラックデニムジャケット、金属製のドッグタグネックレスを身に着けています。唇に指を一本縦に当て、自信に満ちた「シー」のジェスチャーをしています。ドラマチックな温かみのあるスタジオ照明、シャープな顔のディテール、強いコントラスト、無骨なストリートウェアの美学。背景には、大胆なティール、クリーム、赤の縦方向のペイントセクション、重厚なグランジテクスチャ、ペンキスプラッター、黒い垂れ落ちるペンキが施されたダメージ感のあるヴィンテージの壁が特徴です。中央構図、ウエストアップのポートレート、エディトリアルファッション写真、高ディテール、リアルな肌の質感、浅い被写界深度、4K、ムーディーでスタイリッシュ、ポスタークオリティ。
 ```
 
 [↑ カテゴリに戻る](#catalog)

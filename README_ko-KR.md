@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**33** 개 · 최근 추가: **2026-09-09**
+**34** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [픽셀 아트](#category-pixel-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [픽셀 아트](#category-pixel-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -626,6 +626,34 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 ---
 
+<a name="category-3d-render"></a>
+
+## 3D 렌더링
+
+<a name="prompt-2097587863139537262"></a>
+
+### 번역 중
+
+작성자：[@underwoodxie96](https://x.com/underwoodxie96) · [원본 게시물](https://x.com/underwoodxie96/status/2097587863139537262)
+
+앱 / 웹 디자인 · 3D 렌더링 · 캐릭터 · 배포 완료
+
+원본 게시물：[@underwoodxie96](https://x.com/underwoodxie96) · [원본 게시물](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**요약:** 번역 중
+
+<img src="covers/2097587863139537262.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## 픽셀 아트
@@ -885,20 +913,20 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097533103376081383"></a>
 
-### 번역 중
+### 그런지 벽을 배경으로 선글라스와 데님 재킷을 입은 스타일리시한 젊은 남성이 '쉿' 몸짓을 하는 패션 초상화.
 
 작성자：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [원본 게시물](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 그런지 벽을 배경으로 선글라스와 데님 재킷을 입은 스타일리시한 젊은 남성이 '쉿' 몸짓을 하는 패션 초상화.
 
 <img src="images/2097533103376081383-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+숱이 많고 볼륨감 있는 어두운 머리카락과 깔끔하게 다듬어진 턱수염을 가진 스타일리시한 젊은 남성의 영화 같은 극사실주의 패션 초상화를 제작하세요. 그는 붉은색 프레임의 블랙 선글라스, 블랙 티셔츠, 디스트레스드 블랙 데님 재킷, 메탈 군번줄 목걸이를 착용하고 있습니다. 그는 자신감 넘치는 "쉿" 몸짓으로 입술에 한 손가락을 세로로 대고 있습니다. 드라마틱하고 따뜻한 스튜디오 조명, 날카로운 얼굴 디테일, 강한 대비, 거친 스트리트웨어 감성. 배경에는 과감한 틸, 크림, 레드 색상의 세로 페인트 구획, 묵직한 그런지 텍스처, 페인트 튐 자국 및 흘러내리는 검은색 페인트가 있는 빈티지풍의 낡은 벽이 특징입니다. 중앙 구도, 상반신 초상화, 에디토리얼 패션 사진, 높은 디테일, 사실적인 피부 질감, 얕은 피사계 심도, 4K, 분위기 있고 스타일리시함, 포스터 품질.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

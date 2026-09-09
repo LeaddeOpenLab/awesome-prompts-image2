@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**33** 条内容 · 最新收录: **2026-09-09**
+**34** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [像素艺术](#category-pixel-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素艺术](#category-pixel-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -628,6 +628,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ---
 
+<a name="category-3d-render"></a>
+
+## 3D 渲染
+
+<a name="prompt-2097587863139537262"></a>
+
+### 翻译中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2097587863139537262)
+
+App / 网页设计 · 3D 渲染 · 角色 · 已推流
+
+查看 X 原帖：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**概括:** 翻译中
+
+<img src="covers/2097587863139537262.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## 像素艺术
@@ -887,20 +915,20 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097533103376081383"></a>
 
-### 翻译中
+### 一位戴太阳镜、穿牛仔夹克的时髦年轻男子在做旧复古墙前做出“嘘”手势的时尚肖像。
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [查看 X 原帖](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 人像 / 自拍 · 角色 · 时尚单品 · 已推流
 
-**概括:** 翻译中
+**概括:** 一位戴太阳镜、穿牛仔夹克的时髦年轻男子在做旧复古墙前做出“嘘”手势的时尚肖像。
 
 <img src="images/2097533103376081383-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+创作一张电影感、超写实的时尚肖像，主角是一位时髦的年轻男子，留着浓密蓬松的深色头发和修剪整齐的胡茬，戴着红色镜框的黑色太阳镜，身穿黑色T恤、做旧黑色牛仔夹克，佩戴金属狗牌项链。他将一根手指竖在嘴唇上，做出自信的“嘘”的手势。富有戏剧感的暖色影棚灯光，清晰的面部细节，强烈的对比度，粗犷的街头服饰美学。背景是一堵做旧复古墙面，带有醒目的蓝绿色、奶油色和红色的垂直油漆分段，厚重的垃圾摇滚纹理，飞溅的油漆与黑色滴落的油漆。居中构图，半身肖像，时尚大片摄影，高度细节，逼真的皮肤纹理，浅景深，4K，富有情调且时髦，海报级画质。
 ```
 
 [↑ 返回分类目录](#catalog)

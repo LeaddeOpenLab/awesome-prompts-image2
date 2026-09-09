@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**33** 筆內容 · 最新收錄: **2026-09-09**
+**34** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [像素藝術](#category-pixel-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素藝術](#category-pixel-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -626,6 +626,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 ---
 
+<a name="category-3d-render"></a>
+
+## 3D 渲染
+
+<a name="prompt-2097587863139537262"></a>
+
+### 翻譯中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2097587863139537262)
+
+App / 網站設計 · 3D 渲染 · 角色 · 已推流
+
+查看 X 原帖：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**概括:** 翻譯中
+
+<img src="covers/2097587863139537262.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## 像素藝術
@@ -885,20 +913,20 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097533103376081383"></a>
 
-### 翻譯中
+### 一位戴太陽眼鏡、穿牛仔夾克的時髦年輕男子在做舊牆面前做出「噓」手勢的時尚肖像。
 
 作者：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [查看 X 原帖](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 人像 / 自拍 · 角色 · 時尚單品 · 已推流
 
-**概括:** 翻譯中
+**概括:** 一位戴太陽眼鏡、穿牛仔夾克的時髦年輕男子在做舊牆面前做出「噓」手勢的時尚肖像。
 
 <img src="images/2097533103376081383-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+創作一張電影感、超寫實的時尚肖像，主角是一位時髦的年輕男子，留著厚實蓬鬆的深色頭髮與修剪整齊的鬍渣，配戴紅色鏡框的黑色太陽眼鏡，身穿黑色T恤、做舊黑色牛仔夾克，佩戴金屬軍牌項鍊。他將一根手指垂直放在嘴唇前，做出自信的「噓」手勢。戲劇性的暖色棚拍光線，銳利的面部細節，強烈對比，粗獷的街頭風美學。背景是一面做舊復古牆面，帶有搶眼的藍綠色、奶油色和紅色垂直油漆色塊，厚重髒污質感，油漆噴濺與黑色垂流油漆。置中構圖，半身肖像，時尚大片攝影風格，高細節，真實皮膚紋理，淺景深，4K，氛圍感且極具風格，海報級質感。
 ```
 
 [↑ 返回分類目錄](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**33** Prompts · Última incorporación: **2026-09-09**
+**34** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -620,6 +620,34 @@ Póster / Volante · Boceto / Arte lineal · Publicado
 
 ```text
 Crea un póster de arte editorial prémium para cada fotografía subida, tratando cada imagen como su propia composición independiente y sin fusionar nunca varias fotos entre sí. Utiliza un estricto formato vertical de 3:4 con el lienzo dividido en dos mitades horizontales perfectamente iguales: la mitad superior debe seguir siendo una presentación fiel y fotorrealista de la imagen original, conservando la identidad exacta del sujeto, los rasgos faciales, las proporciones, la pose, la vestimenta, los objetos, la composición, la iluminación, las sombras, el ambiente y los colores naturales, mejorada únicamente con una sofisticada gradación de color editorial y una extensión ambiental fluida donde sea necesario; la mitad inferior debe transformar la historia visual en una interpretación artística completamente diferente: una pequeña obra de arte hecha a mano en técnica mixta cuidadosamente compuesta y centrada dentro de un amplio espacio negativo de color marfil cálido, que no ocupe más del 10 al 20 % de la sección inferior, utilizando un boceto a tinta expresivo, campos de color estratificados similares al gouache, texturas sutiles de collage, bordes de papel rasgado, pinceladas imperfectas, fibras visibles, suaves variaciones de pigmento y encantadoras imperfecciones humanas, mientras conserva la silueta, el gesto, los objetos y la narrativa emocional más reconocibles de la foto original. Extrae hasta cuatro colores dominantes y armoniosos de cada fotografía y reinterprétalos en una paleta apagada y sofisticada. Añade solo tipografía editorial sutil ocasional cuando realmente mejore la composición, como un título poético, lugar, fecha o una sola palabra. El resultado general debe sentirse como la portada coleccionable de una publicación de arte contemporáneo: minimalista, poética, táctil, elegante, emocionalmente serena, visualmente distintiva e inconfundiblemente conectada con su fotografía original.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderizado 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Traducción en curso
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Diseño de aplicaciones / web · Renderizado 3D · Personaje · Publicado
+
+Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097587863139537262.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

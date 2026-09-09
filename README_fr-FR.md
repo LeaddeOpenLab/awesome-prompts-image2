@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**33** Prompts · Dernier ajout: **2026-09-09**
+**34** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -620,6 +620,34 @@ Affiche / Flyer · Croquis / Dessin au trait · Publié
 
 ```text
 Créez une affiche d'art éditoriale haut de gamme pour chaque photographie importée, en traitant chaque image comme sa propre composition indépendante et sans jamais fusionner plusieurs photos ensemble. Utilisez un format vertical strict de 3:4 avec la toile divisée en deux moitiés horizontales parfaitement égales : la moitié supérieure doit rester une présentation fidèle et photoréaliste de l'image originale, en préservant l'identité exacte du sujet, les traits du visage, les proportions, la pose, les vêtements, les objets, la composition, l'éclairage, les ombres, l'ambiance et les couleurs naturelles, améliorée uniquement par un étalonnage des couleurs éditorial sophistiqué et une extension harmonieuse de l'environnement si nécessaire ; la moitié inférieure doit transformer l'histoire visuelle en une interprétation artistique entièrement différente — une œuvre d'art miniature faite main en techniques mixtes, soigneusement composée et centrée dans un vaste espace négatif ivoire chaud, occupant pas plus de 10 à 20 % de la section inférieure, utilisant des croquis à l'encre expressifs, des champs de couleur superposés semblables à de la gouache, de subtiles textures de collage, des bords de papier déchiré, des coups de pinceau imparfaits, des fibres visibles, de douces variations de pigments et de charmantes imperfections humaines tout en conservant la silhouette, le geste, les objets et le récit émotionnel les plus reconnaissables de la photo originale. Extrayez jusqu'à quatre couleurs dominantes et harmonieuses de chaque photographie et réinterprétez-les dans une palette feutrée et sophistiquée. N'ajoutez qu'une typographie éditoriale discrète et occasionnelle lorsqu'elle enrichit véritablement la composition, comme un titre poétique, un lieu, une date ou un seul mot. Le résultat global doit évoquer la couverture d'une publication d'art contemporain de collection — minimaliste, poétique, tactile, élégante, émotionnellement calme, visuellement distinctive et indéniablement liée à sa photographie d'origine.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendu 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Traduction en cours
+
+Auteur：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Conception d'applications / de sites web · Rendu 3D · Personnage · Publié
+
+Publication originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097587863139537262.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

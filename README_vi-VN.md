@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**33** Prompt · Bổ sung mới nhất: **2026-09-09**
+**34** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Nghệ thuật Pixel](#category-pixel-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Nghệ thuật Pixel](#category-pixel-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -626,6 +626,34 @@ Tạo một áp phích nghệ thuật biên tập cao cấp cho mỗi bức ản
 
 ---
 
+<a name="category-3d-render"></a>
+
+## Kết xuất 3D
+
+<a name="prompt-2097587863139537262"></a>
+
+### Đang dịch
+
+Tác giả：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2097587863139537262)
+
+Thiết kế ứng dụng / web · Kết xuất 3D · Nhân vật · Đã xuất bản
+
+Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097587863139537262.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="category-pixel-art"></a>
 
 ## Nghệ thuật Pixel
@@ -885,20 +913,20 @@ Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương á
 
 <a name="prompt-2097533103376081383"></a>
 
-### Đang dịch
+### Chân dung thời trang của một chàng trai sành điệu đeo kính râm và mặc áo khoác denim làm cử chỉ 'suỵt' trước bức tường phong cách grunge.
 
 Tác giả：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Bài gốc](https://x.com/Aiwithamirr1/status/2097533103376081383)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung thời trang của một chàng trai sành điệu đeo kính râm và mặc áo khoác denim làm cử chỉ 'suỵt' trước bức tường phong cách grunge.
 
 <img src="images/2097533103376081383-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung thời trang siêu thực, đậm chất điện ảnh về một chàng trai sành điệu với mái tóc đen dày, bồng bềnh và bộ râu được tỉa tót gọn gàng, đeo kính râm đen gọng đỏ, mặc áo phông đen, áo khoác denim đen rách và dây chuyền thẻ bài quân đội bằng kim loại. Anh ấy đặt một ngón tay dựng dọc lên môi trong cử chỉ "suỵt" đầy tự tin. Ánh sáng studio màu ấm đầy kịch tính, chi tiết khuôn mặt sắc nét, độ tương phản mạnh, thẩm mỹ thời trang đường phố bụi bặm. Nền là bức tường cổ điển phong hóa với các mảng sơn sọc dọc màu xanh mòng két, màu kem và màu đỏ nổi bật, kết cấu grunge đậm nét, các vết sơn bắn tung tóe và vệt sơn đen chảy nhỏ giọt. Bố cục trung tâm, chân dung từ thắt lưng trở lên, nhiếp ảnh thời trang biên tập, độ chi tiết cao, kết cấu da chân thực, độ sâu trường ảnh nông, 4K, tâm trạng và phong cách, chất lượng áp phích.
 ```
 
 [↑ Về danh mục](#catalog)

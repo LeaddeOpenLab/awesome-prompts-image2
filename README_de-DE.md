@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**33** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**34** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Pixel-Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Pixel-Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -620,6 +620,34 @@ Plakat / Flyer · Skizze / Strichzeichnung · Veröffentlicht
 
 ```text
 Erstelle für jedes hochgeladene Foto ein erstklassiges redaktionelles Kunstplakat, behandle jedes Bild als seine eigene unabhängige Komposition und führe niemals mehrere Fotos zusammen. Verwende ein striktes vertikales 3:4-Format, bei dem die Leinwand in zwei vollkommen gleiche horizontale Hälften geteilt ist: Die obere Hälfte soll eine originalgetreue, fotorealistische Darstellung des Originalbildes bleiben, wobei die exakte Identität des Motivs, Gesichtszüge, Proportionen, Pose, Kleidung, Objekte, Komposition, Beleuchtung, Schatten, Stimmung und natürliche Farben erhalten bleiben, nur aufgewertet durch ein anspruchsvolles redaktionelles Color Grading und nahtlose Umgebungserweiterung, wo nötig; die untere Hälfte soll die visuelle Geschichte in eine völlig andere künstlerische Interpretation verwandeln – ein winziges, sorgfältig komponiertes, handgefertigtes Mixed-Media-Kunstwerk, zentriert in einem weitläufigen warmen elfenbeinfarbenen Negativraum, das nicht mehr als 10–20 % des unteren Abschnitts einnimmt, unter Verwendung von ausdrucksstarken Tuschzeichnungen, geschichteten gouacheartigen Farbflächen, subtilen Collage-Texturen, gerissenen Papierkanten, unvollkommenen Pinselstrichen, sichtbaren Fasern, sanften Pigmentvariationen und bezaubernden menschlichen Unvollkommenheiten, während die am besten wiedererkennbare Silhouette, Geste, Objekte und die emotionale Erzählung des Originalfotos beibehalten werden. Extrahiere bis zu vier dominante harmonische Farben aus jedem Foto und reinterpretiere sie in einer gedeckten, anspruchsvollen Farbpalette. Füge nur gelegentlich dezente redaktionelle Typografie hinzu, wenn sie die Komposition wirklich bereichert, wie etwa einen poetischen Titel, Ort, Datum oder ein einzelnes Wort. Das Gesamtergebnis sollte wie das Titelblatt einer sammelwürdigen Publikation zeitgenössischer Kunst wirken – minimalistisch, poetisch, haptisch, elegant, emotional ruhig, visuell unverwechselbar und unverkennbar mit dem Originalfoto verbunden.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D-Rendering
+
+<a name="prompt-2097587863139537262"></a>
+
+### Übersetzung läuft
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2097587863139537262)
+
+App- / Webdesign · 3D-Rendering · Charakter · Veröffentlicht
+
+Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2097554154554314891)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097587863139537262.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
