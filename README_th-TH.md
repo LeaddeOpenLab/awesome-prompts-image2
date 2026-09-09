@@ -14,13 +14,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**30** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**31** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [พิกเซลอาร์ต](#category-pixel-art) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 <img src="images/2097176979497791899-1.jpg" alt="รูปภาพ 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="รูปภาพ 2" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## พิกเซลอาร์ต
+
+<a name="prompt-2097559943075533257"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [โพสต์ต้นฉบับ](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+พิกเซลอาร์ต · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2097559943075533257.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 

@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**30** Prompt · Bổ sung mới nhất: **2026-09-09**
+**31** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Nghệ thuật Pixel](#category-pixel-art) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Tác giả：[@saniaspeaks\_](https://x.com/saniaspeaks_) · [Bài gốc](https:
 <img src="images/2097176979497791899-1.jpg" alt="Hình ảnh 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Nghệ thuật Pixel
+
+<a name="prompt-2097559943075533257"></a>
+
+### Đang dịch
+
+Tác giả：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Bài gốc](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Nghệ thuật Pixel · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097559943075533257.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 

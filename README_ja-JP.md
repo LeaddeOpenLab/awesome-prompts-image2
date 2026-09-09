@@ -14,13 +14,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**30** 件 · 最新の追加: **2026-09-09**
+**31** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [ピクセルアート](#category-pixel-art) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <img src="images/2097176979497791899-1.jpg" alt="画像 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## ピクセルアート
+
+<a name="prompt-2097559943075533257"></a>
+
+### 翻訳中
+
+作者：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [元の投稿](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+ピクセルアート · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097559943075533257.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 

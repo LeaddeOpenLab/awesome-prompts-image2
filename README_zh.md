@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**30** 条内容 · 最新收录: **2026-09-09**
+**31** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [像素艺术](#category-pixel-art) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -549,6 +549,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <img src="images/2097176979497791899-1.jpg" alt="图片 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## 像素艺术
+
+<a name="prompt-2097559943075533257"></a>
+
+### 翻译中
+
+作者：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [查看 X 原帖](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+像素艺术 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2097559943075533257.jpg" alt="图片 1" width="480" />
 
 **提示词**
 

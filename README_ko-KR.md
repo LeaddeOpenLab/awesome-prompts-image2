@@ -14,13 +14,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**30** 개 · 최근 추가: **2026-09-09**
+**31** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [픽셀 아트](#category-pixel-art) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <img src="images/2097176979497791899-1.jpg" alt="이미지 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## 픽셀 아트
+
+<a name="prompt-2097559943075533257"></a>
+
+### 번역 중
+
+작성자：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [원본 게시물](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+픽셀 아트 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2097559943075533257.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 

@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**30** Prompt · Son eklenen: **2026-09-09**
+**31** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Piksel Sanatı](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -557,6 +557,32 @@ Poster / El İlanı · Çizim / Çizgi Sanatı · Yayımlandı
 <img src="images/2097176979497791899-1.jpg" alt="Görsel 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Piksel Sanatı
+
+<a name="prompt-2097559943075533257"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Orijinal gönderi](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Piksel Sanatı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097559943075533257.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 

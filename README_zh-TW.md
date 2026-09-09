@@ -14,13 +14,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**30** 筆內容 · 最新收錄: **2026-09-09**
+**31** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [像素藝術](#category-pixel-art) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <img src="images/2097176979497791899-1.jpg" alt="圖片 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## 像素藝術
+
+<a name="prompt-2097559943075533257"></a>
+
+### 翻譯中
+
+作者：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [查看 X 原帖](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+像素藝術 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2097559943075533257.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 

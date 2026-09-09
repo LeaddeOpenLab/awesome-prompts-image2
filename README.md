@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**30** Prompts · Latest addition: **2026-09-09**
+**31** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -584,6 +584,35 @@ Poster / Flyer · Sketch / Line Art · Published
 
 ```text
 Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a tiny, carefully composed handmade mixed-media artwork centered within expansive warm ivory negative space, occupying no more than 10–20% of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, gesture, objects, and emotional narrative from the original photo. Extract up to four dominant harmonious colors from each photograph and reinterpret them in a muted, sophisticated palette. Add only occasional understated editorial typography when it genuinely enhances the composition, such as a poetic title, place, date, or single word. The overall result should feel like a collectible contemporary art publication cover—minimal, poetic, tactile, elegant, emotionally quiet, visually distinctive, and unmistakably connected to its original photograph.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Pixel Art
+
+<a name="prompt-2097559943075533257"></a>
+
+### Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow.
+
+Author：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Source](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Pixel Art · Published
+
+**Summary:** Instruction to generate a 16-frame sprite sheet animation loop of a pixel art male goblin drawing a bow and shooting an arrow.
+
+<img src="covers/2097559943075533257.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Do not use skills, create a sprite sheet.
+This sheet contains the process of a pixel art male goblin drawing a bow and arrow and shooting.
+A total of 16 frames.
+Then slice this image and make it into a perpetual looping gif
 ```
 
 [↑ Back to categories](#catalog)

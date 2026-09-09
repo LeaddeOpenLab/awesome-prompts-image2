@@ -14,13 +14,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**30** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**31** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [पिक्सेल आर्ट](#category-pixel-art) · [रेट्रो / विंटेज](#category-retro-vintage) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -547,6 +547,32 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 <img src="images/2097176979497791899-1.jpg" alt="चित्र 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="चित्र 2" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## पिक्सेल आर्ट
+
+<a name="prompt-2097559943075533257"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [मूल पोस्ट](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+पिक्सेल आर्ट · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2097559943075533257.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 

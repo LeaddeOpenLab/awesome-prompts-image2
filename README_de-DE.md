@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**30** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**31** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Pixel-Art](#category-pixel-art) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -557,6 +557,32 @@ Plakat / Flyer · Skizze / Strichzeichnung · Veröffentlicht
 <img src="images/2097176979497791899-1.jpg" alt="Bild 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Pixel-Art
+
+<a name="prompt-2097559943075533257"></a>
+
+### Übersetzung läuft
+
+Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Originalbeitrag](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Pixel-Art · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097559943075533257.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 

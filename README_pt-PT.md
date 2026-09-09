@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**30** Prompts · Adição mais recente: **2026-09-09**
+**31** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -557,6 +557,32 @@ Pôster / Folheto · Esboço / Arte Linear · Publicado
 <img src="images/2097176979497791899-1.jpg" alt="Imagem 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Pixel Art
+
+<a name="prompt-2097559943075533257"></a>
+
+### Tradução em curso
+
+Autor：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publicação original](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Pixel Art · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097559943075533257.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 

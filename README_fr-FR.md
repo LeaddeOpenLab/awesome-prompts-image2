@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**30** Prompts · Dernier ajout: **2026-09-09**
+**31** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Pixel Art](#category-pixel-art) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -557,6 +557,32 @@ Affiche / Flyer · Croquis / Dessin au trait · Publié
 <img src="images/2097176979497791899-1.jpg" alt="Image 1" width="480" />
 
 <img src="images/2097176979497791899-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-pixel-art"></a>
+
+## Pixel Art
+
+<a name="prompt-2097559943075533257"></a>
+
+### Traduction en cours
+
+Auteur：[@Fomsky\_Wei](https://x.com/Fomsky_Wei) · [Publication originale](https://x.com/Fomsky_Wei/status/2097559943075533257)
+
+Pixel Art · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097559943075533257.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
