@@ -54,20 +54,20 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2097411028510179759"></a>
 
-### Übersetzung läuft
+### Prompt für ein hochauflösendes Landschaftsfoto einer Waldlichtung mit üppiger grüner Vegetation.
 
 Autor：[@mark\_k](https://x.com/mark_k) · [Originalbeitrag](https://x.com/mark_k/status/2097411028510179759)
 
 Fotografie · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein hochauflösendes Landschaftsfoto einer Waldlichtung mit üppiger grüner Vegetation.
 
 <img src="images/2097411028510179759-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

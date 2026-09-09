@@ -54,20 +54,20 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2097411028510179759"></a>
 
-### Çeviri sürüyor
+### Gür yeşil bitki örtüsüne sahip bir orman açıklığının yüksek çözünürlüklü manzara fotoğrafı istemi.
 
 Yazar：[@mark\_k](https://x.com/mark_k) · [Orijinal gönderi](https://x.com/mark_k/status/2097411028510179759)
 
 Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gür yeşil bitki örtüsüne sahip bir orman açıklığının yüksek çözünürlüklü manzara fotoğrafı istemi.
 
 <img src="images/2097411028510179759-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece detaylı
 ```
 
 [↑ Kategorilere dön](#catalog)

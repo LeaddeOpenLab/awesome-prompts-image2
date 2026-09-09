@@ -54,20 +54,20 @@ Traduzione in corso
 
 <a name="prompt-2097411028510179759"></a>
 
-### Traduzione in corso
+### Prompt per una foto di paesaggio ad alta definizione di una radura nei boschi con fitta vegetazione verde.
 
 Autore：[@mark\_k](https://x.com/mark_k) · [Post originale](https://x.com/mark_k/status/2097411028510179759)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per una foto di paesaggio ad alta definizione di una radura nei boschi con fitta vegetazione verde.
 
 <img src="images/2097411028510179759-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -54,20 +54,20 @@ Traduction en cours
 
 <a name="prompt-2097411028510179759"></a>
 
-### Traduction en cours
+### Prompt pour une photo de paysage haute définition d'une clairière dans les bois avec une végétation verte luxuriante.
 
 Auteur：[@mark\_k](https://x.com/mark_k) · [Publication originale](https://x.com/mark_k/status/2097411028510179759)
 
 Photographie · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour une photo de paysage haute définition d'une clairière dans les bois avec une végétation verte luxuriante.
 
 <img src="images/2097411028510179759-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photo d'une clairière dans les bois avec un feuillage vert abondant, très détaillée
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -54,20 +54,20 @@ Tradução em curso
 
 <a name="prompt-2097411028510179759"></a>
 
-### Tradução em curso
+### Prompt de fotografia de paisagem em alta definição de uma clareira na floresta com densa vegetação verde.
 
 Autor：[@mark\_k](https://x.com/mark_k) · [Publicação original](https://x.com/mark_k/status/2097411028510179759)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia de paisagem em alta definição de uma clareira na floresta com densa vegetação verde.
 
 <img src="images/2097411028510179759-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia de uma clareira na floresta com muita folhagem verde, altamente detalhada
 ```
 
 [↑ Voltar às categorias](#catalog)
