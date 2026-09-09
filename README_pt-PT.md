@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**49** Prompts · Adição mais recente: **2026-09-09**
+**50** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1187,6 +1187,28 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097672457582985315"></a>
+
+### Tradução em curso
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Publicação original](https://x.com/MrGafish/status/2097672457582985315)
+
+Infográfico / Visual Educacional · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097672457582985315-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097710368542146635"></a>
 

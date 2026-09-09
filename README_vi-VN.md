@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**49** Prompt · Bổ sung mới nhất: **2026-09-09**
+**50** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1179,6 +1179,28 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097672457582985315"></a>
+
+### Đang dịch
+
+Tác giả：[@MrGafish](https://x.com/MrGafish) · [Bài gốc](https://x.com/MrGafish/status/2097672457582985315)
+
+Infographic / Hình ảnh giáo dục · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097672457582985315-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097710368542146635"></a>
 

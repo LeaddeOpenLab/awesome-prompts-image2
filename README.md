@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**49** Prompts · Latest addition: **2026-09-09**
+**50** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1144,6 +1144,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097672457582985315"></a>
+
+### Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai.
+
+Author：[@MrGafish](https://x.com/MrGafish) · [Source](https://x.com/MrGafish/status/2097672457582985315)
+
+Infographic / Edu Visual · Published
+
+**Summary:** Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai.
+
+<img src="images/2097672457582985315-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Traveling to Rizhao, Qingdao, and Yantai for 5 days this month, generate a travel itinerary guide infographic
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097710368542146635"></a>
 
