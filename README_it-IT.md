@@ -749,20 +749,25 @@ Traduzione in corso
 
 <a name="prompt-2097573967955730524"></a>
 
-### Traduzione in corso
+### Istruzione per generare uno sprite sheet basato su un'immagine di riferimento, che dispone 4 tipi di azioni in pixel art per videogiochi \(corsa, salto, attacco rotante, caduta\) composte da 4 fotogrammi ciascuna.
 
 Autore：[@npaka123](https://x.com/npaka123) · [Post originale](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel Art · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzione per generare uno sprite sheet basato su un'immagine di riferimento, che dispone 4 tipi di azioni in pixel art per videogiochi \(corsa, salto, attacco rotante, caduta\) composte da 4 fotogrammi ciascuna.
 
 <img src="covers/2097573967955730524.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Mantenendo uniformi il viso, l'acconciatura, l'abbigliamento, la combinazione di colori e la corporatura del personaggio allegato, genera una singola immagine sprite sheet con 4 tipi di movimenti in pixel art ideali per i videogiochi, ciascuno di un massimo di 4 fotogrammi. La dimensione di un fotogramma è di 256x256 px.
+・Correre: inclinare il corpo in avanti e muovere ampiamente e alternativamente braccia e gambe.
+・Saltare: accovacciarsi → balzare verso l'alto → allargare braccia e gambe a mezz'aria → atterrare.
+・Attacco rotante: vista frontale → vista laterale → vista posteriore → vista laterale opposta, compiendo una rotazione completa del corpo.
+・Cadere: barcollare → inclinarsi lateralmente → stendersi a terra → chiudere gli occhi e rimanere immobile.
+Disponi un'azione per riga in una sequenza orizzontale, allineando le dimensioni di tutte le celle, la linea dei piedi, il centro e la scala. Lo sfondo deve essere di un colore completamente uniforme, senza ombre, testo, cornici, numeri, elementi dell'interfaccia utente (UI), sfocature, semitrasparenze, sfumature o anti-aliasing. I movimenti a ciclo continuo (loop) devono raccordare l'inizio e la fine in modo naturale.
 ```
 
 [↑ Torna alle categorie](#catalog)

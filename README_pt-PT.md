@@ -759,20 +759,25 @@ Tradução em curso
 
 <a name="prompt-2097573967955730524"></a>
 
-### Tradução em curso
+### Instrução para gerar uma folha de sprites baseada numa imagem de referência, organizando 4 tipos de ações em pixel art para jogos \(corrida, salto, ataque giratório e queda\) com 4 fotogramas cada.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicação original](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel Art · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução para gerar uma folha de sprites baseada numa imagem de referência, organizando 4 tipos de ações em pixel art para jogos \(corrida, salto, ataque giratório e queda\) com 4 fotogramas cada.
 
 <img src="covers/2097573967955730524.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Mantendo a uniformidade do rosto, penteado, traje, esquema de cores e porte físico da personagem em anexo, gera uma única imagem de folha de sprites com 4 tipos de movimentos em pixel art apelativos para videojogos, cada um com um máximo de 4 fotogramas. O tamanho de cada fotograma é de 256x256 px.
+・Correr: inclinar o corpo para a frente e mover braços e pernas de forma ampla e alternada.
+・Saltar: agachar → saltar para cima → abrir braços e pernas no ar → aterrar.
+・Ataque giratório: frente → perfil → costas → perfil oposto, completando uma rotação completa do corpo.
+・Cair / tombar: cambalear → inclinar-se para o lado → deitar-se no chão → fechar os olhos e ficar imóvel.
+Dispõe uma ação por linha numa fila horizontal, alinhando a dimensão de todas as células, a linha dos pés, a centralização e a escala. O fundo deve ser de uma cor totalmente sólida, sem sombras, texto, molduras, números, interface de utilizador (UI), desfoque, semitransparência, gradientes ou suavização de contornos (anti-aliasing). As animações em ciclo (loop) devem ligar o início e o fim de forma natural.
 ```
 
 [↑ Voltar às categorias](#catalog)

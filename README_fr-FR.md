@@ -749,20 +749,25 @@ Traduction en cours
 
 <a name="prompt-2097573967955730524"></a>
 
-### Traduction en cours
+### Instruction visant à générer une feuille de sprites basée sur une image de référence, comprenant 4 types d'actions en pixel art pour un jeu vidéo \(course, saut, attaque tournoyante, chute\) composées de 4 images chacune.
 
 Auteur：[@npaka123](https://x.com/npaka123) · [Publication originale](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel Art · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction visant à générer une feuille de sprites basée sur une image de référence, comprenant 4 types d'actions en pixel art pour un jeu vidéo \(course, saut, attaque tournoyante, chute\) composées de 4 images chacune.
 
 <img src="covers/2097573967955730524.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+En conservant l'uniformité du visage, de la coiffure, de la tenue, de la palette de couleurs et de la carrure du personnage joint, génère une image unique de feuille de sprites présentant 4 types de mouvements en pixel art parfaits pour un jeu vidéo, chacun comportant jusqu'à 4 images (frames). La taille d'une frame est de 256x256 px.
+・Courir : pencher le corps vers l'avant et balancer largement les bras et les jambes en alternance.
+・Sauter : s'accroupir → bondir en l'air → écarter les bras et les jambes en plein vol → atterrir.
+・Attaque tournoyante : vue de face → profil → vue de dos → profil opposé, effectuant une rotation complète du corps.
+・S'effondrer : tituber → basculer sur le côté → s'étendre au sol → fermer les yeux et rester immobile.
+Dispose une action par ligne sur un rang horizontal, en veillant à ce que la taille de toutes les cases, la ligne de sol des pieds, le centre et l'échelle soient parfaitement alignés. L'arrière-plan doit être d'une couleur unie absolue, sans ombres, texte, bordures, chiffres, interface utilisateur (UI), flou, semi-transparence, dégradés ni anticrénelage. Les actions en boucle doivent s'enchaîner naturellement entre le début et la fin.
 ```
 
 [↑ Retour aux catégories](#catalog)

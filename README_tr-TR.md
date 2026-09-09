@@ -759,20 +759,25 @@ Piksel Sanatı · Karakter · Yayımlandı
 
 <a name="prompt-2097573967955730524"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayanarak, her biri 4 kareden oluşan 4 farklı oyun piksel sanatı eylemini \(koşma, zıplama, dönerek saldırı, düşme\) sıralayan bir sprite sayfası oluşturma talimatı.
 
 Yazar：[@npaka123](https://x.com/npaka123) · [Orijinal gönderi](https://x.com/npaka123/status/2097573967955730524)
 
 Piksel Sanatı · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayanarak, her biri 4 kareden oluşan 4 farklı oyun piksel sanatı eylemini \(koşma, zıplama, dönerek saldırı, düşme\) sıralayan bir sprite sayfası oluşturma talimatı.
 
 <img src="covers/2097573967955730524.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ekli karakterin yüzünü, saç stilini, kostümünü, renk şemasını ve vücut yapısını tutarlı tutarak, oyunda harika görünecek 4 farklı piksel sanatı hareketini her biri en fazla 4 kareden oluşan tek bir sprite sayfası görüntüsünde oluştur. Bir karenin boyutu 256x256 pikseldir.
+・Koşma: Gövdeyi öne doğru eğerek kolları ve bacakları geniş ve dönüşümlü bir şekilde hareket ettir.
+・Zıplama: Çömel → yukarı sıçra → havada kolları ve bacakları iki yana aç → yere in.
+・Dönerek saldırı: Ön → yan → arka → karşı yan açıları ile tüm vücudu tam bir tur döndür.
+・Yere düşme: Sendele → yana doğru eğil → yere uzan → gözlerini kapat ve hareketsiz kal.
+Her satıra bir eylem gelecek şekilde yatay tek bir sıra halinde yerleştir; tüm hücrelerin boyutunu, ayak hizasını, merkezini ve ölçeğini eşitle. Arka plan tamamen düz tek bir renkten oluşmalı; gölge, metin, çerçeve, numara, kullanıcı arayüzü (UI), bulanıklık, yarı saydamlık, degrade veya kenar yumuşatma (anti-aliasing) kullanılmamalıdır. Döngüsel hareketlerin başı ve sonu doğal bir şekilde birbirine bağlanmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

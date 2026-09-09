@@ -749,20 +749,25 @@ Pixel-Art · Charakter · Veröffentlicht
 
 <a name="prompt-2097573967955730524"></a>
 
-### Übersetzung läuft
+### Anweisung zur Generierung eines Sprite-Sheets basierend auf einem Referenzbild, das 4 Arten von Pixel-Art-Aktionen für Spiele \(Laufen, Springen, Drehangriff, Umfallen\) mit jeweils 4 Frames anordnet.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Originalbeitrag](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel-Art · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung zur Generierung eines Sprite-Sheets basierend auf einem Referenzbild, das 4 Arten von Pixel-Art-Aktionen für Spiele \(Laufen, Springen, Drehangriff, Umfallen\) mit jeweils 4 Frames anordnet.
 
 <img src="covers/2097573967955730524.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Vereinheitliche Gesicht, Frisur, Kleidung, Farbschema und Statur des beigefügten Charakters und generiere ein einzelnes Sprite-Sheet-Bild mit 4 Arten von Pixel-Art-Bewegungen, die im Spiel gut zur Geltung kommen, mit jeweils bis zu 4 Frames. Die Größe eines Frames beträgt 256x256 px.
+・Laufen: Den Körper nach vorne neigen und Arme und Beine weit und abwechselnd bewegen.
+・Springen: In die Hocke gehen → nach oben abspringen → Arme und Beine in der Luft ausbreiten → landen.
+・Drehangriff: Frontalansicht → Seitenansicht → Rückenansicht → entgegengesetzte Seitenansicht, eine vollständige Drehung des gesamten Körpers.
+・Umfallen: Taumeln → zur Seite neigen → auf den Boden legen → die Augen schließen und bewegungslos bleiben.
+Platziere eine Aktion pro Zeile in einer horizontalen Reihe und passe die Größe aller Zellen, den Bodenkontakt der Füße, die Zentrierung und den Maßstab einheitlich an. Der Hintergrund muss vollständig einfarbig sein, ohne Schatten, Text, Rahmen, Nummern, UI, Unschärfe, Halbtransparenz, Farbverläufe oder Anti-Aliasing. Looping-Aktionen müssen am Anfang und Ende nahtlos ineinander übergehen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

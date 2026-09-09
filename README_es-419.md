@@ -749,20 +749,25 @@ Traducción en curso
 
 <a name="prompt-2097573967955730524"></a>
 
-### Traducción en curso
+### Instrucción para generar una hoja de sprites basada en una imagen de referencia, con 4 tipos de acciones de pixel art para videojuegos \(correr, saltar, ataque giratorio y caer\) organizadas en 4 fotogramas cada una.
 
 Autor：[@npaka123](https://x.com/npaka123) · [Publicación original](https://x.com/npaka123/status/2097573967955730524)
 
 Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para generar una hoja de sprites basada en una imagen de referencia, con 4 tipos de acciones de pixel art para videojuegos \(correr, saltar, ataque giratorio y caer\) organizadas en 4 fotogramas cada una.
 
 <img src="covers/2097573967955730524.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Manteniendo la uniformidad en el rostro, peinado, atuendo, paleta de colores y contextura del personaje adjunto, genera una sola imagen de hoja de sprites con 4 tipos de movimientos en pixel art ideales para videojuegos, cada uno de hasta 4 fotogramas. El tamaño de cada fotograma es de 256x256 px.
+・Correr: inclina el cuerpo hacia adelante y mueve brazos y piernas alternadamente de forma amplia.
+・Saltar: agacharse → saltar hacia arriba → extender brazos y piernas en el aire → aterrizar.
+・Ataque giratorio: frente → perfil → espalda → perfil opuesto, completando un giro entero del cuerpo.
+・Caer / ser derrotado: tambalearse → inclinarse hacia un lado → caer al suelo → cerrar los ojos y quedarse inmóvil.
+Organiza una acción por fila en una sola línea horizontal, alineando el tamaño de todas las celdas, el nivel de los pies, el centro y la escala. El fondo debe ser de un color completamente sólido, sin sombras, texto, marcos, números, interfaz de usuario (UI), desenfoques, semitransparencias, degradados ni suavizado de bordes (anti-aliasing). Las animaciones en bucle deben conectar de manera natural el inicio y el final.
 ```
 
 [↑ Volver a categorías](#catalog)
