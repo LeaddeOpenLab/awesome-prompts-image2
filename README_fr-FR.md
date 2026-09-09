@@ -1154,7 +1154,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097710368542146635"></a>
 
-### Traduction en cours
+### Générer une affiche sur le thème de la période solaire de Qingming.
 
 Auteur：[@shitunote](https://x.com/shitunote) · [Publication originale](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1162,14 +1162,14 @@ Affiche / Flyer · Publié
 
 Publication originale：[@shitunote](https://x.com/shitunote) · [Publication originale](https://x.com/shitunote/status/2096740511612797206)
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une affiche sur le thème de la période solaire de Qingming.
 
 <img src="covers/2097710368542146635.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Générer une affiche pour la période solaire de Qingming
 ```
 
 [↑ Retour aux catégories](#catalog)

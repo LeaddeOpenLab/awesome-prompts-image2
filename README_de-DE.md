@@ -1154,7 +1154,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097710368542146635"></a>
 
-### Übersetzung läuft
+### Poster zum Thema des Qingming-Solarabschnitts erstellen.
 
 Autor：[@shitunote](https://x.com/shitunote) · [Originalbeitrag](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1162,14 +1162,14 @@ Plakat / Flyer · Veröffentlicht
 
 Originalbeitrag：[@shitunote](https://x.com/shitunote) · [Originalbeitrag](https://x.com/shitunote/status/2096740511612797206)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Poster zum Thema des Qingming-Solarabschnitts erstellen.
 
 <img src="covers/2097710368542146635.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein Poster für den Qingming-Solarabschnitt
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

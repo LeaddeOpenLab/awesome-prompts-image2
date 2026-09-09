@@ -1164,7 +1164,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097710368542146635"></a>
 
-### Tradução em curso
+### Gerar um cartaz temático sobre o termo solar de Qingming.
 
 Autor：[@shitunote](https://x.com/shitunote) · [Publicação original](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1172,14 +1172,14 @@ Pôster / Folheto · Publicado
 
 Publicação original：[@shitunote](https://x.com/shitunote) · [Publicação original](https://x.com/shitunote/status/2096740511612797206)
 
-**Resumo:** Tradução em curso
+**Resumo:** Gerar um cartaz temático sobre o termo solar de Qingming.
 
 <img src="covers/2097710368542146635.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Gera um cartaz para o termo solar de Qingming
 ```
 
 [↑ Voltar às categorias](#catalog)

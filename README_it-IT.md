@@ -1154,7 +1154,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097710368542146635"></a>
 
-### Traduzione in corso
+### Genera un poster a tema per il termine solare di Qingming.
 
 Autore：[@shitunote](https://x.com/shitunote) · [Post originale](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1162,14 +1162,14 @@ Poster / Volantino · Pubblicato
 
 Post originale：[@shitunote](https://x.com/shitunote) · [Post originale](https://x.com/shitunote/status/2096740511612797206)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera un poster a tema per il termine solare di Qingming.
 
 <img src="covers/2097710368542146635.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Genera un poster per il termine solare di Qingming
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -1164,7 +1164,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097710368542146635"></a>
 
-### Çeviri sürüyor
+### Qingming güneş dönemi temalı bir afiş oluştur.
 
 Yazar：[@shitunote](https://x.com/shitunote) · [Orijinal gönderi](https://x.com/shitunote/status/2097710368542146635)
 
@@ -1172,14 +1172,14 @@ Poster / El İlanı · Yayımlandı
 
 Orijinal gönderi：[@shitunote](https://x.com/shitunote) · [Orijinal gönderi](https://x.com/shitunote/status/2096740511612797206)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Qingming güneş dönemi temalı bir afiş oluştur.
 
 <img src="covers/2097710368542146635.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Qingming güneş dönemi için bir afiş oluştur
 ```
 
 [↑ Kategorilere dön](#catalog)
