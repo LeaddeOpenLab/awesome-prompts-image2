@@ -1210,7 +1210,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097715653981667777"></a>
 
-### Übersetzung läuft
+### Prompt für das Porträt einer schüchternen Hofdame im antiken Stil, halb hinter einem Vorhang verborgen.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1218,7 +1218,7 @@ Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für das Porträt einer schüchternen Hofdame im antiken Stil, halb hinter einem Vorhang verborgen.
 
 <img src="images/2097715653981667777-1.jpg" alt="Bild 1" width="480" />
 
@@ -1227,7 +1227,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Reine Eleganz voller Zärtlichkeit; verschwommene Blumenschatten; Vorhangschatten, die halb verhüllen; sprechen wollen und doch schweigen; schüchterne schöne Dame; atemberaubende Anmut, die Konventionen bricht
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

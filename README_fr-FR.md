@@ -1210,7 +1210,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097715653981667777"></a>
 
-### Traduction en cours
+### Prompt pour le portrait d'une dame élégante de style ancien, pudique et à demi cachée derrière un rideau.
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1218,7 +1218,7 @@ Portrait / Selfie · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour le portrait d'une dame élégante de style ancien, pudique et à demi cachée derrière un rideau.
 
 <img src="images/2097715653981667777-1.jpg" alt="Image 1" width="480" />
 
@@ -1227,7 +1227,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Pure élégance pleine d'émotion; ombres florales vaporeuses; ombre du rideau qui cherche à voiler; voulant parler mais retenant ses mots; belle femme timide; grâce saisissante qui brise les conventions
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1210,7 +1210,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097715653981667777"></a>
 
-### Traduzione in corso
+### Prompt per il ritratto di una timida dama in stile antico semi-nascosta dietro una tenda.
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1218,7 +1218,7 @@ Ritratto / Selfie · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per il ritratto di una timida dama in stile antico semi-nascosta dietro una tenda.
 
 <img src="images/2097715653981667777-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1227,7 +1227,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Pura eleganza ricca di sentimento; ombre floreali sfocate; l'ombra della tenda che quasi cela; vorrebbe parlare ma si trattiene; bella dama timida; grazia sbalorditiva che rompe gli schemi
 ```
 
 [↑ Torna alle categorie](#catalog)

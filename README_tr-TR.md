@@ -1220,7 +1220,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097715653981667777"></a>
 
-### Çeviri sürüyor
+### Perdenin arkasında yarı gizlenmiş, utangaç antik tarzda bir hanımefendi portresi istemi.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1228,7 +1228,7 @@ Portre / Selfie · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Perdenin arkasında yarı gizlenmiş, utangaç antik tarzda bir hanımefendi portresi istemi.
 
 <img src="images/2097715653981667777-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1237,7 +1237,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Duru bir zarafet ve derin duygu; puslu çiçek gölgeleri; yarı gizleyen perde gölgeleri; konuşmak isteyip de susan; utangaç güzel hanım; kalıpları yıkan büyüleyici bir zarafet
 ```
 
 [↑ Kategorilere dön](#catalog)

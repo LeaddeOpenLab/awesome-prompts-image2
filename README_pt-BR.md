@@ -1220,7 +1220,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097715653981667777"></a>
 
-### Tradução em andamento
+### Prompt de retrato de uma donzela de estilo antigo envergonhada e semioculta atrás de uma cortina.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1228,7 +1228,7 @@ Retrato / Selfie · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato de uma donzela de estilo antigo envergonhada e semioculta atrás de uma cortina.
 
 <img src="images/2097715653981667777-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1237,7 +1237,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Elegância pura e cheia de afeto; sombras florais nebulosas; sombra da cortina que tenta ocultar; querendo falar e retendo as palavras; bela dama tímida; graça deslumbrante que rompe padrões
 ```
 
 [↑ Voltar às categorias](#catalog)
