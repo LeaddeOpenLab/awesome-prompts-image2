@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:19:52.892Z",
+  "model": "image2",
+  "prompt": "사진을 컬러铅筆과 수채화로 그린 손으로 그린 여행 일기 스타일로 변환하세요. 원래 구도, 건물, 인물, 나무, 풀밭, 도로, 시점은 그대로 유지하세요. 따뜻한 베이지색 오래된 종이를 사용해 펜 터치와 수채화 번짐이 보이는 손그림 느낌을 표현하세요. 건물은 표현력 있는 형태로 단순화하고, 느슨한 윤곽선, 세밀한 십자 음영, 약간 불완전한 가장자리를 더하세요. 맑은 여름날 분위기, 부드러운 푸른 하늘, 따뜻한 베이지색 건물, 녹색 풀밭, 흩어진 여유로운 인물과 벤치를 유지하세요. 퇴색된 빈티지 여행 스케치 톤을 사용하세요. 페이지 하반부에 삽화를 배치하고, 위쪽에 넓은 베이지색 여백을 두세요. 상단에 손글씨로 '맑은 날씨'라고 쓰고, 하단에 '— 소중한 순간 —'라고 쓰세요. 향수를 불러일으키는 아트 여행 잡지 스타일, 개인 스케치북 같은 추억 느낌으로, 사진 같은 느낌은 없게 하세요.",
+  "promptTranslations": {
+    "en": "Transform the photo into a hand-drawn travel journal style using colored pencil and watercolor. Keep the original composition, buildings, people, trees, grass, road, and perspective intact. Use warm beige aged paper to convey a hand-drawn feel showing pen strokes and watercolor bleeding. Simplify the buildings into expressive shapes, adding loose outlines, fine cross-hatching, and slightly imperfect edges. Maintain the clear summer day atmosphere, soft blue sky, warm beige buildings, green grass, and scattered leisurely figures and benches. Use faded vintage travel sketch tones. Place the illustration in the lower half of the page, leaving a wide beige margin at the top. Write '맑은 날씨' in handwriting at the top, and '— 소중한 순간 —' at the bottom. Render in a nostalgic art travel magazine style, evoking personal sketchbook memories, with no photographic feel."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for transforming a photo into a retro colored pencil and watercolor hand-drawn travel journal illustration style"
+  },
+  "translationVersion": 2,
+  "summary": "사진을 복고풍 색연필 및 수채화 손그림 여행 일기 삽화 스타일로 변환하는 프롬프트",
+  "summaryEn": "Prompt converting photos into vintage colored pencil and watercolor travel journal illustrations",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097174853707284785",
+      "canonicalUrl": "https://x.com/Crypto_QianXun/status/2097174853707284785",
+      "author": {
+        "username": "Crypto_QianXun",
+        "displayName": "千寻｜AI 分享 🌸",
+        "profileUrl": "https://x.com/Crypto_QianXun"
+      },
+      "originalText": "用 ChatGPT 的 GPT IMAGE 2 生成旅行日记插画\n\n提示词 1\n把照片变成彩铅和水彩手绘旅行日记，保留原有构图、建筑、人物、树木、草地、道路和视角。用温暖的米黄色旧纸张，画出能看到笔触和水彩晕染的手绘感。建筑简化成表现力强的形状，有松散的轮廓、细致的交叉阴影、略显不完美的边缘。保留晴朗夏日氛围、柔和蓝天、暖米色建筑、绿草地、散落的休闲人物和长椅。用褪色复古旅行素描色调。在页面下半部分放插画，上方留大量米色空白。顶部手写 '晴天日子'，下方 '— 美好时光 —'。怀旧艺术旅行杂志风格，类似个人速写本的记忆感，没有照片感。\n\n提示词 2\n把照片变成古董旅行速写本插画，保留细窄的蓝砖建筑、红门红窗、老路灯、旁边的人、路面、天空和水面倒影。用彩铅和水彩在质感米白纸上手绘。松散的铅笔线条、明显的彩铅笔触、细腻水彩、轻微交叉阴影、略显不规则的边缘，看起来像真的手写日记。简化成艺术形状，但保持原汁原味的建筑和戏剧性空天。用褪色蓝、砖红、温暖赭色、柔和绿和淡蓝天。画上浅水坑里的倒影。顶部手写 '小镇'，底部 '大梦想'。欧洲怀旧旅行日记、安静超现实感、极简编辑构图、大量米色留白、能感受到纸张纹理、精致不完美的模拟插画，没有照片感。"
+    },
+    "id": "2097637962137895058",
+    "canonicalUrl": "https://x.com/tataemugc/status/2097637962137895058",
+    "author": {
+      "username": "tataemugc",
+      "displayName": "해보아라",
+      "profileUrl": "https://x.com/tataemugc"
+    },
+    "publishedAt": "2026-09-09T10:47:17.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "ko",
+    "originalText": "ChatGPT의 GPT IMAGE 2를 사용해 여행 일기 삽화를 생성하세요\n\n프롬프트 1\n사진을 컬러铅筆과 수채화로 그린 손으로 그린 여행 일기 스타일로 변환하세요. 원래 구도, 건물, 인물, 나무, 풀밭, 도로, 시점은 그대로 유지하세요. 따뜻한 베이지색 오래된 종이를 사용해 펜 터치와 수채화 번짐이 보이는 손그림 느낌을 표현하세요. 건물은 표현력 있는 형태로 단순화하고, 느슨한 윤곽선, 세밀한 십자 음영, 약간 불완전한 가장자리를 더하세요. 맑은 여름날 분위기, 부드러운 푸른 하늘, 따뜻한 베이지색 건물, 녹색 풀밭, 흩어진 여유로운 인물과 벤치를 유지하세요. 퇴색된 빈티지 여행 스케치 톤을 사용하세요. 페이지 하반부에 삽화를 배치하고, 위쪽에 넓은 베이지색 여백을 두세요. 상단에 손글씨로 '맑은 날씨'라고 쓰고, 하단에 '— 소중한 순간 —'라고 쓰세요. 향수를 불러일으키는 아트 여행 잡지 스타일, 개인 스케치북 같은 추억 느낌으로, 사진 같은 느낌은 없게 하세요.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxOjFuawAAoyTc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxOjFuawAAoyTc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxOjFubkAA1Yui.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxOjFubkAA1Yui.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqpaBnaAAAkKVD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqpaBnaAAAkKVD.jpg",
+        "sourcePostId": "2097174853707284785"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqpaNiaoAAb768.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqpaNiaoAAb768.jpg",
+        "sourcePostId": "2097174853707284785"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 43
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/tataemugc/status/2097637962137895058",
+  "coverUrl": "https://pbs.twimg.com/media/HRxOjFuawAAoyTc.jpg",
+  "coverPath": "images/2097637962137895058-1.jpg",
+  "imagePaths": [
+    "images/2097637962137895058-1.jpg",
+    "images/2097637962137895058-2.jpg",
+    "images/2097637962137895058-3.jpg",
+    "images/2097637962137895058-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxOjFuawAAoyTc",
+    "x-image:/media/HRxOjFubkAA1Yui",
+    "x-image:/media/HRqpaBnaAAAkKVD",
+    "x-image:/media/HRqpaNiaoAAb768",
+    "x-post:2097637962137895058",
+    "x-post:2097174853707284785"
+  ],
+  "analysis": {
+    "summary": "사진을 복고풍 색연필 및 수채화 손그림 여행 일기 삽화 스타일로 변환하는 프롬프트",
+    "summaryEn": "Prompt converting photos into vintage colored pencil and watercolor travel journal illustrations",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt text precisely matches the second image: a woman portrait transformed into a watercolor and colored pencil sketch on warm beige paper with handwritten Korean text '맑은 날씨' on top and '— 소중한 순간 —' at the bottom."
+    },
+    "videoQuality": null,
+    "originalPrompt": "사진을 컬러铅筆과 수채화로 그린 손으로 그린 여행 일기 스타일로 변환하세요. 원래 구도, 건물, 인물, 나무, 풀밭, 도로, 시점은 그대로 유지하세요. 따뜻한 베이지색 오래된 종이를 사용해 펜 터치와 수채화 번짐이 보이는 손그림 느낌을 표현하세요. 건물은 표현력 있는 형태로 단순화하고, 느슨한 윤곽선, 세밀한 십자 음영, 약간 불완전한 가장자리를 더하세요. 맑은 여름날 분위기, 부드러운 푸른 하늘, 따뜻한 베이지색 건물, 녹색 풀밭, 흩어진 여유로운 인물과 벤치를 유지하세요. 퇴색된 빈티지 여행 스케치 톤을 사용하세요. 페이지 하반부에 삽화를 배치하고, 위쪽에 넓은 베이지색 여백을 두세요. 상단에 손글씨로 '맑은 날씨'라고 쓰고, 하단에 '— 소중한 순간 —'라고 쓰세요. 향수를 불러일으키는 아트 여행 잡지 스타일, 개인 스케치북 같은 추억 느낌으로, 사진 같은 느낌은 없게 하세요.",
+    "sourceRange": {
+      "start": 50,
+      "end": 493
+    },
+    "translations": {
+      "zh": "将照片转换为彩色铅笔和水彩手绘旅行日记风格。保留原构图、建筑、人物、树木、草地、道路和视角。使用温暖米色旧纸，呈现可见笔触与水彩晕染的手绘质感。建筑简化为富表现力的形态，带松散轮廓、细密交叉排线和微不规则边缘。保留晴朗夏日氛围、柔和蓝天、暖米色建筑、绿草坪、零散悠闲人物和长椅。采用褪色复古旅行速写色调。将插画置于页面下半部，上方留大量米色空白。顶部手写“맑은 날씨”，底部手写“— 소중한 순간 —”。呈现怀旧艺术旅行杂志风格与私人写生簿记忆感，避免照片写实质感。",
+      "en": "Convert photo into a hand-drawn colored pencil and watercolor travel journal illustration. Keep original composition, buildings, figures, trees, lawn, road, and perspective. Use warm beige aged paper showing visible pencil strokes and watercolor bleeds. Simplify structures into expressive shapes with loose outlines, cross-hatching, and imperfect edges. Maintain sunny summer vibe, soft blue sky, warm beige buildings, green grass, and scattered figures on benches. Place art on lower half with ample beige blank space above. Handwrite '맑은 날씨' at top and '— 소중한 순간 —' at bottom. Nostalgic art travel journal look without photographic feel."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "image-to-image",
+    "useCase": "将真实照片转变为复古手绘水彩彩铅旅行日记插画",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
