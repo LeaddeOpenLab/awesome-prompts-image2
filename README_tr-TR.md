@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**17** Prompt · Son eklenen: **2026-09-09**
+**18** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -381,6 +381,30 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 <a name="category-sketch-line-art"></a>
 
 ## Çizim / Çizgi Sanatı
+
+<a name="prompt-2096902953110299096"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2096902953110299096)
+
+Poster / El İlanı · Çizim / Çizgi Sanatı · Suluboya · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096902953110299096-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2096902953110299096-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097176979497791899"></a>
 

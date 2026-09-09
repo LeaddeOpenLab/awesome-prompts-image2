@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**17** Prompt · Bổ sung mới nhất: **2026-09-09**
+**18** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -381,6 +381,30 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 <a name="category-sketch-line-art"></a>
 
 ## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2096902953110299096"></a>
+
+### Đang dịch
+
+Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2096902953110299096)
+
+Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2096902953110299096-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2096902953110299096-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097176979497791899"></a>
 

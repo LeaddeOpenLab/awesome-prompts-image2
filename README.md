@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-09**
+**18** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -385,6 +385,36 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 <a name="category-sketch-line-art"></a>
 
 ## Sketch / Line Art
+
+<a name="prompt-2096902953110299096"></a>
+
+### Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.
+
+Author：[@MissDelulu9](https://x.com/MissDelulu9) · [Source](https://x.com/MissDelulu9/status/2096902953110299096)
+
+Poster / Flyer · Sketch / Line Art · Watercolor · Published
+
+**Summary:** Prompt transforms a reference photo into a 50/50 vertical poster, pairing original photo on top with colored-pencil watercolor sketch below.
+
+<img src="images/2096902953110299096-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096902953110299096-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a premium vertical travel-journal poster in an exact 50/50 split.
+
+Top 50%: Keep the original reference photo completely real and unchanged same composition, architecture, people, colors, lighting, perspective, and details.
+
+Bottom 50%: Transform the same photo into a delicate hand-drawn colored-pencil + watercolor sketch on warm cream paper, with visible pencil strokes, soft washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Keep every subject recognizable.
+
+Add elegant handwritten text: “A Beautiful Day” above and “Memories to Keep” below. Minimal, nostalgic, sophisticated travel-magazine aesthetic. No extra objects, no photorealism in the bottom half, exact 50/50 layout.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097176979497791899"></a>
 

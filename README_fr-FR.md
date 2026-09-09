@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**17** Prompts · Dernier ajout: **2026-09-09**
+**18** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -381,6 +381,30 @@ Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bru
 <a name="category-sketch-line-art"></a>
 
 ## Croquis / Dessin au trait
+
+<a name="prompt-2096902953110299096"></a>
+
+### Traduction en cours
+
+Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2096902953110299096)
+
+Affiche / Flyer · Croquis / Dessin au trait · Aquarelle · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2096902953110299096-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096902953110299096-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097176979497791899"></a>
 
