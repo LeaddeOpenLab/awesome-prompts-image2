@@ -1121,7 +1121,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097611216139235779"></a>
 
-### Traduction en cours
+### Génération d'une grille 3x3 de 9 émoticônes à expressions multiples en chinois et en anglais basée sur une image de référence d'un personnage.
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1129,7 +1129,7 @@ Personnage · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Résumé:** Traduction en cours
+**Résumé:** Génération d'une grille 3x3 de 9 émoticônes à expressions multiples en chinois et en anglais basée sur une image de référence d'un personnage.
 
 <img src="images/2097611216139235779-1.jpg" alt="Image 1" width="480" />
 
@@ -1150,7 +1150,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+En vous basant sur le personnage de l'image de référence, générez une grille de 3*3 comprenant au total 9 expressions/stickers d'émoticônes différents, du texte en chinois et en anglais peut apparaître, arrière-plan dégradé clair
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1121,7 +1121,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097611216139235779"></a>
 
-### Übersetzung läuft
+### Generierung eines 3x3-Rasters mit 9 verschiedenen chinesischen und englischen Emoji-Ausdrücken basierend auf einem Personen-Referenzbild.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1129,7 +1129,7 @@ Charakter · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generierung eines 3x3-Rasters mit 9 verschiedenen chinesischen und englischen Emoji-Ausdrücken basierend auf einem Personen-Referenzbild.
 
 <img src="images/2097611216139235779-1.jpg" alt="Bild 1" width="480" />
 
@@ -1150,7 +1150,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Beziehe dich auf die Person im Bild und erstelle ein 3*3-Raster mit insgesamt 9 verschiedenen Emoji-/Meme-Ausdrücken, chinesischer und englischer Text darf vorkommen, heller Farbverlaufshintergrund
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

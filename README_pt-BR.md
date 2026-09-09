@@ -1131,7 +1131,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097611216139235779"></a>
 
-### Tradução em andamento
+### Geração de grade 3x3 de 9 figurinhas de expressões múltiplas em chinês e inglês com base em imagem de referência de personagem.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1139,7 +1139,7 @@ Personagem · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Geração de grade 3x3 de 9 figurinhas de expressões múltiplas em chinês e inglês com base em imagem de referência de personagem.
 
 <img src="images/2097611216139235779-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1160,7 +1160,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Com base no personagem da imagem de referência, gere uma grade de 3*3 com um total de 9 figurinhas/emotes de expressões diferentes, pode conter texto em chinês e inglês, fundo em degradê claro
 ```
 
 [↑ Voltar às categorias](#catalog)

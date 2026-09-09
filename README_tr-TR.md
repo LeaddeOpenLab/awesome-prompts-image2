@@ -1131,7 +1131,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097611216139235779"></a>
 
-### Çeviri sürüyor
+### Karakter referans görseline dayalı olarak 3x3 formatında 9'lu Çince ve İngilizce çoklu ifade paketi oluşturma.
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1139,7 +1139,7 @@ Karakter · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karakter referans görseline dayalı olarak 3x3 formatında 9'lu Çince ve İngilizce çoklu ifade paketi oluşturma.
 
 <img src="images/2097611216139235779-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1160,7 +1160,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Görseldeki karakteri referans alarak, 3*3 formatında toplam 9 farklı ifadeye sahip çıkartma/ifade paketi oluşturun, Çince ve İngilizce metinler yer alabilir, açık renkli gradyan arka plan
 ```
 
 [↑ Kategorilere dön](#catalog)

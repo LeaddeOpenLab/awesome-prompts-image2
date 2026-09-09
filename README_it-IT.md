@@ -1121,7 +1121,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097611216139235779"></a>
 
-### Traduzione in corso
+### Generazione di una griglia 3x3 di 9 sticker con espressioni multiple in cinese e inglese basata su un'immagine di riferimento del personaggio.
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1129,7 +1129,7 @@ Personaggio · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generazione di una griglia 3x3 di 9 sticker con espressioni multiple in cinese e inglese basata su un'immagine di riferimento del personaggio.
 
 <img src="images/2097611216139235779-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1150,7 +1150,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Facendo riferimento al personaggio dell'immagine, genera una griglia 3*3 con un totale di 9 diverse espressioni per sticker/meme, può contenere testo in cinese e in inglese, sfondo sfumato chiaro
 ```
 
 [↑ Torna alle categorie](#catalog)

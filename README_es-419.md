@@ -1121,7 +1121,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097611216139235779"></a>
 
-### Traducción en curso
+### Generación de cuadrícula de 3x3 con 9 emojis de expresiones múltiples en chino e inglés basada en una imagen de referencia de personaje.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097611216139235779)
 
@@ -1129,7 +1129,7 @@ Personaje · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097258933928796451)
 
-**Resumen:** Traducción en curso
+**Resumen:** Generación de cuadrícula de 3x3 con 9 emojis de expresiones múltiples en chino e inglés basada en una imagen de referencia de personaje.
 
 <img src="images/2097611216139235779-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1150,7 +1150,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Haciendo referencia al personaje de la imagen, genera una cuadrícula de 3*3 con un total de 9 emojis/stickers de expresiones diferentes, puede incluir texto en chino e inglés, fondo degradado claro
 ```
 
 [↑ Volver a categorías](#catalog)
