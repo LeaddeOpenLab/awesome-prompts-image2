@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:17:38.105Z",
+  "model": "image2.5",
+  "prompt": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
+  "promptTranslations": {
+    "en": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth."
+  },
+  "summaryTranslations": {
+    "en": "Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting."
+  },
+  "translationVersion": 2,
+  "summary": "Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.",
+  "summaryEn": "Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097558679956664521",
+    "canonicalUrl": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "author": {
+      "username": "meng_dagg695",
+      "displayName": "Shahid Wani",
+      "profileUrl": "https://x.com/meng_dagg695"
+    },
+    "publishedAt": "2026-09-09T05:32:14.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "GPT image 2.5 \n\nPrompt: Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwGfKSasAAGKWv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwGfKSasAAGKWv.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwGf3CbkAExr-U.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwGf3CbkAExr-U.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 4,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/meng_dagg695/status/2097558679956664521",
+  "coverUrl": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk.jpg",
+  "coverPath": "images/2097558679956664521-1.jpg",
+  "imagePaths": [
+    "images/2097558679956664521-1.jpg",
+    "images/2097558679956664521-2.jpg",
+    "images/2097558679956664521-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRwGeNGa0AAEpHk",
+    "x-image:/media/HRwGfKSasAAGKWv",
+    "x-image:/media/HRwGf3CbkAExr-U",
+    "x-post:2097558679956664521"
+  ],
+  "analysis": {
+    "summary": "Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.",
+    "summaryEn": "Cybernetic horror portrait featuring a gaunt humanoid with a cracked porcelain mask, head cables, and high-contrast monochrome lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the porcelain skull mask, asymmetric hollow eyes, tangled head cables/coils, and monochrome low-key aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
+    "sourceRange": {
+      "start": 24,
+      "end": 513
+    },
+    "translations": {
+      "zh": "赛博恐怖肖像，憔悴的人形生物戴着破裂的瓷白骷髅面具，不对称的空洞眼眶（一个下陷的虚空，一个内嵌金属环），参差不齐的暴露牙齿，头部缠绕着混乱交织的粗黑电缆和工业线圈配件，破烂的深色织物上衣，戏剧性低调照明，深黑色背景，高对比度黑白单色，恐怖摄影，电影感，超精细纹理，85mm镜头，浅景深。",
+      "en": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "horror/disturbing imagery"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
