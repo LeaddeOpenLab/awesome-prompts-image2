@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:27:46.317Z",
+  "model": "image2.5",
+  "prompt": "用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
+  "promptTranslations": {
+    "en": "Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, conduct a detailed palmistry analysis, and present the interpretation against an off-white background, overall adopting a clean, minimalist, and luxurious magazine editorial style. Use slender fine lines, rounded cards, and deliberate negative space to create an expensive, sophisticated aesthetic. Keep the primary focus on the palmistry reading itself."
+  },
+  "summaryTranslations": {
+    "en": "Generate an off-white, minimalist magazine-style palmistry reading guide infographic."
+  },
+  "translationVersion": 2,
+  "summary": "生成米白色极简杂志风格的手相解读指南信息图。",
+  "summaryEn": "Generates a minimalist, editorial off-white palmistry guide infographic.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097628383362597075",
+    "canonicalUrl": "https://x.com/hahazwei/status/2097628383362597075",
+    "author": {
+      "username": "hahazwei",
+      "displayName": "haha🌈.eth",
+      "profileUrl": "https://x.com/hahazwei"
+    },
+    "publishedAt": "2026-09-09T10:09:13.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "zh",
+    "originalText": "GPT image2.5 这个看手相的功能还挺有意思！\n感觉是针对咱们中国宝宝的特定功能！\n\n提示词:\n用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRxF5NRbcAAUann.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRxF5NRbcAAUann.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 443
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hahazwei/status/2097628383362597075",
+  "coverUrl": "https://pbs.twimg.com/media/HRxF5NRbcAAUann.jpg",
+  "coverPath": "images/2097628383362597075-1.jpg",
+  "imagePaths": [
+    "images/2097628383362597075-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRxF5NRbcAAUann",
+    "x-post:2097628383362597075"
+  ],
+  "analysis": {
+    "summary": "生成米白色极简杂志风格的手相解读指南信息图。",
+    "summaryEn": "Generates a minimalist, editorial off-white palmistry guide infographic.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面完美呈现了米白色背景、标注掌纹与手丘分析的极简杂志排版手相信息图。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
+    "sourceRange": {
+      "start": 52,
+      "end": 174
+    },
+    "translations": {
+      "zh": "用这张图片生成一张完整的手相解读指南信息图。注意手掌上的纹路，标注关键掌纹，进行细致的手相分析，并将解读内容以米白色背景呈现，整体采用干净、极简、奢雅的杂志编辑风格。使用纤细线条、圆角卡片、讲究的留白，营造昂贵的高级质感。重点突出手相解读本身。",
+      "en": "Generate a complete palm reading guide infographic using this image. Note palm lines, label key lines, and perform detailed analysis. Present with an off-white background in a clean, minimalist, editorial magazine style with fine lines, rounded cards, refined negative space, and premium texture, highlighting the palmistry analysis."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "infographic",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
