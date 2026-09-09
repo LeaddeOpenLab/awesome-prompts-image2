@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？",
   "promptTranslations": {
-    "en": "Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?"
+    "en": "Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?",
+    "zh": "将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？",
+    "zh-TW": "將附圖作為攝影方案參考。保留它的曝光關係、光線方向、衣料質感和構圖節奏；重新設計角色與主題配色。人物為成年人，不複製參考人物的臉。生成後對照原圖檢查：有沒有擅自改變佈光、加厚服裝，或者把皮膚修得過度光滑？",
+    "ja-JP": "添付の画像を撮影プランのリファレンスとして使用してください。露出関係、光の方向、衣服の質感、構図のリズムを維持し、キャラクターとテーマのカラーリングを再デザインしてください。人物は成人とし、リファレンスの顔を複製しないでください。生成後、元画像と照合して確認してください：無断で照明を変更したり、服を厚着にしたり、肌を過剰に滑らかにレタッチしたりしていませんか？",
+    "ko-KR": "첨부된 이미지를 사진 촬영 레퍼런스로 활용하세요. 노출 관계, 빛의 방향, 의상 질감 및 구도 리듬을 유지하고, 캐릭터와 테마 배색을 새롭게 디자인하세요. 인물은 성인으로 설정하며, 레퍼런스 인물의 얼굴을 복제하지 마세요. 생성 후 원본 이미지와 대조하여 확인하세요: 조명을 무단으로 변경했거나, 의상을 두껍게 만들었거나, 피부를 과도하게 매끄럽게 보정하지 않았습니까?",
+    "th-TH": "ใช้ภาพที่แนบมาเป็นข้อมูลอ้างอิงสำหรับแผนการถ่ายภาพ รักษาความสัมพันธ์ของการเปิดรับแสง ทิศทางของแสง พื้นผิวของเนื้อผ้า และจังหวะของการจัดองค์ประกอบภาพไว้ ออกแบบตัวละครและการจับคู่สีของธีมใหม่ ตัวละครเป็นผู้ใหญ่ และห้ามคัดลอกใบหน้าของบุคคลในภาพอ้างอิง หลังจากสร้างเสร็จแล้ว ให้ตรวจสอบเปรียบเทียบกับภาพต้นฉบับ: มีการเปลี่ยนแปลงการจัดแสงตามอำเภอใจ ทำให้เสื้อผ้าหนาขึ้น หรือรีทัชผิวให้เรียบเนียนเกินไปหรือไม่?",
+    "vi-VN": "Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?",
+    "hi-IN": "संलग्न छवि को फ़ोटोग्राफ़ी योजना संदर्भ के रूप में उपयोग करें। इसके एक्सपोज़र संबंध, प्रकाश की दिशा, कपड़ों की बनावट और संरचना की लय को बनाए रखें; पात्र और थीम के रंग संयोजन को फिर से डिज़ाइन करें। व्यक्ति वयस्क है, संदर्भ व्यक्ति के चेहरे की नकल न करें। जनरेशन के बाद मूल छवि से मिलान करके जाँच करें: क्या बिना अनुमति प्रकाश व्यवस्था बदली गई है, कपड़ों को मोटा किया गया है, या त्वचा को अत्यधिक चिकना बनाया गया है?",
+    "es-ES": "Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la relación de exposición, la dirección de la luz, la textura de la tela y el ritmo de la composición; rediseña el personaje y la paleta de colores temáticos. El personaje es un adulto, no copies el rostro del personaje de referencia. Después de generar, coteja con la imagen original: ¿se ha cambiado la iluminación sin permiso, se ha engrosado la ropa o se ha suavizado la piel en exceso?"
   },
   "summaryTranslations": {
-    "en": "An image-to-image prompt template for redesigning character themes while maintaining lighting, texture, and composition based on a reference image."
+    "en": "An image-to-image prompt template for redesigning character themes while maintaining lighting, texture, and composition based on a reference image.",
+    "zh": "基于参考图保持光影、质感与构图并重新设计角色主题的图生图指令模版。",
+    "zh-TW": "基於參考圖保持光影、質感與構圖並重新設計角色主題的圖生圖指令範本。",
+    "ja-JP": "リファレンス画像に基づいて光と影、質感、構図を維持し、キャラクターとテーマを再デザインするImage-to-Image用プロンプトテンプレート。",
+    "ko-KR": "참고 이미지를 바탕으로 빛과 그림자, 질감 및 구도를 유지하면서 캐릭터와 테마를 재디자인하는 Image-to-Image 프롬프트 템플릿。",
+    "th-TH": "เทมเพลตคำสั่ง Image-to-Image สำหรับคงแสงเงา พื้นผิว และองค์ประกอบตามภาพอ้างอิง พร้อมออกแบบตัวละครและธีมใหม่",
+    "vi-VN": "Mẫu câu lệnh Image-to-Image giữ nguyên ánh sáng, chất cảm và bố cục dựa trên ảnh tham khảo đồng thời thiết kế lại chủ đề nhân vật.",
+    "hi-IN": "संदर्भ छवि के आधार पर प्रकाश और छाया, बनावट और संरचना को बनाए रखते हुए पात्र और थीम को फिर से डिज़ाइन करने वाला इमेज-टू-इमेज प्रॉम्प्ट टेम्पलेट।",
+    "es-ES": "Plantilla de prompt Image-to-Image para mantener luces, sombras, texturas y composición basadas en una imagen de referencia, rediseñando el personaje y la temática."
   },
   "translationVersion": 2,
   "summary": "基于参考图保持光影、质感与构图并重新设计角色主题的图生图指令模版。",
