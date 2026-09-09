@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**40** Prompts · Latest addition: **2026-09-09**
+**41** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -955,6 +955,28 @@ Create an ultra realistic vertical 9:16 editorial streetwear photograph of a you
 <a name="category-minimalism"></a>
 
 ## Minimalism
+
+<a name="prompt-2097628383362597075"></a>
+
+### Generate an off-white, minimalist magazine-style palmistry reading guide infographic.
+
+Author：[@hahazwei](https://x.com/hahazwei) · [Source](https://x.com/hahazwei/status/2097628383362597075)
+
+Infographic / Edu Visual · Minimalism · Published
+
+**Summary:** Generate an off-white, minimalist magazine-style palmistry reading guide infographic.
+
+<img src="images/2097628383362597075-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, conduct a detailed palmistry analysis, and present the interpretation against an off-white background, overall adopting a clean, minimalist, and luxurious magazine editorial style. Use slender fine lines, rounded cards, and deliberate negative space to create an expensive, sophisticated aesthetic. Keep the primary focus on the palmistry reading itself.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

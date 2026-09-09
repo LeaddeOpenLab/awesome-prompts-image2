@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**40** Prompts · Última incorporación: **2026-09-09**
+**41** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -983,6 +983,28 @@ Composición de cuerpo entero, cámara a la altura de los ojos en ángulo bajo, 
 <a name="category-minimalism"></a>
 
 ## Minimalismo
+
+<a name="prompt-2097628383362597075"></a>
+
+### Traducción en curso
+
+Autor：[@hahazwei](https://x.com/hahazwei) · [Publicación original](https://x.com/hahazwei/status/2097628383362597075)
+
+Infografía / Visual Educativo · Minimalismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097628383362597075-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

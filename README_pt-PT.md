@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**40** Prompts · Adição mais recente: **2026-09-09**
+**41** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -909,6 +909,28 @@ Composição de corpo inteiro, câmara ao nível dos olhos em ângulo baixo, obj
 <a name="category-minimalism"></a>
 
 ## Minimalismo
+
+<a name="prompt-2097628383362597075"></a>
+
+### Tradução em curso
+
+Autor：[@hahazwei](https://x.com/hahazwei) · [Publicação original](https://x.com/hahazwei/status/2097628383362597075)
+
+Infográfico / Visual Educacional · Minimalismo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097628383362597075-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

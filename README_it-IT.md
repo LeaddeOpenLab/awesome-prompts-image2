@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**40** Prompt · Ultima aggiunta: **2026-09-09**
+**41** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -899,6 +899,28 @@ Composizione a figura intera, fotocamera a livello degli occhi dal basso, obiett
 <a name="category-minimalism"></a>
 
 ## Minimalismo
+
+<a name="prompt-2097628383362597075"></a>
+
+### Traduzione in corso
+
+Autore：[@hahazwei](https://x.com/hahazwei) · [Post originale](https://x.com/hahazwei/status/2097628383362597075)
+
+Infografica / Contenuto Visual Educativo · Minimalismo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097628383362597075-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

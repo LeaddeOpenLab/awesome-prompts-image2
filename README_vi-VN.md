@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**40** Prompt · Bổ sung mới nhất: **2026-09-09**
+**41** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -981,6 +981,28 @@ Tạo một bức ảnh thời trang dạo phố chụp cho tạp chí theo khun
 <a name="category-minimalism"></a>
 
 ## Chủ nghĩa tối giản
+
+<a name="prompt-2097628383362597075"></a>
+
+### Đang dịch
+
+Tác giả：[@hahazwei](https://x.com/hahazwei) · [Bài gốc](https://x.com/hahazwei/status/2097628383362597075)
+
+Infographic / Hình ảnh giáo dục · Chủ nghĩa tối giản · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097628383362597075-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

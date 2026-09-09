@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**40** Prompt · Son eklenen: **2026-09-09**
+**41** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -909,6 +909,28 @@ Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinemat
 <a name="category-minimalism"></a>
 
 ## Minimalizm
+
+<a name="prompt-2097628383362597075"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@hahazwei](https://x.com/hahazwei) · [Orijinal gönderi](https://x.com/hahazwei/status/2097628383362597075)
+
+İnfografik / Eğitici Görsel · Minimalizm · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097628383362597075-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 

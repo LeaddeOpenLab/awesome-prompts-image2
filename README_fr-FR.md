@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**40** Prompts · Dernier ajout: **2026-09-09**
+**41** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -899,6 +899,28 @@ Composition en pied, caméra à hauteur des yeux en contre-plongée, objectif 35
 <a name="category-minimalism"></a>
 
 ## Minimalisme
+
+<a name="prompt-2097628383362597075"></a>
+
+### Traduction en cours
+
+Auteur：[@hahazwei](https://x.com/hahazwei) · [Publication originale](https://x.com/hahazwei/status/2097628383362597075)
+
+Infographie / Visuel éducatif · Minimalisme · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097628383362597075-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097204639863287913"></a>
 
