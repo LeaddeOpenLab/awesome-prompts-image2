@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**47** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**48** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -554,6 +554,30 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2097713691433070629"></a>
+
+### Übersetzung läuft
+
+Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Originalbeitrag](https://x.com/Tz_2022/status/2097713691433070629)
+
+Illustration · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097713691433070629-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 

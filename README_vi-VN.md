@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**47** Prompt · Bổ sung mới nhất: **2026-09-09**
+**48** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -576,6 +576,30 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 <a name="category-illustration"></a>
 
 ## Minh họa
+
+<a name="prompt-2097713691433070629"></a>
+
+### Đang dịch
+
+Tác giả：[@Tz\_2022](https://x.com/Tz_2022) · [Bài gốc](https://x.com/Tz_2022/status/2097713691433070629)
+
+Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097713691433070629-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 
@@ -1156,20 +1180,20 @@ Bài gốc：[@shitunote](https://x.com/shitunote) · [Bài gốc](https://x.com
 
 <a name="prompt-2097665256424349855"></a>
 
-### Đang dịch
+### Tạo hình ảnh dài minh họa năm nghìn năm lịch sử Trung Quốc
 
 Tác giả：[@cnyzgkc](https://x.com/cnyzgkc) · [Bài gốc](https://x.com/cnyzgkc/status/2097665256424349855)
 
 Infographic / Hình ảnh giáo dục · Sơ đồ / Biểu đồ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo hình ảnh dài minh họa năm nghìn năm lịch sử Trung Quốc
 
 <img src="images/2097665256424349855-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một hình ảnh kể về lịch sử năm nghìn năm
 ```
 
 [↑ Về danh mục](#catalog)

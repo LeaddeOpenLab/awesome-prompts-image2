@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**47** Prompts · Latest addition: **2026-09-09**
+**48** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -552,6 +552,30 @@ Photorealistic cinematic portrait of a handsome adult man with tousled medium-le
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2097713691433070629"></a>
+
+### Asking ChatGPT to draw a self-portrait with a nameplate indicating its version number.
+
+Author：[@Tz\_2022](https://x.com/Tz_2022) · [Source](https://x.com/Tz_2022/status/2097713691433070629)
+
+Illustration · Portrait / Selfie · Published
+
+**Summary:** Asking ChatGPT to draw a self-portrait with a nameplate indicating its version number.
+
+<img src="images/2097713691433070629-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Draw a self-portrait of yourself, with a nameplate that has your version number on it
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 

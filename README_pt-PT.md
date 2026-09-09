@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**47** Prompts · Adição mais recente: **2026-09-09**
+**48** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -564,6 +564,30 @@ Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castan
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2097713691433070629"></a>
+
+### Tradução em curso
+
+Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Publicação original](https://x.com/Tz_2022/status/2097713691433070629)
+
+Ilustração · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097713691433070629-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 

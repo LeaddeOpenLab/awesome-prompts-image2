@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**47** Prompts · Última incorporación: **2026-09-09**
+**48** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -576,6 +576,30 @@ Retrato cinematográfico fotorrealista de un apuesto hombre adulto con cabello c
 <a name="category-illustration"></a>
 
 ## Ilustración
+
+<a name="prompt-2097713691433070629"></a>
+
+### Traducción en curso
+
+Autor：[@Tz\_2022](https://x.com/Tz_2022) · [Publicación original](https://x.com/Tz_2022/status/2097713691433070629)
+
+Ilustración · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097713691433070629-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 
@@ -1178,20 +1202,20 @@ Traducción en curso
 
 <a name="prompt-2097665256424349855"></a>
 
-### Traducción en curso
+### Generar una imagen larga ilustrada de los cinco mil años de historia de China
 
 Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Publicación original](https://x.com/cnyzgkc/status/2097665256424349855)
 
 Infografía / Visual Educativo · Diagrama / Gráfico · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una imagen larga ilustrada de los cinco mil años de historia de China
 
 <img src="images/2097665256424349855-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Genera una imagen que cuente la historia de cinco mil años
 ```
 
 [↑ Volver a categorías](#catalog)

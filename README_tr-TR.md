@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**47** Prompt · Son eklenen: **2026-09-09**
+**48** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -564,6 +564,30 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2097713691433070629"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Tz\_2022](https://x.com/Tz_2022) · [Orijinal gönderi](https://x.com/Tz_2022/status/2097713691433070629)
+
+İllüstrasyon · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097713691433070629-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097713691433070629-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097521286436065680"></a>
 
