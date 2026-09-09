@@ -374,13 +374,13 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 <a name="prompt-2097222942438649948"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage für eine handgehaltene Reisekarte, die eine Miniatur-3D-Landschaft eines Reiseziels präsentiert.
 
 Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Originalbeitrag](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Kinematisch / Filmstill · 3D-Rendering · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage für eine handgehaltene Reisekarte, die eine Miniatur-3D-Landschaft eines Reiseziels präsentiert.
 
 <img src="images/2097222942438649948-1.jpg" alt="Bild 1" width="480" />
 
@@ -393,7 +393,17 @@ Kinematisch / Filmstill · 3D-Rendering · Landschaft / Natur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein ultra-realistisches, filmisches, vertikales 4:5-Reisefoto einer eleganten, minimalistischen Reisekarte, die natürlich in einer Hand vor einem weiten Himmel gehalten wird.
+
+Verwende [LÄNDERNAME] als kreativen Mittelpunkt. Verwandle die Karte in ein lebendiges Fenster zum Reiseziel, aus dessen Oberfläche nahtlos eine atemberaubende Miniatur-Luftbildwelt hervorgeht. Zeige das berühmteste Wahrzeichen des Landes, umgeben von authentischen Landschaften, Architektur, Atmosphäre und subtilen Details, die für das Reiseziel einzigartig sind.
+
+Gestalte den Übergang zwischen der physischen Karte und der Miniaturwelt nahtlos, magisch und physikalisch glaubwürdig, so als ob das gesamte Reiseziel innerhalb der Karte existierte.
+
+Integriere [LÄNDERNAME] in eleganter, fetter Großbuchstaben-Typografie als Teil des Kartendesigns.
+
+Nutze filmisches natürliches Licht, realistische Texturen, atmosphärische Tiefe, subtile Reflexionen, dramatische Perspektive, sanften Objektivabfall und die Ästhetik erstklassiger redaktioneller Reisefotografie.
+
+Ultra-fotorealistisch, 8K-Detail, filmisches Color Grading, realistische Haut und Materialien, physikalisch akkurate Beleuchtung, luxuriös, emotional, erstrebenswert, universell schön. Kein Cartoon, keine Illustration, kein künstlicher CGI-Look.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

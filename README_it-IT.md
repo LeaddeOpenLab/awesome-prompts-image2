@@ -374,13 +374,13 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2097222942438649948"></a>
 
-### Traduzione in corso
+### Modello di prompt per una carta di viaggio tenuta in mano che mostra un paesaggio di destinazione 3D in miniatura.
 
 Autore：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Post originale](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per una carta di viaggio tenuta in mano che mostra un paesaggio di destinazione 3D in miniatura.
 
 <img src="images/2097222942438649948-1.jpg" alt="Immagine 1" width="480" />
 
@@ -393,7 +393,17 @@ Fermo immagine cinematografico / Still fotografico · Rendering 3D · Paesaggio 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia di viaggio verticale 4:5 cinematografica e ultra-realistica di un'elegante carta di viaggio minimalista tenuta con naturalezza in una mano contro un cielo sconfinato.
+
+Usa [NOME DEL PAESE] come punto focale creativo. Trasforma la carta in una finestra vivente sulla destinazione, con un mondo aereo in miniatura mozzafiato che emerge perfettamente dalla sua superficie. Mostra il monumento più iconico del paese, circondato da paesaggi autentici, architettura, atmosfera e dettagli sottili unici per la destinazione.
+
+Rendi la transizione tra la carta fisica e il mondo in miniatura perfetta, magica e fisicamente credibile, come se l'intera destinazione esistesse all'interno della carta.
+
+Integra [NOME DEL PAESE] in un'elegante tipografia in grassetto maiuscolo come parte del design della carta.
+
+Usa luce naturale cinematografica, texture realistiche, profondità atmosferica, riflessi sottili, prospettiva drammatica, morbida sfocatura dell'obiettivo ed estetica da fotografia di viaggio editoriale di alto livello.
+
+Ultra-fotorealistico, dettaglio 8K, color grading cinematografico, pelle e materiali realistici, illuminazione fisicamente accurata, lussuoso, emotivo, aspirazionale, universalmente bello. Nessun cartone animato, nessuna illustrazione, nessun aspetto CGI artificiale.
 ```
 
 [↑ Torna alle categorie](#catalog)

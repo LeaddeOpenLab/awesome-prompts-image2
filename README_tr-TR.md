@@ -374,13 +374,13 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 <a name="prompt-2097222942438649948"></a>
 
-### Çeviri sürüyor
+### Minyatür bir 3D destinasyon manzarasını sergileyen, elde tutulan bir seyahat kartı için prompt şablonu.
 
 Yazar：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Orijinal gönderi](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Sinematik / Film Karesi · 3D Modelleme · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minyatür bir 3D destinasyon manzarasını sergileyen, elde tutulan bir seyahat kartı için prompt şablonu.
 
 <img src="images/2097222942438649948-1.jpg" alt="Görsel 1" width="480" />
 
@@ -393,7 +393,17 @@ Sinematik / Film Karesi · 3D Modelleme · Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Geniş bir gökyüzüne karşı tek elde doğal bir şekilde tutulan şık, minimalist bir seyahat kartının ultra gerçekçi, sinematik, 4:5 dikey seyahat fotoğrafını oluşturun.
+
+Yaratıcı odak noktası olarak [ÜLKE ADI] kullanın. Yüzeyinden kusursuz bir şekilde yükselen nefes kesici bir minyatür havadan dünya ile kartı gidilen yere açılan canlı bir pencereye dönüştürün. Ülkenin en ikonik simgesini, hedefe özgü otantik manzaralar, mimari, atmosfer ve ince ayrıntılarla çevrili olarak öne çıkarın.
+
+Fiziksel kart ile minyatür dünya arasındaki geçişi, sanki tüm seyahat noktası kartın içinde var oluyormuş gibi kusursuz, büyülü ve fiziksel olarak inandırıcı yapın.
+
+Kart tasarımının bir parçası olarak [ÜLKE ADI] ifadesini zarif, kalın büyük harf tipografisiyle entegre edin.
+
+Sinematik doğal ışık, gerçekçi dokular, atmosferik derinlik, hafif yansımalar, dramatik perspektif, yumuşak lens düşüşü ve birinci sınıf editoryal seyahat fotoğrafçılığı estetiği kullanın.
+
+Ultra fotogerçekçi, 8K detay, sinematik renk derecelendirmesi, gerçekçi cilt ve materyaller, fiziksel olarak doğru aydınlatma, lüks, duygusal, ilham verici, evrensel olarak güzel. Çizgi film yok, illüstrasyon yok, yapay CGI görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -374,13 +374,13 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 <a name="prompt-2097222942438649948"></a>
 
-### Traduction en cours
+### Modèle de prompt pour une carte de voyage tenue en main présentant un paysage de destination miniature en 3D.
 
 Auteur：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publication originale](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt pour une carte de voyage tenue en main présentant un paysage de destination miniature en 3D.
 
 <img src="images/2097222942438649948-1.jpg" alt="Image 1" width="480" />
 
@@ -393,7 +393,17 @@ Image cinématographique / Photogramme de film · Rendu 3D · Paysage / Nature �
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie de voyage cinématique verticale 4:5 ultra-réaliste d'une carte de voyage élégante et minimaliste tenue naturellement dans une main contre un ciel immense.
+
+Utilisez [NOM DU PAYS] comme point focal créatif. Transformez la carte en une fenêtre vivante sur la destination, avec un monde miniature aérien à couper le souffle émergeant harmonieusement de sa surface. Mettez en valeur le monument le plus emblématique du pays, entouré de paysages authentiques, d'architecture, d'atmosphère et de détails subtils propres à la destination.
+
+Rendez la transition entre la carte physique et le monde miniature fluide, magique et physiquement crédible, comme si toute la destination existait à l'intérieur de la carte.
+
+Intégrez [NOM DU PAYS] dans une typographie élégante et audacieuse en majuscules dans le cadre du design de la carte.
+
+Utilisez une lumière naturelle cinématique, des textures réalistes, une profondeur atmosphérique, des reflets subtils, une perspective spectaculaire, une transition douce de flou d'objectif et une esthétique haut de gamme de photographie de voyage éditoriale.
+
+Ultra-photoréaliste, détails 8K, étalonnage des couleurs cinématique, peau et matériaux réalistes, éclairage physiquement précis, luxueux, émotionnel, aspirationnel, universellement beau. Pas de cartoon, pas d'illustration, pas d'apparence CGI artificielle.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -374,13 +374,13 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 
 <a name="prompt-2097222942438649948"></a>
 
-### Tradução em andamento
+### Modelo de prompt para um cartão de viagem segurado na mão exibindo uma paisagem de destino 3D em miniatura.
 
 Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicação original](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de prompt para um cartão de viagem segurado na mão exibindo uma paisagem de destino 3D em miniatura.
 
 <img src="images/2097222942438649948-1.jpg" alt="Imagem 1" width="480" />
 
@@ -393,7 +393,17 @@ Cinematográfico / Imagem de Filme · Renderização 3D · Paisagem / Natureza �
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia de viagem vertical 4:5 cinematográfica e ultrarrealista de um cartão de viagem elegante e minimalista segurado naturalmente em uma mão contra um céu expansivo.
+
+Use [NOME DO PAÍS] como o foco criativo. Transforme o cartão em uma janela viva para o destino, com um mundo aéreo em miniatura deslumbrante emergindo perfeitamente de sua superfície. Destaque o ponto turístico mais icônico do país, cercado por paisagens autênticas, arquitetura, atmosfera e detalhes sutis exclusivos do destino.
+
+Torne a transição entre o cartão físico e o mundo em miniatura perfeita, mágica e fisicamente crível, como se todo o destino existisse dentro do cartão.
+
+Integre [NOME DO PAÍS] em uma tipografia elegante e ousada em maiúsculas como parte do design do cartão.
+
+Use luz natural cinematográfica, texturas realistas, profundidade atmosférica, reflexos sutis, perspectiva dramática, suave desfoque de lente e estética premium de fotografia editorial de viagem.
+
+Ultrafotorrealista, detalhes em 8K, gradação de cor cinematográfica, pele e materiais realistas, iluminação fisicamente precisa, luxuoso, emocional, inspirador, universalmente belo. Sem desenho animado, sem ilustração, sem aparência de CGI artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

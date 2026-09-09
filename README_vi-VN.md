@@ -374,13 +374,13 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 <a name="prompt-2097222942438649948"></a>
 
-### Đang dịch
+### Mẫu prompt cho thẻ du lịch cầm tay thể hiện phong cảnh điểm đến 3D thu nhỏ.
 
 Tác giả：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Bài gốc](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt cho thẻ du lịch cầm tay thể hiện phong cảnh điểm đến 3D thu nhỏ.
 
 <img src="images/2097222942438649948-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -393,7 +393,7 @@ Tác giả：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Bài gốc](h
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh du lịch phong cách điện ảnh dọc tỉ lệ 4:5 siêu thực, chụp cảnh một bàn tay đang cầm một cách tự nhiên chiếc thẻ du lịch tối giản, bóng bẩy trên nền trời bao la. Lấy [COUNTRY NAME] làm tâm điểm sáng tạo. Biến chiếc thẻ thành một cánh cửa sổ sống động mở ra điểm đến, với một thế giới thu nhỏ nhìn từ trên cao tuyệt đẹp nổi lên liền mạch từ bề mặt của nó. Thể hiện địa danh mang tính biểu tượng nhất của quốc gia này, bao quanh bởi cảnh quan, kiến trúc, bầu không khí chân thực và các chi tiết tinh tế đặc trưng của điểm đến. Tạo nên sự chuyển tiếp giữa chiếc thẻ vật lý và thế giới thu nhỏ một cách liền mạch, kỳ diệu và hợp lý về mặt vật lý, như thể toàn bộ điểm đến đang thực sự tồn tại bên trong chiếc thẻ. Tích hợp [COUNTRY NAME] bằng kiểu chữ in hoa đậm nét, thanh lịch như một phần của thiết kế thẻ. Sử dụng ánh sáng tự nhiên chuẩn điện ảnh, kết cấu chân thực, chiều sâu không gian, phản xạ tinh tế, góc nhìn ấn tượng, độ mờ biên ống kính mềm mại và tính thẩm mỹ nhiếp ảnh du lịch biên tập cao cấp. Siêu thực tế, chi tiết 8K, chỉnh màu chuẩn điện ảnh, làn da và chất liệu chân thực, ánh sáng chính xác về mặt vật lý, sang trọng, đầy cảm xúc, truyền cảm hứng, vẻ đẹp phổ quát. Không hoạt hình, không hình minh họa, không có vẻ ngoài CGI nhân tạo.
 ```
 
 [↑ Về danh mục](#catalog)

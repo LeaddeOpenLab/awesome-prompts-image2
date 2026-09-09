@@ -374,13 +374,13 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 <a name="prompt-2097222942438649948"></a>
 
-### Traducción en curso
+### Plantilla de prompt para una tarjeta de viaje sostenida en la mano que muestra un paisaje de destino 3D en miniatura.
 
 Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicación original](https://x.com/Goodmanprotocol/status/2097222942438649948)
 
 Cine / Fotograma de película · Render 3D · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para una tarjeta de viaje sostenida en la mano que muestra un paisaje de destino 3D en miniatura.
 
 <img src="images/2097222942438649948-1.jpg" alt="Imagen 1" width="480" />
 
@@ -393,7 +393,7 @@ Cine / Fotograma de película · Render 3D · Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía de viajes vertical 4:5 cinematográfica y ultrarrealista de una tarjeta de viaje elegante y minimalista sostenida de forma natural en una mano contra un cielo expansivo. Utiliza [COUNTRY NAME] como el foco creativo. Transforma la tarjeta en una ventana viva hacia el destino, con un impresionante mundo aéreo en miniatura que emerge a la perfección de su superficie. Muestra el monumento más emblemático del país, rodeado de paisajes auténticos, arquitectura, atmósfera y detalles sutiles exclusivos del destino. Haz que la transición entre la tarjeta física y el mundo en miniatura sea fluida, mágica y físicamente creíble, como si todo el destino existiera dentro de la tarjeta. Integra [COUNTRY NAME] en una tipografía elegante y en negrita en mayúsculas como parte del diseño de la tarjeta. Utiliza luz natural cinematográfica, texturas realistas, profundidad atmosférica, reflejos sutiles, perspectiva dramática, suave desenfoque de lente y una estética de fotografía de viajes editorial premium. Ultrafotorrealista, detalle en 8K, gradación de color cinematográfica, piel y materiales realistas, iluminación físicamente precisa, lujoso, emotivo, aspiracional, de belleza universal. Sin dibujos animados, sin ilustraciones, sin apariencia de CGI artificial.
 ```
 
 [↑ Volver a categorías](#catalog)
