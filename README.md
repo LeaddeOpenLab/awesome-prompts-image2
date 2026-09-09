@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**35** Prompts · Latest addition: **2026-09-09**
+**36** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,33 @@ Please capture a realistic screenshot from a fictional next-generation 3D open-w
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097574111518375970"></a>
+
+### A prompt to generate a pixel art sprite sheet depicting four actions \(running, jumping, spinning attack, and falling down\) with four frames each, based on the attached character.
+
+Author：[@npaka123](https://x.com/npaka123) · [Source](https://x.com/npaka123/status/2097574111518375970)
+
+Pixel Art · Character · Published
+
+**Summary:** A prompt to generate a pixel art sprite sheet depicting four actions \(running, jumping, spinning attack, and falling down\) with four frames each, based on the attached character.
+
+<img src="covers/2097574111518375970.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Keep the attached character's face, hairstyle, outfit, color scheme, and physique consistent, and generate four types of game-ready pixel art motions on a single sprite sheet image, each with up to 4 frames. The size of each frame is 256x256px.
+・Running: Lean the body forward and move arms and legs alternately in large motions.
+・Jumping: Crouch → Leap up → Spread arms and legs in mid-air → Land.
+・Spin Attack: Front → Side → Back → Opposite side, rotating the entire body full circle.
+・Falling Down: Stumble → Tilt sideways → Lie down → Close eyes and become motionless.
+Arrange one action per row horizontally, aligning the size, ground level, center, and scale across all cells. The background must be a completely solid flat color, with no shadows, text, borders, numbers, UI, blur, semi-transparency, gradients, or anti-aliasing. Ensure looping actions seamlessly connect from the end back to the start.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

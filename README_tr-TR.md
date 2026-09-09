@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**35** Prompt · Son eklenen: **2026-09-09**
+**36** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -689,6 +689,28 @@ Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal
 <a name="category-pixel-art"></a>
 
 ## Piksel Sanatı
+
+<a name="prompt-2097574111518375970"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@npaka123](https://x.com/npaka123) · [Orijinal gönderi](https://x.com/npaka123/status/2097574111518375970)
+
+Piksel Sanatı · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097574111518375970.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**35** Prompts · Última incorporación: **2026-09-09**
+**36** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -679,6 +679,28 @@ Traducción en curso
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097574111518375970"></a>
+
+### Traducción en curso
+
+Autor：[@npaka123](https://x.com/npaka123) · [Publicación original](https://x.com/npaka123/status/2097574111518375970)
+
+Pixel Art · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097574111518375970.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

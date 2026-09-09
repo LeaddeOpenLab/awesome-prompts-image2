@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**35** Prompt · Ultima aggiunta: **2026-09-09**
+**36** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -679,6 +679,28 @@ Traduzione in corso
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097574111518375970"></a>
+
+### Traduzione in corso
+
+Autore：[@npaka123](https://x.com/npaka123) · [Post originale](https://x.com/npaka123/status/2097574111518375970)
+
+Pixel Art · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097574111518375970.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

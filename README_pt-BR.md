@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**35** Prompts · Última adição: **2026-09-09**
+**36** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -689,6 +689,28 @@ Tradução em andamento
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097574111518375970"></a>
+
+### Tradução em andamento
+
+Autor：[@npaka123](https://x.com/npaka123) · [Publicação original](https://x.com/npaka123/status/2097574111518375970)
+
+Pixel Art · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097574111518375970.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

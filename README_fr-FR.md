@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**35** Prompts · Dernier ajout: **2026-09-09**
+**36** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -679,6 +679,28 @@ Traduction en cours
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097574111518375970"></a>
+
+### Traduction en cours
+
+Auteur：[@npaka123](https://x.com/npaka123) · [Publication originale](https://x.com/npaka123/status/2097574111518375970)
+
+Pixel Art · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097574111518375970.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 

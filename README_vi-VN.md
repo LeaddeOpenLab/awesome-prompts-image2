@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**35** Prompt · Bổ sung mới nhất: **2026-09-09**
+**36** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -696,6 +696,28 @@ Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](htt
 <a name="category-pixel-art"></a>
 
 ## Nghệ thuật Pixel
+
+<a name="prompt-2097574111518375970"></a>
+
+### Đang dịch
+
+Tác giả：[@npaka123](https://x.com/npaka123) · [Bài gốc](https://x.com/npaka123/status/2097574111518375970)
+
+Nghệ thuật Pixel · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097574111518375970.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097573967955730524"></a>
 
