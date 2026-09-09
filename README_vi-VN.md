@@ -553,13 +553,13 @@ Phác Thảo / Nét Vẽ · Kiến trúc / Nội thất · Đã xuất bản
 
 <a name="prompt-2096902953110299096"></a>
 
-### Đang dịch
+### Lời nhắc biến đổi ảnh tham chiếu thành áp phích dạng dọc 50/50, kết hợp ảnh gốc ở trên cùng với tranh phác thảo màu nước bút chì màu ở dưới.
 
 Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2096902953110299096)
 
 Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc biến đổi ảnh tham chiếu thành áp phích dạng dọc 50/50, kết hợp ảnh gốc ở trên cùng với tranh phác thảo màu nước bút chì màu ở dưới.
 
 <img src="images/2096902953110299096-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -568,7 +568,13 @@ Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích nhật ký du lịch dạng dọc cao cấp được chia chính xác theo tỷ lệ 50/50.
+
+50% phần trên: Giữ nguyên ảnh tham chiếu gốc hoàn toàn chân thực và không thay đổi, giữ nguyên bố cục, kiến trúc, con người, màu sắc, ánh sáng, góc nhìn và các chi tiết.
+
+50% phần dưới: Chuyển đổi cùng bức ảnh đó thành một bản phác thảo vẽ tay tinh tế bằng bút chì màu + màu nước trên giấy màu kem ấm áp, với các nét chì rõ ràng, các vệt loang mềm mại, vân giấy tinh tế, các đường nét phác thảo tự nhiên và nét gạch chéo nhẹ nhàng. Đảm bảo mọi chủ thể đều có thể nhận diện được.
+
+Thêm chữ viết tay trang nhã: “A Beautiful Day” ở phía trên và “Memories to Keep” ở phía dưới. Tính thẩm mỹ tối giản, hoài cổ và tinh tế của tạp chí du lịch. Không thêm đồ vật thừa, không dùng phong cách tả thực ở nửa dưới, bố cục chia chính xác 50/50.
 ```
 
 [↑ Về danh mục](#catalog)
