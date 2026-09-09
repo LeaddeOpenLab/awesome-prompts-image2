@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**50** Prompt · Son eklenen: **2026-09-09**
+**51** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1188,22 +1188,48 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 ## Diğer
 
-<a name="prompt-2097672457582985315"></a>
+<a name="prompt-2097715653981667777"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+Portre / Selfie · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097715653981667777-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2097672457582985315"></a>
+
+### Rizhao, Çingdao ve Yantai için 5 günlük seyahat programı rehberi görseli oluşturan metinden görsele istemi.
 
 Yazar：[@MrGafish](https://x.com/MrGafish) · [Orijinal gönderi](https://x.com/MrGafish/status/2097672457582985315)
 
 İnfografik / Eğitici Görsel · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Rizhao, Çingdao ve Yantai için 5 günlük seyahat programı rehberi görseli oluşturan metinden görsele istemi.
 
 <img src="images/2097672457582985315-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu ay 5 günlüğüne Rizhao, Çingdao ve Yantai'ye seyahat edeceğim; bir seyahat rehberi görseli oluştur.
 ```
 
 [↑ Kategorilere dön](#catalog)

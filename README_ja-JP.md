@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**50** 件 · 最新の追加: **2026-09-09**
+**51** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1179,6 +1179,32 @@ Famous for: [短い特徴的な豆知識]
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097715653981667777"></a>
+
+### 翻訳中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+ポートレート / セルフィー · 配信済み
+
+元の投稿：[@DeepBlueX0](https://x.com/DeepBlueX0) · [元の投稿](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**概要:** 翻訳中
+
+<img src="images/2097715653981667777-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097672457582985315"></a>
 

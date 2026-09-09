@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**50** Prompts · Última incorporación: **2026-09-09**
+**51** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1178,22 +1178,48 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 ## Otros
 
-<a name="prompt-2097672457582985315"></a>
+<a name="prompt-2097715653981667777"></a>
 
 ### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+Retrato / Selfie · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097715653981667777-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2097672457582985315"></a>
+
+### Prompt de texto a imagen para generar una imagen de guía de viaje para un itinerario de 5 días por Rizhao, Qingdao y Yantai.
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Publicación original](https://x.com/MrGafish/status/2097672457582985315)
 
 Infografía / Visual educativo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de texto a imagen para generar una imagen de guía de viaje para un itinerario de 5 días por Rizhao, Qingdao y Yantai.
 
 <img src="images/2097672457582985315-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días; genera una imagen de guía de viaje.
 ```
 
 [↑ Volver a categorías](#catalog)

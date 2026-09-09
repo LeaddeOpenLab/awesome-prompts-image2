@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**50** Prompts · Latest addition: **2026-09-09**
+**51** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1144,6 +1144,32 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097715653981667777"></a>
+
+### Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain.
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+Portrait / Selfie · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**Summary:** Prompt for a portrait of a shy traditional beauty half-hidden behind a curtain.
+
+<img src="images/2097715653981667777-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Refined and tenderly affectionate; hazy shadows of flowers; half-concealed by curtain shadows; hesitant to speak, holding back words; a bashful beauty; breathtaking grace breaking the mold
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097672457582985315"></a>
 

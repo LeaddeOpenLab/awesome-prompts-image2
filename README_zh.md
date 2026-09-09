@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**50** 条内容 · 最新收录: **2026-09-09**
+**51** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1181,6 +1181,32 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097715653981667777"></a>
+
+### 翻译中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+人像 / 自拍 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**概括:** 翻译中
+
+<img src="images/2097715653981667777-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097672457582985315"></a>
 

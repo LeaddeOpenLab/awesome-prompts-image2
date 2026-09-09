@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**50** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**51** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1178,22 +1178,48 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 ## Sonstige
 
-<a name="prompt-2097672457582985315"></a>
+<a name="prompt-2097715653981667777"></a>
 
 ### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+Porträt / Selfie · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097715653981667777-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2097672457582985315"></a>
+
+### Text-zu-Bild-Prompt zur Erstellung einer Reiseguide-Grafik für eine 5-tägige Reiseroute nach Rizhao, Qingdao und Yantai.
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Originalbeitrag](https://x.com/MrGafish/status/2097672457582985315)
 
 Infografik / Edu Visual · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Text-zu-Bild-Prompt zur Erstellung einer Reiseguide-Grafik für eine 5-tägige Reiseroute nach Rizhao, Qingdao und Yantai.
 
 <img src="images/2097672457582985315-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Diesen Monat reise ich für 5 Tage nach Rizhao, Qingdao und Yantai; erstelle eine Reiseguide-Grafik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

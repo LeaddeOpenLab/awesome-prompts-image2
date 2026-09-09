@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**50** 筆內容 · 最新收錄: **2026-09-09**
+**51** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1179,6 +1179,32 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097715653981667777"></a>
+
+### 翻譯中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097715653981667777)
+
+人像 / 自拍 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097367159085420949)
+
+**概括:** 翻譯中
+
+<img src="images/2097715653981667777-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097715653981667777-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097672457582985315"></a>
 
