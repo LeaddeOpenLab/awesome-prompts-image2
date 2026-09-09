@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**46** Prompt · Son eklenen: **2026-09-09**
+**47** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1137,6 +1137,30 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097710368542146635"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@shitunote](https://x.com/shitunote) · [Orijinal gönderi](https://x.com/shitunote/status/2097710368542146635)
+
+Poster / El İlanı · Yayımlandı
+
+Orijinal gönderi：[@shitunote](https://x.com/shitunote) · [Orijinal gönderi](https://x.com/shitunote/status/2096740511612797206)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097710368542146635.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097665256424349855"></a>
 

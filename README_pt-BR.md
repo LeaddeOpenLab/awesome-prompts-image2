@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**46** Prompts · Última adição: **2026-09-09**
+**47** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1137,6 +1137,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097710368542146635"></a>
+
+### Tradução em andamento
+
+Autor：[@shitunote](https://x.com/shitunote) · [Publicação original](https://x.com/shitunote/status/2097710368542146635)
+
+Pôster / Flyer · Publicado
+
+Publicação original：[@shitunote](https://x.com/shitunote) · [Publicação original](https://x.com/shitunote/status/2096740511612797206)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097710368542146635.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097665256424349855"></a>
 

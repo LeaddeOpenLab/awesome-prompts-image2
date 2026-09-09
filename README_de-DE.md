@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**46** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**47** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1127,6 +1127,30 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097710368542146635"></a>
+
+### Übersetzung läuft
+
+Autor：[@shitunote](https://x.com/shitunote) · [Originalbeitrag](https://x.com/shitunote/status/2097710368542146635)
+
+Plakat / Flyer · Veröffentlicht
+
+Originalbeitrag：[@shitunote](https://x.com/shitunote) · [Originalbeitrag](https://x.com/shitunote/status/2096740511612797206)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097710368542146635.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097665256424349855"></a>
 

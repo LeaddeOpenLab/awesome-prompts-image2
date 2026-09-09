@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**46** Prompts · Dernier ajout: **2026-09-09**
+**47** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1127,6 +1127,30 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097710368542146635"></a>
+
+### Traduction en cours
+
+Auteur：[@shitunote](https://x.com/shitunote) · [Publication originale](https://x.com/shitunote/status/2097710368542146635)
+
+Affiche / Flyer · Publié
+
+Publication originale：[@shitunote](https://x.com/shitunote) · [Publication originale](https://x.com/shitunote/status/2096740511612797206)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097710368542146635.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097665256424349855"></a>
 
