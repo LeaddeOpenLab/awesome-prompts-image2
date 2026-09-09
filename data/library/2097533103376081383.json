@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:18:15.318Z",
+  "model": "image2",
+  "prompt": "Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality.",
+  "promptTranslations": {
+    "en": "Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality."
+  },
+  "summaryTranslations": {
+    "en": "Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall."
+  },
+  "translationVersion": 2,
+  "summary": "Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.",
+  "summaryEn": "Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097533103376081383",
+    "canonicalUrl": "https://x.com/Aiwithamirr1/status/2097533103376081383",
+    "author": {
+      "username": "Aiwithamirr1",
+      "displayName": "M Amir",
+      "profileUrl": "https://x.com/Aiwithamirr1"
+    },
+    "publishedAt": "2026-09-09T03:50:36.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "1. Open Gemini / Grok / GPT Image 2.0\n2. Upload your photo\n3. Copy the prompt\n4. Generate\n5. Prompt ⤵️ \nUsing uploaded face as reference. \n> Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRvvJ5PawAAyOmg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRvvJ5PawAAyOmg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 0,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 145
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Aiwithamirr1/status/2097533103376081383",
+  "coverUrl": "https://pbs.twimg.com/media/HRvvJ5PawAAyOmg.jpg",
+  "coverPath": "images/2097533103376081383-1.jpg",
+  "imagePaths": [
+    "images/2097533103376081383-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRvvJ5PawAAyOmg",
+    "x-post:2097533103376081383"
+  ],
+  "analysis": {
+    "summary": "Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.",
+    "summaryEn": "Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image matches the described subject, red-framed glasses, dog-tag necklace, shh gesture, and teal/red grunge background with dripping paint."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality.",
+    "sourceRange": {
+      "start": 141,
+      "end": 912
+    },
+    "translations": {
+      "zh": "创作一张具有电影质感、超写实的时尚肖像，主角是一位时髦的年轻男子，有着浓密的深色头发和修剪整齐的胡茬，佩戴红框黑墨镜、黑色T恤、破洞黑色牛仔夹克和金属狗牌项链。他将一根手指垂直按在嘴唇上，做出自信的“嘘”手势。戏剧性的暖色调影棚光，锐利的面部细节，强对比度，粗犷的街头美学。背景为做旧复古墙面，带有醒目的青色、米色和红色垂直色块，浓重做旧质感、飞溅油漆和黑色滴落油漆。居中构图，半身肖像，时尚杂志摄影风格，高细节，真实皮肤质感，浅景深，4K，氛围感与潮流兼具，海报级画质。",
+      "en": "Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
