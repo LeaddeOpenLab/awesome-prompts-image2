@@ -986,20 +986,20 @@ Composición de cuerpo entero, cámara a la altura de los ojos en ángulo bajo, 
 
 <a name="prompt-2097628383362597075"></a>
 
-### Traducción en curso
+### Generar una infografía de guía de quiromancia con estilo de revista minimalista en blanco roto.
 
 Autor：[@hahazwei](https://x.com/hahazwei) · [Publicación original](https://x.com/hahazwei/status/2097628383362597075)
 
 Infografía / Visual Educativo · Minimalismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generar una infografía de guía de quiromancia con estilo de revista minimalista en blanco roto.
 
 <img src="images/2097628383362597075-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa esta imagen para generar una infografía completa de guía de quiromancia e interpretación de las líneas de la mano. Presta atención a las líneas de la palma, marca las líneas clave de la mano, realiza un análisis detallado de quiromancia y presenta el contenido de la lectura sobre un fondo blanco roto (off-white), con un estilo editorial de revista limpio, minimalista y lujosamente elegante. Utiliza líneas finas, tarjetas con esquinas redondeadas y un espacio en blanco sofisticado para evocar una textura cara y de alta gama. Enfócate principalmente en la interpretación quiromántica en sí.
 ```
 
 [↑ Volver a categorías](#catalog)

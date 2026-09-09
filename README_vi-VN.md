@@ -984,20 +984,20 @@ Tạo một bức ảnh thời trang dạo phố chụp cho tạp chí theo khun
 
 <a name="prompt-2097628383362597075"></a>
 
-### Đang dịch
+### Tạo đồ họa thông tin hướng dẫn xem chỉ tay phong cách tạp chí tối giản màu trắng ngà.
 
 Tác giả：[@hahazwei](https://x.com/hahazwei) · [Bài gốc](https://x.com/hahazwei/status/2097628383362597075)
 
 Infographic / Hình ảnh giáo dục · Chủ nghĩa tối giản · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo đồ họa thông tin hướng dẫn xem chỉ tay phong cách tạp chí tối giản màu trắng ngà.
 
 <img src="images/2097628383362597075-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh này để tạo một đồ họa thông tin (infographic) hướng dẫn xem chỉ tay hoàn chỉnh. Chú ý đến các đường vân trên lòng bàn tay, đánh dấu các đường chỉ tay quan trọng, tiến hành phân tích chỉ tay chi tiết và trình bày nội dung luận giải trên nền màu trắng ngà (off-white), tổng thể mang phong cách biên tập tạp chí sạch sẽ, tối giản và thanh lịch, sang trọng. Sử dụng các đường nét mảnh mai, các thẻ bo tròn góc và khoảng trắng tinh tế để tạo cảm giác cao cấp đắt giá. Tập trung làm nổi bật nội dung giải đoán chỉ tay.
 ```
 
 [↑ Về danh mục](#catalog)
