@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**37** Prompts · Última incorporación: **2026-09-09**
+**38** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -912,6 +912,28 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 ## Otros
 
+<a name="prompt-2097582500273115191"></a>
+
+### Traducción en curso
+
+Autor：[@ky6001481673691](https://x.com/ky6001481673691) · [Publicación original](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097582500273115191-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Traducción en curso
@@ -1046,13 +1068,13 @@ Crea un retrato de moda cinematográfico y ultrarrealista de un joven elegante c
 
 <a name="prompt-2097543193651007508"></a>
 
-### Traducción en curso
+### Un prompt detallado para crear una infografía profesional estilo revista de belleza coreana en formato 9:16 de 'Guía de análisis de maquillaje' basada en un retrato de referencia, que incluye análisis facial en primer plano, muestras de color y pasos de maquillaje estructurados.
 
 Autor：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Publicación original](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 Infografía / Visual Educativo · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt detallado para crear una infografía profesional estilo revista de belleza coreana en formato 9:16 de 'Guía de análisis de maquillaje' basada en un retrato de referencia, que incluye análisis facial en primer plano, muestras de color y pasos de maquillaje estructurados.
 
 <img src="images/2097543193651007508-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1061,7 +1083,7 @@ Infografía / Visual Educativo · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Hermosa chica coreana de rasgos suaves y naturales, vestida con ropa negra y gafas transparentes, con un estilo editorial de belleza moderno y limpio. Crea una infografía profesional de “MAKEUP ANALYSIS GUIDE” utilizando el retrato subido como referencia visual principal. Conserva los rasgos faciales originales, el peinado, la textura de la piel, las gafas y la reconocibilidad natural sin un retoque excesivo. Destaca los ojos, las cejas, la nariz, las mejillas y los labios rosados y brillantes con elegantes paneles de detalles en primer plano y sutiles líneas de llamada. Añade una refinada paleta de colores de maquillaje en tonos neutros cálidos, rosa suave y marrón claro con pequeñas muestras de belleza. Incluye secciones concisas para Makeup Steps, Best Makeup Looks, Key Products y Quick Tips con un texto mínimo y legible. Utiliza una estética premium de revista de belleza coreana con tipografía limpia, suaves toques beige, fondo editorial oscuro y un espaciado equilibrado. Haz que la composición final sea pulida, sofisticada, fotorrealista y en formato vertical 9:16, con la sensación general de “Same You, Just More Polished”.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**37** Prompt · Bổ sung mới nhất: **2026-09-09**
+**38** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -890,6 +890,28 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 ## Khác
 
+<a name="prompt-2097582500273115191"></a>
+
+### Đang dịch
+
+Tác giả：[@ky6001481673691](https://x.com/ky6001481673691) · [Bài gốc](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097582500273115191-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097558679956664521"></a>
 
 ### Đang dịch
@@ -1024,13 +1046,13 @@ Tạo một bức chân dung thời trang siêu thực, đậm chất điện �
 
 <a name="prompt-2097543193651007508"></a>
 
-### Đang dịch
+### Một lời nhắc chi tiết để tạo infographic 'Hướng dẫn phân tích trang điểm' theo phong cách tạp chí làm đẹp Hàn Quốc chuyên nghiệp tỷ lệ 9:16 dựa trên chân dung tham khảo, bao gồm phân tích khuôn mặt cận cảnh, mẫu thử màu và các bước trang điểm có cấu trúc.
 
 Tác giả：[@ayzalnooor24521](https://x.com/ayzalnooor24521) · [Bài gốc](https://x.com/ayzalnooor24521/status/2097543193651007508)
 
 Infographic / Hình ảnh giáo dục · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một lời nhắc chi tiết để tạo infographic 'Hướng dẫn phân tích trang điểm' theo phong cách tạp chí làm đẹp Hàn Quốc chuyên nghiệp tỷ lệ 9:16 dựa trên chân dung tham khảo, bao gồm phân tích khuôn mặt cận cảnh, mẫu thử màu và các bước trang điểm có cấu trúc.
 
 <img src="images/2097543193651007508-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1039,7 +1061,7 @@ Infographic / Hình ảnh giáo dục · Chân dung / Ảnh tự chụp · Đã 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cô gái Hàn Quốc xinh đẹp với những đường nét tự nhiên mềm mại, mặc trang phục màu đen và đeo kính trong suốt, được tạo phong cách chụp ảnh tạp chí làm đẹp hiện đại, thanh lịch. Tạo một infographic chuyên nghiệp dạng “MAKEUP ANALYSIS GUIDE” sử dụng bức chân dung đã tải lên làm tài liệu tham khảo thị giác chính. Giữ nguyên các đường nét khuôn mặt, kiểu tóc, kết cấu da, kính mắt và nét nhận diện tự nhiên ban đầu mà không chỉnh sửa quá đà. Làm nổi bật đôi mắt, lông mày, mũi, má và đôi môi hồng bóng căng mọng bằng các khung chi tiết cận cảnh thanh lịch cùng các đường chỉ dẫn tinh tế. Thêm một bảng màu trang điểm tinh tế gồm tông màu ấm trung tính, hồng ánh hồng và nâu mềm mại với các vệt màu thử mỹ phẩm nhỏ. Bao gồm các phần ngắn gọn cho Makeup Steps, Best Makeup Looks, Key Products và Quick Tips với văn bản tối giản, dễ đọc. Sử dụng tính thẩm mỹ cao cấp của tạp chí làm đẹp Hàn Quốc với kiểu chữ gọn gàng, điểm nhấn màu be nhẹ nhàng, nền tạp chí màu tối và khoảng cách cân đối. Làm cho bố cục cuối cùng thật trau chuốt, tinh tế, chân thực như ảnh chụp và có tỷ lệ dọc 9:16, mang lại cảm xúc tổng thể về “Same You, Just More Polished”.
 ```
 
 [↑ Về danh mục](#catalog)

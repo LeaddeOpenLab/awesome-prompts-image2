@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**37** Prompts · Latest addition: **2026-09-09**
+**38** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -900,6 +900,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097582500273115191"></a>
+
+### Full-body backlit portrait of an East Asian woman in an open-back pomegranate red and gold embroidered outfit with a sheer cape in a nighttime palace corridor.
+
+Author：[@ky6001481673691](https://x.com/ky6001481673691) · [Source](https://x.com/ky6001481673691/status/2097582500273115191)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Full-body backlit portrait of an East Asian woman in an open-back pomegranate red and gold embroidered outfit with a sheer cape in a nighttime palace corridor.
+
+<img src="images/2097582500273115191-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Pose lock → adult East Asian woman → large area clean open back → sheer tulle cape tied at the neck → pomegranate red and gold embroidered attire → nighttime palace corridor → warm backlighting → low-noise skin constraint → full body without cropping feet → negative constraints.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097558679956664521"></a>
 
