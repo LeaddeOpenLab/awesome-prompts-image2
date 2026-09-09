@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:23:52.212Z",
+  "model": "image2.5",
+  "prompt": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
+  "promptTranslations": {
+    "en": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\\n\\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\\n\\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\\n\\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "Realistic travel portrait prompt of a young East Asian woman on the coast of Mont Saint-Michel."
+  },
+  "translationVersion": 2,
+  "summary": "圣米歇尔山海岸边的年轻东亚女性写实旅行写真提示词。",
+  "summaryEn": "Prompt for a realistic travel portrait of an East Asian woman at Mont Saint-Michel.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097532595814940683",
+    "canonicalUrl": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "author": {
+      "username": "saniaspeaks_",
+      "displayName": "𝗦𝗮𝗻𝗶𝗮",
+      "profileUrl": "https://x.com/saniaspeaks_"
+    },
+    "publishedAt": "2026-09-09T03:48:35.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "GPT image 2.5 on chatgpt \n\nPrompt\n\nA photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRvuxTBacAA10A6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRvuxTBacAA10A6.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 54,
+      "repostCount": 6,
+      "replyCount": 31,
+      "quoteCount": 0,
+      "viewCount": 1974
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/saniaspeaks_/status/2097532595814940683",
+  "coverUrl": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf.jpg",
+  "coverPath": "images/2097532595814940683-1.jpg",
+  "imagePaths": [
+    "images/2097532595814940683-1.jpg",
+    "images/2097532595814940683-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRvuwVcasAAwAwf",
+    "x-image:/media/HRvuxTBacAA10A6",
+    "x-post:2097532595814940683"
+  ],
+  "analysis": {
+    "summary": "圣米歇尔山海岸边的年轻东亚女性写实旅行写真提示词。",
+    "summaryEn": "Prompt for a realistic travel portrait of an East Asian woman at Mont Saint-Michel.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the subject, outfit, Mont Saint-Michel abbey backdrop, and warm lighting described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
+    "sourceRange": {
+      "start": 35,
+      "end": 1479
+    },
+    "translations": {
+      "zh": "一张逼真的年轻东亚女性纪实旅行肖像，站在静谧的沙质海岸边，身旁是大块长满青苔的岩石，身后岩石岛屿上雄伟矗立着历史悠久的石砌修道院和中世纪城堡式建筑。她留着自然垂落在一侧肩膀的深棕色长直发，面容柔和年轻，面带温柔微笑直视镜头。她身穿一件黑色长款宽松大衣，手插在口袋中，内搭浅色服装，脖子上温暖地系着带有黑色设计标志的奶白色厚围巾，斜挎链条包隐约可见。背景是广阔的潮滩与修道院，夕阳柔和，呈现宁静的欧洲旅行氛围。",
+      "en": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "travel portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Chanel logo resemblance"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
