@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:22:07.367Z",
+  "model": "image2.5",
+  "prompt": "画一个你自己的自画像，要有铭牌，铭牌上有你的版本号",
+  "promptTranslations": {
+    "en": "Draw a self-portrait of yourself, with a nameplate that has your version number on it"
+  },
+  "summaryTranslations": {
+    "en": "Asking ChatGPT to draw a self-portrait with a nameplate indicating its version number."
+  },
+  "translationVersion": 2,
+  "summary": "要求 ChatGPT 画出带有标明版本号铭牌的自画像。",
+  "summaryEn": "Prompt asking ChatGPT to draw a self-portrait with a nameplate indicating its version number.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097713691433070629",
+    "canonicalUrl": "https://x.com/Tz_2022/status/2097713691433070629",
+    "author": {
+      "username": "Tz_2022",
+      "displayName": "Tz",
+      "profileUrl": "https://x.com/Tz_2022"
+    },
+    "publishedAt": "2026-09-09T15:48:12.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "zh",
+    "originalText": "让 ChatGPT 画了一下它自己的自画像，左边是 gpt-image-2.5 画的，右边是 gpt-image-2，大家可以直观感受一下两代模型在细节上的差距。。。\n\n使用的提示词是：\n\n画一个你自己的自画像，要有铭牌，铭牌上有你的版本号",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyTUUOa8AAqM0t.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyTUUOa8AAqM0t.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyTWLFXEAAiU2m.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyTWLFXEAAiU2m.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 216
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Tz_2022/status/2097713691433070629",
+  "coverUrl": "https://pbs.twimg.com/media/HRyTUUOa8AAqM0t.jpg",
+  "coverPath": "images/2097713691433070629-1.jpg",
+  "imagePaths": [
+    "images/2097713691433070629-1.jpg",
+    "images/2097713691433070629-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyTUUOa8AAqM0t",
+    "x-image:/media/HRyTWLFXEAAiU2m",
+    "x-post:2097713691433070629"
+  ],
+  "analysis": {
+    "summary": "要求 ChatGPT 画出带有标明版本号铭牌的自画像。",
+    "summaryEn": "Prompt asking ChatGPT to draw a self-portrait with a nameplate indicating its version number.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both generated images depict an AI cyborg self-portrait with a desk nameplate displaying the version number."
+    },
+    "videoQuality": null,
+    "originalPrompt": "画一个你自己的自画像，要有铭牌，铭牌上有你的版本号",
+    "sourceRange": {
+      "start": 95,
+      "end": 120
+    },
+    "translations": {
+      "zh": "画一个你自己的自画像，要有铭牌，铭牌上有你的版本号",
+      "en": "Draw a self-portrait of yourself with a nameplate showing your version number."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI self-portrait illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "ChatGPT / OpenAI logo"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
