@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**21** Prompts · Latest addition: **2026-09-09**
+**22** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -615,6 +615,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2096914920915001598"></a>
+
+### Candid smartphone photo of a young East Asian woman in a grey sweatshirt and jeans sitting on a sunny garden balcony terrace.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2096914920915001598)
+
+Character · Published
+
+**Summary:** Candid smartphone photo of a young East Asian woman in a grey sweatshirt and jeans sitting on a sunny garden balcony terrace.
+
+<img src="images/2096914920915001598-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A completely natural, photorealistic candid smartphone photo of a young East Asian woman sitting comfortably cross-legged on a balcony garden terrace. She has long, naturally wavy dark brown hair falling loosely over her shoulders and down the front of her body, with soft individual strands moving naturally. Her features are delicate and realistic, with subtle natural makeup and authentic skin texture. She is wearing an oversized cozy light-gray sweatshirt with relaxed-fit light-blue jeans. Sitting casually and naturally, she gently rests one hand against her cheek while looking upward and slightly off to the side. Her expression feels genuinely cute and thoughtful, with a subtle slightly pouty look, as if the photo was captured during a quiet unposed moment. She sits on a light-colored outdoor terrace surface surrounded by lush green plants, leafy potted foliage, and small blooming pink flowers. A simple black metal balcony railing runs behind her, with dense trees and natural greenery filling the background. The setting feels peaceful, private, and like a real everyday garden balcony. Soft warm natural daylight falls gently across her face and clothing, creating realistic subtle shadows. Natural skin pores, authentic hair texture, realistic sweatshirt fabric, and believable denim details are clearly visible. Nothing looks overly polished or artificially posed. Shot as an authentic casual smartphone photograph with a natural eye-level perspective. Full-body seated composition, vertical framing, with the subject positioned slightly toward the lower-middle of the frame. The background has gentle natural depth of field—softly blurred while remaining clearly recognizable. Ultra-realistic photography, natural proportions, candid everyday moment, Korean-inspired casual fashion aesthetic, muted soft colors, subtle film grain, realistic lighting, slightly imperfect smartphone-camera details, 4K realism, no beauty-filter effect, no excessive retouching. Negative prompt: cartoon, anime, illustration, CGI, artificial-looking skin, plastic skin, excessive makeup, distorted facial features, extra fingers, malformed hands, extra limbs, incorrect anatomy, unnatural body proportions, stiff pose, oversaturated colors, dramatic studio lighting, blurry face, low resolution, watermark, text, logo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097157373936935051"></a>
 
