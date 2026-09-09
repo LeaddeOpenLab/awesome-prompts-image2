@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:29:40.394Z",
+  "model": "image2",
+  "prompt": "Create a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic.",
+  "promptTranslations": {
+    "en": "Create a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic."
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.",
+  "summaryEn": "Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097704623952035841",
+    "canonicalUrl": "https://x.com/Naiknelofar788/status/2097704623952035841",
+    "author": {
+      "username": "Naiknelofar788",
+      "displayName": "simeon-sanai",
+      "profileUrl": "https://x.com/Naiknelofar788"
+    },
+    "publishedAt": "2026-09-09T15:12:10.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "en",
+    "originalText": "GPT image 2 on ChatGPT\n\nPROMPT\n\nCreate a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyLLx9bcAEAr6_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyLLx9bcAEAr6_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyLLx-bcAEiFav.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyLLx-bcAEiFav.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyLLx5aoAAr-6O.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyLLx5aoAAr-6O.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 474
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Naiknelofar788/status/2097704623952035841",
+  "coverUrl": "https://pbs.twimg.com/media/HRyLLx9bcAEAr6_.jpg",
+  "coverPath": "images/2097704623952035841-1.jpg",
+  "imagePaths": [
+    "images/2097704623952035841-1.jpg",
+    "images/2097704623952035841-2.jpg",
+    "images/2097704623952035841-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyLLx9bcAEAr6_",
+    "x-image:/media/HRyLLx-bcAEiFav",
+    "x-image:/media/HRyLLx5aoAAr-6O",
+    "x-post:2097704623952035841"
+  ],
+  "analysis": {
+    "summary": "Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.",
+    "summaryEn": "Prompt template for generating 3D miniature collectible souvenir maps of countries highlighting specific cities and landmarks.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images of Shanghai, London, and Rome directly demonstrate the templated 3D miniature map style with prominent pins, landmarks, and typography."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic.",
+    "sourceRange": {
+      "start": 32,
+      "end": 767
+    },
+    "translations": {
+      "zh": "创建一个迷人的 [COUNTRY] 3D 微缩地图，国家边界清晰且形状准确。在 [CITY] 精确放置一个优雅的大定位图钉，图钉处升起 [ICONIC LANDMARK]。在国家内添加微型道路、山脉、河流、建筑、树木及微妙的文化细节。地图呈微浮雕与雕塑感，层次分明，具有柔和阴影、圆角边缘与手工微缩质感。采用灵感来自 [COUNTRY] 的雅致配色、暖象牙白背景、柔和棚拍光线与干净高级的构图。添加优雅文本：”[CITY]”，下方标注 ”[COUNTRY] • [FAMOUS FOR]”。可爱、精致、辨识度极高且具收藏感的 3D 旅行纪念品美学风格。",
+      "en": "Create a charming 3D miniature map of [COUNTRY] with the national borders clearly outlined and accurately shaped. Place a large elegant location pin exactly on [CITY], with [ICONIC LANDMARK] rising from the map at the pin location. Add tiny roads, mountains, rivers, buildings, trees, and subtle cultural details within the country. Make the map slightly raised and sculptural, with layered terrain, soft shadows, rounded edges, and handcrafted miniature textures. Use a refined palette inspired by [COUNTRY], warm ivory background, soft studio lighting, clean premium composition. Add elegant text: “[CITY]” and beneath it “[COUNTRY] • [FAMOUS FOR]”. Cute, sophisticated, highly recognizable, collectible 3D travel souvenir aesthetic."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "3D miniature travel souvenir map design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
