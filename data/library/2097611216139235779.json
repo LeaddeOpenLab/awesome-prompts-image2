@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:33:29.975Z",
+  "model": "image2.5",
+  "prompt": "参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景",
+  "promptTranslations": {
+    "en": "Reference the character in the image, generate a 3*3 grid with a total of 9 different emoji/sticker expressions, Chinese and English can appear, light gradient background"
+  },
+  "summaryTranslations": {
+    "en": "Generate a 3x3 nine-grid of Chinese and English multi-expression meme stickers based on a character reference image."
+  },
+  "translationVersion": 2,
+  "summary": "基于人物参考图生成3x3九宫格中英文多表情包。",
+  "summaryEn": "Generate a 3x3 grid of 9 meme expressions based on a reference image.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097258933928796451",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2097258933928796451",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "以后不知道微信朋友圈发什么，可试试这个。\n\n只改节气名称，AI就会自动挑出最符合当下时令的3种视觉主体，再用宋式审美把它们变成一张东方艺术封面。\n\n🔵 GPT image 2 Prompt:\n\n极简东方 × 宋式美学 × 时令诗意 × 独立艺术封面 × 东方自然意境\n中国农历节气：秋分\n视觉主体：根据节气特征，选择3种最具节气代表性与视觉美感的瓜果蔬菜、动物或自然现象。"
+    },
+    "id": "2097611216139235779",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2097611216139235779",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-09T09:01:00.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "zh",
+    "originalText": "从此表情包自由了✌️\n\n🔵 GPT image 2.5 Prompt:\n\n参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景 https://t.co/eVZRaxIOa8",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwsecBboAA1j_t.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwsecBboAA1j_t.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwsecCaoAA2lKl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwsecCaoAA2lKl.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwsecDa8AEE0Z9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwsecDa8AEE0Z9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwseeobUAA6XJW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwseeobUAA6XJW.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRr14RvbYAAiRGD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRr14RvbYAAiRGD.jpg",
+        "sourcePostId": "2097258933928796451"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRr14RwaAAACt1T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRr14RwaAAACt1T.jpg",
+        "sourcePostId": "2097258933928796451"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRr14RvaQAA2eHl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRr14RvaQAA2eHl.jpg",
+        "sourcePostId": "2097258933928796451"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRr14UZboAAKvsY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRr14UZboAAKvsY.jpg",
+        "sourcePostId": "2097258933928796451"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1060
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2097611216139235779",
+  "coverUrl": "https://pbs.twimg.com/media/HRwsecBboAA1j_t.jpg",
+  "coverPath": "images/2097611216139235779-1.jpg",
+  "imagePaths": [
+    "images/2097611216139235779-1.jpg",
+    "images/2097611216139235779-2.jpg",
+    "images/2097611216139235779-3.jpg",
+    "images/2097611216139235779-4.jpg",
+    "images/2097611216139235779-5.jpg",
+    "images/2097611216139235779-6.jpg",
+    "images/2097611216139235779-7.jpg",
+    "images/2097611216139235779-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRwsecBboAA1j_t",
+    "x-image:/media/HRwsecCaoAA2lKl",
+    "x-image:/media/HRwsecDa8AEE0Z9",
+    "x-image:/media/HRwseeobUAA6XJW",
+    "x-image:/media/HRr14RvbYAAiRGD",
+    "x-image:/media/HRr14RwaAAACt1T",
+    "x-image:/media/HRr14RvaQAA2eHl",
+    "x-image:/media/HRr14UZboAAKvsY",
+    "x-post:2097611216139235779",
+    "x-post:2097258933928796451"
+  ],
+  "analysis": {
+    "summary": "基于人物参考图生成3x3九宫格中英文多表情包。",
+    "summaryEn": "Generate a 3x3 grid of 9 meme expressions based on a reference image.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图第一张完整呈现了3x3九宫格、同一女性的不同表情姿态、中英文字符文案以及浅色渐变背景，与提示词高度契合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景",
+    "sourceRange": {
+      "start": 37,
+      "end": 74
+    },
+    "translations": {
+      "zh": "参考图片人物，生成3*3共9种不同表情包，可以出现中文和英文，浅色渐变背景",
+      "en": "Generate a 3x3 grid of 9 different emoji/meme packs based on the person in the reference image, allowing Chinese and English text, with a light gradient background"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "表情包生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
