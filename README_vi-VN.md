@@ -1182,7 +1182,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097715653981667777"></a>
 
-### Đang dịch
+### Từ khóa chân dung thục nữ cổ phong e ấp lấp ló sau rèm.
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1190,7 +1190,7 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Từ khóa chân dung thục nữ cổ phong e ấp lấp ló sau rèm.
 
 <img src="images/2097715653981667777-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1199,7 +1199,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Thanh nhã hữu tình; bóng hoa mờ ảo; bóng rèm nửa che nửa mở; muốn nói lại thôi; giai nhân e thẹn; vẻ đẹp kinh diễm phá cách
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1204,7 +1204,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097715653981667777"></a>
 
-### Traducción en curso
+### Prompt de retrato de una dama de estilo antiguo tímida y medio oculta tras una cortina.
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097715653981667777)
 
@@ -1212,7 +1212,7 @@ Retrato / Selfie · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097367159085420949)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato de una dama de estilo antiguo tímida y medio oculta tras una cortina.
 
 <img src="images/2097715653981667777-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1221,7 +1221,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Elegante y llena de sentimiento; sombras de flores borrosas; sombras de cortinas que intentan ocultar; queriendo hablar pero conteniéndose; hermosa mujer tímida; gracia deslumbrante que rompe esquemas
 ```
 
 [↑ Volver a categorías](#catalog)
