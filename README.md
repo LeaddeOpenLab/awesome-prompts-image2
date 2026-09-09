@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**29** Prompts · Latest addition: **2026-09-09**
+**30** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -793,6 +793,28 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2097533103376081383"></a>
+
+### Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.
+
+Author：[@Aiwithamirr1](https://x.com/Aiwithamirr1) · [Source](https://x.com/Aiwithamirr1/status/2097533103376081383)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Fashion portrait of a stylish young man in sunglasses and denim jacket gesturing 'shh' against a grunge wall.
+
+<img src="images/2097533103376081383-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a cinematic, ultra-realistic fashion portrait of a stylish young man with thick, voluminous dark hair and a neatly trimmed beard, wearing red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality.
 ```
 
 [↑ Back to categories](#catalog)
