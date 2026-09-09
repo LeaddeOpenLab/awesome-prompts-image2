@@ -812,20 +812,20 @@ Traducción en curso
 
 <a name="prompt-2097513469172129825"></a>
 
-### Traducción en curso
+### Retrato en plano picado de una mujer esbelta con un qipao floral, con una iluminación suave y de ensueño y un maquillaje delicado.
 
 Autor：[@BubbleBrain](https://x.com/BubbleBrain) · [Publicación original](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato en plano picado de una mujer esbelta con un qipao floral, con una iluminación suave y de ensueño y un maquillaje delicado.
 
 <img src="images/2097513469172129825-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+9:16, vistiendo un qipao, suave halo de luz, desenfoque de ensueño, toma en plano picado mirando hacia abajo, figura de modelo alta y esbelta, maquillaje refinado, rostro de belleza felina/zorruna
 ```
 
 [↑ Volver a categorías](#catalog)

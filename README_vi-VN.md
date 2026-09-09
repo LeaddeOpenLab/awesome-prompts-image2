@@ -790,20 +790,20 @@ Sản phẩm · Đã xuất bản
 
 <a name="prompt-2097513469172129825"></a>
 
-### Đang dịch
+### Chân dung góc cao của một người phụ nữ thanh mảnh mặc sườn xám họa tiết hoa với ánh sáng mềm mại như mơ và lối trang điểm tinh tế.
 
 Tác giả：[@BubbleBrain](https://x.com/BubbleBrain) · [Bài gốc](https://x.com/BubbleBrain/status/2097513469172129825)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung góc cao của một người phụ nữ thanh mảnh mặc sườn xám họa tiết hoa với ánh sáng mềm mại như mơ và lối trang điểm tinh tế.
 
 <img src="images/2097513469172129825-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+9:16, mặc sườn xám, ánh sáng dịu tỏa lan, mờ ảo như mơ, góc chụp cao nhìn xuống, vóc dáng người mẫu cao thanh mảnh, trang điểm tinh tế, khuôn mặt mỹ nhân đẹp sắc sảo như hồ ly
 ```
 
 [↑ Về danh mục](#catalog)
