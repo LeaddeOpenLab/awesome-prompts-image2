@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**19** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**20** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,28 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="images/2097411028510179759-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Übersetzung läuft
+
+Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Originalbeitrag](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2096909970398941572-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 

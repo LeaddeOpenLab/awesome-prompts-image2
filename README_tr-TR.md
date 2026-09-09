@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**19** Prompt · Son eklenen: **2026-09-09**
+**20** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,28 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="images/2097411028510179759-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MrDasOnX](https://x.com/MrDasOnX) · [Orijinal gönderi](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096909970398941572-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 

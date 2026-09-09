@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**19** Prompts · Latest addition: **2026-09-09**
+**20** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -44,6 +44,33 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Photorealistic 9:16 mirror selfie of an athletic Brazilian woman in a terracotta-orange bodysuit inside an upscale gym.
+
+Author：[@MrDasOnX](https://x.com/MrDasOnX) · [Source](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic 9:16 mirror selfie of an athletic Brazilian woman in a terracotta-orange bodysuit inside an upscale gym.
+
+<img src="images/2096909970398941572-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Photorealistic indoor luxury fitness studio mirror selfie, vertical 9:16, a young adult Brazilian woman standing in a relaxed contrapposto pose taking a smartphone selfie. Camera captures the scene through a large floor-to-ceiling mirror using a 28–35mm equivalent phone wide-angle lens. Subject stands about 1 meter from the mirror. Full body from head to sneakers is visible. She occupies the center-left of the frame. Warm wooden flooring, black rubber mats, and rows of kettlebells and cable machines appear on the right and in the background.
+Subject is a young adult Brazilian woman with a compact athletic-curvy build: moderately broad shoulders, defined but not bulky arms, full bust, cinched waist, rounded hips, and naturally thick thighs. Proportions feel grounded and real rather than model-thin or exaggerated. Warm golden-tan skin with visible pores and subtle variation. Soft natural lighting, no plastic skin.
+She stands with weight on her right leg, left knee slightly bent and turned out, hips angled toward the mirror. Torso twists gently so her left shoulder is closer to the glass. Left hand rests on her hip; right hand holds a dark smartphone up near her face at cheek height. Head is turned over her left shoulder toward the phone, chin slightly down, expression calm and slightly confident with a small closed-mouth smile. Eyes look at the screen.
+Hair is dark brown with warm caramel highlights, shoulder-length, worn in a loose low ponytail with face-framing strands. Face is oval with high cheekbones, full lips in a natural nude-rose tone, and dark brown almond eyes.
+Outfit is a deep terracotta-orange high-neck athletic one-piece with thin straps, moderate coverage, and a high-cut but still modest leg line. Matte stretch fabric, no logos. White sneakers with clean soles.
+Setting is a high-end contemporary fitness studio with large mirrors, exposed brick on one wall, warm pendant lights mixed with cool overhead LEDs, and a few other people training softly out of focus in the background. Realistic phone HDR, natural grain, accurate reflections, and believable shadows.
 ```
 
 [↑ Back to categories](#catalog)

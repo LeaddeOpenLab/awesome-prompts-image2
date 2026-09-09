@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**19** Prompts · Dernier ajout: **2026-09-09**
+**20** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,28 @@ Photographie · Paysage / Nature · Publié
 **Résumé:** Traduction en cours
 
 <img src="images/2097411028510179759-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Traduction en cours
+
+Auteur：[@MrDasOnX](https://x.com/MrDasOnX) · [Publication originale](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2096909970398941572-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 

@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**19** Prompt · Bổ sung mới nhất: **2026-09-09**
+**20** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,28 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 **Tóm tắt:** Đang dịch
 
 <img src="images/2097411028510179759-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Đang dịch
+
+Tác giả：[@MrDasOnX](https://x.com/MrDasOnX) · [Bài gốc](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2096909970398941572-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 

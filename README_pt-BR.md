@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**19** Prompts · Última adição: **2026-09-09**
+**20** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -39,6 +39,28 @@ Fotografia · Paisagem / Natureza · Publicado
 **Resumo:** Tradução em andamento
 
 <img src="images/2097411028510179759-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2096909970398941572"></a>
+
+### Tradução em andamento
+
+Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Publicação original](https://x.com/MrDasOnX/status/2096909970398941572)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2096909970398941572-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
