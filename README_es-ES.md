@@ -104,20 +104,25 @@ Traducción en curso
 
 <a name="prompt-2096909970398941572"></a>
 
-### Traducción en curso
+### Selfie frente al espejo fotorrealista 9:16 de una mujer brasileña atlética con un body naranja terracota dentro de un gimnasio exclusivo.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Publicación original](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Selfie frente al espejo fotorrealista 9:16 de una mujer brasileña atlética con un body naranja terracota dentro de un gimnasio exclusivo.
 
 <img src="images/2096909970398941572-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Selfie frente al espejo fotorrealista en un gimnasio de lujo interior, vertical 9:16, una mujer brasileña adulta joven de pie en una relajada pose de contrapposto tomándose un selfie con un teléfono inteligente. La cámara captura la escena a través de un gran espejo de suelo a techo utilizando una lente gran angular de teléfono equivalente a 28–35 mm. El sujeto se encuentra a aproximadamente 1 metro del espejo. Es visible todo el cuerpo desde la cabeza hasta las zapatillas. Ocupa el centro-izquierda del encuadre. Suelo de madera cálida, esterillas de goma negra y filas de pesas rusas y máquinas de poleas aparecen a la derecha y al fondo.
+El sujeto es una mujer brasileña adulta joven con una complexión atlética y curvilínea compacta: hombros moderadamente anchos, brazos definidos pero no voluminosos, busto lleno, cintura ceñida, caderas redondeadas y muslos naturalmente gruesos. Las proporciones se sienten realistas y naturales en lugar de exageradas o delgadas como las de una modelo. Piel bronceada dorada cálida con poros visibles y sutiles variaciones. Iluminación natural suave, sin piel plástica.
+Está de pie con el peso sobre la pierna derecha, la rodilla izquierda ligeramente flexionada y girada hacia afuera, y las caderas orientadas hacia el espejo. El torso gira suavemente para que su hombro izquierdo quede más cerca del cristal. La mano izquierda descansa sobre su cadera; la mano derecha sostiene un teléfono inteligente oscuro cerca de su rostro a la altura de la mejilla. La cabeza está girada sobre su hombro izquierdo hacia el teléfono, la barbilla ligeramente hacia abajo, con una expresión tranquila y sutilmente segura, con una pequeña sonrisa de boca cerrada. Los ojos miran a la pantalla.
+El cabello es castaño oscuro con reflejos caramelo cálidos, a la altura de los hombros, recogido en una coleta baja y suelta con mechones que enmarcan el rostro. El rostro es ovalado con pómulos altos, labios carnosos en un tono rosa nude natural y ojos almendrados de color marrón oscuro.
+El atuendo es un enterizo deportivo de cuello alto en color naranja terracota profundo con tirantes finos, cobertura moderada y una línea de pierna de corte alto pero aún modesta. Tejido elástico mate, sin logotipos. Zapatillas blancas con suelas limpias.
+El entorno es un gimnasio contemporáneo de alta gama con grandes espejos, ladrillo visto en una pared, luces colgantes cálidas combinadas con luces LED cenitales frías, y algunas otras personas entrenando suavemente desenfocadas en el fondo. HDR de teléfono realista, grano natural, reflejos precisos y sombras creíbles.
 ```
 
 [↑ Volver a categorías](#catalog)

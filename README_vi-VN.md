@@ -104,20 +104,25 @@ Hồ sơ / Ảnh đại diện · Nhiếp ảnh · Chân dung / Ảnh tự chụ
 
 <a name="prompt-2096909970398941572"></a>
 
-### Đang dịch
+### Ảnh selfie qua gương chân thực 9:16 của một phụ nữ Brazil dáng thể thao trong bộ bodysuit màu cam đất nung bên trong phòng tập cao cấp.
 
 Tác giả：[@MrDasOnX](https://x.com/MrDasOnX) · [Bài gốc](https://x.com/MrDasOnX/status/2096909970398941572)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh selfie qua gương chân thực 9:16 của một phụ nữ Brazil dáng thể thao trong bộ bodysuit màu cam đất nung bên trong phòng tập cao cấp.
 
 <img src="images/2096909970398941572-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh selfie qua gương chân thực tại phòng tập thể hình sang trọng trong nhà, khổ dọc 9:16, một phụ nữ trẻ người Brazil đứng trong tư thế contrapposto thả lỏng đang chụp ảnh selfie bằng điện thoại thông minh. Máy ảnh ghi lại khung cảnh qua một tấm gương lớn kéo dài từ sàn đến trần nhà bằng ống kính góc rộng tương đương 28–35mm của điện thoại. Đối tượng đứng cách gương khoảng 1 mét. Có thể nhìn thấy toàn thân từ đầu đến giày thể thao. Cô chiếm vị trí ở giữa lệch trái của khung hình. Sàn gỗ ấm áp, thảm cao su đen, cùng các hàng tạ ấm kettlebell và máy kéo cáp xuất hiện ở bên phải và phía sau nền.
+Đối tượng là một phụ nữ trẻ người Brazil với vóc dáng thể thao săn chắc và nở nang: vai rộng vừa phải, cánh tay săn chắc rõ nét nhưng không thô, ngực đầy đặn, eo thon, hông tròn trịa và đùi đầy đặn tự nhiên. Tỷ lệ mang lại cảm giác chân thật và thực tế thay vì gầy như người mẫu hoặc bị phóng đại. Làn da rám nắng ánh vàng ấm áp với lỗ chân lông có thể nhìn thấy và sự biến thiên sắc thái tinh tế. Ánh sáng tự nhiên mềm mại, không có làn da nhựa giả tạo.
+Cô đứng dồn trọng lượng lên chân phải, đầu gối trái hơi khuỵu và xoay ra ngoài, hông nghiêng về phía gương. Thân trên xoay nhẹ để vai trái gần mặt kính hơn. Tay trái đặt trên hông; tay phải cầm một chiếc điện thoại thông minh màu tối giơ lên gần mặt ở độ cao ngang má. Đầu quay qua vai trái nhìn về phía điện thoại, cằm hơi hạ xuống, biểu cảm điềm tĩnh và hơi tự tin với nụ cười mỉm ngậm miệng. Mắt nhìn vào màn hình.
+Tóc màu nâu sẫm với các lọn highlight màu caramel ấm áp, dài ngang vai, được buộc đuôi ngựa thấp lỏng cùng vài lọn tóc ôm lấy khuôn mặt. Khuôn mặt trái xoan với gò má cao, đôi môi đầy đặn tông hồng nude tự nhiên và đôi mắt hạnh nhân màu nâu sẫm.
+Trang phục là bộ đồ tập thể thao liền thân cổ cao màu cam đất nung (terracotta) đậm với dây đai mỏng, độ che phủ vừa phải, đường cắt hông cao nhưng vẫn kín đáo. Vải co giãn lì, không có logo. Giày thể thao màu trắng với đế sạch sẽ.
+Bối cảnh là một phòng tập thể dục đương đại cao cấp với gương lớn, tường gạch trần ở một bên, đèn thả trần ấm áp kết hợp với đèn LED mát mẻ trên cao, và một vài người khác đang tập luyện mờ ảo ngoài tiêu cự ở phía sau nền. HDR điện thoại chân thực, độ hạt tự nhiên, hình ảnh phản chiếu chính xác và bóng đổ đáng tin cậy.
 ```
 
 [↑ Về danh mục](#catalog)
