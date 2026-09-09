@@ -1169,7 +1169,7 @@ Görseldeki karakteri referans alarak, 3*3 formatında toplam 9 farklı ifadeye 
 
 <a name="prompt-2097631043004273061"></a>
 
-### Çeviri sürüyor
+### Şavurma yiyen Cristiano Ronaldo animasyonu.
 
 Yazar：[@royalpinto007](https://x.com/royalpinto007) · [Orijinal gönderi](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1177,14 +1177,14 @@ Diğer · Yayımlandı
 
 Orijinal gönderi：[@gabrielchua](https://x.com/gabrielchua) · [Orijinal gönderi](https://x.com/gabrielchua/status/2097546354373603554)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şavurma yiyen Cristiano Ronaldo animasyonu.
 
 <img src="covers/2097631043004273061.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şavurma yiyen Cristiano Ronaldo
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -1169,7 +1169,7 @@ Com base na personagem da imagem de referência, gera uma grelha de 3*3 com um t
 
 <a name="prompt-2097631043004273061"></a>
 
-### Tradução em curso
+### Animação de Cristiano Ronaldo a comer shawarma.
 
 Autor：[@royalpinto007](https://x.com/royalpinto007) · [Publicação original](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1177,14 +1177,14 @@ Outros · Publicado
 
 Publicação original：[@gabrielchua](https://x.com/gabrielchua) · [Publicação original](https://x.com/gabrielchua/status/2097546354373603554)
 
-**Resumo:** Tradução em curso
+**Resumo:** Animação de Cristiano Ronaldo a comer shawarma.
 
 <img src="covers/2097631043004273061.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cristiano Ronaldo a comer shawarma
 ```
 
 [↑ Voltar às categorias](#catalog)

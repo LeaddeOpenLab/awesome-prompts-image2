@@ -1159,7 +1159,7 @@ En vous basant sur le personnage de l'image de référence, générez une grille
 
 <a name="prompt-2097631043004273061"></a>
 
-### Traduction en cours
+### Animation de Cristiano Ronaldo mangeant un shawarma.
 
 Auteur：[@royalpinto007](https://x.com/royalpinto007) · [Publication originale](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1167,14 +1167,14 @@ Autres · Publié
 
 Publication originale：[@gabrielchua](https://x.com/gabrielchua) · [Publication originale](https://x.com/gabrielchua/status/2097546354373603554)
 
-**Résumé:** Traduction en cours
+**Résumé:** Animation de Cristiano Ronaldo mangeant un shawarma.
 
 <img src="covers/2097631043004273061.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Cristiano Ronaldo mangeant un shawarma
 ```
 
 [↑ Retour aux catégories](#catalog)

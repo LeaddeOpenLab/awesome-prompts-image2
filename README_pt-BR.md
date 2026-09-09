@@ -1169,7 +1169,7 @@ Com base no personagem da imagem de referência, gere uma grade de 3*3 com um to
 
 <a name="prompt-2097631043004273061"></a>
 
-### Tradução em andamento
+### Animação de Cristiano Ronaldo comendo shawarma.
 
 Autor：[@royalpinto007](https://x.com/royalpinto007) · [Publicação original](https://x.com/royalpinto007/status/2097631043004273061)
 
@@ -1177,14 +1177,14 @@ Outros · Publicado
 
 Publicação original：[@gabrielchua](https://x.com/gabrielchua) · [Publicação original](https://x.com/gabrielchua/status/2097546354373603554)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Animação de Cristiano Ronaldo comendo shawarma.
 
 <img src="covers/2097631043004273061.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Cristiano Ronaldo comendo shawarma
 ```
 
 [↑ Voltar às categorias](#catalog)
