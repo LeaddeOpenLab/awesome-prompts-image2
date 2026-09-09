@@ -812,13 +812,13 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097486896750338125"></a>
 
-### Đang dịch
+### Mẫu câu lệnh Image-to-Image giữ nguyên ánh sáng, chất cảm và bố cục dựa trên ảnh tham khảo đồng thời thiết kế lại chủ đề nhân vật.
 
 Tác giả：[@nanyuan0412](https://x.com/nanyuan0412) · [Bài gốc](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu câu lệnh Image-to-Image giữ nguyên ánh sáng, chất cảm và bố cục dựa trên ảnh tham khảo đồng thời thiết kế lại chủ đề nhân vật.
 
 <img src="images/2097486896750338125-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -831,7 +831,7 @@ Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?
 ```
 
 [↑ Về danh mục](#catalog)

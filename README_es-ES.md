@@ -834,13 +834,13 @@ Traducción en curso
 
 <a name="prompt-2097486896750338125"></a>
 
-### Traducción en curso
+### Plantilla de prompt Image-to-Image para mantener luces, sombras, texturas y composición basadas en una imagen de referencia, rediseñando el personaje y la temática.
 
 Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicación original](https://x.com/nanyuan0412/status/2097486896750338125)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt Image-to-Image para mantener luces, sombras, texturas y composición basadas en una imagen de referencia, rediseñando el personaje y la temática.
 
 <img src="images/2097486896750338125-1.jpg" alt="Imagen 1" width="480" />
 
@@ -853,7 +853,7 @@ Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la relación de exposición, la dirección de la luz, la textura de la tela y el ritmo de la composición; rediseña el personaje y la paleta de colores temáticos. El personaje es un adulto, no copies el rostro del personaje de referencia. Después de generar, coteja con la imagen original: ¿se ha cambiado la iluminación sin permiso, se ha engrosado la ropa o se ha suavizado la piel en exceso?
 ```
 
 [↑ Volver a categorías](#catalog)
