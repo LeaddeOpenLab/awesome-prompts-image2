@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**39** Prompts · Dernier ajout: **2026-09-09**
+**40** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -841,6 +841,30 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Traduction en cours
+
+Auteur：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publication originale](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Affiche / Flyer · Photographie · Illustration · Rétro / Vintage · Paysage urbain / Rue · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097628670143954978-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

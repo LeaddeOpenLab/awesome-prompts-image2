@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**39** Prompts · Adição mais recente: **2026-09-09**
+**40** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -851,6 +851,30 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Tradução em curso
+
+Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Publicação original](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Pôster / Folheto · Fotografia · Ilustração · Retrô / Vintage · Paisagem urbana / Rua · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097628670143954978-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

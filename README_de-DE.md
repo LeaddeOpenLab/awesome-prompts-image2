@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**39** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**40** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -841,6 +841,30 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Übersetzung läuft
+
+Autor：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Originalbeitrag](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Plakat / Flyer · Fotografie · Illustration · Retro / Vintage · Stadtbild / Straße · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097628670143954978-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

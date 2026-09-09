@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**39** Prompt · Ultima aggiunta: **2026-09-09**
+**40** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -841,6 +841,30 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Traduzione in corso
+
+Autore：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Post originale](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Poster / Volantino · Fotografia · Illustrazione · Retro / Vintage · Paesaggio urbano / Strada · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097628670143954978-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

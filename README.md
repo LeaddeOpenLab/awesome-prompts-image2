@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**39** Prompts · Latest addition: **2026-09-09**
+**40** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -839,6 +839,90 @@ Transform the photo into a hand-drawn travel journal style using colored pencil 
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Create a two-panel travel diary poster: realistic street scene on top, vintage illustration style with the same composition on the bottom, with typography layout.
+
+Author：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Source](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Poster / Flyer · Photography · Illustration · Retro / Vintage · Cityscape / Street · Text / Typography · Published
+
+**Summary:** Create a two-panel travel diary poster: realistic street scene on top, vintage illustration style with the same composition on the bottom, with typography layout.
+
+<img src="images/2097628670143954978-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
+
+Replace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.
+
+TOP PANEL
+
+Recreate the original street scene exactly:
+
+European-style narrow cobblestone street
+
+Historic cream-colored buildings
+
+Café signs, windows, balconies, street lamps and bollards
+
+Same camera angle, framing, perspective and composition
+
+Same seated/leaning pose and body position
+
+Same black textured sweater/coat
+
+Natural long dark hair
+
+Soft cinematic daylight
+
+Photorealistic skin texture and realistic lighting
+
+Integrate my face naturally with the original pose, head angle and lighting
+
+BOTTOM PANEL
+
+Create the matching hand-drawn/printed illustration version of the same scene.
+
+Keep the same pose, clothing, hairstyle and facial identity
+
+Convert the photograph into a textured vintage editorial illustration
+
+Blue, cream and muted warm-orange ink palette
+
+Visible paper grain and imperfect ink texture
+
+Keep my facial features recognizable while matching the illustrated style
+
+Preserve the street, buildings, plants, cars and perspective from the original
+
+TYPOGRAPHY & LAYOUT
+
+Keep the original poster layout and typography style:
+
+Large handwritten title: “By the Street”
+
+Small English diary text
+
+Chinese text in the upper-left
+
+Date: 2026.08.29
+
+Small diary number/details
+
+Right-side phrase: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Most important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

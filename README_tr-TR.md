@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**39** Prompt · Son eklenen: **2026-09-09**
+**40** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -851,6 +851,30 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097628670143954978"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Orijinal gönderi](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Poster / El İlanı · Fotoğrafçılık · İllüstrasyon · Retro / Vintage · Şehir Manzarası / Sokak · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097628670143954978-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 

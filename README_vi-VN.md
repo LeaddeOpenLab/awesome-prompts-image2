@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**39** Prompt · Bổ sung mới nhất: **2026-09-09**
+**40** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -865,6 +865,30 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2097628670143954978"></a>
+
+### Đang dịch
+
+Tác giả：[@Alina\_with\_Ai](https://x.com/Alina_with_Ai) · [Bài gốc](https://x.com/Alina_with_Ai/status/2097628670143954978)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Minh họa · Cổ điển / Cổ điển · Quang cảnh thành phố / Đường phố · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097628670143954978-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097628670143954978-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097185580224491672"></a>
 
