@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:46:36.719Z",
+  "model": "image2.5",
+  "prompt": "将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？",
+  "promptTranslations": {
+    "en": "Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?"
+  },
+  "summaryTranslations": {
+    "en": "An image-to-image prompt template for redesigning character themes while maintaining lighting, texture, and composition based on a reference image."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图保持光影、质感与构图并重新设计角色主题的图生图指令模版。",
+  "summaryEn": "An image-to-image prompt template to retain lighting, texture, and composition while redesigning character styling.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097486896750338125",
+    "canonicalUrl": "https://x.com/nanyuan0412/status/2097486896750338125",
+    "author": {
+      "username": "nanyuan0412",
+      "displayName": "南鸢 nuyoah",
+      "profileUrl": "https://x.com/nanyuan0412"
+    },
+    "publishedAt": "2026-09-09T00:47:00.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "zh",
+    "originalText": "GPT Image 2.5 来了\n\n借这个更新，给大家分享一个写提示词的时候比继续优化提示词更好用的方法\n\n参考图……\n\n告诉 AI，你到底舍不得参考图里的什么。\n\n“参考这个风格”太宽泛了。你喜欢的可能是曝光，是衣料的轻薄程度，是妆面的处理，甚至只是人物和背景之间的明暗差。\n\n不说清楚，模型就会自己瞎想。\n\n想做同系列，试着把要求分成两句：\n\n保留什么：原图的布光、曝光关系、材质呈现和构图习惯。\n\n改变什么：角色设定、主题配色、服装符号和道具。\n\n然后，把原图一起上传。光让 AI 把图片翻译成文字，再拿文字去生成，会丢掉不少你说不出名字、却一眼就能认出来的细节。\n\n可以直接试这段：\n将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？\n\n这是一段起手式，具体要保留什么，还得由你选。\n\n模型更新，可以带来更强的执行能力。\n\n而你说清楚的那句“这里别改”，往往决定了成片还是不是你想要的那张。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRu3ie-bwAATJ-v.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRu3ie-bwAATJ-v.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRu3ie5bEAA6mRU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRu3ie5bEAA6mRU.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRu3ie6awAALmnX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRu3ie6awAALmnX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRu3ie6aQAA5vPA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRu3ie6aQAA5vPA.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 2183
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nanyuan0412/status/2097486896750338125",
+  "coverUrl": "https://pbs.twimg.com/media/HRu3ie-bwAATJ-v.jpg",
+  "coverPath": "images/2097486896750338125-1.jpg",
+  "imagePaths": [
+    "images/2097486896750338125-1.jpg",
+    "images/2097486896750338125-2.jpg",
+    "images/2097486896750338125-3.jpg",
+    "images/2097486896750338125-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRu3ie-bwAATJ-v",
+    "x-image:/media/HRu3ie5bEAA6mRU",
+    "x-image:/media/HRu3ie6awAALmnX",
+    "x-image:/media/HRu3ie6aQAA5vPA",
+    "x-post:2097486896750338125"
+  ],
+  "analysis": {
+    "summary": "基于参考图保持光影、质感与构图并重新设计角色主题的图生图指令模版。",
+    "summaryEn": "An image-to-image prompt template to retain lighting, texture, and composition while redesigning character styling.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图均展示了统一的光影曝光、白色背景纯影棚构图，以及精致的精灵弓箭手服装材质与配色调整。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？",
+    "sourceRange": {
+      "start": 296,
+      "end": 398
+    },
+    "translations": {
+      "zh": "将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？",
+      "en": "Use the attached image as a photography reference. Retain lighting, exposure, fabric texture, and composition cadence; redesign character and theme palette. Character is adult, do not replicate reference face. Verify against original: lighting unaltered, clothing not thickened, skin not over-smoothed."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "image-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
