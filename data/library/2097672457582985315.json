@@ -12,7 +12,14 @@
     "th-TH": "เดือนนี้จะไปเที่ยวรื่อจ้าว ชิงเต่า และเยียนไถเป็นเวลา 5 วัน ช่วยสร้างภาพแผนที่คู่มือการท่องเที่ยวให้หนึ่งภาพ",
     "vi-VN": "Tháng này tôi sẽ đi du lịch Nhật Chiếu, Thanh Đảo, Yên Đài trong 5 ngày, hãy tạo một hình ảnh cẩm nang hướng dẫn du lịch",
     "hi-IN": "इस महीने 5 दिनों के लिए रिझाओ, क़िंगदाओ और यानताई की यात्रा पर जाना है, एक यात्रा गाइड इन्फोग्राफिक चित्र बनाएं",
-    "es-ES": "Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días, genera una imagen de guía turística con el itinerario"
+    "es-ES": "Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días, genera una imagen de guía turística con el itinerario",
+    "es-419": "Este mes voy a viajar a Rizhao, Qingdao y Yantai durante 5 días; genera una imagen de guía de viaje.",
+    "de-DE": "Diesen Monat reise ich für 5 Tage nach Rizhao, Qingdao und Yantai; erstelle eine Reiseguide-Grafik.",
+    "fr-FR": "Ce mois-ci, je pars en voyage à Rizhao, Qingdao et Yantai pendant 5 jours ; génère une infographie de guide de voyage.",
+    "it-IT": "Questo mese andrò in viaggio a Rizhao, Qingdao e Yantai per 5 giorni; genera un'immagine con una guida di viaggio.",
+    "pt-BR": "Vou viajar para Rizhao, Qingdao e Yantai por 5 dias este mês; gere uma imagem de guia de viagem.",
+    "pt-PT": "Este mês vou viajar para Rizhao, Qingdao e Yantai durante 5 dias; gera uma imagem de guia de viagem.",
+    "tr-TR": "Bu ay 5 günlüğüne Rizhao, Çingdao ve Yantai'ye seyahat edeceğim; bir seyahat rehberi görseli oluştur."
   },
   "summaryTranslations": {
     "en": "Generate a text-to-image prompt for a 5-day travel itinerary guide map of Rizhao, Qingdao, and Yantai.",
@@ -23,7 +30,14 @@
     "th-TH": "คำสั่งสร้างภาพคู่มือการท่องเที่ยวสำหรับแผนการเดินทาง 5 วันในรื่อจ้าว ชิงเต่า และเยียนไถ",
     "vi-VN": "Prompt tạo ảnh cẩm nang du lịch cho lịch trình 5 ngày tại Nhật Chiếu, Thanh Đảo, Yên Đài.",
     "hi-IN": "रिझाओ, क़िंगदाओ और यानताई की 5-दिवसीय यात्रा कार्यक्रम की गाइड छवि बनाने के लिए टेक्स्ट-टू-इमेज प्रॉम्प्ट।",
-    "es-ES": "Prompt de texto a imagen para generar una imagen de guía turística para un itinerario de 5 días en Rizhao, Qingdao y Yantai."
+    "es-ES": "Prompt de texto a imagen para generar una imagen de guía turística para un itinerario de 5 días en Rizhao, Qingdao y Yantai.",
+    "es-419": "Prompt de texto a imagen para generar una imagen de guía de viaje para un itinerario de 5 días por Rizhao, Qingdao y Yantai.",
+    "de-DE": "Text-zu-Bild-Prompt zur Erstellung einer Reiseguide-Grafik für eine 5-tägige Reiseroute nach Rizhao, Qingdao und Yantai.",
+    "fr-FR": "Prompt texte-vers-image pour générer une infographie de guide de voyage pour un itinéraire de 5 jours à Rizhao, Qingdao et Yantai.",
+    "it-IT": "Prompt text-to-image per generare un'immagine con una guida di viaggio per un itinerario di 5 giorni a Rizhao, Qingdao e Yantai.",
+    "pt-BR": "Prompt de texto para imagem para gerar uma imagem de guia de viagem para um roteiro de 5 dias em Rizhao, Qingdao e Yantai.",
+    "pt-PT": "Prompt de texto para imagem para gerar uma imagem de guia de viagem para um itinerário de 5 dias em Rizhao, Qingdao e Yantai.",
+    "tr-TR": "Rizhao, Çingdao ve Yantai için 5 günlük seyahat programı rehberi görseli oluşturan metinden görsele istemi."
   },
   "translationVersion": 2,
   "summary": "生成日照、青岛、烟台5天行程旅游攻略图的文生图提示词。",
