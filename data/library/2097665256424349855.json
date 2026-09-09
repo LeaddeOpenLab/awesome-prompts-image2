@@ -4,10 +4,26 @@
   "model": "image2.5",
   "prompt": "生成一张图片，讲讲上下五千年的历史",
   "promptTranslations": {
-    "en": "Generate an image that tells the story of five thousand years of history"
+    "en": "Generate an image that tells the story of five thousand years of history",
+    "zh": "生成一张图片，讲讲上下五千年的历史",
+    "zh-TW": "生成一張圖片，講講上下五千年的歷史",
+    "ja-JP": "中国の五千年にわたる歴史を物語る画像を1枚生成してください",
+    "ko-KR": "오천 년의 역사를 보여주는 이미지를 하나 생성해 주세요",
+    "th-TH": "สร้างภาพหนึ่งภาพที่บอกเล่าประวัติศาสตร์ห้าพันปี",
+    "vi-VN": "Tạo một hình ảnh kể về lịch sử năm nghìn năm",
+    "hi-IN": "पाँच हज़ार वर्षों के इतिहास को दर्शाने वाली एक छवि उत्पन्न करें",
+    "es-ES": "Genera una imagen que cuente la historia de cinco mil años"
   },
   "summaryTranslations": {
-    "en": "Generate an illustrated long infographic image of five thousand years of Chinese history"
+    "en": "Generate an illustrated long infographic image of five thousand years of Chinese history",
+    "zh": "生成中国五千年历史图解长图",
+    "zh-TW": "生成中國五千年歷史圖解長圖",
+    "ja-JP": "中国五千年の歴史の図解ロング画像の生成",
+    "ko-KR": "중국 5천 년 역사 인포그래픽 롱 이미지 생성",
+    "th-TH": "สร้างภาพขนาดยาวแสดงแผนภาพประวัติศาสตร์ห้าพันปีของจีน",
+    "vi-VN": "Tạo hình ảnh dài minh họa năm nghìn năm lịch sử Trung Quốc",
+    "hi-IN": "चीन के पाँच हज़ार वर्षों के इतिहास का सचित्र लंबा चित्र उत्पन्न करें",
+    "es-ES": "Generar una imagen larga ilustrada de los cinco mil años de historia de China"
   },
   "translationVersion": 2,
   "summary": "生成中国五千年历史图解长图",
