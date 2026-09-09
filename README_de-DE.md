@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**45** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**46** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1127,6 +1127,28 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097665256424349855"></a>
+
+### Übersetzung läuft
+
+Autor：[@cnyzgkc](https://x.com/cnyzgkc) · [Originalbeitrag](https://x.com/cnyzgkc/status/2097665256424349855)
+
+Infografik / Edu Visual · Diagramm / Grafik · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097665256424349855-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097611216139235779"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**45** Prompt · Son eklenen: **2026-09-09**
+**46** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1137,6 +1137,28 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097665256424349855"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@cnyzgkc](https://x.com/cnyzgkc) · [Orijinal gönderi](https://x.com/cnyzgkc/status/2097665256424349855)
+
+İnfografik / Eğitici Görsel · Diyagram / Grafik · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097665256424349855-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097611216139235779"></a>
 

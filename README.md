@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**45** Prompts · Latest addition: **2026-09-09**
+**46** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1094,6 +1094,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097665256424349855"></a>
+
+### Generate an illustrated long infographic image of five thousand years of Chinese history
+
+Author：[@cnyzgkc](https://x.com/cnyzgkc) · [Source](https://x.com/cnyzgkc/status/2097665256424349855)
+
+Infographic / Edu Visual · Diagram / Chart · Published
+
+**Summary:** Generate an illustrated long infographic image of five thousand years of Chinese history
+
+<img src="images/2097665256424349855-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Generate an image that tells the story of five thousand years of history
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097611216139235779"></a>
 

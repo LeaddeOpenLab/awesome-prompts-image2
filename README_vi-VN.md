@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**45** Prompt · Bổ sung mới nhất: **2026-09-09**
+**46** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -1129,6 +1129,28 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097665256424349855"></a>
+
+### Đang dịch
+
+Tác giả：[@cnyzgkc](https://x.com/cnyzgkc) · [Bài gốc](https://x.com/cnyzgkc/status/2097665256424349855)
+
+Infographic / Hình ảnh giáo dục · Sơ đồ / Biểu đồ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097665256424349855-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097611216139235779"></a>
 
