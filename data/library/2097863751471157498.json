@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T02:30:05.962Z",
+  "model": "image2.5",
+  "prompt": "上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。",
+  "promptTranslations": {
+    "en": "Upload Image 1 as the sole reference for character identity and costume. Convert the character in Image 1 into a high-quality 2D pixel game character, generating a square, 4×4 evenly divided, 16-frame continuous action Sprite Sheet. Each cell is identical in size. The frames play in sequence from left to right, top to bottom. Strictly preserve the character's face shape, hairstyle, body type, costume color scheme, signature accessories, and weapon structure. All 16 frames must use the same pixel scale, character size, facing direction, and color palette. The character completes a single [sword swing attack / jump / roll / spell casting / pounce] action. Frames 1 to 3 are idle and charging; Frames 4 to 7 are center of gravity shift and action unfolding; Frames 8 to 10 execute the main attack and power release; Frames 11 to 13 display inertia and follow-through; Frames 14 to 16 return to the idle state. Frame 16 seamlessly connects back to Frame 1. Adjacent frames only change the joints, silhouette, hemline, hair, and weapon position necessary to complete the action. Action direction, force dynamics, and motion trajectory remain continuous. All cells maintain the same camera angle, character scaling, ground baseline, and frame center. The character is completely displayed, with no cropping of the head, weapon, tail, or special effects. Background preferentially uses a transparent channel. When a transparent background is unstable, switch to a uniform solid color background for easy subsequent cutout. Do not generate scenes, ground textures, grid lines, numbering, or text. Adopt clear hard-edged pixels, a limited color palette, and uniform pixel density. Blurred edges, anti-aliasing, semi-realistic rendering, duplicate frames, skipped frames, character deformation, costume variations, weapon additions or removals, perspective shifts, and recomposition per cell are forbidden."
+  },
+  "summaryTranslations": {
+    "en": "Generate a 16-frame continuous action 2D pixel sprite sheet arranged in a square 4×4 grid based on the reference image, maintaining consistent character proportions and baseline, with instructions for a seamless looping action including idle, charging, release, and recovery."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图生成正方形4×4排列、共16帧的2D连续动作像素精灵表（Sprite Sheet），保持角色比例、基线一致，包含待机、蓄力、释放和收势的无缝循环动作指令。",
+  "summaryEn": "A prompt generating a 4x4 16-frame 2D pixel continuous action sprite sheet based on a reference image, maintaining character scale, consistent baseline, and seamless loop action phases from idle to attack and recovery.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097863751471157498",
+    "canonicalUrl": "https://x.com/derek_wall90176/status/2097863751471157498",
+    "author": {
+      "username": "derek_wall90176",
+      "displayName": "Derek Wen｜德里克文",
+      "profileUrl": "https://x.com/derek_wall90176"
+    },
+    "publishedAt": "2026-09-10T01:44:29.000Z",
+    "collectedAt": "2026-09-10T02:27:36.189Z",
+    "language": "zh",
+    "originalText": "这两天，GPT-Image 2.5的发布，让我们发现了一个新玩法：4×4像素战斗图。\n上传一张角色或宠物图片，GPT‑IMAGE可以生成16格动作画面。\n把网格拆开，按顺序播放，就能得到一段像素GIF。\n\n🎯 核心提示词\n\n上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。\n\n🔁 延伸玩法\n\n• 角色行走、奔跑与跳跃循环\n• 宠物扑击、甩尾、翻滚和抖毛\n• 魔法少女或机甲变身动画\n• 游戏角色攻击、受击和倒地动作\n• 像素表情包与社交媒体GIF\n• 产品开合、旋转和组装演示\n\n⚙️ 关键控制点\n\n简单动作可以先测试8帧，确认身份和基线稳定后再扩展到16帧。\n拆帧时按原图宽高各除以4，保持每格尺寸一致。不要对单帧自动裁边，否则角色播放时会左右抖动。\nGIF建议使用每秒8至12帧。攻击命中的关键帧可以重复一次，增加停顿和力量感。\n透明通道失败时，先生成与角色颜色差异明显的纯色背景，再统一抠除。\n\n📌 一句话总结\n\n连续动作精灵表，是把一张角色图变成一段可以播放、拆帧并接入游戏的动作序列。",
+    "media": [
+      {
+        "type": "animated_gif",
+        "url": "https://x.com/derek_wall90176/status/2097863751471157498",
+        "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HR0b59TbQAAq1hh.jpg",
+        "analysisUrl": "https://x.com/derek_wall90176/status/2097863751471157498"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0b7G5b0AAlHaN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0b7G5b0AAlHaN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0b7G7aIAA8boG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0b7G7aIAA8boG.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0b7G8bkAAOI2d.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0b7G8bkAAOI2d.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 67
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/derek_wall90176/status/2097863751471157498",
+  "coverUrl": "https://pbs.twimg.com/tweet_video_thumb/HR0b59TbQAAq1hh.jpg",
+  "coverPath": "covers/2097863751471157498.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:HR0b59TbQAAq1hh.mp4",
+    "x-video:HR0b59TbQAAq1hh.jpg",
+    "x-image:/media/HR0b7G5b0AAlHaN",
+    "x-image:/media/HR0b7G7aIAA8boG",
+    "x-image:/media/HR0b7G8bkAAOI2d",
+    "x-post:2097863751471157498"
+  ],
+  "analysis": {
+    "summary": "基于参考图生成正方形4×4排列、共16帧的2D连续动作像素精灵表（Sprite Sheet），保持角色比例、基线一致，包含待机、蓄力、释放和收势的无缝循环动作指令。",
+    "summaryEn": "A prompt generating a 4x4 16-frame 2D pixel continuous action sprite sheet based on a reference image, maintaining character scale, consistent baseline, and seamless loop action phases from idle to attack and recovery.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "正文中的提示词明确规定了4×4共16帧的精灵表结构、动作阶段划分（1-3蓄力、4-7展开、8-10释放、11-16收势）以及像素游戏画风，与附图及演示动图中棕发剑士挥剑攻击的16帧精灵表和GIF完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。",
+    "sourceRange": {
+      "start": 112,
+      "end": 633
+    },
+    "translations": {
+      "zh": "上传图1作为角色身份与服装的唯一参考。\n\n将图1角色转化为高质量2D像素游戏角色，生成一张正方形、4×4等分排列、共16帧的连续动作Sprite Sheet。\n\n每格尺寸完全一致。画面按从左到右、从上到下的顺序播放。\n\n严格保留角色的脸型、发型、体型、服装配色、标志性配件与武器结构。16帧使用相同的像素比例、角色尺寸、朝向和色板。\n\n角色完成一次【挥剑攻击／跳跃／翻滚／施法／扑击】动作。\n\n第1至3帧为待机与蓄力；第4至7帧为重心移动和动作展开；第8至10帧完成主要攻击与力量释放；第11至13帧表现惯性和收势；第14至16帧回到待机状态。第16帧与第1帧能够自然衔接。\n\n相邻帧只改变完成动作所需的关节、轮廓、衣摆、头发和武器位置。动作方向、受力关系和运动轨迹保持连续。\n\n所有格子保持相同机位、角色缩放、脚底基线和画面中心。角色完整显示，不裁切头部、武器、尾巴或特效。\n\n背景优先使用透明通道。透明背景不稳定时，改用统一纯色背景，方便后期抠图。不要生成场景、地面纹理、格线、编号和文字。\n\n采用清晰硬边像素、有限色板和统一像素密度。禁止模糊边缘、抗锯齿、半写实渲染、重复帧、跳帧、角色变形、服装变化、武器增减、视角切换和每格重新构图。",
+      "en": "Upload Image 1 as the sole reference for character identity and costume.\n\nTransform the character from Image 1 into a high-quality 2D pixel game sprite, generating a square 4x4 grid sprite sheet with 16 continuous action frames in total.\n\nEach frame has identical dimensions. The sequence plays from left to right, top to bottom.\n\nStrictly preserve the character's face shape, hairstyle, body type, costume color palette, iconic accessories, and weapon structure. All 16 frames must use the same pixel ratio, character scale, facing direction, and color palette.\n\nThe character performs an action of [sword attack / jump / roll / cast spell / pounce].\n\nFrames 1-3 are idle and charging; frames 4-7 are center of gravity shift and action unfolding; frames 8-10 complete the main attack and energy release; frames 11-13 show inertia and recovery; frames 14-16 return to idle. Frame 16 transitions seamlessly into Frame 1.\n\nAdjacent frames only modify the necessary joints, contours, hemline, hair, and weapon position to complete the movement. Motion direction, force dynamics, and trajectories remain continuous.\n\nAll frames maintain the same camera angle, character scale, ground baseline, and center of frame. The character is fully visible without clipping head, weapons, tail, or visual effects.\n\nPrefer a transparent background. If unstable, use a solid color background for easy chromakeying. Do not generate background scenes, floor textures, grid lines, numbers, or text.\n\nUse crisp, hard-edge pixels, limited color palette, and uniform pixel density. No blurry edges, anti-aliasing, semi-realistic rendering, duplicate frames, frame skipping, character distortion, costume alterations, weapon changes, camera switching, or per-frame recomposition."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "游戏角色 4×4 像素动作精灵表 (Sprite Sheet) 生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
