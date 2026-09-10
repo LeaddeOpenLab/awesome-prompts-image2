@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**56** Prompts · Adição mais recente: **2026-09-10**
+**57** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarela](#category-watercolor) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarela](#category-watercolor) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -609,6 +609,32 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Resumo / Context
 
 ```text
 Retrato cinematográfico fotorrealista de um belo homem adulto com cabelo castanho de comprimento médio despenteado e uma barba cuidadosamente aparada, vestindo uma camisola de malha bege macia com gola redonda. Ele olha diretamente para a câmara com uma expressão calma, confiante e ligeiramente contemplativa. Uma luz de contorno dourada e quente cria uma auréola brilhante à volta do seu cabelo e ombros, enquanto uma luz principal suave e intensa ilumina o seu rosto. Fundo escuro e atmosférico com uma subtil névoa âmbar e fumo ambiental, iluminação dramática de elevado contraste, textura de pele natural, olhos nítidos, detalhes faciais realistas, profundidade de campo reduzida, fotografia profissional de estúdio, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradação de cores cinematográfica e quente, estética editorial de luxo, ultradetalhado, fotorrealista, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Mangá
+
+<a name="prompt-2097834253748949105"></a>
+
+### Tradução em curso
+
+Autor：[@namatorihamu](https://x.com/namatorihamu) · [Publicação original](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Mangá · Ilustração · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097834253748949105-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

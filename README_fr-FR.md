@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**56** Prompts · Dernier ajout: **2026-09-10**
+**57** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarelle](#category-watercolor) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarelle](#category-watercolor) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -624,6 +624,32 @@ Image cinématographique / Photogramme de film · Portrait / Selfie · Personnag
 
 ```text
 Portrait cinématographique photoréaliste d'un bel homme adulte aux cheveux bruns mi-longs ébouriffés et à la barbe soigneusement taillée, portant un pull en maille beige doux à col rond. Il fait face à l'objectif avec une expression calme, confiante et légèrement contemplative. Un éclairage de contour doré et chaud crée un halo lumineux autour de ses cheveux et de ses épaules, tandis qu'une lumière principale douce et puissante éclaire son visage. Arrière-plan sombre et mystérieux avec une subtile brume ambrée et de la fumée atmosphérique, éclairage dramatique à fort contraste, texture de peau naturelle, regard net, détails du visage réalistes, faible profondeur de champ, photographie de studio professionnelle, objectif à portrait 85 mm, f/1.8, bokeh crémeux, étalonnage cinématographique chaud, esthétique éditoriale de luxe, ultra-détaillé, photoréaliste, 8K.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097834253748949105"></a>
+
+### Traduction en cours
+
+Auteur：[@namatorihamu](https://x.com/namatorihamu) · [Publication originale](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Manga · Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097834253748949105-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

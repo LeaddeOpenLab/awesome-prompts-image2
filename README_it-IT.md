@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**56** Prompt · Ultima aggiunta: **2026-09-10**
+**57** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -624,6 +624,32 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Perso
 
 ```text
 Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli castani arruffati di media lunghezza e una barba curata, che indossa un morbido maglione a girocollo lavorato a maglia beige. Guarda verso la fotocamera con un'espressione calma, sicura e leggermente contemplativa. Una calda luce perimetrale dorata crea un'aureola luminosa attorno ai suoi capelli e alle sue spalle, con una forte e morbida luce chiave che illumina il suo viso. Sfondo scuro e d'atmosfera con una sottile foschia ambrata e fumo atmosferico, illuminazione drammatica ad alto contrasto, texture naturale della pelle, occhi nitidi, dettagli del viso realistici, profondità di campo ridotta, fotografia professionale da studio, obiettivo per ritratti da 85 mm, f/1.8, bokeh cremoso, color grading cinematografico caldo, estetica editoriale di lusso, ultra-dettagliato, fotorealistico, 8K.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097834253748949105"></a>
+
+### Traduzione in corso
+
+Autore：[@namatorihamu](https://x.com/namatorihamu) · [Post originale](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Manga · Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097834253748949105-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

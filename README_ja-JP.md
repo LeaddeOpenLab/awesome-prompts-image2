@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**56** 件 · 最新の追加: **2026-09-10**
+**57** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [ピクセルアート](#category-pixel-art) · [水彩](#category-watercolor) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [ピクセルアート](#category-pixel-art) · [水彩](#category-watercolor) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -646,6 +646,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 ```text
 無造作なミディアム丈の茶髪と綺麗に整えられた髭を持つハンサムな大人の男性の、フォトリアリスティックでシネマティックなポートレート。柔らかいベージュのニットクルーネックセーターを着用。穏やかで自信に満ち、わずかに物思いに沈んだ表情でカメラを見つめている。温かみのある金色のリムライトが髪と肩の周りに輝くハローを作り出し、強力で柔らかいキーライトが彼の顔を照らしている。かすかな琥珀色の霞と大気中のスモークが漂う暗くムーディーな背景、劇的な高コントラストのライティング、自然な肌の質感、鮮明な瞳、リアルな顔のディテール、浅い被写界深度、プロフェッショナルなスタジオ撮影、85mmポートレートレンズ、f/1.8、クリーミーなボケ味、温かみのあるシネマティックなカラーグレーディング、ラグジュアリーなエディトリアル美学、超高精細、写実的、8K。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## アニメ / 漫画
+
+<a name="prompt-2097834253748949105"></a>
+
+### 翻訳中
+
+作者：[@namatorihamu](https://x.com/namatorihamu) · [元の投稿](https://x.com/namatorihamu/status/2097834253748949105)
+
+アニメ / 漫画 · イラスト · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097834253748949105-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

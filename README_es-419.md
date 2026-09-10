@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**56** Prompts · Última incorporación: **2026-09-10**
+**57** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -624,6 +624,32 @@ Cine / Fotograma · Retrato / Selfie · Personaje · Resumen / Antecedentes · P
 
 ```text
 Retrato cinematográfico fotorrealista de un hombre adulto atractivo con cabello castaño despeinado de longitud media y una barba bien recortada, vistiendo un suave suéter de punto beige de cuello redondo. Mira hacia la cámara con una expresión tranquila, segura y ligeramente contemplativa. Una cálida iluminación dorada de borde crea un halo brillante alrededor de su cabello y hombros, con una fuerte luz principal suave que ilumina su rostro. Fondo oscuro y temperamental con una sutil bruma ámbar y humo atmosférico, iluminación dramática de alto contraste, textura de piel natural, ojos nítidos, detalles faciales realistas, profundidad de campo baja, fotografía de estudio profesional, lente de retrato de 85 mm, f/1.8, bokeh cremoso, gradación de color cinematográfica cálida, estética editorial de lujo, ultradetallado, fotorrealista, 8K.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097834253748949105"></a>
+
+### Traducción en curso
+
+Autor：[@namatorihamu](https://x.com/namatorihamu) · [Publicación original](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Manga · Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097834253748949105-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

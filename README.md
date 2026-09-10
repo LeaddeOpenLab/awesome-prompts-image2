@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**56** Prompts · Latest addition: **2026-09-10**
+**57** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -616,6 +616,32 @@ Cinematic / Film Still · Portrait / Selfie · Character · Abstract / Backgroun
 
 ```text
 Photorealistic cinematic portrait of a handsome adult man with tousled medium-length brown hair and a neatly trimmed beard, wearing a soft beige knitted crewneck sweater. He faces the camera with a calm, confident, slightly contemplative expression. Warm golden rim lighting creates a glowing halo around his hair and shoulders, with a strong soft key light illuminating his face. Dark, moody background with subtle amber haze and atmospheric smoke, dramatic high-contrast lighting, natural skin texture, sharp eyes, realistic facial details, shallow depth of field, professional studio photography, 85mm portrait lens, f/1.8, creamy bokeh, warm cinematic color grading, luxury editorial aesthetic, ultra-detailed, photorealistic, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097834253748949105"></a>
+
+### A prompt to draw Chiikawa and Usagi in a JoJo-inspired dramatic gekiga style.
+
+Author：[@namatorihamu](https://x.com/namatorihamu) · [Source](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Manga · Illustration · Published
+
+**Summary:** A prompt to draw Chiikawa and Usagi in a JoJo-inspired dramatic gekiga style.
+
+<img src="images/2097834253748949105-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Try depicting Chiikawa and Usagi in a JoJo style
 ```
 
 [↑ Back to categories](#catalog)

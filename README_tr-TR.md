@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**56** Prompt · Son eklenen: **2026-09-10**
+**57** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -609,6 +609,32 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Özet / Arka Plan · Y
 
 ```text
 Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, yumuşak bej renkli örgü bisiklet yaka kazak giymiş yakışıklı bir yetişkin erkeğin fotogerçekçi sinematik portresi. Sakin, kendinden emin ve hafif düşünceli bir ifadeyle kameraya bakıyor. Sıcak altın sarısı kenar aydınlatması saçlarının ve omuzlarının etrafında parlayan bir hale oluştururken, güçlü ve yumuşak bir ana ışık yüzünü aydınlatıyor. İnce kehribar rengi pus ve atmosferik duman içeren karanlık, karamsar arka plan, dramatik yüksek kontrastlı aydınlatma, doğal cilt dokusu, keskin gözler, gerçekçi yüz ayrıntıları, sığ alan derinliği, profesyonel stüdyo fotoğrafçılığı, 85 mm portre lensi, f/1.8, kremsi bokeh, sıcak sinematik renk derecelendirmesi, lüks editoryal estetik, ultra detaylı, fotogerçekçi, 8K.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097834253748949105"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@namatorihamu](https://x.com/namatorihamu) · [Orijinal gönderi](https://x.com/namatorihamu/status/2097834253748949105)
+
+Anime / Manga · İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097834253748949105-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
