@@ -12,7 +12,14 @@
     "th-TH": "ลองวาดชิอิคาว่ากับอุซางิให้ออกมาเป็นสไตล์โจโจ้ดูหน่อย",
     "vi-VN": "Hãy thể hiện Chiikawa và Usagi theo phong cách JoJo xem nào",
     "hi-IN": "चीकावा और उसागी को जोजो शैली जैसा बनाकर दिखाएं",
-    "es-ES": "Muestra a Chiikawa y Usagi al estilo de JoJo"
+    "es-ES": "Muestra a Chiikawa y Usagi al estilo de JoJo",
+    "es-419": "Muestra a Chiikawa y Usagi al estilo de JoJo",
+    "de-DE": "Zeige Chiikawa und Usagi im JoJo-Stil",
+    "fr-FR": "Montre Chiikawa et Usagi dans le style de JoJo",
+    "it-IT": "Mostra Chiikawa e Usagi nello stile di JoJo",
+    "pt-BR": "Mostre Chiikawa e Usagi no estilo de JoJo",
+    "pt-PT": "Mostra Chiikawa e Usagi ao estilo de JoJo",
+    "tr-TR": "Chiikawa ve Usagi'yi JoJo tarzında göster"
   },
   "summaryTranslations": {
     "en": "A prompt to draw Chiikawa and Usagi in a JoJo-inspired dramatic gekiga style.",
@@ -23,7 +30,14 @@
     "th-TH": "พรอมต์สำหรับวาดชิอิคาว่าและอุซางิในลายเส้นภาพสไตล์เกคิกะแบบโจโจ้",
     "vi-VN": "Lời nhắc vẽ Chiikawa và Usagi theo phong cách kịch họa kiểu JoJo.",
     "hi-IN": "चीकावा और उसागी को जोजो-शैली के गेकिगा अंदाज़ में चित्रित करने का प्रॉम्प्ट।",
-    "es-ES": "Prompt para dibujar a Chiikawa y Usagi al estilo dramático gekiga de JoJo."
+    "es-ES": "Prompt para dibujar a Chiikawa y Usagi al estilo dramático gekiga de JoJo.",
+    "es-419": "Un prompt para dibujar a Chiikawa y Usagi en el estilo gekiga dramático de JoJo.",
+    "de-DE": "Ein Prompt, um Chiikawa und Usagi im dramatischen Gekiga-Stil von JoJo zu zeichnen.",
+    "fr-FR": "Un prompt pour dessiner Chiikawa et Usagi dans le style gekiga dramatique de JoJo.",
+    "it-IT": "Un prompt per disegnare Chiikawa e Usagi nello stile drammatico gekiga di JoJo.",
+    "pt-BR": "Um prompt para desenhar Chiikawa e Usagi no estilo dramático gekiga de JoJo.",
+    "pt-PT": "Um prompt para desenhar Chiikawa e Usagi no estilo dramático gekiga de JoJo.",
+    "tr-TR": "Chiikawa ve Usagi'yi dramatik bir JoJo gekiga tarzında çizmek için bir prompt."
   },
   "translationVersion": 2,
   "summary": "ちいかわとうさぎをジョジョ風の劇画調で描くプロンプト。",
