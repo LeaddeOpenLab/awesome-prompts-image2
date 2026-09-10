@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**57** Prompts · Latest addition: **2026-09-10**
+**58** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1243,6 +1243,59 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097797456117539136"></a>
+
+### Template prompt for generating a 4×4 \(16-frame\) 2D game sprite sheet from a reference character.
+
+Author：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Source](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
+
+Character · Published
+
+**Summary:** Template prompt for generating a 4×4 \(16-frame\) 2D game sprite sheet from a reference character.
+
+<img src="covers/2097797456117539136.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Reference this character to create a 2D animation sprite sheet for a game.
+The action is "🔴 Enter action here".
+
+Express one continuous action across a total of 16 frames in 4 columns × 4 rows.
+
+[Sprite Sheet Specifications]
+・Square canvas
+・4 columns × 4 rows, 16 frames in total
+・All 16 cells must be exactly the same size
+・Ensure a minimum margin of 10px on the top, bottom, left, and right of each cell
+・No borders, grid lines, numbers, letters, symbols, or UI elements whatsoever
+・Background must be a unified solid white across all frames
+・Arrange frames in chronological order from top-left to right, and from top row to bottom row
+
+[Most Important: Fixed Size and Position]
+・Keep the character's display scale consistent across all 16 frames
+・Camera zoom-in and zoom-out are prohibited
+・Fix the ground contact baseline beneath the feet at the exact same height
+・Ensure the character's center position does not shift drastically between frames; change poses only as necessary for the movement
+
+[Most Important: Stay Completely Within the Cell]
+・Keep everything, including hair, clothing, limbs, weapons, accessories, effects, afterglow, and particles, strictly inside each cell
+・Do not overflow into adjacent cells
+・Do not breach the 10px margin safe zone
+・Even if the action becomes large, do not scale down the character to compensate
+・If necessary, tone down effects or the swing range of arms to keep everything inside the cell
+
+[Drawing Guidelines]
+・Clear, legible silhouette readable as a 2D game sprite
+・Natural movement connecting smoothly between frames
+・Prioritize flawless continuity as animation assets rather than standalone illustrations
+・Unify detail density, line work, coloring, and shading across every frame
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097784050660376617"></a>
 
