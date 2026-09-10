@@ -621,20 +621,20 @@ Dağınık orta uzunlukta kahverengi saçlı ve düzgünce kesilmiş sakallı, y
 
 <a name="prompt-2097834253748949105"></a>
 
-### Çeviri sürüyor
+### Chiikawa ve Usagi'yi dramatik bir JoJo gekiga tarzında çizmek için bir prompt.
 
 Yazar：[@namatorihamu](https://x.com/namatorihamu) · [Orijinal gönderi](https://x.com/namatorihamu/status/2097834253748949105)
 
 Anime / Manga · İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Chiikawa ve Usagi'yi dramatik bir JoJo gekiga tarzında çizmek için bir prompt.
 
 <img src="images/2097834253748949105-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Chiikawa ve Usagi'yi JoJo tarzında göster
 ```
 
 [↑ Kategorilere dön](#catalog)

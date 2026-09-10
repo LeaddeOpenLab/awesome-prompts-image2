@@ -636,20 +636,20 @@ Fotorealistisches, filmisches Porträt eines gutaussehenden erwachsenen Mannes m
 
 <a name="prompt-2097834253748949105"></a>
 
-### Übersetzung läuft
+### Ein Prompt, um Chiikawa und Usagi im dramatischen Gekiga-Stil von JoJo zu zeichnen.
 
 Autor：[@namatorihamu](https://x.com/namatorihamu) · [Originalbeitrag](https://x.com/namatorihamu/status/2097834253748949105)
 
 Anime / Manga · Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt, um Chiikawa und Usagi im dramatischen Gekiga-Stil von JoJo zu zeichnen.
 
 <img src="images/2097834253748949105-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zeige Chiikawa und Usagi im JoJo-Stil
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

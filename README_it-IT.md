@@ -636,20 +636,20 @@ Ritratto cinematografico fotorealistico di un bell'uomo adulto con capelli casta
 
 <a name="prompt-2097834253748949105"></a>
 
-### Traduzione in corso
+### Un prompt per disegnare Chiikawa e Usagi nello stile drammatico gekiga di JoJo.
 
 Autore：[@namatorihamu](https://x.com/namatorihamu) · [Post originale](https://x.com/namatorihamu/status/2097834253748949105)
 
 Anime / Manga · Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per disegnare Chiikawa e Usagi nello stile drammatico gekiga di JoJo.
 
 <img src="images/2097834253748949105-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Mostra Chiikawa e Usagi nello stile di JoJo
 ```
 
 [↑ Torna alle categorie](#catalog)
