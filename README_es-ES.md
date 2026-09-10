@@ -1283,13 +1283,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097784050660376617"></a>
 
-### Traducción en curso
+### Una hoja de arce translúcida y brillante flota sobre agua en calma, con flores rosas floreciendo en su interior, mientras el tallo roza la superficie creando ondas concéntricas.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicación original](https://x.com/churvikv/status/2097784050660376617)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una hoja de arce translúcida y brillante flota sobre agua en calma, con flores rosas floreciendo en su interior, mientras el tallo roza la superficie creando ondas concéntricas.
 
 <img src="images/2097784050660376617-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1298,7 +1298,11 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Prompt 1:
+Una obra de arte digital encantadora y surrealista que presenta una hoja de arce dorada y translúcida que flota mágicamente sobre la superficie de un agua oscura y en calma. La hoja brilla desde su interior con una luz cálida y etérea, dejando ver claramente sus delicadas nervaduras. Dentro de la estructura translúcida de la hoja, se encuentran incrustadas pequeñas y vibrantes flores rosas y capullos cerrados, que parecen florecer dentro de sus propias nervaduras. Las puntas de la hoja están bordeadas con una purpurina dorada y brillante que flota en el aire como polvo mágico. El tallo de la hoja se extiende hacia abajo, rozando apenas la superficie del agua y creando ondas concéntricas que se extienden hacia el exterior. Bajo el agua, se vislumbra tenuemente el reflejo de la hoja brillante y su tallo. El fondo es un bosque crepuscular de ensueño con siluetas de pinos contra un suave cielo degradado de tonos púrpuras, naranjas y azules. Varios nenúfares rosas flotan sobre el agua oscura, añadiendo un toque sereno y mágico a la atmósfera.
+
+Prompt 2:
+Una majestuosa y etérea hoja de arce hecha de material cristalino y translúcido flota delicadamente sobre un estanque oscuro y sereno. La hoja presenta detalles intrincados con nervaduras brillantes y tiene incrustadas pequeñas y suaves flores y capullos de cerezo de color rosa que parecen brotar directamente de su estructura. Partículas doradas y brillantes de polvo mágico se arremolinan alrededor de la hoja, proyectando un resplandor cálido y radiante. La punta del tallo de la hoja toca suavemente la superficie del agua, creando ondas concéntricas perfectas que reflejan la luz. El fondo muestra un paisaje boscoso de ensueño y desenfocado al anochecer, con sutiles siluetas de árboles y un cielo con un suave degradado que va desde los profundos azules crepusculares hasta los rosas pálidos. Flores de loto rosas flotantes descansan sobre la superficie del agua en calma en el primer plano y el plano medio. La iluminación es suave, cinematográfica y mágica, resaltando las texturas vidriosas y la cualidad bioluminiscente de la escena. La composición es centrada, vertical y simétrica, evocando una sensación de tranquilidad, naturaleza mística y belleza de cuento de hadas, plasmada con precisión de arte digital hiperrealista.
 ```
 
 [↑ Volver a categorías](#catalog)
