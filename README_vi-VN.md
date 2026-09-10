@@ -946,20 +946,38 @@ Tạo một bản đồ thu nhỏ 3D quyến rũ của [COUNTRY] với đường
 
 <a name="prompt-2097863751471157498"></a>
 
-### Đang dịch
+### Tạo bảng sprite sheet pixel 2D hình vuông gồm 16 khung hình chia lưới 4×4 cho chuỗi hành động liên tục dựa trên ảnh tham chiếu, giữ nguyên tỉ lệ và đường trục chân, có chỉ dẫn chuyển động lặp vô tận từ chuẩn bị, tích lực, giải phóng đến thu chiêu.
 
 Tác giả：[@derek\_wall90176](https://x.com/derek_wall90176) · [Bài gốc](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Tài sản trò chơi · Nghệ thuật Pixel · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo bảng sprite sheet pixel 2D hình vuông gồm 16 khung hình chia lưới 4×4 cho chuỗi hành động liên tục dựa trên ảnh tham chiếu, giữ nguyên tỉ lệ và đường trục chân, có chỉ dẫn chuyển động lặp vô tận từ chuẩn bị, tích lực, giải phóng đến thu chiêu.
 
 <img src="covers/2097863751471157498.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tải lên Hình 1 làm tài liệu tham khảo duy nhất cho nhận diện nhân vật và trang phục.
+
+Chuyển đổi nhân vật ở Hình 1 thành nhân vật trò chơi pixel 2D chất lượng cao, tạo một bảng Sprite Sheet hình vuông gồm 16 khung hình hành động liên tục, được chia đều theo bố cục lưới 4×4.
+
+Kích thước mỗi ô phải hoàn toàn đồng nhất. Trình tự khung hình được phát từ trái sang phải, từ trên xuống dưới.
+
+Giữ nguyên chính xác khuôn mặt, kiểu tóc, vóc dáng, bảng màu trang phục, phụ kiện đặc trưng và cấu trúc vũ khí của nhân vật. Toàn bộ 16 khung hình phải dùng chung tỉ lệ pixel, kích thước nhân vật, hướng nhìn và bảng màu.
+
+Nhân vật thực hiện hoàn chỉnh một chuỗi hành động 【chém kiếm tấn công / nhảy / lăn lộn / thi triển phép / vồ tấn công】.
+
+Khung hình 1 đến 3 là trạng thái chờ và tích lực; khung hình 4 đến 7 là dịch chuyển trọng tâm và triển khai động tác; khung hình 8 đến 10 là đòn tấn công chính và giải phóng sức mạnh; khung hình 11 đến 13 thể hiện quán tính và thu thế; khung hình 14 đến 16 quay về trạng thái chờ. Khung hình 16 phải kết nối liền mạch, tự nhiên với khung hình 1.
+
+Các khung hình liền kề chỉ thay đổi khớp nối, đường viền, tà áo, tóc và vị trí vũ khí cần thiết để hoàn thành hành động. Hướng chuyển động, tương tác lực và quỹ đạo vận động phải giữ tính liên tục.
+
+Tất cả các ô phải giữ nguyên góc máy, tỉ lệ phóng thu nhân vật, đường trục chân ngang sàn và vị trí trung tâm khung hình. Nhân vật phải hiển thị trọn vẹn, không cắt xén đầu, vũ khí, đuôi hay hiệu ứng.
+
+Ưu tiên sử dụng kênh nền trong suốt. Nếu nền trong suốt không ổn định, hãy đổi sang một nền màu trơn đồng nhất để thuận tiện tách nền về sau. Không tạo bối cảnh, vân bề mặt đất, lưới chia ô, số thứ tự hay chữ viết.
+
+Sử dụng pixel viền sắc nét rõ ràng, bảng màu giới hạn và mật độ pixel đồng nhất. Nghiêm cấm viền mờ nhòe, khử răng cưa (anti-aliasing), kết xuất bán tả thực, trùng lặp khung hình, nhảy khung, biến dạng nhân vật, thay đổi trang phục, thêm bớt vũ khí, đổi góc nhìn hoặc tái bố cục từng ô.
 ```
 
 [↑ Về danh mục](#catalog)

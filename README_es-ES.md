@@ -946,20 +946,38 @@ Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionale
 
 <a name="prompt-2097863751471157498"></a>
 
-### Traducción en curso
+### Genera una hoja de sprites \(Sprite Sheet\) en píxel art 2D cuadrada de 16 fotogramas en cuadrícula 4×4 con acción continua basada en la imagen de referencia, manteniendo proporciones y línea base constantes con instrucciones de bucle perfecto que incluyen reposo, carga, impacto y recuperación.
 
 Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicación original](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Activo de juego · Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera una hoja de sprites \(Sprite Sheet\) en píxel art 2D cuadrada de 16 fotogramas en cuadrícula 4×4 con acción continua basada en la imagen de referencia, manteniendo proporciones y línea base constantes con instrucciones de bucle perfecto que incluyen reposo, carga, impacto y recuperación.
 
 <img src="covers/2097863751471157498.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sube la Imagen 1 como única referencia para la identidad y la vestimenta del personaje.
+
+Transforma el personaje de la Imagen 1 en un personaje de videojuego en píxel art 2D de alta calidad, generando una hoja de sprites (Sprite Sheet) cuadrada de acción continua, dividida uniformemente en una cuadrícula de 4×4 con un total de 16 fotogramas.
+
+El tamaño de cada casilla debe ser exactamente el mismo. La animación se reproduce en orden de izquierda a derecha y de arriba a abajo.
+
+Conserva estrictamente la forma del rostro, el peinado, la complexión corporal, la paleta de colores de la ropa, los accesorios distintivos y la estructura de las armas del personaje. Los 16 fotogramas deben utilizar la misma escala de píxeles, tamaño de personaje, orientación y paleta de colores.
+
+El personaje realiza una acción completa de 【ataque con espada / salto / voltereta / lanzamiento de hechizo / embestida】.
+
+Los fotogramas 1 a 3 corresponden a la postura de espera (idle) y carga de energía; los fotogramas 4 a 7 representan el desplazamiento del centro de gravedad y el despliegue del movimiento; los fotogramas 8 a 10 ejecutan el ataque principal y la liberación de fuerza; los fotogramas 11 a 13 muestran la inercia y la recuperación del movimiento; los fotogramas 14 a 16 regresan al estado de espera. El fotograma 16 debe enlazarse de forma natural y fluida con el fotograma 1.
+
+Los fotogramas adyacentes solo deben modificar las articulaciones, siluetas, caída de la ropa, cabello y posición del arma estrictamente necesarios para completar la acción. La dirección del movimiento, las relaciones de fuerza y la trayectoria del desplazamiento deben mantener una continuidad perfecta.
+
+Todas las casillas deben mantener la misma posición de cámara, escala del personaje, línea base del suelo y centro del encuadre. El personaje debe mostrarse por completo, sin cortar la cabeza, armas, cola ni efectos especiales.
+
+Prioriza el fondo con canal alfa transparente. Si el fondo transparente resulta inestable, utiliza un fondo de color sólido uniforme para facilitar el recorte posterior. No generes escenarios, texturas de suelo, líneas de cuadrícula, números ni texto.
+
+Utiliza píxeles nítidos de bordes duros (hard-edge), una paleta de colores limitada y una densidad de píxeles uniforme. Quedan prohibidos los bordes difuminados, el suavizado de bordes (anti-aliasing), el renderizado semirrealista, los fotogramas repetidos, los saltos de animación, la deformación del personaje, los cambios de vestuario, la adición o eliminación de armas, los cambios de ángulo de cámara y el reencuadre en cada casilla.
 ```
 
 [↑ Volver a categorías](#catalog)
