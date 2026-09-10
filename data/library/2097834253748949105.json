@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T00:28:04.223Z",
+  "model": "image2.5",
+  "prompt": "ちいかわとうさぎ、ジョジョっぽく出してみて",
+  "promptTranslations": {
+    "en": "Try depicting Chiikawa and Usagi in a JoJo style"
+  },
+  "summaryTranslations": {
+    "en": "A prompt to draw Chiikawa and Usagi in a JoJo-inspired dramatic gekiga style."
+  },
+  "translationVersion": 2,
+  "summary": "ちいかわとうさぎをジョジョ風の劇画調で描くプロンプト。",
+  "summaryEn": "Prompt to generate Chiikawa and Usagi in the dramatic manga art style of JoJo's Bizarre Adventure.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097834253748949105",
+    "canonicalUrl": "https://x.com/namatorihamu/status/2097834253748949105",
+    "author": {
+      "username": "namatorihamu",
+      "displayName": "なまはむ/はにーはむ＠スタレゾ",
+      "profileUrl": "https://x.com/namatorihamu"
+    },
+    "publishedAt": "2026-09-09T23:47:16.000Z",
+    "collectedAt": "2026-09-10T00:16:35.115Z",
+    "language": "ja",
+    "originalText": "gpt image 2.5ヤバいわ。ちいかわとうさぎ、ジョジョっぽく出してみてって言ったら… https://t.co/No1fmAINWY",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0BIoda0AA7uL8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0BIoda0AA7uL8.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 67
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/namatorihamu/status/2097834253748949105",
+  "coverUrl": "https://pbs.twimg.com/media/HR0BIoda0AA7uL8.jpg",
+  "coverPath": "images/2097834253748949105-1.jpg",
+  "imagePaths": [
+    "images/2097834253748949105-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR0BIoda0AA7uL8",
+    "x-post:2097834253748949105"
+  ],
+  "analysis": {
+    "summary": "ちいかわとうさぎをジョジョ風の劇画調で描くプロンプト。",
+    "summaryEn": "Prompt to generate Chiikawa and Usagi in the dramatic manga art style of JoJo's Bizarre Adventure.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画像はジョジョ風の劇画タッチで描かれたちいかわとうさぎの漫画コマ風イラストであり、プロンプトの指示と完全に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "ちいかわとうさぎ、ジョジョっぽく出してみて",
+    "sourceRange": {
+      "start": 18,
+      "end": 39
+    },
+    "translations": {
+      "zh": "把吉伊卡哇和乌萨奇画成JOJO的奇妙冒险风格",
+      "en": "Generate Chiikawa and Usagi in the style of JoJo's Bizarre Adventure"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Chiikawa",
+        "JoJo's Bizarre Adventure"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
