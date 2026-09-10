@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097886029692969195"></a>
 
-### Übersetzung läuft
+### Foto-Prompt für das Spiegelselfie einer chinesischen Influencerin im Schlafzimmer, zeigt Kurzhaarfrisur, tief ausgeschnittenes Outfit und sanften Innenlicht-Stil.
 
 Autor：[@ohmuyi](https://x.com/ohmuyi) · [Originalbeitrag](https://x.com/ohmuyi/status/2097886029692969195)
 
 Fotografie · Porträt / Selfie · Influencer / Model · Modeartikel · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Foto-Prompt für das Spiegelselfie einer chinesischen Influencerin im Schlafzimmer, zeigt Kurzhaarfrisur, tief ausgeschnittenes Outfit und sanften Innenlicht-Stil.
 
 <img src="images/2097886029692969195-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+3:4, Nahaufnahme-Spiegelselfie mit dem Handy, chinesische Influencerin, kühle helle Haut, schwarzer kurzer Bob mit luftigem geradem Pony, eng anliegendes tief ausgeschnittenes Kurzarmshirt, Handy verdeckt das rechte Drittel des Gesichts, Schlafzimmer mit weißem Bett und Spiegel mit schwarzem Rahmen, sanftes Innenlicht, sanft und bezaubernd
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -416,7 +416,7 @@ Ultrarealistisches Luxus-Fashion-Editorial in einem minimalistischen, warmen bei
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Nahaufnahme-Porträt einer orientalischen Edeldame beim Frisieren vor dem Hintergrund eines warmen antiken Pavillons bei Nacht, inklusive detaillierter Beschreibungen von Make-up, Haarschmuck und Kleidung.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -424,7 +424,7 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Zusammenfassung /
 
 Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Zusammenfassung:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Zusammenfassung:** Nahaufnahme-Porträt einer orientalischen Edeldame beim Frisieren vor dem Hintergrund eines warmen antiken Pavillons bei Nacht, inklusive detaillierter Beschreibungen von Make-up, Haarschmuck und Kleidung.
 
 <img src="images/2096631729410986083-1.jpg" alt="Bild 1" width="480" />
 
@@ -433,21 +433,21 @@ Originalbeitrag：[@liyue\_ai](https://x.com/liyue_ai) · [Originalbeitrag](http
 **Prompt**
 
 ```text
-9:16 Hochformat, nächtliches Beauty-Porträt im traditionellen chinesischen Stil, klassisches Porträt einer orientalischen Adligen, Nahaufnahme (Büste), frontale Perspektive, die Person sitzt aufrecht vor einem Frisiertisch, der Körper der Kamera zugewandt, der Kopf natürlich gerade gerichtet, sanfter und gefühlvoller Blick, schaut ruhig in die Kamera, zurückhaltender, weicher und gefühlvoller Ausdruck, mit einer geheimnisvollen, zögerlichen nächtlichen Stimmung. Die Gesamtausstrahlung ist die einer hochgeborenen Adligen: sanft, prachtvoll, erlesen, zurückhaltend und anmutig, wie eine adelige Dame, die soeben in der Nacht mit dem Frisieren und Schminken fertig geworden ist.
+9:16 Hochformat, Beauty- und Make-up-Fotoshooting im antiken orientalischen Nachtstil, Porträt einer orientalischen adligen Dame aus der Antike, Bruststück-Nahaufnahme, frontale Perspektive, die Person sitzt aufrecht vor einem Schminktisch, der Körper frontal zur Kamera gewandt, der Kopf natürlich aufrecht, sanfter und gefühlvoller Blick, ruhig in die Kamera blickend, zurückhaltender, weicher Ausdruck, innerlich gefühlvoll mit einer subtilen Andeutung von unausgesprochenen nächtlichen Emotionen. Die Gesamtanmutung ist die einer hochgeborenen Adligen: sanftmütig, prachtvoll, exquisit, zurückhaltend und voller Anmut, wie eine Edeldame, die in der Nacht gerade mit dem Frisieren innegehalten hat.
 
-Die Person ist eine junge orientalische Frau mit einem sichtbaren Alter von etwa 20–28 Jahren, eindeutig erwachsen, mit strahlenden Augen und vollen Lippen, einem weichen ovalen Gesicht, einer natürlich vollen Stirn, einer prallen und dreidimensionalen Gesichtsmitte und einer weichen, fließenden Kinnlinie. Die Augenbrauen sind fein gezeichnet und geschwungen, die Augen klar und ausdrucksstark, von natürlich länglicher Form, die äußeren Augenwinkel sanft und unaufdringlich nach oben geschwungen, der Blick weich und lieblich; ein zierlicher, ebenmäßiger Nasenrücken, eine feine, abgerundete Nasenspitze; weiche und volle Lippen mit einem natürlich definierten Lippenherz. Die Gesichtszüge sind insgesamt fein und symmetrisch, fesselnd in der Nahaufnahme, weder kindlich noch im typischen Influencer-Stil.
+Bei der Person handelt es sich um eine visuell etwa 20–28 Jahre alte, eindeutig erwachsene junge orientalische Frau mit strahlenden Augen und vollen Lippen, weichem ovalem Gesicht, natürlich gewölbter Stirn, vollem und dreidimensionalem Mittelgesicht sowie einer sanften und fließenden Kieferlinie. Zarte und ebenmäßige Augenbrauen, klare und ausdrucksstarke Augen, natürlich längliche Augenform, die äußeren Augenwinkel ganz leicht und unaufdringlich nach oben geschwungen, sanfter, feuchter und gefühlvoller Blick; zierlicher und ebenmäßiger Nasenrücken, feine und gerundete Nasenspitze; weiche und volle Lippenform, Amorbogen und Lippenperle natürlich und klar definiert, die Gesichtszüge insgesamt fein und symmetrisch, im Nahbereich äußerst ansprechend, weder kindlich noch im typischen Internet-Influencer-Stil.
 
-Das Make-up ist ein sanft-strahlendes Granatapfelblüten-Make-up im Laternenschein. Die Grundierung ist transparent und fein, der Hautton makellos hell und geschmeidig, mit erhaltener natürlicher, feiner Hauttextur. Das Augen-Make-up verwendet Schattierungen von Granatapfelrot, rötlichem Tee, warmem Braun und einem Hauch von warmgoldenem Feinglanz im sanften Verlauf, das äußere Oberlid und die äußeren Augenwinkel leicht vertieft, die untere Augenpartie (Aegyo Sal / Tränensäcke) mit zartem warmgoldenem Perlmuttschimmer veredelt, der Eyeliner fein und präzise, die Wimpern geschwungen und definiert. Gesichtsmitte und Wangenknochen tragen ein zartes, natürliches warmes Rosen-Rouge für einen warmen Teint. Nasenrücken, Nasenspitze, Gesichtsmitte und Amorbogen sind mit feinem, transparentem Highlighter akzentuiert, ohne das gesamte Gesicht ölig wirken zu lassen. Das Lippen-Make-up ist ein granatapfelroter Gloss-Look mit frischer, weicher Farbbrillanz und leichtem Glaseffekt. Das Gesamtbild des Make-ups wirkt sanft, anmutig-leuchtend, zurückhaltend und nobel, durchdrungen von der nächtlichen Kerzenschein-Stimmung einer Adligen.
+Das Make-up ist ein weiches, verführerisches „Granatapfel-Make-up im Kerzenschein“. Die Grundierung ist transparent und fein, der Teint hell, weich und zart, wobei eine natürliche, feine Hautstruktur erhalten bleibt. Das Augen-Make-up nutzt einen weichen Farbverlauf aus Granatapfelrot, rötlichem Tee, warmem Braun und feinen Akzenten aus warmem Goldglimmer; der äußere Bereich des oberen Augenlids und der äußere Augenwinkel sind leicht vertieft, die Aegyosal-Zone trägt feinen, warmen Goldperlglanz, der Eyeliner ist fein und präzise gezogen, die Wimpern sind geschwungen und klar getrennt. Die Gesichtsmitte und die Wangenknochen ziert ein sanftes, natürliches warmes Rosen-Rouge mit gesundem, zartem Glanz. Nasenrücken, Nasenspitze, Gesichtsmitte und Amorbogen sind mit feinem, transparentem Highlighter versehen, ohne das Gesicht ölig wirken zu lassen. Das Lippen-Make-up besteht aus glänzenden Lippen in Granatapfelrot, frisch, feucht und sanft leuchtend mit einem leichten Glaseffekt. Das Gesamterscheinungsbild nach dem Schminken wirkt sanft, anmutig-verführerisch, zurückhaltend und luxuriös, getragen von der emotionalen Stimmung einer Adligen im nächtlichen Kerzenschein.
 
-Die Frisur ist eine locker hochgesteckte Hochfrisur aus schwarzem Haar, die Hochfrisur voll und rund geformt, der Oberkopf natürlich voluminös, das Haar tiefschwarz und seidig glatt. Im Haar stecken granatapfelrote Perlenhaarnadeln, zarte goldene Haarketten, goldene Blütenzweig-Elemente, kleine rote Edelsteine, Perlenverzierungen und mehrlagige Quastenanhänger; der Haarschmuck ist insgesamt erlesen und prachtvoll, reich an Details, ohne das Gesicht zu überladen. Als Ohrschmuck dienen Perlenquasten-Ohrringe, kombiniert mit roten Jadeperlen und feinen hellgoldenen Kettchen, die sanft an den Seiten herabhängen und den noblen Charakter unterstreichen.
+Die Frisur ist ein locker gesteckter hoher Dutt aus schwarzem Haar, füllig und rund, am Oberkopf natürlich voluminös, das Haar seidig glänzend und tiefschwarz. Im Haar stecken granatapfelrote Perlnadeln, feine Goldkettchen, goldene Blütenzweig-Elemente, kleine rote Edelsteine, Perlenakzente und mehrlagige hängende Quastenverzierungen; der Haarschmuck ist insgesamt fein gearbeitet und prachtvoll, reich gegliedert, ohne das Gesicht zu erdrücken. Als Ohrschmuck dienen Ohrringe mit Perlenquasten, kombiniert mit roten Jadeperlen und feinen hellgoldenen Kettchen, die sanft an den Seiten herabhängen und die herrschaftliche Eleganz unterstreichen.
 
-Die Kleidung besteht aus einem granatapfelroten Oberteil mit durchgehender vorderer Knopfleiste (Duijin Ru), dessen Stoff reich mit Goldfaden-Blumenstickereien und feinen Webmustern verziert ist, kombiniert mit einem langen Rock in dunklem Gold mit Jacquard-Muster sowie einer elfenbeinweißen Schleierdrapierung (Pibo). Ausschnitt und Brustbereich weisen eine feine traditionelle Miederschicht auf, die Brust voll und natürlich, die Oberkörperproportionen harmonisch und üppig, wobei eine sanfte Dekolletélinie und der Großteil der Brustkontur gut erkennbar sind, jedoch stets vollständig von Kleidung bedeckt bleiben – insgesamt elegant und schicklich, keineswegs vulgär oder wie ein modernes Abendkleid. Die Farbpalette der Kleidung wird von Granatapfelrot, dunklem Gold, Elfenbeinweiß und warmem Gold dominiert – prächtig, leuchtend und dabei von klassischer Erlesenheit.
+Die Kleidung besteht aus einem granatapfelroten Ru-Oberteil mit frontaler Knopfleiste, verziert mit reichen Blumenstickereien aus Goldfaden und dichten, feinen Webmustern, kombiniert mit einem langen Rock in dunklem Gold mit dezentem Muster und einer elfenbeinweißen leichten Chiffon-Stola. Ausschnitt und Brustbereich zeigen eine feine Innenschicht im antiken Korsagen-Stil, der Busen ist voll und natürlich, die Proportionen des Oberkörpers vollrund und harmonisch; der sanfte Verlauf des Dekolletés und die Kontur der Brust sind klar erkennbar, jedoch von der Kleidung vollständig und sittsam bedeckt, keineswegs vulgär und nicht wie ein modernes Abendkleid wirkend. Die Farbpalette der Kleidung wird von Granatapfelrot, dunklem Gold, Elfenbeinweiß und warmem Gold dominiert, prächtig und ausdrucksstark, während die klassische Raffinesse gewahrt bleibt.
 
-Die Szene ist ein warmer Pavillon mit Palastlaternen / Perlenvorhängen / Frisiertisch mit Bronzespiegel / flackerndem Kerzenschein. Die Person sitzt vor einem traditionellen Frisiertisch, links ist ein runder, geschnitzter Bronzespiegel zu sehen, im Vordergrund und an den Seiten hängen mehrlagige Perlenvorhänge herab, auf dem Frisiertisch stehen rot-goldene Schmuckschatullen, Perlenketten, kleine Schmuckstücke und ein Kerzenleuchter. Im Hintergrund sind warmgelbe Palastlaternen, ein dunkles Holzgemach und in der Ferne die unscharfen Lichter nächtlicher Pavillons zu erkennen; die gesamte Umgebung ist prachtvoll, der Hintergrund jedoch sanft weichgezeichnet, um nicht vom Hauptmotiv abzulenken.
+Die Szene zeigt ein warmes Gemach mit Palastlaternen / Perlenvorhängen / Bronzespiegel-Schminktisch / flackerndem Kerzenschein. Die Person sitzt vor dem antiken Schminktisch; links ist ein runder Bronzespiegel mit geschnitztem Muster zu sehen, im Vordergrund und an den Seiten hängen mehrlagige Perlenvorhänge herab, auf dem Schminktisch stehen rot-goldene Schmuckkästchen, Perlenketten, kleine Schmuckstücke und Kerzenständer. Im Hintergrund sind warmgelbe Palastlaternen, ein dunkles Holzgemach und in der Ferne unscharfe Lichter von nächtlichen Pavillons zu erkennen; der gesamte Raum ist prunkvoll gestaltet, der Hintergrund bleibt jedoch sanft unscharf, um nicht abzulenken.
 
-Die Beleuchtung kombiniert warmweißes, ins Goldene übergehendes Kerzenlicht mit dem sanften Schein von Palastlaternen, wobei das Gesicht der Person durch ein separates, weiches Aufhelllicht akzentuiert wird, um sicherzustellen, dass Augen, Lidschatten, Rouge, Lippen-Make-up, Haarschmuck, Stickereien und Hautdetails kristallklar sichtbar sind. Die Gesamtstimmung ist warm und lichtdurchflutet mit nächtlicher Atmosphäre, jedoch weder zu dunkel, noch stichig gelb oder fahlgrau. Flache Schärfentiefe mit weichgezeichnetem Hintergrund, sodass Gesicht und Make-up der Person stets das unangefochtene visuelle Zentrum bilden.
+Das Licht kombiniert warmweißes, ins Goldene spielendes Kerzenlicht mit dem sanften Schein der Palastlaternen, ergänzt durch ein weiches Aufhelllicht auf dem Gesicht der Frau, sodass Augen, Lidschatten, Rouge, Lippen-Make-up, Haarschmuck, Stickereien und Hautdetails klar erkennbar sind. Das Gesamtbild wirkt warm und durchscheinend, erfüllt von nächtlicher Atmosphäre, aber weder zu dunkel noch gelbstichig oder trüb. Der Hintergrund ist mit geringer Schärfentiefe weichgezeichnet, sodass Gesicht und Make-up der Person stets das visuelle Zentrum bilden.
 
-85-mm-Porträtobjektiv, authentische fotografische Textur, vollendetes traditionelles Beauty-Porträt einer edlen Dame, präziser Fokus auf die Augen, klares Make-up, feiner Perlenschmuck und exquisite Goldfadenstickerei, ein Bild von prachtvoller, zart leuchtender und sanfter Schönheit mit klassischer nächtlicher Kinoästhetik.
+85mm-Porträtobjektiv, realistische fotorealistische Textur, hochgradig vollendetes Beauty-Fotoshooting einer antiken orientalischen Edeldame, messerscharfer Fokus auf den Augen der Person, Make-up klar definiert, Perlenschmuck und Goldfadenstickereien filigran und detailreich, ein Bild von prachtvoller, zarter, warmer Schönheit und klassischer, nächtlicher filmischer Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

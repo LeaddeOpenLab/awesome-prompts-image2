@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097886029692969195"></a>
 
-### Çeviri sürüyor
+### Çinli influencer yatak odası ayna selfie fotoğrafı istemi; kısa saç, dekolteli kıyafet ve yumuşak iç mekân ışığı stilini sergiliyor.
 
 Yazar：[@ohmuyi](https://x.com/ohmuyi) · [Orijinal gönderi](https://x.com/ohmuyi/status/2097886029692969195)
 
 Fotoğrafçılık · Portre / Selfie · Influencer / Model · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çinli influencer yatak odası ayna selfie fotoğrafı istemi; kısa saç, dekolteli kıyafet ve yumuşak iç mekân ışığı stilini sergiliyor.
 
 <img src="images/2097886029692969195-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4, telefonla yakın çekim ayna selfiesi, Çinli influencer, soğuk alt tonlu beyaz ten, hafif düz kâküllü siyah kısa bob saç, dar ve dekolteli kısa kollu üst, telefon yüzün sağ üçte birlik kısmını kapatıyor, yatak odasında beyaz yatak ve siyah çerçeveli ayna, yumuşak iç mekân ışığı, narin ve büyüleyici
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -426,7 +426,7 @@ Minimalist sıcak bej bir stüdyoda ultra gerçekçi lüks moda editoryali. Uzun
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Klasik Doğu tarzı gece köşkü atmosferinde makyaj masasındaki soylu kadının makyaj, saç süsü ve kıyafet detaylarını içeren göğüs planı yakın çekim portresi.
 
 Yazar：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -434,7 +434,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Özet / Ark
 
 Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Özet:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Özet:** Klasik Doğu tarzı gece köşkü atmosferinde makyaj masasındaki soylu kadının makyaj, saç süsü ve kıyafet detaylarını içeren göğüs planı yakın çekim portresi.
 
 <img src="images/2096631729410986083-1.jpg" alt="Görsel 1" width="480" />
 
@@ -443,21 +443,21 @@ Orijinal gönderi：[@liyue\_ai](https://x.com/liyue_ai) · [Orijinal gönderi](
 **İstem**
 
 ```text
-9:16 dikey format, geleneksel antik Doğu gece makyajı portresi, klasik Doğu soylu kadın portresi, büst yakın çekim, cepheden açı, karakter makyaj masasının önünde dik oturuyor, vücudu doğrudan kameraya dönük, başı doğal ve dik, bakışları nazik ve sevgi dolu, kameraya sessizce bakıyor, ifadesi örtülü, yumuşak, duyguları içe dönük, geceye özgü kelimelere dökülemeyen hafif bir duygu taşıyor. Genel aurası aristokrat bir aileden gelen soylu bir kadına ait; nazik, lüks, zarif, içe dönük ve büyüleyici, tıpkı gecenin içinde makyajını ve saçını yapmayı yeni bitirmiş asil bir hanımefendi gibi.
+9:16 dikey format, geleneksel Doğu gece makyajı konseptli fotoğraf çekimi, antik Doğu soylu kadın portresi, göğüs planı yakın çekim, cepheden bakış açısı, kadın makyaj masasının önünde dik oturmakta, bedeni doğrudan kameraya dönük, başı doğal biçimde dik, bakışları şefkatli ve duygu dolu, kameraya sakince bakıyor, ifadesi örtülü, yumuşak, içe dönük duygular barındıran ve gecenin içinde söyleyecekleri dilinin ucuna gelip duraksamış bir duygu tonu taşıyor. Genel aurası yüksek zümreden bir asilzade hanımefendiye ait: zarif, gösterişli, incelikli, vakur ve derin bir çekiciliğe sahip; tıpkı gecenin sessizliğinde makyajını ve saçını yapmayı yeni bitirmiş bir soylu kadın gibi.
 
-Karakter görsel olarak yaklaşık 20–28 yaşlarında, belirgin şekilde yetişkin, parlak gözlü ve dolgun dudaklı, yumuşak oval yüzlü, doğal olarak dolgun alınlı, yüzün ortası dolgun ve üç boyutlu, çene hattı yumuşak ve akıcı genç bir Doğulu kadındır. Kaş şekli narin ve muntazam, gözleri berrak ve canlı, göz formu doğal olarak uzun ve çekik, göz kuyruğu hafifçe yukarı kalkık ama abartısız, bakışları yumuşak ve duygu dolu; burun köprüsü zarif ve akıcı, burun ucu narin ve yuvarlak; dudak şekli yumuşak ve dolgun, dudak kıvrımı doğal ve belirgin, genel yüz hatları zarif ve simetrik, yakın çekimde kusursuz ve çekici, çocuksu değil, internet fenomeni tarzı değil.
+Model, görsel olarak yaklaşık 20–28 yaşlarında, belirgin şekilde yetişkin genç bir Doğu kadınıdır; parlak gözlü ve dolgun dudaklı, yumuşak hatlı oval bir yüze, doğal dolgunlukta bir alna, dolgun ve üç boyutlu bir orta yüze, yumuşak ve pürüzsüz bir çene hattına sahiptir. Kaş formu narin ve ahenkli, gözleri berrak ve canlı, doğal olarak badem biçiminde hafifçe çekik, göz kuyrukları abartısız bir şekilde tatlıca yukarı kıvrık, bakışları nemli, yumuşak ve sevgi dolu; burun köprüsü zarif ve düzgün, burun ucu narin ve yuvarlak; dudak yapısı yumuşak ve dolgun, dudak çizgisi ve kıvrımı doğal olarak belirgindir. Yüz hatları genel olarak son derece simetrik ve kusursuzdur; yakın çekimde büyüleyici durur, çocuksu ya da sosyal medya fenomeni tarzı yapay bir havası yoktur.
 
-Makyaj stili mum ışığı ve nar kırmızısı tonlarında yumuşak ve ışıltılı makyajdır. Fondöten şeffaf ve pürüzsüz, ten rengi duru, beyaz ve yumuşak, doğal ve ince cilt dokusunu koruyor. Göz makyajında nar kırmızısı, kiremit çayı rengi, sıcak kahverengi ve az miktarda sıcak altın ışıltılı degrade dağılım kullanılmış; üst göz kapağının dış kısmı ve göz kuyruğu hafifçe koyulaştırılmış, alt göz kapağında ince sıcak altın sedef ışıltısı var, göz çizgisi ince ve net, kirpikler kıvrık ve tek tek ayrılmış. Yüzün ortasında ve elmacık kemiklerinde yumuşak, doğal sıcak gül kurusu allık var, cilde sıcak ve canlı bir pembelik katıyor. Burun kemiği, burun ucu, yüzün ortası ve dudak üstü kıvrımına ince, duru bir aydınlatıcı uygulanmış, ancak tüm yüze yağlı bir parlaklık vermiyor. Dudak makyajı nar kırmızısı parlak ve ıslak bitişli dudaklar, rengi taze, canlı ve ışıltılı, dudak yüzeyinde hafif cam etkisi var. Makyajın genel aurası nazik, göz alıcı, ölçülü ve lüks; gece mum ışığı altındaki soylu bir kadının duygusal atmosferine sahip.
+Makyaj, mum ışığında yumuşak ve cezbedici bir «nar çiçeği makyajı»dır. Ten makyajı şeffaf, tül gibi ince, cilt açık tonlu, pürüzsüz ve nemli olup doğal, ince cilt dokusu korunmuştur. Göz makyajında nar kırmızısı, kızıl çay, sıcak kahve ve hafif sıcak altın ışıltılardan oluşan buğulu bir geçiş kullanılmıştır; üst göz kapağının dış kısmı ile göz kuyruğu hafifçe koyulaştırılmış, göz altı torbası (aegyosal) hattında zarif sıcak altın inci ışıltısı yer almakta, göz kalemi ince ve kusursuz, kirpikler tek tek ayrılmış ve kıvrıktır. Yüzün ortasında ve elmacık kemiklerinde yumuşak, doğal bir sıcak gül kurusu allık yer alır ve tene sıcak, canlı bir hava katar. Burun köprüsüne, burun ucuna, yüzün merkezine ve dudak üstü kıvrımına hafif ve duru bir aydınlatıcı dokunuşu eklenmiştir, ancak tüm yüzde yağlı bir parlaklık oluşturmaz. Dudak makyajı, taze, ışıltılı ve yumuşak parlaklığıyla hafif cam efekti taşıyan ıslak bitişli nar kırmızısıdır. Makyaj sonrası genel hava şefkatli, tatlı bir çekiciliğe sahip, vakur ve ihtişamlıdır; gece mum ışığı altındaki asil bir kadının duygu yoğunluğunu taşır.
 
-Saç modeli, gevşekçe toplanmış yüksek siyah bir topuzdur; topuz dolgun ve yuvarlak, başın üst kısmı doğal olarak hacimli, saç telleri simsiyah ve pürüzsüzdür. Saçlar nar kırmızısı boncuklu saç tokaları, açık altın saç zincirleri, altın çiçek dalı motifleri, küçük kırmızı değerli taşlar, inci detaylar ve çok katmanlı püskül süslemelerle bezenmiştir; genel saç aksesuarları zarif ve görkemli, zengin katmanlıdır ancak yüzü gölgede bırakmaz. Küpeler, kırmızı yeşim boncuklar ve açık altın ince zincirlerle kombinlenmiş inci püsküllü sallantılı küpelerdir; kulak kenarından zarifçe sarkar ve asil hissi pekiştirir.
+Saç modeli, siyah saçlardan yapılmış, yukarıda gevşekçe toplanmış yüksek bir topuzdur; topuz dolgun ve yuvarlak, başın tepe kısmı doğal olarak hacimli, saç telleri ise kömür karası ve ipeksidir. Saçların arasına nar kırmızısı incili saç tokaları, açık altın rengi saç zincirleri, altın çiçek dalı motifleri, küçük kırmızı değerli taşlar, inci detayları ve çok katmanlı sallantılı püskül süsler yerleştirilmiştir; saç aksesuarları genel olarak ince işçilikli ve görkemlidir, katmanları zengindir fakat yüzü gölgelemez. Küpeler, kırmızı yeşim boncuklar ve açık altın rengi ince zincirlerle kombinlenmiş, asaleti vurgulayacak şekilde kulakların yanından usulca sarkan inci püsküllü sallantılı küpelerdir.
 
-Kıyafet, üzerinde bol miktarda altın iplikle işlenmiş çiçek nakışları ve ince jakar desenleri bulunan nar kırmızısı önden açık üst tunik, koyu altın jakarlı uzun etek ve fildişi beyazı şifon şal kombinasyonudur. Yaka ve göğüs kısmında zarif geleneksel antik büstiyer tarzı bir iç katman yer alır; göğüs dolgun ve doğaldır, üst gövde oranları ahenkli ve dolgundur, yumuşak göğüs hattı ve göğüs silüetinin büyük kısmı net bir şekilde görülür ancak kıyafetle tamamen örtülüdür; genel görünüm ölçülü ve asildir, avam veya modern gece elbisesi gibi değildir. Giysi renk paleti nar kırmızısı, koyu altın, fildişi beyazı ve sıcak altın tonlarından oluşur; muhteşem ve canlıdır, aynı zamanda klasik inceliğini korur.
+Kıyafet, nar kırmızısı önden açık ru bluzdan oluşur; kumaşı yoğun altın iplik çiçek nakışları ve ince dokulu gizli desenlerle bezelidir; bu parça koyu altın gizli desenli uzun bir etek ve fildişi beyazı hafif tül şal ile tamamlanmıştır. Yaka ve göğüs kısmında geleneksel korse tarzı zarif bir iç katman yer alır; göğüs kısmı dolgun ve doğaldır, üst gövde oranları kıvrımlı ve dengelidir; göğsün yumuşak çizgisi ve hatlarının büyük kısmı net bir şekilde fark edilir, ancak tüm kıyafet tarafından tam ve edepli bir şekilde örtülmüştür; asla bayağı durmaz ve modern abiyelere benzemez. Kıyafetin renk paleti nar kırmızısı, koyu altın, fildişi beyazı ve sıcak altın tonlarından oluşur; son derece göz alıcı ve zengin olmasının yanı sıra klasik zarafeti de korur.
 
-Mekan: Saray fenerleriyle aydınlatılmış sıcak köşk / inci perdeler / bronz aynalı makyaj masası / titreyen mum ışığı gölgeleri. Karakter antik tarzda bir makyaj masasının önünde oturmaktadır, sol tarafta oymalı bronz yuvarlak ayna görünür; ön planda ve yanlarda çok katmanlı inci boncuklu perdeler sarkmaktadır. Makyaj masasının üzerinde kırmızı-altın bir mücevher kutusu, inci kolyeler, küçük takılar ve bir şamdan yer alır. Arka planda sıcak sarı saray fenerleri, koyu renkli ahşap oda ve uzaktaki gece köşklerinin bulanıklaşmış ışık gölgeleri görünür; genel mekan görkemlidir ancak arka plan yumuşak bir şekilde bulanıktır, ana konunun önüne geçmez.
+Mekân; saray fenerli sıcak bir köşk / inci perdeler / bronz aynalı makyaj masası / titreyen mum ışıklarından oluşur. Kadın klasik makyaj masasının önünde oturmaktadır; sol tarafta oymalı bronz yuvarlak bir ayna görülür, ön planda ve yanlarda çok katmanlı inci perdeler sarkar; makyaj masasının üzerinde kırmızı-altın mücevher kutuları, inci kolyeler, küçük süs eşyaları ve şamdanlar yer alır. Arka planda sıcak sarı saray fenerleri, koyu ahşap iç mekân ve uzakta gecenin içinde flu kalmış köşk ışıkları seçilmektedir; mekân bütünüyle görkemlidir ancak arka plan dikkati dağıtmayacak şekilde yumuşakça bulanıklaştırılmıştır.
 
-Işıklandırma, hafif altın tonlu sıcak beyaz mum ışığı ile saray fenerlerinin yumuşak ışığının birleşimini kullanır; karakterin yüzünde gözlerin, göz farının, allığın, dudak makyajının, saç aksesuarlarının, nakışların ve cilt ayrıntılarının net bir şekilde görünmesini sağlayan bağımsız, yumuşak bir dolgu ışığı mevcuttur. Genel görüntü sıcak ve berraktır, gece atmosferine sahiptir ancak aşırı karanlık, aşırı sarı veya kirli gri değildir. Arka planda sığ alan derinliği bulanıklığı vardır; karakterin yüzü ve makyajı her zaman birincil görsel merkezdir.
+Işıklandırma, sıcak beyaz ve hafif altın tonlarındaki mum ışığı ile saray fenerlerinin yumuşak ışığının birleşiminden oluşur; kadının yüzünde gözlerin, göz farının, allığın, dudak makyajının, saç süslerinin, nakışların ve cilt dokusunun net bir şekilde görünmesini sağlayan bağımsız yumuşak bir dolgu ışığı bulunur. Genel atmosfer sıcak ve berraktır; gece havası hâkimdir ancak sahne ne aşırı karanlık ne sararmış ne de mattır. Arka plan sığ alan derinliğiyle bulanıklaştırılmış olup kadının yüzü ve makyajı daima ilk görsel odak noktasıdır.
 
-85mm portre lensi, gerçekçi fotoğraf dokusu, yüksek detaylı antik Çin soylu kadın güzellik portresi, karakterin gözlerine tam odaklanmış, makyaj son derece net, inci süslemeler ve altın iplik nakışlar narin ve ayrıntılı, görsel olarak muhteşem, büyüleyici, sıcak ve klasik bir gece sinematografisine sahip.
+85mm portre lensi, gerçekçi fotoğraf dokusu, üst düzey işçilikte antik Doğu soylu kadın güzellik çekimi, gözlere mükemmel hassasiyette odaklanma, net makyaj detayları, inci süslemeler ve altın iplik nakışlarda ince işçilik; görkemli, cezbedici, sıcacık ve klasik gece atmosferine sahip sinematik bir kare.
 ```
 
 [↑ Kategorilere dön](#catalog)

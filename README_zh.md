@@ -35,20 +35,20 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097886029692969195"></a>
 
-### 翻译中
+### 中国网红卧室镜前自拍写真提示词，展示短发低胸穿搭与室内柔光风格。
 
 作者：[@ohmuyi](https://x.com/ohmuyi) · [查看 X 原帖](https://x.com/ohmuyi/status/2097886029692969195)
 
 摄影 · 人像 / 自拍 · 网红 / 模特 · 时尚单品 · 建筑 / 室内设计 · 已推流
 
-**概括:** 翻译中
+**概括:** 中国网红卧室镜前自拍写真提示词，展示短发低胸穿搭与室内柔光风格。
 
 <img src="images/2097886029692969195-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+3:4，手机近距镜自拍，中国网红，冷白皮，黑色短Bob配轻薄齐刘海，紧身低胸短袖，手机遮右侧三分之一脸，卧室白床黑框镜，柔和室内光，温柔魅惑
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -456,9 +456,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 查看 X 原帖：[@liyue\_ai](https://x.com/liyue_ai) · [查看 X 原帖](https://x.com/liyue_ai/status/2096269909076623535)
 
-**概括（Prompt 原语言）：** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
-
-**English summary:** A close-up portrait prompt of an elegant noble ancient Chinese woman by a dressing table in a warm night pavilion.
+**概括:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
 
 <img src="images/2096631729410986083-1.jpg" alt="图片 1" width="480" />
 

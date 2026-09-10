@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097886029692969195"></a>
 
-### Đang dịch
+### Prompt ảnh chụp selfie trước gương trong phòng ngủ của hot girl mạng Trung Quốc, thể hiện trang phục tóc ngắn cổ sâu cùng phong cách ánh sáng dịu nhẹ trong nhà.
 
 Tác giả：[@ohmuyi](https://x.com/ohmuyi) · [Bài gốc](https://x.com/ohmuyi/status/2097886029692969195)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp selfie trước gương trong phòng ngủ của hot girl mạng Trung Quốc, thể hiện trang phục tóc ngắn cổ sâu cùng phong cách ánh sáng dịu nhẹ trong nhà.
 
 <img src="images/2097886029692969195-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+3:4, selfie trước gương cự ly gần bằng điện thoại, hot girl mạng Trung Quốc, làn da trắng lạnh, tóc ngắn bob đen cùng mái bằng mỏng, áo ngắn tay bó sát khoét cổ sâu, điện thoại che một phần ba khuôn mặt bên phải, phòng ngủ có giường trắng và gương viền đen, ánh sáng trong nhà dịu nhẹ, dịu dàng và quyến rũ
 ```
 
 [↑ Về danh mục](#catalog)
@@ -448,7 +448,7 @@ Bộ ảnh thời trang cao cấp siêu thực theo phong cách biên tập tron
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Bức chân dung cận cảnh quý nữ phương Đông đang trang điểm với bối cảnh căn phòng ấm áp ban đêm phong cách cổ phong, bao gồm miêu tả chi tiết về lớp trang điểm, phụ kiện tóc và y phục.
 
 Tác giả：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -456,7 +456,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Tóm tắt:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Tóm tắt:** Bức chân dung cận cảnh quý nữ phương Đông đang trang điểm với bối cảnh căn phòng ấm áp ban đêm phong cách cổ phong, bao gồm miêu tả chi tiết về lớp trang điểm, phụ kiện tóc và y phục.
 
 <img src="images/2096631729410986083-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -465,21 +465,21 @@ Bài gốc：[@liyue\_ai](https://x.com/liyue_ai) · [Bài gốc](https://x.com/
 **Câu lệnh**
 
 ```text
-Khổ dọc 9:16, ảnh chân dung trang điểm cổ phong về đêm, chân dung quý nữ cổ điển phương Đông, cận cảnh ngang ngực, góc nhìn chính diện, nhân vật ngồi đoan trang trước bàn trang điểm, cơ thể hướng thẳng về phía ống kính, đầu thẳng tự nhiên, ánh mắt dịu dàng chan chứa tình cảm, yên lặng nhìn vào ống kính, thần thái e ấp, mềm mại, cảm xúc nội tâm lắng đọng, phảng phất chút tâm trạng muốn nói lại thôi trong màn đêm. Khí chất tổng thể toát lên vẻ tiểu thư danh gia vọng tộc, dịu dàng, cao quý, tinh tế, kín đáo mà đầy ý vị, tựa như một quý nữ vừa dừng tay chải chuốt trong đêm.
+Khổ dọc 9:16, bộ ảnh chân dung trang điểm phong cách cổ phong ban đêm, hình tượng quý nữ cổ điển phương Đông, cận cảnh bán thân, góc nhìn chính diện, nhân vật ngồi đoan trang trước bàn trang điểm, cơ thể hướng thẳng về phía ống kính, đầu thẳng tự nhiên, ánh mắt dịu dàng đa tình, lặng lẽ nhìn vào ống kính, biểu cảm kín đáo, mềm mại, cảm xúc nội tâm, mang một chút tâm sự ngập ngừng trong đêm. Khí chất tổng thể là thiên kim khuê các, dịu dàng, quý phái, tinh xảo, kín đáo và đầy phong vị, tựa như một quý nữ vừa dừng tay trang điểm giữa màn đêm.
 
-Nhân vật là một nữ thanh niên phương Đông trẻ tuổi, trưởng thành rõ rệt, độ tuổi thị giác khoảng 20–28 tuổi, khuôn mặt mắt sáng môi mọng, mặt trái xoan mềm mại, trán đầy đặn tự nhiên, phần giữa khuôn mặt nở nang và có chiều sâu, đường viền hàm thanh thoát mềm mại. Dáng mày tỉ mỉ thanh tú, đôi mắt trong veo có thần, dáng mắt dài tự nhiên, đuôi mắt hơi xếch nhẹ nhưng không quá đà, ánh mắt nhu hòa ngập tràn cảm xúc; sống mũi thanh tú mượt mà, chóp mũi tinh tế tròn trịa; dáng môi mềm mại căng mọng, hạt môi tự nhiên rõ nét, tổng thể ngũ quan tinh xảo cân đối, cận cảnh càng ngắm càng cuốn hút, không non nớt trẻ con, không mang nét hotgirl mạng xã hội.
+Nhân vật là một thiếu nữ phương Đông trẻ tuổi với độ tuổi thị giác khoảng 20–28 tuổi, rõ ràng đã trưởng thành, gương mặt mắt sáng môi mọng, mặt trái xoan mềm mại, trán đầy đặn tự nhiên, phần giữa khuôn mặt nở nang ba chiều, đường viền hàm mềm mại mượt mà. Dáng mày thanh tú giãn nở, đôi mắt trong sáng có thần, dáng mắt dài tự nhiên, đuôi mắt hơi xếch nhẹ nhưng không quá đà, ánh mắt nhu hòa tình cảm; sống mũi thanh tú mượt mà, đầu mũi tinh tế tròn trịa; dáng môi mềm mại căng mọng, nhân trung và hạt môi rõ ràng tự nhiên, ngũ quan tổng thể tinh xảo cân đối, cận cảnh cuốn hút, không quá trẻ con, không theo phong cách hot girl mạng.
 
-Lớp trang điểm là phong cách diễm lệ mềm mại màu thạch lựu dưới ánh đèn (Đăng Ảnh Hải Lựu Nhu Diễm). Lớp nền trong suốt mịn màng, làn da trắng trẻo mềm mại, giữ trọn kết cấu da tự nhiên tinh tế. Trang điểm mắt phối màu loang chuyển sắc giữa đỏ thạch lựu, trà đỏ, nâu ấm và một chút nhũ vàng ấm lấp lánh, phía ngoài mí mắt trên và đuôi mắt hơi nhấn đậm, bọng mắt dưới phủ lớp ngọc trai vàng ấm tinh tế, đường kẻ mắt mảnh rõ ràng, hàng mi cong vút tơi đều. Vùng giữa mặt và gò má ửng nhẹ phấn má hồng hoa hồng ấm tự nhiên, thần sắc ấm áp nhu thuận. Sống mũi, chóp mũi, giữa mặt và đỉnh môi được tạo khối bắt sáng (highlighter) trong suốt tinh tế nhưng không làm bóng dầu toàn mặt. Son môi đỏ thạch lựu căng bóng ngậm nước, màu sắc tươi tắn rạng ngời, bề mặt môi có độ bóng nhẹ như thủy tinh. Tổng thể sau khi trang điểm mang khí chất dịu dàng, nhu diễm, hàm súc, sang trọng quý phái, đong đầy xúc cảm của một quý nữ dưới ánh nến đêm thâu.
+Phong cách trang điểm là 'Trang điểm hồng lựu yêu kiều dưới bóng đèn'. Lớp nền trong suốt mịn màng, làn da trắng sáng mềm mại, giữ lại kết cấu da mịn màng tự nhiên. Trang điểm mắt sử dụng tông màu đỏ lựu, trà đỏ, nâu ấm kết hợp với một chút nhũ vàng ấm tán loang nhiều lớp, mí mắt trên phía ngoài và đuôi mắt hơi đậm nhẹ, bọng mắt có nhũ ngọc trai vàng ấm tinh tế, đường kẻ mắt mảnh rõ ràng, lông mi cong vút sắc nét. Phần giữa mặt và gò má phớt phấn má hồng hoa hồng ấm áp tự nhiên, thần thái ấm nhuận. Sống mũi, đầu mũi, giữa mặt và đỉnh môi được điểm xuyết highlight trong suốt tinh tế nhưng không gây bóng dầu toàn mặt. Son môi màu đỏ lựu căng bóng, màu sắc tươi tắn mềm mại, bề mặt môi có độ bóng nhẹ như gương. Khí chất tổng thể sau trang điểm dịu dàng, kiều diễm, kín đáo, xa hoa, đậm chất tâm trạng quý nữ dưới ánh nến đêm.
 
-Kiểu tóc búi cao lỏng tay bằng tóc đen, búi tóc đầy đặn tròn trịa, đỉnh đầu phồng tự nhiên, từng sợi tóc đen nhánh mượt mà. Cài trên tóc là trâm ngọc đỏ thạch lựu, chuỗi dây chuyền cài tóc vàng nhạt, hoa cài cành vàng, những viên đá quý nhỏ màu đỏ, điểm xuyết ngọc trai và các dải tua rua buông rủ nhiều tầng; trang sức cài tóc tổng thể lộng lẫy tinh xảo, giàu lớp lang nhưng không làm che lấp gương mặt. Hoa tai là khuyên tai tua rua ngọc trai kết hợp cùng ngọc đỏ và dây chuyền mảnh vàng nhạt, rủ nhẹ bên tai, tăng thêm phần tôn quý.
+Kiểu tóc là tóc đen búi cao lỏng tay, búi tóc đầy đặn tròn trịa, đỉnh đầu phồng tự nhiên, lọn tóc đen nhánh suôn mượt. Cài trâm ngọc màu đỏ lựu, dây xích cài tóc màu vàng kim nhạt, kết cấu cành hoa vàng, đá quý đỏ nhỏ, điểm xuyết ngọc trai và tua rua rủ nhiều lớp; trang sức tóc tổng thể tinh tế hoa lệ, tầng lớp phong phú nhưng không che lấp khuôn mặt. Hoa tai là khuyên tai tua rua ngọc trai kết hợp ngọc đỏ và dây kim loại mảnh màu vàng nhạt, buông nhẹ bên tai, tăng thêm phần quý phái.
 
-Trang phục là áo đối khâm màu đỏ thạch lựu, chất vải thêu dày đặc hoa văn chỉ vàng và hoa văn chìm tinh xảo, phối cùng váy dài hoa văn chìm màu ô kim (vàng ánh đen) và dải lụa choàng vai màu trắng ngà mỏng nhẹ. Cổ áo và trước ngực là lớp yếm lót tinh xảo phong cách cổ điển, khuôn ngực đầy đặn tự nhiên, tỷ lệ phần thân trên cân đối đẫy đà, có thể thấy rõ đường nét ngực mềm mại cùng phần lớn đường viền ngực, nhưng vẫn được trang phục che chắn đầy đủ, tổng thể trang nhã đứng đắn, không dung tục, không biến tấu theo kiểu dạ hội hiện đại. Phối màu trang phục chủ đạo gồm đỏ thạch lựu, ô kim, trắng ngà và vàng ấm, rực rỡ lộng lẫy nhưng vẫn giữ trọn nét tinh tế cổ điển.
+Trang phục là áo đối khâm màu đỏ lựu, chất vải thêu nhiều hoa văn chỉ vàng lộng lẫy và vân chìm tinh xảo, phối cùng váy dài vân chìm màu vàng đen (ô kim) và khăn choàng lụa mỏng màu trắng ngà. Cổ áo và phần ngực là lớp yếm lót quây ngực cổ phong tinh tế, khuôn ngực đầy đặn tự nhiên, tỷ lệ thân trên nảy nở hài hòa, có thể nhìn thấy rõ đường nét ngực mềm mại và phần lớn đường cong vòng một, nhưng vẫn được che phủ đầy đủ bởi trang phục, tổng thể đoan trang, không dung tục, không biến tướng thành dạ phục hiện đại. Phối màu trang phục chủ đạo gồm đỏ lựu, ô kim, trắng ngà, vàng ấm, rực rỡ nổi bật nhưng vẫn giữ được nét tinh tế cổ điển.
 
-Bối cảnh là gác ấm đèn cung đình / rèm châu / bàn trang điểm gương đồng / ánh nến chập chờn. Nhân vật ngồi trước bàn trang điểm cổ phong, bên trái có thể thấy một chiếc gương tròn bằng đồng chạm khắc hoa văn cổ, tiền cảnh và hai bên rủ xuống nhiều lớp rèm ngọc trai, trên bàn trang điểm bày hộp trang sức đỏ viền vàng, chuỗi ngọc trai, các món trang sức nhỏ và chân nến. Hậu cảnh có thể thấy đèn lồng cung đình ánh vàng ấm, gian phòng gỗ trầm, xa xa là bóng đèn mờ ảo của lầu các trong đêm, không gian tổng thể hoa lệ nhưng hậu cảnh được làm mờ mềm mại, không lấn át chủ thể.
+Bối cảnh là Gian phòng ấm áp đèn lồng / Rèm ngọc trai / Bàn trang điểm gương đồng / Bóng nến lung linh. Nhân vật ngồi trước bàn trang điểm cổ phong, bên trái có gương đồng tròn chạm khắc hoa văn, tiền cảnh và hai bên rủ nhiều lớp rèm ngọc trai, trên bàn trang điểm bày hộp trang sức đỏ viền vàng, chuỗi ngọc trai, trang sức nhỏ và chân nến. Hậu cảnh có đèn lồng cung đình ánh vàng ấm, gian phòng gỗ trầm, xa xa là bóng đèn mờ ảo của lầu gác trong đêm, không gian tổng thể hoa lệ nhưng hậu cảnh mờ nhòe dịu nhẹ, không lấn át chủ thể.
 
-Ánh sáng kết hợp giữa ánh nến trắng ấm thiên vàng và ánh sáng dịu nhẹ của đèn lồng cung đình, khuôn mặt nhân vật có ánh sáng bổ trợ riêng biệt mềm mại, đảm bảo đôi mắt, màu mắt, phấn má, son môi, phụ kiện tóc, đường chỉ thêu và chi tiết làn da đều hiện rõ mồn một. Tổng thể khung hình ấm áp trong trẻo, mang bầu không khí đêm tối nhưng không quá tối tăm, không bị ám vàng, không đục bẩn. Hậu cảnh xóa phông nông, khuôn mặt và lớp trang điểm của nhân vật luôn là tâm điểm thị giác hàng đầu.
+Ánh sáng kết hợp giữa ánh nến trắng ấm thiên vàng và ánh sáng dịu của đèn lồng, khuôn mặt nhân vật có ánh sáng hắt dịu riêng biệt, đảm bảo đôi mắt, phấn mắt, má hồng, son môi, phụ kiện tóc, thêu thùa và chi tiết da đều nhìn rõ ràng. Toàn bộ khung hình ấm áp trong trẻo, có không khí ban đêm nhưng không quá tối, không ám vàng, không u ám đục ngầu. Độ sâu trường ảnh nông làm mờ hậu cảnh, khuôn mặt và lớp trang điểm của nhân vật luôn là trung tâm thị giác hàng đầu.
 
-Ống kính chân dung 85mm, chất cảm nhiếp ảnh chân thực, bộ ảnh chân dung trang điểm quý nữ cổ phong độ hoàn thiện cao, lấy nét chuẩn xác vào đôi mắt nhân vật, lớp trang điểm sắc nét, trang sức ngọc châu và chỉ thêu vàng tinh xảo tỉ mỉ, hình ảnh hoa mỹ, nhu diễm, ấm áp nhu hòa, đậm chất điện ảnh cổ điển về đêm.
+Ống kính chân dung 85mm, chất lượng nhiếp ảnh chân thực, bộ ảnh trang điểm quý nữ cổ phong độ hoàn thiện cao, lấy nét chính xác vào đôi mắt, trang điểm rõ nét, trang sức ngọc trai và thêu chỉ vàng tinh tế tỉ mỉ, khung hình lộng lẫy, kiều diễm, ấm áp, đậm chất điện ảnh cổ điển đêm muộn.
 ```
 
 [↑ Về danh mục](#catalog)

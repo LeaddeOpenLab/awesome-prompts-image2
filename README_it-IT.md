@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097886029692969195"></a>
 
-### Traduzione in corso
+### Prompt fotografico per selfie allo specchio in camera da letto di un'influencer cinese, che mette in mostra capelli corti, abbigliamento scollato e stile con luce soffusa da interni.
 
 Autore：[@ohmuyi](https://x.com/ohmuyi) · [Post originale](https://x.com/ohmuyi/status/2097886029692969195)
 
 Fotografia · Ritratto / Selfie · Influencer / Modello/a · Articolo di moda · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico per selfie allo specchio in camera da letto di un'influencer cinese, che mette in mostra capelli corti, abbigliamento scollato e stile con luce soffusa da interni.
 
 <img src="images/2097886029692969195-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+3:4, selfie ravvicinato allo specchio con smartphone, influencer cinese, pelle candida dai toni freddi, bob corto nero con frangetta dritta e leggera, maglietta a maniche corte aderente e scollata, il telefono copre un terzo del lato destro del viso, camera da letto con letto bianco e specchio con cornice nera, luce soffusa per interni, dolce e ammaliante
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -416,7 +416,7 @@ Editoriale di moda di lusso ultra-realistico in uno studio minimalista beige cal
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Ritratto a mezza figura ravvicinata di una nobildonna orientale che si acconcia in un accogliente padiglione notturno in stile antico, con descrizioni minuziose di trucco, accessori per capelli e abbigliamento.
 
 Autore：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -424,7 +424,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Abstract /
 
 Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Riepilogo:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Riepilogo:** Ritratto a mezza figura ravvicinata di una nobildonna orientale che si acconcia in un accogliente padiglione notturno in stile antico, con descrizioni minuziose di trucco, accessori per capelli e abbigliamento.
 
 <img src="images/2096631729410986083-1.jpg" alt="Immagine 1" width="480" />
 
@@ -433,21 +433,21 @@ Post originale：[@liyue\_ai](https://x.com/liyue_ai) · [Post originale](https:
 **Prompt**
 
 ```text
-Formato verticale 9:16, servizio fotografico beauty notturno in stile antico cinese, ritratto di nobildonna classica orientale, primo piano a mezzo busto, prospettiva frontale, il soggetto è seduto composto davanti alla toeletta, corpo frontale verso la fotocamera, testa naturalmente eretta, sguardo dolce e carico di sentimento che fissa serenamente l'obiettivo, espressione riservata, morbida, emotività trattenuta, con una sfumatura di misteriosa reticenza notturna. Il temperamento complessivo è quello di una dama di alto lignaggio: gentile, aristocratica, raffinata, riservata e ricca di fascino, come una nobildonna che ha appena finito di acconciarsi nella quiete della notte.
+Formato verticale 9:16, servizio fotografico di bellezza e trucco notturno in stile classico orientale, ritratto di nobildonna dell'oriente antico, mezza figura ravvicinata (busto), prospettiva frontale, la donna è seduta compostamente davanti alla toletta, il corpo rivolto verso la fotocamera, il capo dritto in modo naturale, sguardo tenero e colmo di sentimento, che osserva in silenzio l'obiettivo, espressione riservata, morbida, dall'emotività trattenuta con una sfumatura di parole taciute nella notte. L'aura complessiva è quella di una dama di alto lignaggio: dolce, sfarzosa, raffinata, riservata e ricca di fascino, come una nobildonna che ha appena interrotto la propria toletta nella notte.
 
-Il soggetto è una giovane donna orientale di età visiva compresa tra 20 e 28 anni, chiaramente adulta, viso con occhi luminosi e labbra piene, volto ovale morbido, fronte naturalmente armoniosa, zona centrale del viso piena e tridimensionale, linea mandibolare morbida e fluida. Sopracciglia fini e distese, occhi limpidi ed espressivi, taglio dell'occhio naturalmente allungato con angoli esterni leggermente sollevati ma senza esagerazioni, sguardo umido e affettuoso; ponte nasale delicato e affusolato, punta del naso elegante e arrotondata; labbra morbide e carnose, arco di Cupido naturalmente definito, tratti del viso complessivamente simmetrici e squisiti, fotogenica nei primi piani, senza tratti infantili e lontana dai canoni stereotipati da influencer.
+Il soggetto è una giovane donna orientale chiaramente adulta, di età apparente compresa tra i 20 e i 28 anni, con occhi luminosi e labbra piene, viso ovale armonioso, fronte naturalmente bombata, parte centrale del viso piena e tridimensionale, linea mandibolare morbida e sinuosa. Sopracciglia fini e distese, occhi limpidi e vivaci, taglio degli occhi naturalmente allungato, angoli esterni leggermente sollevati senza eccessi, sguardo umido, dolce e carezzevole; setto nasale grazioso e regolare, punta del naso fine e arrotondata; labbra morbide e carnose, arco di Cupido e perla labiale naturalmente definiti, lineamenti complessivamente squisiti e simmetrici, incantevoli in primo piano, senza aspetto infantile né stile da influencer dei social.
 
-Il trucco è un seducente e morbido makeup "Melograno e Ombre di Lanterna". Base trucco trasparente e vellutata, incarnato chiaro, morbido e luminoso, che preserva la texture naturale e delicata della pelle. Trucco occhi sfumato a gradiente nei toni rosso melograno, tè scuro, marrone caldo e un tocco di micro-glitter dorato caldo; angolo esterno e palpebra superiore leggermente intensificati, zona sub-oculare (aegyo sal) con fine perlatura dorata calda, linea di eyeliner sottile e netta, ciglia incurvate e ben definite. Blush rosa caldo e naturale al centro del viso e sugli zigomi, donando un colorito fresco e sano. Punti luce delicati e trasparenti su ponte nasale, punta del naso, centro del viso e arco di Cupido, senza effetto lucido o oleoso. Trucco labbra effetto gloss color rosso melograno acquoso, colore vivido, morbido e brillante, con un delicato effetto vetro. Il look complessivo è dolce, sensuale, discreto e nobile, intriso dell'emozione suggestiva di una nobildonna a lume di candela.
+Il trucco è un seducente e morbido «trucco melagrana a lume di candela». La base è trasparente e fine, la pelle chiara, morbida e idratata, mantenendo la texture naturale e delicata della cute. Il trucco occhi impiega una sfumatura graduale di rosso melagrana, tè rossastro, marrone caldo e sottili riflessi dorati caldi; la parte esterna della palpebra superiore e la coda dell'occhio sono leggermente accentuate, la zona suboculare (aegyosal) presenta un fine bagliore perlato oro caldo, l'eyeliner è sottile e netto, le ciglia incurvate e ben distinte. Il centro del viso e gli zigomi sono scaldati da un blush rosa caldo morbido e naturale, donando un incarnato sano e rassicurante. Punti luce delicati e traslucidi sono applicati su canna nasale, punta del naso, centro del viso e arco di Cupido, senza conferire un aspetto lucido o unto alla pelle. Il trucco labbra è un rossetto glossato rosso melagrana, dal colore vivido, morbido e brillante, con un leggero effetto specchio. L'allure complessiva dopo il trucco è tenera, affascinante, discreta e sontuosa, carica dell'atmosfera emotiva di una nobildonna al lume di candela nella notte.
 
-Acconciatura a chignon alto raccolto morbidamente con capelli neri corvini e setosi, volume tondo e pieno, corona naturalmente voluminosa. Tra i capelli sono inseriti fermagli con perle rosso melograno, catenelle in oro chiaro, ornamenti a forma di rami fioriti dorati, piccole gemme rosse, accenti di perle e nappe pendenti a più strati; gli accessori per capelli sono preziosi e sfarzosi, ricchi di dettagli ma senza appesantire il viso. Orecchini a pendente con nappe di perle, perline di giada rossa e sottili catene in oro chiaro che ricadono delicatamente lungo i lati del viso, accentuando il senso di nobiltà.
+L'acconciatura è una crocchia alta di capelli neri raccolta morbidamente, vaporosa e rotonda, con volume naturale sulla sommità del capo, ciocche nero corvino e seriche. Tra i capelli sono inseriti fermagli con perle rosso melagrana, catenelle in oro chiaro, strutture floreali dorate a ramoscello, piccoli rubini, dettagli di perle e nappe pendenti a più strati; gli accessori per capelli sono nel complesso raffinati e splendidi, ricchi di livelli senza appesantire il viso. Gli orecchini sono pendenti con nappe di perle abbinati a perle di giada rossa e sottili catenelle d'oro chiaro, che scendono delicatamente lungo i lati del viso amplificando la sensazione di nobiltà.
 
-Abbigliamento: camicetta incrociata aperta sul davanti (ruqu) color rosso melograno, tessuto arricchito da ricchi ricami floreali in filo d'oro e fitte trame damascate, abbinata a una lunga gonna damascata color oro scuro e a una stola di velo leggero bianco avorio. Scollatura e corpetto interno raffinati in stile tradizionale, décolleté pieno e naturale, proporzioni della parte superiore del corpo armoniose e generose, con la linea del seno e la silhouette visibili in modo morbido ma completamente coperte dall'abito, mantenendo un'eleganza pudica e appropriata, senza risultare volgare né simile a un abito moderno da sera. La palette cromatica è dominata da rosso melograno, oro scuro, bianco avorio e oro caldo, sfarzosa e vivida pur conservando una classica raffinatezza.
+L'abbigliamento comprende una blusa ru con chiusura frontale in rosso melagrana, ricamata con abbondanti motivi floreali in filo d'oro e fitte trame scure, abbinata a una gonna lunga nero-oro con motivi discreti e una stola di leggera garza bianco avorio. La scollatura e il busto svelano un raffinato corpetto interno in stile antico; il seno è prosperoso e naturale, le proporzioni del busto morbide e armoniose; si intravedono chiaramente la linea dolce del décolleté e gran parte del contorno del seno, pur rimanendo completamente e decorosamente coperto dagli abiti, senza alcuna volgarità né richiami a moderni abiti da sera. La palette cromatica dell'abito verte su rosso melagrana, nero-oro, bianco avorio e oro caldo, magnifica e vibrante pur mantenendo una classica ricercatezza.
 
-Scenografia: padiglione caldo illuminato da lanterne di palazzo / tende di perle / toeletta con specchio di bronzo / tremolio di candele. Il soggetto è seduto davanti alla toeletta tradizionale; a sinistra si intravede uno specchio rotondo in bronzo cesellato, in primo piano e ai lati scendono strati di tende di perle, sul tavolo da trucco sono disposti un portagioie rosso e oro, fili di perle, piccoli gioielli e un candeliere. Sullo sfondo si notano calde lanterne di palazzo gialle, una stanza in legno scuro e le luci sfocate di padiglioni notturni in lontananza; l'ambiente complessivo è lussuoso, ma lo sfondo rimane morbido e sfocato, senza distogliere l'attenzione.
+La scena è ambientata in una calda camera con lanterne di palazzo / tende di perle / toletta con specchio di bronzo / fiammelle tremule di candele. La donna siede davanti all'antica toletta; a sinistra è visibile uno specchio rotondo di bronzo intagliato, in primo piano e ai lati ricadono tende di perle a più strati, sul piano del mobile sono posati scrigni per gioielli in rosso e oro, fili di perle, piccoli ornamenti e candelieri. Sullo sfondo si scorgono lanterne di palazzo giallo caldo, ambienti in legno scuro e in lontananza profili luminosi sfocati di padiglioni notturni; l'ambiente complessivo è opulento ma con uno sfondo morbidamente sfocato, per non distogliere l'attenzione dal soggetto.
 
-Illuminazione che combina il calore dorato delle candele e la luce soffusa delle lanterne di palazzo, con un'illuminazione di riempimento delicata e indipendente sul volto del soggetto, per garantire che occhi, ombretto, blush, labbra, accessori per capelli, ricami e trama della pelle siano chiaramente visibili. Atmosfera generale calda e limpida, suggestiva della notte, ma non eccessivamente scura, né giallastra o spenta. Profondità di campo ridotta con sfondo sfocato: il volto e il makeup del soggetto restano costantemente il punto focale principale.
+L'illuminazione combina la luce bianco-calda e dorata delle candele con il chiarore diffuso delle lanterne, integrata da una luce di schiarita morbida e indipendente sul volto della donna, per garantire che occhi, ombretto, fard, rossetto, ornamenti dei capelli, ricami e texture della pelle risultino perfettamente visibili. L'atmosfera generale dell'immagine è calda e luminosa, ricca di suggestione notturna senza essere eccessivamente buia, giallastra o opaca. Sfondo con profondità di campo ridotta e sfocata, così che il volto e il trucco della protagonista rimangano costantemente il primo centro di interesse visivo.
 
-Obiettivo da ritratto 85mm, texture fotografica autentica e realistica, servizio fotografico beauty di altissimo livello di una nobildonna in costume tradizionale, occhi a fuoco perfetto, trucco nitido, gioielli e ricami in filo d'oro estremamente dettagliati, resa visiva lussuosa, suadente, calda e intrisa di un'atmosfera cinematografica notturna classica.
+Obiettivo da ritratto da 85 mm, grana fotografica realistica, ritratto fotografico di bellezza di una nobildonna d'epoca di altissimo livello qualitativo, messa a fuoco impeccabile sugli occhi, trucco nitido, dettagli di perle e ricami in filo d'oro finemente cesellati, immagine sontuosa, suadente, calda e intrisa di un classico fascino cinematografico notturno.
 ```
 
 [↑ Torna alle categorie](#catalog)

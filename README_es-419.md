@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097886029692969195"></a>
 
-### Traducción en curso
+### Prompt de foto selfie frente al espejo en la recámara de una influencer china, mostrando peinado corto, atuendo escotado y estilo con luz interior suave.
 
 Autor：[@ohmuyi](https://x.com/ohmuyi) · [Publicación original](https://x.com/ohmuyi/status/2097886029692969195)
 
 Fotografía · Retrato / Selfie · Influencer / Modelo · Artículo de moda · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de foto selfie frente al espejo en la recámara de una influencer china, mostrando peinado corto, atuendo escotado y estilo con luz interior suave.
 
 <img src="images/2097886029692969195-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+3:4, selfie de cerca en el espejo con celular, influencer china, piel blanca de tono frío, bob corto negro con flequillo recto y ligero, playera ajustada de manga corta con escote bajo, el celular cubre un tercio del lado derecho de la cara, recámara con cama blanca y espejo de marco negro, luz interior suave, tierna y seductora
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -416,7 +416,7 @@ Editorial de moda de lujo ultrarrealista en un estudio minimalista de color beig
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Retrato en primer plano medio de una dama noble oriental arreglándose en un cálido pabellón nocturno de estilo clásico, con descripciones detalladas de maquillaje, peinado y vestimenta.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -424,7 +424,7 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Resumen / A
 
 Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación original](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Resumen:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Resumen:** Retrato en primer plano medio de una dama noble oriental arreglándose en un cálido pabellón nocturno de estilo clásico, con descripciones detalladas de maquillaje, peinado y vestimenta.
 
 <img src="images/2096631729410986083-1.jpg" alt="Imagen 1" width="480" />
 
@@ -433,21 +433,21 @@ Publicación original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicación or
 **Prompt**
 
 ```text
-Formato vertical 9:16, sesión de belleza nocturna de estilo tradicional oriental, retrato de una mujer noble clásica oriental, plano medio corto / busto en primer plano, ángulo frontal, la figura sentada erguida frente a un tocador, cuerpo de frente a la cámara, cabeza colocada de manera natural y recta, mirada suave y llena de afecto, mirando en silencio a la cámara, expresión sutil, delicada, con emociones contenidas y un toque melancólico de confidencia nocturna. El porte general es el de una dama noble de alta alcurnia, tierna, suntuosa, refinada, reservada y llena de gracia, como una dama de la nobleza que acaba de terminar de arreglarse al caer la noche.
+Formato vertical 9:16, sesión fotográfica de belleza y maquillaje nocturno de estilo clásico oriental, retrato de una noble dama de la antigüedad oriental, plano medio corto (busto), perspectiva frontal, la mujer está sentada erguida frente a un tocador, cuerpo de frente a la cámara, cabeza colocada de manera natural y recta, mirada tierna y llena de afecto, mirando en silencio a la cámara, expresión reservada, suave, con emociones contenidas y un ligero dejo de palabras no dichas en la noche. El temperamento general es el de una dama de la alta nobleza: tierna, opulenta, refinada, reservada y con encanto evocador, como una dama noble que acaba de terminar de arreglarse en la noche.
 
-La protagonista es una joven mujer oriental con una edad visual de entre 20 y 28 años, claramente adulta, con ojos brillantes y labios carnosos, rostro ovalado suave, frente natural y despejada, zona media del rostro con volumen tridimensional y línea mandibular suave y fluida. Cejas delicadas y estilizadas, ojos limpios y expresivos, de forma naturalmente alargada con el rabillo ligeramente elevado pero sin exageración, mirada cálida y llena de ternura; puente nasal fino y armónico, punta de la nariz refinada y redondeada; labios suaves y rellenos con el arco de cupido bien definido. Facciones exquisitas y simétricas, cautivadoras en primer plano, sin rasgos infantiles ni aspecto artificial de influencer.
+La mujer tiene una edad visual de unos 20 a 28 años, una joven oriental claramente adulta, de ojos brillantes y labios carnosos, rostro ovalado suave, frente naturalmente llena, tercio medio facial lleno y tridimensional, línea de la mandíbula suave y fluida. Cejas delicadas y armoniosas, ojos claros y vivaces, forma de ojos naturalmente alargada, extremos ligeramente levantados sin exageración, mirada húmeda, suave y expresiva; puente nasal elegante y fluido, punta de la nariz refinada y redondeada; labios suaves y carnosos, arco de Cupido y centro labial naturalmente definidos, rasgos faciales generales exquisitos y simétricos, visualmente atractivos en primer plano, sin apariencia infantil ni aspecto de influencer de redes sociales.
 
-El maquillaje es un estilo glamoroso y suave en tonos granada bajo la luz de las lámparas. Base de maquillaje traslúcida y delicada, tez clara, tersa e hidratada, conservando la textura natural de la piel. Maquillaje de ojos difuminado en degradé con tonos rojo granada, té rojizo, marrón cálido y sutiles destellos dorados cálidos; la esquina exterior del párpado superior ligeramente oscurecida, bolsas bajo los ojos (aegyo sal) con fino brillo nacarado oro cálido, delineado delgado y nítido, pestañas rizadas y bien definidas. Mejillas y pómulos con un rubor rosa cálido suave y natural que aporta un tono saludable. Iluminador fino y translúcido en el puente y la punta de la nariz, el centro del rostro y el arco de cupido, sin crear un aspecto grasoso en toda la cara. Labios con efecto glaseado en rojo granada, color fresco, hidratado y luminoso, con un sutil acabado de cristal. El maquillaje en conjunto evoca una presencia tierna, seductora, discreta y fastuosa, transmitiendo la atmósfera emotiva de una noble a la luz de las velas nocturnas.
+El maquillaje es un suave y seductor «maquillaje granada a la luz de las velas». Base de maquillaje transparente y fina, piel clara, suave y luminosa, conservando una textura de piel natural y delicada. El maquillaje de ojos utiliza una gradación difuminada de rojo granada, té rojizo, marrón cálido y pequeños destellos dorados cálidos; la parte exterior del párpado superior y la esquina externa del ojo están ligeramente intensificadas, la zona del aegyosal lleva un fino brillo perlado dorado cálido, delineador fino y definido, pestañas curvadas y bien separadas. El centro del rostro y las mejillas lucen un rubor rosa cálido suave y natural, aportando un tono saludable y templado. Se añade un iluminador sutil y transparente en el puente de la nariz, la punta nasal, el centro del rostro y el arco de Cupido, sin crear un aspecto grasoso en todo el rostro. El maquillaje de labios es jugoso en tono rojo granada, con un color fresco, brillante y suave, y un ligero efecto de cristal. Tras el maquillaje, el temperamento general es tierno, delicadamente seductor, sutil y lujoso, con la atmósfera emocional de una dama noble bajo la luz de las velas nocturnas.
 
-Peinado de moño alto recogido holgadamente en cabello negro azabache, el moño es voluminoso y redondeado, con la parte superior de la cabeza con volumen natural, mechones oscuros y sedosos. Entre el cabello lleva horquillas de perlas rojo granada, cadenillas de oro pálido, estructuras doradas en forma de ramas florales, pequeñas gemas rojas, detalles de perlas y colgantes de borlas de múltiples capas; los adornos para el cabello son exquisitos y lujosos, con ricos niveles pero sin sobrecargar el rostro. Los pendientes son aretes largos de borlas de perlas combinados con cuentas de jade rojo y finas cadenas de oro pálido, cayendo delicadamente a los lados de las orejas para realzar el porte aristocrático.
+El peinado es un chongo alto recogido con holgura de cabello negro, voluminoso y redondeado, con la coronilla naturalmente ahuecada, cabello negro azabache y sedoso. Entre el cabello lleva horquillas de cuentas rojo granada, cadenas doradas claras, adornos con forma de ramas florales doradas, pequeñas gemas rojas, detalles de perlas y múltiples capas de borlas colgantes; el tocado general es exquisito y fastuoso, rico en capas pero sin sobrecargar el rostro. Los aretes son colgantes de borlas de perlas combinados con cuentas de jade rojo y finas cadenas doradas claras, cayendo suavemente a los lados de las orejas para realzar la sensación de nobleza.
 
-Vestimenta compuesta por una chaqueta tradicional (ru) abierta al frente en color rojo granada, con abundantes bordados florales en hilo dorado y sutiles patrones en relieve, combinada con una falda larga en brocado de oro oscuro y un chal de gasa ligera blanco marfil. El escote y el pecho muestran una refinada prenda interior tipo corpiño tradicional (moxiong), busto lleno y natural, proporciones del torso generosas y armoniosas, donde se aprecia con claridad la suave curva y la mayor parte del contorno del busto pero manteniéndose completamente cubierto por la prenda, con una elegancia impecable, sin caer en la vulgaridad ni parecer un vestido de fiesta moderno. La paleta de colores del atuendo se basa en rojo granada, oro oscuro, blanco marfil y oro cálido, deslumbrante y viva, conservando la delicadeza clásica.
+La vestimenta consiste en una blusa ru de abotonadura frontal en color rojo granada, con abundante bordado floral en hilo de oro y minuciosos patrones brocados oscuros, combinada con una falda larga de color negro dorado con patrones tenues y un chal de gasa ligera blanco marfil. El escote y el pecho presentan una exquisita capa interior estilo corpiño tradicional chino, con un busto lleno y natural, y una silueta superior redondeada y proporcionada; se aprecia con claridad la suave curva del busto y la mayor parte del contorno del pecho, pero debidamente cubierto por el atuendo completo, manteniéndose decoroso, sin resultar vulgar ni parecer un vestido de noche moderno. La paleta de colores de la vestimenta se compone principalmente de rojo granada, negro dorado, blanco marfil y oro cálido, lujosa y brillante a la vez que conserva la elegancia clásica.
 
-Escenario: cálido pabellón con linternas de palacio / cortinas de cuentas / tocador con espejo de bronce / luz de velas vacilantes. La mujer está sentada frente al tocador clásico; a la izquierda se distingue un espejo redondo de bronce con grabados antiguos, y en el primer plano y a los costados caen múltiples hileras de cortinas de perlas. Sobre el tocador hay joyeros en rojo y dorado, collares de perlas, pequeñas joyas y candelabros. Al fondo se aprecian linternas palaciegas de luz cálida, una habitación de madera oscura y las siluetas difusas e iluminadas de pabellones nocturnos a lo lejos; el espacio general es suntuoso pero con un fondo suavemente desenfocado para no robar protagonismo.
+El escenario es un pabellón cálido con faroles de palacio / cortinas de cuentas / tocador con espejo de bronce / luces de velas temblorosas. La mujer está sentada ante el tocador tradicional; a la izquierda se aprecia un espejo redondo de bronce con motivos tallados, en primer plano y a ambos lados cuelgan múltiples capas de cortinas de perlas, sobre el tocador hay cofres de joyas en rojo y oro, collares de perlas, pequeñas piezas de joyería y candeleros con velas. En el fondo se ven faroles de palacio de tono amarillo cálido, aposentos de madera oscura y siluetas luminosas desenfocadas de pabellones en la noche lejana; el espacio en su conjunto es suntuoso pero con un fondo suavemente desenfocado para no restar protagonismo al sujeto.
 
-La iluminación combina la luz de velas blanco cálido con matices dorados y la suave luminosidad de las linternas de palacio, con una luz de relleno suave e independiente en el rostro que asegura que los ojos, las sombras, el rubor, los labios, los adornos para el cabello, los bordados y la textura de la piel se vean nítidos y detallados. La imagen es cálida y luminosa en su totalidad, con una atmósfera nocturna pero sin ser demasiado oscura, amarillenta ni opaca. Fondo con profundidad de campo reducida y desenfoque suave; el rostro y el maquillaje de la dama se mantienen como el punto focal absoluto.
+La iluminación combina una luz de velas blanco cálido con matices dorados y la luz tenue de los faroles palaciegos, complementada con una luz de relleno suave e independiente sobre el rostro de la mujer, asegurando que los ojos, las sombras de ojos, el rubor, el maquillaje labial, los accesorios para el cabello, los bordados y los detalles de la piel sean claramente visibles. La atmósfera general de la imagen es cálida y translúcida, evocando la noche pero sin ser demasiado oscura, amarillenta ni opaca. Fondo con poca profundidad de campo desenfocado, de modo que el rostro y el maquillaje de la mujer son siempre el foco visual principal.
 
-Lente para retrato de 85 mm, textura de fotografía real, sesión de belleza de dama noble clásica de alta factura, enfoque preciso en los ojos, maquillaje nítido, joyería y bordados en hilo de oro extremadamente minuciosos y finos, estética fastuosa, delicadamente seductora, cálida y con una atmósfera cinematográfica de noche clásica.
+Lente para retratos de 85 mm, textura fotográfica realista, sesión fotográfica de belleza de una dama noble oriental de alta calidad, enfoque de máxima precisión en los ojos, maquillaje nítido, adornos de perlas y bordados de hilo dorado refinados y minuciosos, composición fastuosa, sutilmente seductora, cálida y con un aire cinematográfico clásico de atmósfera nocturna.
 ```
 
 [↑ Volver a categorías](#catalog)

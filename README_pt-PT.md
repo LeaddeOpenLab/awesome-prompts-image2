@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097886029692969195"></a>
 
-### Tradução em curso
+### Prompt de fotografia de selfie ao espelho no quarto de uma influenciadora chinesa, apresentando cabelo curto, roupa decotada e estilo de luz suave de interiores.
 
 Autor：[@ohmuyi](https://x.com/ohmuyi) · [Publicação original](https://x.com/ohmuyi/status/2097886029692969195)
 
 Fotografia · Retrato / Selfie · Influenciador(a) / Modelo · Item de Moda · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia de selfie ao espelho no quarto de uma influenciadora chinesa, apresentando cabelo curto, roupa decotada e estilo de luz suave de interiores.
 
 <img src="images/2097886029692969195-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+3:4, selfie de perto ao espelho com telemóvel, influenciadora chinesa, pele branca de subtom frio, corte bob curto preto com franja lisa e leve, camisola de manga curta justa e decotada, o telemóvel tapa um terço do lado direito da face, quarto com cama branca e espelho de moldura preta, luz de interiores suave, meiga e sedutora
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -426,7 +426,7 @@ Editorial de moda de luxo ultrarrealista num estúdio minimalista em bege quente
 
 <a name="prompt-2096631729410986083"></a>
 
-### 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+### Retrato em plano médio curto de uma nobre dama oriental a pentear-se num acolhedor pavilhão noturno de estilo clássico, incluindo descrições detalhadas da maquilhagem, do penteado e do traje.
 
 Autor：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096631729410986083)
 
@@ -434,7 +434,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Resumo / Context
 
 Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação original](https://x.com/liyue_ai/status/2096269909076623535)
 
-**Resumo:** 以古风夜色暖阁为背景的东方贵女梳妆近景肖像，包含妆容、发饰及服饰细节描述。
+**Resumo:** Retrato em plano médio curto de uma nobre dama oriental a pentear-se num acolhedor pavilhão noturno de estilo clássico, incluindo descrições detalhadas da maquilhagem, do penteado e do traje.
 
 <img src="images/2096631729410986083-1.jpg" alt="Imagem 1" width="480" />
 
@@ -443,21 +443,21 @@ Publicação original：[@liyue\_ai](https://x.com/liyue_ai) · [Publicação or
 **Prompt**
 
 ```text
-Formato vertical 9:16, ensaio fotográfico de maquiagem em estilo oriental clássico noturno, retrato de nobre dama oriental clássica, plano fechado de busto, perspectiva frontal, a personagem está sentada graciosamente diante de uma penteadeira, corpo voltado para a câmera, cabeça naturalmente ereta, olhar doce e expressivo, olhando serenamente para a câmera, com uma expressão sutil, suave, emocionalmente contida, com uma leve melancolia noturna de quem tem algo a dizer mas hesita. A atmosfera geral é a de uma nobre dama da alta sociedade: suave, aristocrática, requintada, discreta e cheia de charme, como uma nobre que acabou de se arrumar à noite.
+Formato vertical 9:16, sessão fotográfica de beleza e maquilhagem noturna em estilo clássico oriental, retrato de uma nobre dama da antiguidade oriental, plano médio curto (busto), perspetiva frontal, a mulher encontra-se sentada de forma direita diante da mesa de toucador, corpo virado para a câmara, cabeça posicionada de modo naturalmente aprumado, olhar meigo e expressivo, olhando serenamente para a câmara, expressão contida, suave, com emoções recolhidas e uma subtil nuance de palavras por dizer na noite. A presença geral é a de uma dama da alta nobreza: meiga, suntuosa, requintada, contida e cheia de encanto, como uma nobre senhora que acabou de se pentear na quietude da noite.
 
-A personagem é uma jovem mulher oriental com idade aparente entre 20 e 28 anos, claramente adulta, rosto de traços harmoniosos com olhos brilhantes e lábios cheios, rosto oval suave, testa naturalmente arredondada, maçãs do rosto cheias e tridimensionais, linha da mandíbula suave e fluida. Sobrancelhas delicadas e bem desenhadas, olhos límpidos e vívidos, formato naturalmente alongado, cantos externos ligeiramente erguidos sem exagero, olhar úmido e afetuoso; ponte nasal delicada e esguia, ponta do nariz refinada e arredondada; lábios macios e volumosos, arco do cupido naturalmente definido, traços faciais refinados e simétricos, cativante em plano fechado, sem aspecto infantilizado, sem estética artificial de influenciadora.
+A modelo tem uma idade visual em torno dos 20 aos 28 anos, uma jovem mulher oriental manifestamente adulta, de olhos brilhantes e lábios carnudos, rosto oval suave, testa naturalmente cheia, terço médio da face preenchido e tridimensional, linha da mandíbula suave e harmoniosa. Sobrancelhas finas e bem delineadas, olhos límpidos e expressivos, formato de olhos naturalmente alongado, cantos exteriores ligeiramente erguidos sem exagero, olhar húmido, doce e carinhoso; cana do nariz graciosa e fluida, ponta do nariz fina e arredondada; lábios macios e cheios, arco de Cupido e tubérculo labial naturalmente definidos, traços fisionómicos gerais primorosos e simétricos, admirável em plano de pormenor, sem traços infantis nem estética de influenciadora digital.
 
-A maquiagem é do tipo "Romã Suave e Radiante à Luz de Velas". Pele translúcida e aveludada, tom de pele claro e macio, preservando a textura natural e detalhada da pele. Maquiagem dos olhos com esfumado degradê em vermelho-romã, terracota, marrom quente e suaves toques cintilantes de ouro quente, canto externo da pálpebra superior levemente escurecido, aegyo sal com delicado brilho perolado em ouro quente, delineador fino e preciso, cílios curvados e bem definidos. O centro do rosto e as maçãs recebem um blush rosa-quente suave e natural, conferindo viço saudável. Iluminador fino e translúcido na ponte do nariz, ponta do nariz, centro do rosto e arco do cupido, sem criar oleosidade facial. Lábios em tom vermelho-romã com acabamento aquoso e brilhante (glossy/glass lips), cor vívida e fresca. O efeito geral da maquiagem é suave, exuberante, comedido e suntuoso, transmitindo a carga emocional de uma dama nobre sob a luz de velas noturna.
+A maquilhagem é uma suave e sedutora «maquilhagem romã à luz de velas». A base é translúcida e aveludada, a tez clara, suave e acetinada, preservando a textura natural e delicada da pele. A maquilhagem dos olhos recorre a um esfumado suave em degradé de vermelho-romã, chá avermelhado, castanho quente e subtis toques de brilho dourado quente; a parte externa da pálpebra superior e o canto exterior do olho estão ligeiramente acentuados, a zona do aegyosal apresenta um brilho perolado dourado quente subtil, o eyeliner é fino e preciso, as pestanas curvadas e bem separadas. O centro do rosto e as maçãs do rosto exibem um blush rosa quente suave e natural, conferindo um ar viçoso e saudável. Iluminador fino e translúcido é aplicado na cana e na ponta do nariz, no centro do rosto e no arco de Cupido, sem produzir um aspeto gorduroso em toda a face. A maquilhagem dos lábios consiste num batom de acabamento molhado em tom vermelho-romã, de cor viva, suave e reluzente, com um ligeiro efeito vítreo. A aura geral após a maquilhagem é doce, suavemente exuberante, discreta e aristocrática, imbuída da atmosfera emotiva de uma nobre dama sob a luz das velas noturnas.
 
-Penteado em coque alto frouxo de cabelos negros, volumoso e arredondado, topo naturalmente fofo, fios pretos sedosos e brilhantes. Entre os cabelos, enfeites com grampos de contas vermelho-romã, correntes douradas finas, estruturas florais douradas, pequenas pedras preciosas vermelhas, pérolas e franjas pendentes em camadas; os adornos são refinados e luxuosos, ricos em camadas sem sobrecarregar o rosto. Brincos de pingente longo com franjas de pérolas, contas de jade vermelho e correntes finas em ouro claro, caindo delicadamente ao lado das orelhas, elevando o ar aristocrático.
+O penteado é um apanhado alto solto de cabelos negros, volumoso e redondo, com o topo da cabeça naturalmente fofo, fios pretos sedosos e reluzentes. Entre os cabelos, destacam-se ganchos com contas vermelho-romã, correntinhas de ouro claro, motivos dourados em forma de ramos florais, pequenos rubis, pormenores de pérolas e pingentes de franjas em várias camadas; o conjunto de ornamentos capilares é minucioso e faustoso, rico em camadas sem sobrecarregar o rosto. Os brincos são pendentes com franjas de pérolas combinados com contas de jade vermelho e finas correntes de ouro claro, descendo suavemente ao lado das orelhas para reforçar o requinte aristocrático.
 
-Vestimenta: casaco superior (ruqun) de corte reto e aberto (duijin) em vermelho-romã, com tecido ricamente bordado com fios de ouro em motivos florais e padrões sutis, combinado com uma saia longa em brocado de ouro escuro e uma estola leve de tule branco marfim. O decote e o busto trazem uma refinada peça íntima clássica estilo corpete (moxiong), busto natural e cheio, proporções do tronco fartas e harmoniosas, deixando ver claramente a curva suave do busto e a maior parte de sua silhueta, mas mantendo a cobertura completa do traje, elegante e respeitável, sem vulgaridade e sem parecer um vestido de festa ocidental moderno. A paleta de cores foca em vermelho-romã, ouro escuro, branco marfim e ouro quente, vibrante e requintada, mantendo o requinte clássico.
+O traje é composto por uma blusa ru de abotoamento frontal em tom vermelho-romã, ricamente decorada com bordados florais a fio de ouro e padrões intrincados de brocado escuro, combinada com uma saia comprida preta com detalhes dourados discretos e uma estola de gaze leve branco-marfim. O decote e o peito apresentam uma sofisticada camada interior em estilo corpete tradicional chinês, o busto é volumoso e natural, com proporções superiores curvilíneas e harmoniosas; nota-se nitidamente a curva suave do peito e a maior parte do contorno do busto, mas devidamente coberto pelo vestuário completo, conservando o recato, sem qualquer conotação vulgar nem parecenças com vestidos de noite modernos. A paleta de cores do vestuário privilegia o vermelho-romã, o preto-ouro, o branco-marfim e o ouro quente, esplêndida e sumptuosa, mantendo a sobriedade clássica.
 
-Cenário: pavilhão aconchegante com lanternas palacianas / cortinas de pérolas / penteadeira com espelho de bronze / sombras trêmulas de velas. A personagem está sentada em frente a uma penteadeira de estilo antigo; à esquerda, vê-se um espelho redondo de bronze entalhado; em primeiro plano e nas laterais caem cortinas de pérolas de várias camadas; sobre a penteadeira há porta-joias vermelho e dourado, colares de pérolas, pequenos adornos e castiçais. Ao fundo, lanternas palacianas em tons amarelos quentes, aposento de madeira escura e a iluminação suavemente desfocada de pavilhões noturnos ao longe; o ambiente é suntuoso, mas o fundo permanece suavemente desfocado, sem desviar a atenção do sujeito.
+O cenário é um aposento acolhedor com lanternas de palácio / cortinas de pérolas / toucador com espelho de bronze / velas oscilantes. A dama está sentada diante do toucador tradicional; à esquerda vislumbra-se um espelho redondo de bronze esculpido, enquanto cortinas de pérolas em múltiplos planos caem em primeiro plano e pelas laterais; sobre a mesa repousam caixas de joias em vermelho e ouro, colares de pérolas, pequenas peças de ourivesaria e castiçais. Em segundo plano, avistam-se lanternas palacianas de brilho amarelo quente, divisórias de madeira escura e, ao longe, as luzes desfocadas de pavilhões na noite; o espaço é majestoso, mas com o fundo suavemente desfocado de modo a não roubar o protagonismo ao sujeito.
 
-Iluminação com combinação de luz de velas branca-dourada quente e a luz suave das lanternas palacianas, com luz de preenchimento suave dedicada ao rosto da personagem, assegurando que olhos, sombra, blush, batom, enfeites de cabelo, bordados e textura da pele estejam perfeitamente nítidos. Atmosfera geral quente e límpida, com ar noturno, sem ser escura demais, amarelada em excesso ou turva. Fundo com profundidade de campo rasa e efeito bokeh, mantendo o rosto e a maquiagem da personagem sempre como o ponto focal principal.
+A iluminação funde a luz das velas num tom branco-quente e dourado com a claridade difusa das lanternas do palácio, complementada por uma luz de preenchimento suave e independente sobre a face da dama, garantindo que os olhos, as sombras de olhos, o blush, o batom, os adereços capilares, os bordados e o grão da pele permaneçam cristalinamente visíveis. A imagem como um todo é tépida e luminosa, com ambientação noturna sem se tornar demasiado escura, amarelada ou baça. Fundo desfocado com reduzida profundidade de campo, mantendo o rosto e a maquilhagem da protagonista invariavelmente como o ponto de interesse primordial.
 
-Lente para retrato de 85mm, textura fotográfica realista, retrato fotográfico de beleza clássica de dama nobre com alto acabamento, foco cravado nos olhos, maquiagem nítida, enfeites perolados e bordados em fio dourado minuciosos e requintados, imagem deslumbrante, sedutora, serena e com rica estética cinematográfica clássica noturna.
+Objetiva para retratos de 85 mm, textura fotográfica fidedigna, sessão de beleza de uma dama nobre clássica de elevado nível de execução, focagem de precisão cirúrgica nos olhos, maquilhagem nítida, enfeites perolados e bordados a fio de ouro refinados e detalhados, imagem faustosa, suavemente sedutora, calorosa e com uma envolvência cinematográfica clássica noturna.
 ```
 
 [↑ Voltar às categorias](#catalog)
