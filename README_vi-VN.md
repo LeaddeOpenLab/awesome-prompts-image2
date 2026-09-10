@@ -658,20 +658,20 @@ Chân dung điện ảnh chân thực của một người đàn ông trưởng 
 
 <a name="prompt-2097834253748949105"></a>
 
-### Đang dịch
+### Lời nhắc vẽ Chiikawa và Usagi theo phong cách kịch họa kiểu JoJo.
 
 Tác giả：[@namatorihamu](https://x.com/namatorihamu) · [Bài gốc](https://x.com/namatorihamu/status/2097834253748949105)
 
 Anime / Manga · Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc vẽ Chiikawa và Usagi theo phong cách kịch họa kiểu JoJo.
 
 <img src="images/2097834253748949105-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy thể hiện Chiikawa và Usagi theo phong cách JoJo xem nào
 ```
 
 [↑ Về danh mục](#catalog)

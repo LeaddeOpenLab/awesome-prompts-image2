@@ -658,20 +658,20 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097834253748949105"></a>
 
-### 翻譯中
+### 以JOJO風格的劇畫筆觸繪製吉伊卡哇與烏薩奇的提示詞。
 
 作者：[@namatorihamu](https://x.com/namatorihamu) · [查看 X 原帖](https://x.com/namatorihamu/status/2097834253748949105)
 
 動畫 / 漫畫 · 插圖 · 已推流
 
-**概括:** 翻譯中
+**概括:** 以JOJO風格的劇畫筆觸繪製吉伊卡哇與烏薩奇的提示詞。
 
 <img src="images/2097834253748949105-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+把吉伊卡哇和烏薩奇畫成JOJO風格看看
 ```
 
 [↑ 返回分類目錄](#catalog)
