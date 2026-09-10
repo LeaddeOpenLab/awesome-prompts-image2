@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**58** Prompt · Bổ sung mới nhất: **2026-09-10**
+**59** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -943,6 +943,28 @@ Tạo một bản đồ thu nhỏ 3D quyến rũ của [COUNTRY] với đường
 <a name="category-pixel-art"></a>
 
 ## Nghệ thuật Pixel
+
+<a name="prompt-2097863751471157498"></a>
+
+### Đang dịch
+
+Tác giả：[@derek\_wall90176](https://x.com/derek_wall90176) · [Bài gốc](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Tài sản trò chơi · Nghệ thuật Pixel · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097863751471157498.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

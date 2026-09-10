@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**58** Prompts · Última incorporación: **2026-09-10**
+**59** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -916,6 +916,28 @@ Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionale
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097863751471157498"></a>
+
+### Traducción en curso
+
+Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicación original](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Activo de juego · Pixel Art · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097863751471157498.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

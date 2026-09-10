@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**58** Prompts · Latest addition: **2026-09-10**
+**59** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -904,6 +904,28 @@ Create a charming 3D miniature map of [COUNTRY] with the national borders clearl
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097863751471157498"></a>
+
+### Generate a 16-frame continuous action 2D pixel sprite sheet arranged in a square 4×4 grid based on the reference image, maintaining consistent character proportions and baseline, with instructions for a seamless looping action including idle, charging, release, and recovery.
+
+Author：[@derek\_wall90176](https://x.com/derek_wall90176) · [Source](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Game Asset · Pixel Art · Character · Published
+
+**Summary:** Generate a 16-frame continuous action 2D pixel sprite sheet arranged in a square 4×4 grid based on the reference image, maintaining consistent character proportions and baseline, with instructions for a seamless looping action including idle, charging, release, and recovery.
+
+<img src="covers/2097863751471157498.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Upload Image 1 as the sole reference for character identity and costume. Convert the character in Image 1 into a high-quality 2D pixel game character, generating a square, 4×4 evenly divided, 16-frame continuous action Sprite Sheet. Each cell is identical in size. The frames play in sequence from left to right, top to bottom. Strictly preserve the character's face shape, hairstyle, body type, costume color scheme, signature accessories, and weapon structure. All 16 frames must use the same pixel scale, character size, facing direction, and color palette. The character completes a single [sword swing attack / jump / roll / spell casting / pounce] action. Frames 1 to 3 are idle and charging; Frames 4 to 7 are center of gravity shift and action unfolding; Frames 8 to 10 execute the main attack and power release; Frames 11 to 13 display inertia and follow-through; Frames 14 to 16 return to the idle state. Frame 16 seamlessly connects back to Frame 1. Adjacent frames only change the joints, silhouette, hemline, hair, and weapon position necessary to complete the action. Action direction, force dynamics, and motion trajectory remain continuous. All cells maintain the same camera angle, character scaling, ground baseline, and frame center. The character is completely displayed, with no cropping of the head, weapon, tail, or special effects. Background preferentially uses a transparent channel. When a transparent background is unstable, switch to a uniform solid color background for easy subsequent cutout. Do not generate scenes, ground textures, grid lines, numbering, or text. Adopt clear hard-edged pixels, a limited color palette, and uniform pixel density. Blurred edges, anti-aliasing, semi-realistic rendering, duplicate frames, skipped frames, character deformation, costume variations, weapon additions or removals, perspective shifts, and recomposition per cell are forbidden.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

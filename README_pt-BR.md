@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**58** Prompts · Última adição: **2026-09-10**
+**59** Prompts · Última adição: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -901,6 +901,28 @@ Crie um charmoso mapa em miniatura 3D de [COUNTRY] com as fronteiras nacionais c
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097863751471157498"></a>
+
+### Tradução em andamento
+
+Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicação original](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Ativo de Jogo · Pixel Art · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097863751471157498.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

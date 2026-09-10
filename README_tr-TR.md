@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**58** Prompt · Son eklenen: **2026-09-10**
+**59** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -901,6 +901,28 @@ Ulusal sınırları net bir şekilde belirlenmiş ve doğru şekillendirilmiş [
 <a name="category-pixel-art"></a>
 
 ## Piksel Sanatı
+
+<a name="prompt-2097863751471157498"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@derek\_wall90176](https://x.com/derek_wall90176) · [Orijinal gönderi](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Oyun Varlığı · Piksel Sanatı · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097863751471157498.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

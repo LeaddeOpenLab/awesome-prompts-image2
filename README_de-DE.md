@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**58** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**59** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -916,6 +916,28 @@ Erstelle eine charmante 3D-Miniaturkarte von [COUNTRY] mit klar umrissenen und p
 <a name="category-pixel-art"></a>
 
 ## Pixel-Art
+
+<a name="prompt-2097863751471157498"></a>
+
+### Übersetzung läuft
+
+Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Originalbeitrag](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Spiel-Asset · Pixel-Art · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097863751471157498.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 

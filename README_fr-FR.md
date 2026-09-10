@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**58** Prompts · Dernier ajout: **2026-09-10**
+**59** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -916,6 +916,28 @@ Créez une charmante carte miniature en 3D de [COUNTRY] avec les frontières nat
 <a name="category-pixel-art"></a>
 
 ## Pixel Art
+
+<a name="prompt-2097863751471157498"></a>
+
+### Traduction en cours
+
+Auteur：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publication originale](https://x.com/derek_wall90176/status/2097863751471157498)
+
+Ressource de jeu · Pixel Art · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097863751471157498.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097574111518375970"></a>
 
