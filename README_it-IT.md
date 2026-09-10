@@ -919,20 +919,38 @@ Crea un'affascinante mappa in miniatura 3D di [COUNTRY] con i confini nazionali 
 
 <a name="prompt-2097863751471157498"></a>
 
-### Traduzione in corso
+### Generazione di uno sprite sheet in pixel art 2D ad azione continua basato sull'immagine di riferimento, quadrato con disposizione 4×4 per un totale di 16 fotogrammi, che mantiene uniformi le proporzioni del personaggio e la linea di base, con istruzioni per un ciclo di animazione continuo che include attesa, caricamento, rilascio e recupero.
 
 Autore：[@derek\_wall90176](https://x.com/derek_wall90176) · [Post originale](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Asset di gioco · Pixel Art · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generazione di uno sprite sheet in pixel art 2D ad azione continua basato sull'immagine di riferimento, quadrato con disposizione 4×4 per un totale di 16 fotogrammi, che mantiene uniformi le proporzioni del personaggio e la linea di base, con istruzioni per un ciclo di animazione continuo che include attesa, caricamento, rilascio e recupero.
 
 <img src="covers/2097863751471157498.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Carica l'Immagine 1 come unico riferimento per l'identità e l'abbigliamento del personaggio.
+
+Trasforma il personaggio dell'Immagine 1 in un personaggio per videogiochi in pixel art 2D di alta qualità, generando uno sprite sheet di azione continua quadrato, disposto uniformemente in 4×4 per un totale di 16 fotogrammi.
+
+Le dimensioni di ciascun riquadro sono perfettamente identiche. La sequenza si riproduce da sinistra a destra e dall'alto verso il basso.
+
+Conserva rigorosamente la forma del viso, l'acconciatura, la corporatura, la combinazione di colori degli abiti, gli accessori iconici e la struttura delle armi del personaggio. I 16 fotogrammi utilizzano la stessa scala di pixel, le stesse dimensioni del personaggio, lo stesso orientamento e la stessa tavolozza di colori.
+
+Il personaggio compie un'azione completa di [fendente di spada / salto / rotolata / lancio di incantesimo / balzo d'attacco].
+
+I fotogrammi da 1 a 3 sono di attesa e caricamento; i fotogrammi da 4 a 7 mostrano lo spostamento del baricentro e lo sviluppo dell'azione; i fotogrammi da 8 a 10 completano l'attacco principale e il rilascio della forza; i fotogrammi da 11 a 13 esprimono l'inerzia e la fase di recupero; i fotogrammi da 14 a 16 ritornano alla posizione di attesa. Il fotogramma 16 si ricollega naturalmente al fotogramma 1.
+
+I fotogrammi adiacenti modificano solo le articolazioni, i contorni, i lembi dei vestiti, i capelli e le posizioni delle armi strettamente necessari per compiere il movimento. La direzione del movimento, le relazioni di forza e le traiettorie rimangono continue.
+
+Tutti i riquadri mantengono la stessa inquadratura della telecamera, la stessa scala del personaggio, la stessa linea di base dei piedi e lo stesso centro dell'inquadratura. Il personaggio è visualizzato interamente, senza tagliare testa, armi, coda o effetti speciali.
+
+Dai la priorità a un canale trasparente per lo sfondo. Se lo sfondo trasparente risulta instabile, passa a uno sfondo a tinta unita uniforme per facilitare lo scontorno successivo. Non generare scenari, texture del terreno, linee di griglia, numerazioni o testo.
+
+Utilizza pixel nitidi dai bordi netti, una tavolozza di colori limitata e una densità di pixel uniforme. Vietati bordi sfocati, anti-aliasing, rendering semi-realistico, fotogrammi duplicati, salti di fotogramma, deformazioni del personaggio, cambi di vestiti, aggiunta o rimozione di armi, cambi di prospettiva e ricomposizioni all'interno dei singoli riquadri.
 ```
 
 [↑ Torna alle categorie](#catalog)

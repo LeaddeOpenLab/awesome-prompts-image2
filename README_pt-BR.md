@@ -904,20 +904,38 @@ Crie um charmoso mapa em miniatura 3D de [COUNTRY] com as fronteiras nacionais c
 
 <a name="prompt-2097863751471157498"></a>
 
-### Tradução em andamento
+### Geração de uma folha de sprites em pixel art 2D de ação contínua baseada na imagem de referência, disposta em grade quadrada de 4×4 com 16 quadros no total, mantendo consistência na proporção do personagem e na linha de base, com instruções de animação em loop contínuo contendo espera, preparação, liberação e recuperação.
 
 Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicação original](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Ativo de Jogo · Pixel Art · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Geração de uma folha de sprites em pixel art 2D de ação contínua baseada na imagem de referência, disposta em grade quadrada de 4×4 com 16 quadros no total, mantendo consistência na proporção do personagem e na linha de base, com instruções de animação em loop contínuo contendo espera, preparação, liberação e recuperação.
 
 <img src="covers/2097863751471157498.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Envie a Imagem 1 como a única referência para a identidade e o vestuário do personagem.
+
+Converta o personagem da Imagem 1 em um personagem de jogo em pixel art 2D de alta qualidade, gerando uma folha de sprites (Sprite Sheet) quadrada de ação contínua, distribuída uniformemente em 4×4 com um total de 16 quadros.
+
+O tamanho de cada quadro é rigorosamente idêntico. A reprodução ocorre da esquerda para a direita e de cima para baixo.
+
+Preserve estritamente o formato do rosto, o penteado, o tipo físico, a paleta de cores das roupas, os acessórios característicos e a estrutura das armas do personagem. Todos os 16 quadros devem usar a mesma escala de pixels, tamanho do personagem, orientação e paleta de cores.
+
+O personagem realiza uma ação completa de [ataque com espada / pulo / rolamento / conjuração de feitiço / investida].
+
+Os quadros de 1 a 3 correspondem ao estado de espera e preparação/acúmulo de força; os quadros de 4 a 7 mostram o deslocamento do centro de gravidade e o desenvolvimento da ação; os quadros de 8 a 10 executam o ataque principal e a liberação de força; os quadros de 11 a 13 representam a inércia e a desaceleração; os quadros de 14 a 16 retornam ao estado de espera. O quadro 16 conecta-se de forma natural ao quadro 1.
+
+Quadros adjacentes alteram apenas as articulações, contornos, caimento das roupas, cabelos e posições de armas necessários para concluir o movimento. A direção do movimento, a relação de forças e as trajetórias mantêm-se contínuas.
+
+Todos os quadros mantêm o mesmo enquadramento de câmera, escala do personagem, linha de base dos pés e centro da imagem. O personagem é exibido por inteiro, sem cortar cabeça, armas, cauda ou efeitos especiais.
+
+Dê preferência ao canal transparente para o fundo. Se o fundo transparente for instável, utilize um fundo uniforme de cor sólida para facilitar o recorte posterior. Não gere cenários, texturas de chão, linhas de grade, numerações ou textos.
+
+Adote pixels nítidos de bordas duras, paleta de cores limitada e densidade de pixels uniforme. É proibido o uso de bordas borradas, suavização de serrilhado (anti-aliasing), renderização semirrealista, quadros duplicados, saltos de quadros, deformação do personagem, alterações de vestuário, adição ou remoção de armas, mudanças de perspectiva e recomposição a cada quadro.
 ```
 
 [↑ Voltar às categorias](#catalog)

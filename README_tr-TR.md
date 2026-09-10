@@ -904,20 +904,38 @@ Ulusal sınırları net bir şekilde belirlenmiş ve doğru şekillendirilmiş [
 
 <a name="prompt-2097863751471157498"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayalı olarak kare biçiminde, 4×4 dizilimli, toplam 16 kareden oluşan 2D sürekli hareket piksel sprite sayfası \(Sprite Sheet\) üretimi; karakter oranlarını ve taban çizgisini tutarlı tutan, bekleme, güç toplama, serbest bırakma ve toparlanma aşamalarını içeren kesintisiz döngü hareket talimatları.
 
 Yazar：[@derek\_wall90176](https://x.com/derek_wall90176) · [Orijinal gönderi](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Oyun Varlığı · Piksel Sanatı · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayalı olarak kare biçiminde, 4×4 dizilimli, toplam 16 kareden oluşan 2D sürekli hareket piksel sprite sayfası \(Sprite Sheet\) üretimi; karakter oranlarını ve taban çizgisini tutarlı tutan, bekleme, güç toplama, serbest bırakma ve toparlanma aşamalarını içeren kesintisiz döngü hareket talimatları.
 
 <img src="covers/2097863751471157498.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Karakter kimliği ve kıyafetleri için tek referans olarak Görsel 1'i yükleyin.
+
+Görsel 1'deki karakteri yüksek kaliteli bir 2D piksel oyun karakterine dönüştürün ve toplam 16 kareden oluşan, kare biçiminde, 4×4 eşit parçaya bölünmüş sürekli hareket içeren bir Sprite Sheet oluşturun.
+
+Her karenin boyutu tamamen aynı olmalıdır. Görüntü soldan sağa ve yukarıdan aşağıya doğru oynatılır.
+
+Karakterin yüz şeklini, saç stilini, vücut yapısını, kıyafet renk paletini, ikonik aksesuarlarını ve silah yapısını kesinlikle koruyun. 16 karenin tümü aynı piksel ölçeğini, karakter boyutunu, yönünü ve renk paletini kullanmalıdır.
+
+Karakter eksiksiz bir [kılıç saldırısı / zıplama / yuvarlanma / büyü yapma / atılma] hareketini tamamlar.
+
+1 ila 3. kareler bekleme ve güç toplama aşamasıdır; 4 ila 7. kareler ağırlık merkezinin kayması ve hareketin açılmasıdır; 8 ila 10. kareler ana saldırıyı ve gücün serbest kalmasını tamamlar; 11 ila 13. kareler ataleti ve toparlanmayı gösterir; 14 ila 16. kareler bekleme durumuna geri döner. 16. kare, 1. kareye doğal bir şekilde bağlanabilmelidir.
+
+Bitişik kareler yalnızca hareketi tamamlamak için gereken eklemleri, hatları, kıyafet kıvrımlarını, saçları ve silah pozisyonlarını değiştirir. Hareket yönü, kuvvet ilişkileri ve hareket yörüngesi sürekliliğini korur.
+
+Tüm kareler aynı kamera açısını, karakter ölçeğini, ayak taban çizgisini ve ekran merkezini korur. Karakter, başı, silahları, kuyruğu veya özel efektleri kesilmeden eksiksiz olarak görüntülenir.
+
+Arka plan için saydam kanala öncelik verin. Saydam arka plan stabil değilse, sonraki dekupe işlemlerini kolaylaştırmak için tek tip düz renkli bir arka plan kullanın. Sahne, zemin dokusu, ızgara çizgileri, numaralandırma ve metin oluşturmayın.
+
+Net, sert kenarlı pikseller, sınırlı bir renk paleti ve tutarlı piksel yoğunluğu kullanın. Bulanık kenarlar, kenar yumuşatma (anti-aliasing), yarı gerçekçi işleme, yinelenen kareler, kare atlama, karakter deformasyonu, kıyafet değişiklikleri, silah ekleme/çıkarma, bakış açısı değiştirme ve her karede yeniden kompozisyon oluşturma yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)

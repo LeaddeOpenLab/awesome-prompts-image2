@@ -904,20 +904,38 @@ Crie um charmoso mapa em miniatura 3D de [COUNTRY] com as fronteiras nacionais c
 
 <a name="prompt-2097863751471157498"></a>
 
-### Tradução em curso
+### Geração de uma folha de sprites em pixel art 2D de ação contínua baseada na imagem de referência, disposta em grelha quadrada de 4×4 com 16 fotogramas no total, mantendo a consistência na proporção do personagem e na linha de base, com instruções de animação em ciclo contínuo contendo espera, preparação, libertação e recuperação.
 
 Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicação original](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Ativo de Jogo · Pixel Art · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Geração de uma folha de sprites em pixel art 2D de ação contínua baseada na imagem de referência, disposta em grelha quadrada de 4×4 com 16 fotogramas no total, mantendo a consistência na proporção do personagem e na linha de base, com instruções de animação em ciclo contínuo contendo espera, preparação, libertação e recuperação.
 
 <img src="covers/2097863751471157498.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Carregue a Imagem 1 como a única referência para a identidade e o vestuário do personagem.
+
+Converta o personagem da Imagem 1 num personagem de videojogo em pixel art 2D de alta qualidade, gerando uma folha de sprites (Sprite Sheet) quadrada de ação contínua, distribuída uniformemente em 4×4 com um total de 16 fotogramas.
+
+O tamanho de cada quadrícula é rigorosamente idêntico. A reprodução ocorre da esquerda para a direita e de cima para baixo.
+
+Preserve rigorosamente o formato do rosto, o penteado, o tipo físico, a paleta de cores da roupa, os acessórios emblemáticos e a estrutura das armas do personagem. Todos os 16 fotogramas devem utilizar a mesma escala de píxeis, dimensão do personagem, orientação e paleta de cores.
+
+O personagem executa uma ação completa de [golpe de espada / salto / cambalhota / lançamento de feitiço / investida].
+
+Os fotogramas de 1 a 3 correspondem à posição de espera e ao carregar de energia; os fotogramas de 4 a 7 mostram o deslocamento do centro de gravidade e o desenvolvimento da ação; os fotogramas de 8 a 10 executam o ataque principal e a libertação de força; os fotogramas de 11 a 13 representam a inércia e o abrandamento; os fotogramas de 14 a 16 regressam ao estado de espera. O fotograma 16 liga-se naturalmente ao fotograma 1.
+
+Os fotogramas adjacentes apenas alteram as articulações, os contornos, as bainhas da roupa, o cabelo e as posições das armas necessários para concluir o movimento. A direção do movimento, as relações de força e as trajetórias mantêm-se contínuas.
+
+Todas as quadrículas mantêm o mesmo ângulo de câmara, escala do personagem, linha de base dos pés e centro da imagem. O personagem é exibido na totalidade, sem cortar a cabeça, as armas, a cauda ou os efeitos especiais.
+
+Dê preferência ao canal transparente para o fundo. Se o fundo transparente for instável, utilize um fundo liso de cor sólida para facilitar o recorte posterior. Não gere cenários, texturas de chão, linhas de grelha, numerações ou texto.
+
+Utilize píxeis nítidos de contornos duros, uma paleta de cores limitada e uma densidade de píxeis uniforme. É expressamente proibido o uso de contornos desfocados, suavização de serrilhado (anti-aliasing), renderização semirrealista, fotogramas repetidos, saltos de fotogramas, deformações do personagem, alterações de vestuário, adição ou remoção de armas, mudanças de perspetiva e recomposição por quadrícula.
 ```
 
 [↑ Voltar às categorias](#catalog)

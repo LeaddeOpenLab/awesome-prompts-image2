@@ -919,20 +919,38 @@ Créez une charmante carte miniature en 3D de [COUNTRY] avec les frontières nat
 
 <a name="prompt-2097863751471157498"></a>
 
-### Traduction en cours
+### Génération, à partir de l'image de référence, d'une feuille de sprites en pixel art 2D d'action continue, carrée, disposée en 4×4 pour un total de 16 images, maintenant des proportions et une ligne de base uniformes, comprenant des instructions d'action en boucle fluide avec attente, préparation, libération et retour.
 
 Auteur：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publication originale](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Ressource de jeu · Pixel Art · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Génération, à partir de l'image de référence, d'une feuille de sprites en pixel art 2D d'action continue, carrée, disposée en 4×4 pour un total de 16 images, maintenant des proportions et une ligne de base uniformes, comprenant des instructions d'action en boucle fluide avec attente, préparation, libération et retour.
 
 <img src="covers/2097863751471157498.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Téléchargez l'Image 1 comme unique référence pour l'identité et les vêtements du personnage.
+
+Transformez le personnage de l'Image 1 en un personnage de jeu vidéo en pixel art 2D de haute qualité, en générant une feuille de sprites (Sprite Sheet) d'action continue, carrée, disposée uniformément en 4×4 pour un total de 16 images.
+
+La taille de chaque case est strictement identique. L'animation se lit de gauche à droite et de haut en bas.
+
+Conservez rigoureusement la forme du visage, la coiffure, la morphologie, les couleurs des vêtements, les accessoires emblématiques et la structure des armes du personnage. Les 16 images utilisent la même échelle de pixels, la même taille de personnage, la même orientation et la même palette de couleurs.
+
+Le personnage effectue une action complète de [coup d'épée / saut / roulade / sortilège / attaque bondissante].
+
+Les images 1 à 3 correspondent à la posture d'attente et à la préparation ; les images 4 à 7 correspondent au déplacement du centre de gravité et au déploiement de l'action ; les images 8 à 10 réalisent l'attaque principale et la libération de la puissance ; les images 11 à 13 traduisent l'inertie et le retour ; les images 14 à 16 reviennent à la posture d'attente. L'image 16 s'enchaîne naturellement avec l'image 1.
+
+Les images adjacentes ne modifient que les articulations, contours, pans de vêtements, cheveux et positions d'armes nécessaires à l'accomplissement du mouvement. La direction du mouvement, les rapports de force et les trajectoires restent continus.
+
+Toutes les cases conservent le même angle de vue, la même échelle du personnage, la même ligne de base au sol et le même centre d'image. Le personnage est entièrement visible, sans coupure de la tête, des armes, de la queue ou des effets spéciaux.
+
+Privilégiez un canal transparent pour l'arrière-plan. Si l'arrière-plan transparent est instable, utilisez un fond de couleur unie uniforme afin de faciliter le détourage ultérieur. Ne générez aucun décor, texture de sol, quadrillage, numérotation ou texte.
+
+Adoptez des pixels nets aux contours durs, une palette de couleurs limitée et une densité de pixels constante. Interdiction formelle des contours flous, de l'anti-crénelage, du rendu semi-réaliste, des images en double, des sauts d'images, des déformations du personnage, des changements de vêtements, de l'ajout ou du retrait d'armes, des changements de perspective et du recadrage par case.
 ```
 
 [↑ Retour aux catégories](#catalog)

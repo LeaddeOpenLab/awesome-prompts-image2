@@ -919,20 +919,38 @@ Crea un encantador mapa en miniatura 3D de [COUNTRY] con las fronteras nacionale
 
 <a name="prompt-2097863751471157498"></a>
 
-### Traducción en curso
+### Genera una hoja de sprites \(Sprite Sheet\) de píxeles de acción continua en 2D, cuadrada, en cuadrícula de 4×4 y con un total de 16 fotogramas basada en la imagen de referencia, manteniendo la escala del personaje y la línea base uniformes, incluyendo instrucciones de animación en bucle continuo de reposo, acumulación de fuerza, liberación y recuperación.
 
 Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Publicación original](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Activo de juego · Pixel Art · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera una hoja de sprites \(Sprite Sheet\) de píxeles de acción continua en 2D, cuadrada, en cuadrícula de 4×4 y con un total de 16 fotogramas basada en la imagen de referencia, manteniendo la escala del personaje y la línea base uniformes, incluyendo instrucciones de animación en bucle continuo de reposo, acumulación de fuerza, liberación y recuperación.
 
 <img src="covers/2097863751471157498.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sube la Imagen 1 como la única referencia para la identidad y vestimenta del personaje.
+
+Convierte al personaje de la Imagen 1 en un personaje de videojuego pixel art 2D de alta calidad, generando una hoja de sprites (Sprite Sheet) cuadrada de acción continua, dividida uniformemente en una cuadrícula de 4×4 con un total de 16 fotogramas.
+
+El tamaño de cada casilla debe ser exactamente el mismo. Las imágenes se reproducen en orden de izquierda a derecha y de arriba a abajo.
+
+Conserva estrictamente la forma de la cara, el peinado, la complexión corporal, la paleta de colores de la vestimenta, los accesorios característicos y la estructura de las armas del personaje. Los 16 fotogramas deben utilizar la misma escala de píxeles, tamaño del personaje, orientación y paleta de colores.
+
+El personaje realiza una acción completa de [ataque con espada / salto / rodar / lanzamiento de hechizo / embestida].
+
+Los fotogramas 1 al 3 son de reposo y acumulación de fuerza; los fotogramas 4 al 7 son de desplazamiento del centro de gravedad y desarrollo de la acción; los fotogramas 8 al 10 completan el ataque principal y la liberación de poder; los fotogramas 11 al 13 muestran la inercia y la recuperación; los fotogramas 14 al 16 regresan al estado de reposo. El fotograma 16 se conecta de forma natural con el fotograma 1.
+
+Los fotogramas adyacentes solo cambian las articulaciones, contornos, pliegues de la ropa, cabello y posiciones de las armas necesarios para completar la acción. La dirección del movimiento, las relaciones de fuerza y las trayectorias de movimiento se mantienen continuas.
+
+Todas las casillas mantienen el mismo ángulo de cámara, escala del personaje, línea base de los pies y centro de la pantalla. El personaje se muestra por completo, sin recortar la cabeza, las armas, la cola o los efectos especiales.
+
+Prioriza el canal transparente para el fondo. Si el fondo transparente es inestable, utiliza un fondo de color sólido uniforme para facilitar el recorte posterior. No generes escenarios, texturas del suelo, líneas de cuadrícula, números ni texto.
+
+Utiliza píxeles nítidos de bordes duros, una paleta de colores limitada y una densidad de píxeles uniforme. Prohibidos los bordes borrosos, el suavizado (antialiasing), el renderizado semirrealista, fotogramas duplicados, saltos de fotogramas, deformaciones del personaje, cambios de vestimenta, adición o supresión de armas, cambios de perspectiva y reencuadres en cada casilla.
 ```
 
 [↑ Volver a categorías](#catalog)

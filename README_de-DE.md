@@ -919,20 +919,38 @@ Erstelle eine charmante 3D-Miniaturkarte von [COUNTRY] mit klar umrissenen und p
 
 <a name="prompt-2097863751471157498"></a>
 
-### Übersetzung läuft
+### Erstellung eines quadratischen, im 4×4-Raster angeordneten 2D-Pixel-Sprite-Sheets mit insgesamt 16 Frames für eine kontinuierliche Bewegung basierend auf dem Referenzbild, unter Beibehaltung einheitlicher Charakterproportionen und Grundlinien, mit nahtlosen Loop-Animationsanweisungen für Leerlauf, Ausholen, Ausführung und Ausklang.
 
 Autor：[@derek\_wall90176](https://x.com/derek_wall90176) · [Originalbeitrag](https://x.com/derek_wall90176/status/2097863751471157498)
 
 Spiel-Asset · Pixel-Art · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstellung eines quadratischen, im 4×4-Raster angeordneten 2D-Pixel-Sprite-Sheets mit insgesamt 16 Frames für eine kontinuierliche Bewegung basierend auf dem Referenzbild, unter Beibehaltung einheitlicher Charakterproportionen und Grundlinien, mit nahtlosen Loop-Animationsanweisungen für Leerlauf, Ausholen, Ausführung und Ausklang.
 
 <img src="covers/2097863751471157498.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bild 1 als einzige Referenz für die Identität und Kleidung des Charakters hochladen.
+
+Wandle den Charakter aus Bild 1 in einen hochwertigen 2D-Pixel-Art-Spielfigur um und erstelle ein quadratisches, gleichmäßig im 4×4-Raster angeordnetes Sprite-Sheet für eine kontinuierliche Bewegung mit insgesamt 16 Frames.
+
+Die Abmessungen jedes Feldes sind absolut identisch. Die Bilder werden von links nach rechts und von oben nach unten abgespielt.
+
+Behalte Gesichtsform, Frisur, Körperbau, Farbgebung der Kleidung, ikonische Accessoires und Waffenstruktur des Charakters strikt bei. Alle 16 Frames verwenden denselben Pixelmaßstab, dieselbe Charaktergröße, Ausrichtung und Farbpalette.
+
+Der Charakter führt eine vollständige [Schwertangriff / Sprung / Rolle / Zauber / Ausfallschritt]-Aktion aus.
+
+Die Frames 1 bis 3 dienen der Ruheposition und dem Ausholen/Kraftaufladen; die Frames 4 bis 7 der Schwerpunktverlagerung und Bewegungsentfaltung; die Frames 8 bis 10 führen den Hauptangriff und die Kraftentladung aus; die Frames 11 bis 13 stellen Trägheit und Ausklang dar; die Frames 14 bis 16 kehren in die Ruheposition zurück. Frame 16 geht nahtlos in Frame 1 über.
+
+Benachbarte Frames verändern nur die Gelenke, Umrisse, Kleidungssäume, Haare und Waffenpositionen, die zum Ausführen der Bewegung erforderlich sind. Bewegungsrichtung, Kraftverhältnisse und Bewegungsbahnen bleiben kontinuierlich.
+
+Alle Felder behalten denselben Kamerawinkel, dieselbe Charakterskalierung, dieselbe Fuß-Grundlinie und denselben Bildmittelpunkt bei. Der Charakter wird vollständig dargestellt, ohne abgeschnittene Köpfe, Waffen, Schwänze oder Spezialeffekte.
+
+Verwende vorzugsweise einen transparenten Alphakanal für den Hintergrund. Falls ein transparenter Hintergrund instabil ist, wechsle zu einem einheitlichen einfarbigen Hintergrund, um das spätere Freistellen zu erleichtern. Keine Szenen, Bodentexturen, Rasterlinien, Nummerierungen oder Texte generieren.
+
+Verwende klare, scharfkantige Pixel, eine begrenzte Farbpalette und eine einheitliche Pixeldichte. Verboten sind weichgezeichnete Kanten, Anti-Aliasing, halbrealistisches Rendering, doppelte Frames, Frame-Sprünge, Charakterverformungen, Kleidungsänderungen, Hinzufügen oder Entfernen von Waffen, Perspektivwechsel und Neukompositionen pro Feld.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
