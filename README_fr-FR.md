@@ -1285,13 +1285,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097784050660376617"></a>
 
-### Traduction en cours
+### Une feuille d'érable translucide et lumineuse flotte au-dessus d'une eau calme, des fleurs roses s'épanouissant à l'intérieur, tandis que sa tige effleure la surface en créant des ondulations concentriques.
 
 Auteur：[@churvikv](https://x.com/churvikv) · [Publication originale](https://x.com/churvikv/status/2097784050660376617)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une feuille d'érable translucide et lumineuse flotte au-dessus d'une eau calme, des fleurs roses s'épanouissant à l'intérieur, tandis que sa tige effleure la surface en créant des ondulations concentriques.
 
 <img src="images/2097784050660376617-1.jpg" alt="Image 1" width="480" />
 
@@ -1300,7 +1300,11 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Prompt 1:
+Une œuvre d'art numérique enchanteresse et surréaliste mettant en scène une feuille d'érable dorée et translucide qui flotte comme par magie au-dessus de la surface d'une eau sombre et calme. La feuille luit de l'intérieur d'une lumière chaude et éthérée, laissant clairement apparaître ses délicates nervures. Au cœur de la structure translucide de la feuille, de minuscules fleurs d'un rose éclatant et des bourgeons fermés sont incrustés, semblant éclore à même ses nervures. Les pointes de la feuille sont bordées de paillettes dorées scintillantes qui dérivent dans l'air telle une poussière magique. La tige de la feuille s'étend vers le bas, effleurant à peine la surface de l'eau, créant des ondulations concentriques qui s'étendent vers l'extérieur. Sous l'eau, le reflet de la feuille lumineuse et de sa tige est faiblement visible. L'arrière-plan est une forêt crépusculaire onirique avec des silhouettes de pins se découpant sur un ciel au dégradé doux de violet, d'orange et de bleu. Plusieurs nénuphars roses flottent sur l'eau sombre, ajoutant à l'atmosphère sereine et magique.
+
+Prompt 2:
+Une majestueuse feuille d'érable éthérée, faite d'une matière cristalline et translucide, flotte délicatement au-dessus d'un étang sombre et paisible. La feuille présente des détails d'une grande finesse avec des nervures luminescentes, incrustée de petites fleurs de cerisier rose tendre et de bourgeons qui semblent pousser directement depuis sa structure. Des particules dorées et chatoyantes de poussière magique tourbillonnent autour de la feuille, diffusant une lueur chaude et rayonnante. L'extrémité de la tige touche délicatement la surface de l'eau, créant de parfaites ondulations concentriques qui reflètent la lumière. L'arrière-plan dévoile un paysage forestier onirique et flou au crépuscule, avec des touches d'arbres en silhouette et un ciel en doux dégradé allant des bleus profonds du crépuscule aux roses pâles. Des fleurs de lotus roses flottent sur la surface de l'eau calme au premier et au second plan. L'éclairage est doux, cinématographique et féerique, mettant en valeur les textures de verre et la qualité bioluminescente de la scène. La composition est centrée, verticale et symétrique, évoquant un sentiment de tranquillité, de nature mystique et de beauté de conte de fées, rendue avec une précision d'art numérique hyperréaliste.
 ```
 
 [↑ Retour aux catégories](#catalog)

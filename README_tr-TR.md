@@ -1270,13 +1270,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097784050660376617"></a>
 
-### Çeviri sürüyor
+### Yarı saydam ve parlayan akçaağaç yaprağı durgun su üzerinde süzülüyor, içinde pembe çiçekler açıyor ve sapı suya hafifçe dokunarak eşmerkezli dalgalar oluşturuyor.
 
 Yazar：[@churvikv](https://x.com/churvikv) · [Orijinal gönderi](https://x.com/churvikv/status/2097784050660376617)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yarı saydam ve parlayan akçaağaç yaprağı durgun su üzerinde süzülüyor, içinde pembe çiçekler açıyor ve sapı suya hafifçe dokunarak eşmerkezli dalgalar oluşturuyor.
 
 <img src="images/2097784050660376617-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1285,7 +1285,11 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Prompt 1:
+Durgun, karanlık suyun yüzeyinde sihirli bir şekilde süzülen yarı saydam, altın rengi bir akçaağaç yaprağını içeren büyüleyici ve gerçeküstü bir dijital sanat eseri. Yaprak, narin damarları belirgin bir şekilde görülecek şekilde, içinden sıcak, ruhani bir ışıkla parlıyor. Yaprağın yarı saydam yapısının içine, tam da damarlarının içinde açıyormuş gibi görünen minik, canlı pembe çiçekler ve kapalı tomurcuklar yerleştirilmiştir. Yaprağın uçları, sihirli bir toz gibi havaya savrulan ışıltılı, altın rengi simlerle çevrelenmiştir. Yaprağın sapı aşağı doğru uzanarak su yüzeyine hafifçe temas etmekte ve dışa doğru yayılan eşmerkezli dalgalanmalar yaratmaktadır. Suyun altında, parlayan yaprağın ve sapın yansıması belli belirsiz görülmektedir. Arka plan, mor, turuncu ve maviden oluşan yumuşak, gradyan bir gökyüzüne karşı siluet halindeki çam ağaçlarının yer aldığı rüya gibi bir alacakaranlık ormanıdır. Karanlık suda yüzen birkaç pembe nilüfer, dingin ve büyülü atmosfere katkıda bulunuyor.
+
+Prompt 2:
+Yarı saydam, kristal bir malzemeden yapılmış görkemli, ruhani bir akçaağaç yaprağı, sakin ve karanlık bir göletin üzerinde zarifçe süzülüyor. Yaprak, parlayan damarlarla karmaşık bir şekilde detaylandırılmıştır ve doğrudan kendi yapısından büyüyormuş gibi görünen küçük, yumuşak pembe kiraz çiçeği çiçekleri ve tomurcuklarıyla bezenmiştir. Altın rengi, parıldayan sihirli toz parçacıkları yaprağın etrafında dönerek sıcak, ışıltılı bir parıltı yayıyor. Yaprak sapının ucu su yüzeyine hafifçe dokunarak ışığı yansıtan kusursuz eşmerkezli dalgalanmalar oluşturuyor. Arka planda, siluet ağaçların izlerini taşıyan ve koyu alacakaranlık mavilerinden soluk pembe tonlara kadar uzanan yumuşak gradyan bir gökyüzüne sahip, gün batımında rüya gibi, odak dışı bir orman manzarası yer alıyor. Ön ve orta planda durgun su yüzeyinde yüzen pembe nilüfer çiçekleri duruyor. Aydınlatma yumuşak, sinematik ve büyüleyici olup sahnenin camsı dokularını ve biyolüminesans kalitesini vurguluyor. Kompozisyon merkezlenmiş, dikey ve simetriktir; hiper-gerçekçi dijital sanat hassasiyetiyle işlenmiş, bir huzur, mistik doğa ve masalsı güzellik hissi uyandırıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

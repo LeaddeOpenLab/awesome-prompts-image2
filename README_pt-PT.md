@@ -1270,13 +1270,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097784050660376617"></a>
 
-### Tradução em curso
+### Uma folha de ácer translúcida e brilhante flutua sobre a água calma, com flores cor-de-rosa a desabrochar no seu interior, e o seu pecíolo a tocar ao de leve na superfície para criar ondulações concêntricas.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicação original](https://x.com/churvikv/status/2097784050660376617)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma folha de ácer translúcida e brilhante flutua sobre a água calma, com flores cor-de-rosa a desabrochar no seu interior, e o seu pecíolo a tocar ao de leve na superfície para criar ondulações concêntricas.
 
 <img src="images/2097784050660376617-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1285,7 +1285,11 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Prompt 1:
+Uma obra de arte digital encantadora e surreal apresentando uma folha de ácer dourada e translúcida pairando magicamente sobre a superfície de águas calmas e escuras. A folha brilha a partir do interior com uma luz quente e etérea, com os seus veios delicados claramente visíveis. No interior da estrutura translúcida da folha, pequenas e vibrantes flores cor-de-rosa e botões fechados estão incrustados, parecendo desabrochar no interior dos seus próprios veios. As pontas da folha são orladas com um brilho dourado e cintilante que se dispersa no ar como pó mágico. O pecíolo da folha estende-se para baixo, tocando apenas a superfície da água, criando ondulações concêntricas que se propagam para o exterior. Debaixo de água, o reflexo da folha brilhante e do caule é fracamente visível. O fundo é uma floresta crepuscular e idílica com silhuetas de pinheiros contra um céu suave em gradiente de roxo, laranja e azul. Vários nenúfares cor-de-rosa flutuam na água escura, aumentando a atmosfera serena e mágica.
+
+Prompt 2:
+Uma majestosa e etérea folha de ácer feita de material cristalino e translúcido flutua delicadamente sobre um lago sereno e escuro. A folha é intricadamente detalhada com veios brilhantes e está incrustada de pequenas e suaves flores de cerejeira cor-de-rosa e botões que parecem crescer diretamente da sua estrutura. Partículas de pó mágico dourado e cintilante revoluteiam em redor da folha, projetando um brilho quente e radiante. A ponta do caule da folha toca suavemente na superfície da água, criando ondulações concêntricas perfeitas que refletem a luz. O fundo apresenta uma paisagem florestal idílica e desfocada ao crepúsculo, com vestígios de árvores em silhueta e um céu suave em gradiente que varia entre azuis crepusculares profundos e rosas pálidos. Flores de lótus cor-de-rosa flutuantes repousam na superfície da água calma em primeiro e segundo planos. A iluminação é suave, cinematográfica e mágica, realçando as texturas vítreas e a qualidade bioluminescente da cena. A composição é centrada, vertical e simétrica, evocando uma sensação de tranquilidade, natureza mística e beleza de conto de fadas, renderizada com precisão de arte digital hiper-realista.
 ```
 
 [↑ Voltar às categorias](#catalog)

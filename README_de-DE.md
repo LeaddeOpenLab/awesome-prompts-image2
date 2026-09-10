@@ -1285,13 +1285,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097784050660376617"></a>
 
-### Übersetzung läuft
+### Ein durchscheinendes, leuchtendes Ahornblatt schwebt über ruhigem Wasser, in dessen Innerem rosa Blüten blühen, während sein Stiel die Wasseroberfläche sanft berührt und konzentrische Wellen erzeugt.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Originalbeitrag](https://x.com/churvikv/status/2097784050660376617)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein durchscheinendes, leuchtendes Ahornblatt schwebt über ruhigem Wasser, in dessen Innerem rosa Blüten blühen, während sein Stiel die Wasseroberfläche sanft berührt und konzentrische Wellen erzeugt.
 
 <img src="images/2097784050660376617-1.jpg" alt="Bild 1" width="480" />
 
@@ -1300,7 +1300,11 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Prompt 1:
+Ein bezauberndes und surreales digitales Kunstwerk mit einem durchscheinenden, goldenen Ahornblatt, das magisch über der Oberfläche ruhigen, dunklen Wassers schwebt. Das Blatt leuchtet von innen heraus in einem warmen, ätherischen Licht, wobei seine zarten Blattadern deutlich sichtbar sind. In die durchscheinende Struktur des Blattes sind winzige, leuchtend rosa Blüten und geschlossene Knospen eingebettet, die scheinbar direkt in seinen Adern erblühen. Die Blattspitzen sind mit funkelndem, goldenem Glitzer gesäumt, der wie Feenstaub durch die Luft treibt. Der Stiel des Blattes ragt nach unten und berührt gerade eben die Wasseroberfläche, wodurch konzentrische Wellen entstehen, die sich nach außen ausbreiten. Unter dem Wasser ist das Spiegelbild des leuchtenden Blattes und des Stiels schwach zu erkennen. Der Hintergrund zeigt einen verträumten Dämmerungswald mit silhouettierten Kiefern vor einem weichen Farbverlaufshimmel aus Lila, Orange und Blau. Mehrere rosa Seerosen treiben auf dem dunklen Wasser und verstärken die heitere und magische Atmosphäre.
+
+Prompt 2:
+Ein majestätisches, ätherisches Ahornblatt aus durchscheinendem, kristallinem Material schwebt zart über einem ruhigen, dunklen Teich. Das Blatt ist detailreich mit leuchtenden Adern ausgearbeitet und mit kleinen, zartrosa Kirschblüten und Knospen besetzt, die direkt aus seiner Struktur zu wachsen scheinen. Goldene, schimmernde magische Staubpartikel wirbeln um das Blatt und werfen ein warmes, strahlendes Leuchten. Die Spitze des Blattstiels berührt sanft die Wasseroberfläche und erzeugt perfekte konzentrische Wellen, die das Licht reflektieren. Der Hintergrund zeigt eine verträumte, unscharfe Waldlandschaft in der Abenddämmerung mit angedeuteten Baumkronen im Scherenschnitt und einem weichen Verlaufshimmel, der von tiefem Dämmerungsblau bis hin zu zartem Rosa reicht. Schwimmende rosa Lotusblüten ruhen im Vorder- und Mittelgrund auf der ruhigen Wasseroberfläche. Die Beleuchtung ist sanft, filmreif und magisch und betont die glasartigen Texturen sowie die biolumineszierende Qualität der Szene. Die Komposition ist zentriert, vertikal und symmetrisch, strahlt ein Gefühl von Ruhe, mystischer Natur und märchenhafter Schönheit aus und ist mit hyperrealistischer digitaler Präzision gerendert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

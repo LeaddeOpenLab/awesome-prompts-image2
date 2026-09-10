@@ -1285,13 +1285,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097784050660376617"></a>
 
-### Traduzione in corso
+### Una foglia d'acero traslucida e luminosa fluttua su uno specchio d'acqua calma, con fiori rosa che sbocciano al suo interno e il picciolo che sfiora la superficie generando increspature concentriche.
 
 Autore：[@churvikv](https://x.com/churvikv) · [Post originale](https://x.com/churvikv/status/2097784050660376617)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una foglia d'acero traslucida e luminosa fluttua su uno specchio d'acqua calma, con fiori rosa che sbocciano al suo interno e il picciolo che sfiora la superficie generando increspature concentriche.
 
 <img src="images/2097784050660376617-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1300,7 +1300,11 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Prompt 1:
+Un'opera d'arte digitale incantevole e surreale che raffigura una foglia d'acero dorata e traslucida che fluttua magicamente sulla superficie di un'acqua calma e scura. La foglia risplende dall'interno di una luce calda ed eterea, con le sue delicate venature chiaramente visibili. All'interno della struttura traslucida della foglia sono incastonati minuscoli fiori di un rosa vibrante e boccioli chiusi, che sembrano sbocciare proprio tra le sue venature. Le punte della foglia sono orlate di glitter dorati e scintillanti che volteggiano nell'aria come polvere magica. Il picciolo della foglia si estende verso il basso, sfiorando appena la superficie dell'acqua e creando increspature concentriche che si allargano verso l'esterno. Sott'acqua è debolmente visibile il riflesso della foglia luminosa e del suo picciolo. Sullo sfondo si apre una foresta crepuscolare e sognante, con sagome di pini che si stagliano contro un cielo dalle sfumature morbide di viola, arancione e blu. Diverse ninfee rosa galleggiano sull'acqua scura, arricchendo l'atmosfera serena e magica.
+
+Prompt 2:
+Una maestosa ed eterea foglia d'acero realizzata in materiale cristallino e traslucido fluttua delicatamente sopra un placido laghetto scuro. La foglia è ricca di dettagli intricati, con venature luminose, ed è impreziosita da piccoli fiori di ciliegio rosa tenue e boccioli che sembrano crescere direttamente dalla sua struttura. Particelle dorate e scintillanti di polvere magica volteggiano attorno alla foglia, diffondendo un bagliore caldo e radioso. La punta del picciolo tocca lievemente la superficie dell'acqua, generando perfette onde concentriche che riflettono la luce. Lo sfondo presenta un paesaggio boschivo sognante e sfocato al crepuscolo, con accenni di alberi in silhouette e un cielo dal gradiente morbido che varia dai blu profondi del tramonto ai rosa pallidi. Fiori di loto rosa galleggiano sulla superficie dell'acqua calma in primo piano e a media distanza. L'illuminazione è soffusa, cinematografica e magica, evidenziando le texture vetrose e la qualità bioluminescente della scena. La composizione è centrata, verticale e simmetrica, evocando un senso di tranquillità, natura mistica e bellezza fiabesca, resa con la precisione di un'arte digitale iperrealistica.
 ```
 
 [↑ Torna alle categorie](#catalog)

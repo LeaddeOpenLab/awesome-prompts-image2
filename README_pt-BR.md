@@ -1270,13 +1270,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097784050660376617"></a>
 
-### Tradução em andamento
+### Uma folha de bordo translúcida e brilhante flutua sobre a água calma, com flores cor-de-rosa florescendo em seu interior, e sua haste tocando levemente a superfície para criar ondulações concêntricas.
 
 Autor：[@churvikv](https://x.com/churvikv) · [Publicação original](https://x.com/churvikv/status/2097784050660376617)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma folha de bordo translúcida e brilhante flutua sobre a água calma, com flores cor-de-rosa florescendo em seu interior, e sua haste tocando levemente a superfície para criar ondulações concêntricas.
 
 <img src="images/2097784050660376617-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1285,7 +1285,11 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Prompt 1:
+Uma obra de arte digital encantadora e surreal apresentando uma folha de bordo dourada e translúcida pairando magicamente sobre a superfície de águas calmas e escuras. A folha brilha por dentro com uma luz quente e etérea, suas veias delicadas claramente visíveis. Dentro da estrutura translúcida da folha, minúsculas e vibrantes flores cor-de-rosa e botões fechados estão incrustados, parecendo florescer dentro de suas próprias veias. As pontas da folha são orladas com um brilho dourado e reluzente que se dispersa no ar como poeira mágica. O pecíolo da folha se estende para baixo, apenas tocando a superfície da água, criando ondulações concêntricas que se espalham para fora. Abaixo da água, um reflexo da folha brilhante e de sua haste é fracamente visível. O fundo é uma floresta crepuscular e sonhadora com silhuetas de pinheiros contra um céu suave em degradê de roxo, laranja e azul. Vários nenúfares cor-de-rosa flutuam na água escura, aumentando a atmosfera serena e mágica.
+
+Prompt 2:
+Uma majestosa e etérea folha de bordo feita de material cristalino e translúcido flutua delicadamente acima de um lago sereno e escuro. A folha é intrinsecamente detalhada com veias brilhantes e traz incrustadas pequenas e suaves flores de cerejeira cor-de-rosa e botões que parecem brotar diretamente de sua estrutura. Partículas de poeira mágica dourada e cintilante rodopiam ao redor da folha, lançando um brilho quente e radiante. A ponta da haste da folha toca suavemente a superfície da água, criando ondulações concêntricas perfeitas que refletem a luz. O fundo apresenta uma paisagem florestal sonhadora e desfocada ao anoitecer, com toques de árvores em silhueta e um suave céu em degradê variando de tons profundos de azul crepuscular a rosas pálidos. Flores de lótus cor-de-rosa flutuantes repousam sobre a superfície da água calma no primeiro plano e no plano médio. A iluminação é suave, cinematográfica e mágica, destacando as texturas vítreas e a qualidade bioluminescente da cena. A composição é centralizada, vertical e simétrica, evocando uma sensação de tranquilidade, natureza mística e beleza de conto de fadas, renderizada com precisão de arte digital hiper-realista.
 ```
 
 [↑ Voltar às categorias](#catalog)
