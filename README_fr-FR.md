@@ -1285,20 +1285,31 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2097797456117539136"></a>
 
-### Traduction en cours
+### Prompt modèle pour générer une feuille de sprites de jeu 2D 4×4 \(16 images\) à partir d'un personnage de référence.
 
 Auteur：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Publication originale](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt modèle pour générer une feuille de sprites de jeu 2D 4×4 \(16 images\) à partir d'un personnage de référence.
 
 <img src="covers/2097797456117539136.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+En vous référant à ce personnage, créez une feuille de sprites (sprite sheet) d'animation 2D pour un jeu.
+Le contenu est « 🔴Saisir l'action »
+
+Représentez une action continue unique sur un total de 16 images, réparties en 4 colonnes × 4 lignes.
+
+【Spécifications de la feuille de sprites】 ・Toile carrée ・4 colonnes × 4 lignes, 16 images au total ・Les 16 cellules doivent être de taille rigoureusement identique ・Conservez une marge minimale de 10 px en haut, en bas, à gauche et à droite de chaque cellule ・Aucune bordure, ligne de grille, chiffre, texte, symbole ou élément d'interface (UI) ・Arrière-plan blanc uni uniforme sur toutes les images ・Organisez chaque image par ordre chronologique, de haut à gauche vers la droite, et du haut vers le bas
+
+【Le plus important : Taille et position fixes】 ・Uniformisez l'échelle d'affichage du personnage sur l'ensemble des 16 images ・Interdiction de zoomer ou de dézoomer la caméra ・Fixez la ligne de repère du contact au sol des pieds à la même hauteur ・La position centrale du personnage ne doit pas changer de manière significative d'une image à l'autre ・Modifiez la pose uniquement dans la mesure nécessaire au mouvement
+
+【Le plus important : Tenir entièrement à l'intérieur de la cellule】 ・Tous les éléments, y compris les cheveux, vêtements, membres, armes, accessoires, effets, rémanences et particules, doivent être contenus exclusivement à l'intérieur de chaque cellule ・Aucun débordement sur la cellule voisine ・Ne pas empiéter sur la zone de sécurité de la marge de 10 px ・Même si l'action est ample, ne réduisez pas la taille du personnage pour l'ajuster ・Si nécessaire, réduisez l'amplitude des effets ou du mouvement des bras pour rester dans la cellule
+
+【Ligne directrice de dessin】 ・Silhouette claire et facilement lisible en tant que sprite de jeu 2D ・Mouvements fluides et naturellement liés entre les images ・Privilégiez une continuité irréprochable en tant qu'élément d'animation, et non une illustration isolée ・Uniformisez la densité des détails, le trait, la mise en couleur et l'ombrage sur chaque image
 ```
 
 [↑ Retour aux catégories](#catalog)

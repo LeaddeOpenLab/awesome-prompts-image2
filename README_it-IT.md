@@ -1285,20 +1285,31 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2097797456117539136"></a>
 
-### Traduzione in corso
+### Prompt modello per generare uno sprite sheet per videogiochi 2D 4×4 \(16 fotogrammi\) da un personaggio di riferimento.
 
 Autore：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Post originale](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt modello per generare uno sprite sheet per videogiochi 2D 4×4 \(16 fotogrammi\) da un personaggio di riferimento.
 
 <img src="covers/2097797456117539136.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Facendo riferimento a questo personaggio, crea uno sprite sheet per animazione 2D per videogiochi.
+Il contenuto è "🔴Inserisci l'azione"
+
+Rappresenta una singola azione continua in un totale di 16 fotogrammi, disposti su 4 colonne × 4 righe.
+
+【Specifiche dello sprite sheet】 ・Area di disegno quadrata ・4 colonne × 4 righe, 16 fotogrammi in totale ・Le 16 celle devono avere esattamente le stesse dimensioni ・Garantisci un margine minimo di 10 px in alto, in basso, a sinistra e a destra di ciascuna cella ・Nessun bordo, linea di griglia, numero, testo, simbolo o elemento dell'interfaccia utente (UI) ・Sfondo bianco a tinta unita uniforme su tutti i fotogrammi ・Disponi ogni fotogramma in ordine cronologico da in alto a sinistra verso destra, e dall'alto verso il basso
+
+【La cosa più importante: Dimensioni e posizione fisse】 ・Uniforma la scala di visualizzazione del personaggio in tutti i 16 fotogrammi ・È vietato eseguire zoom avanti o zoom indietro con la telecamera ・Fissa la linea di riferimento del punto di appoggio dei piedi al suolo alla stessa altezza ・La posizione centrale del personaggio non deve spostarsi notevolmente tra fotogrammi consecutivi ・Modifica la posa solo nella misura necessaria al movimento
+
+【La cosa più importante: Contenere tutto completamente nella cella】 ・Tutto, inclusi capelli, abiti, arti, armi, accessori, effetti, scie luminose e particelle, deve essere contenuto esclusivamente all'interno di ciascuna cella ・Non deve debordare nella cella adiacente ・Non violare l'area di sicurezza del margine di 10 px ・Anche se l'azione diventa ampia, non rimpicciolire il personaggio per adattarlo ・Se necessario, riduci gli effetti o l'ampiezza del movimento delle braccia per mantenerlo all'interno della cella
+
+【Linee guida di disegno】 ・Silhouette chiara e ben leggibile per uno sprite di gioco in 2D ・Movimento fluido e naturale tra i fotogrammi ・Privilegia la continuità senza difetti in quanto risorsa per animazione, non come singola illustrazione ・Uniforma la densità dei dettagli, le linee, la colorazione e le ombreggiature in ogni fotogramma
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -1270,20 +1270,31 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2097797456117539136"></a>
 
-### Tradução em curso
+### Prompt de modelo para gerar uma folha de sprites de jogo 2D de 4×4 \(16 fotogramas\) a partir de uma personagem de referência.
 
 Autor：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Publicação original](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de modelo para gerar uma folha de sprites de jogo 2D de 4×4 \(16 fotogramas\) a partir de uma personagem de referência.
 
 <img src="covers/2097797456117539136.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Com referência a esta personagem, cria uma folha de sprites (sprite sheet) de animação 2D para jogos.
+O conteúdo é "🔴Insira a ação"
+
+Representa uma única ação contínua num total de 16 fotogramas dispostos em 4 colunas × 4 linhas.
+
+【Especificações da folha de sprites】 ・Tela quadrada ・4 colunas × 4 linhas, 16 fotogramas no total ・As 16 células devem ter exatamente o mesmo tamanho ・Garante uma margem mínima de 10 px acima, abaixo, à esquerda e à direita de cada célula ・Sem molduras, linhas de grelha, números, texto, símbolos ou elementos de interface (UI) ・Fundo branco sólido e uniforme em todos os fotogramas ・Organiza cada fotograma por ordem cronológica do canto superior esquerdo para a direita, e de cima para baixo
+
+【Mais importante: Fixar tamanho e posição】 ・Uniformiza a escala de exibição da personagem em todos os 16 fotogramas ・Proibido fazer zoom-in ou zoom-out com a câmara ・Fixa a linha de referência do ponto de contacto dos pés com o chão à mesma altura ・A posição central da personagem não deve mover-se significativamente entre fotogramas consecutivos ・Altera a pose apenas no estritamente necessário para o movimento
+
+【Mais importante: Conter totalmente dentro da célula】 ・Tudo, incluindo cabelo, roupa, membros, armas, adereços, efeitos, rastos de luz e partículas, deve ficar contido exclusivamente dentro de cada célula ・Não deixar transbordar para a célula vizinha ・Não violar a área de segurança da margem de 10 px ・Mesmo que a ação se torne ampla, não reduzas a personagem para ajustar ・Se necessário, modera os efeitos ou a amplitude do movimento dos braços para caber na célula
+
+【Diretrizes de desenho】 ・Silhueta nítida e de fácil leitura para um sprite de jogo 2D ・Movimentos com transição natural entre fotogramas ・Privilegia a continuidade sem falhas como recurso de animação, e não como uma ilustração individual ・Uniformiza a densidade de detalhe, linhas, pintura e sombreamento em cada fotograma
 ```
 
 [↑ Voltar às categorias](#catalog)

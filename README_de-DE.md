@@ -1285,20 +1285,31 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2097797456117539136"></a>
 
-### Übersetzung läuft
+### Vorlagen-Prompt zur Generierung eines 4×4 \(16 Frames\) 2D-Game-Spritesheets aus einem Referenzcharakter.
 
 Autor：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Originalbeitrag](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vorlagen-Prompt zur Generierung eines 4×4 \(16 Frames\) 2D-Game-Spritesheets aus einem Referenzcharakter.
 
 <img src="covers/2097797456117539136.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle unter Bezugnahme auf diesen Charakter ein 2D-Animations-Spritesheet für ein Spiel.
+Der Inhalt ist „🔴Aktion eintragen“
+
+Stelle eine einzelne, zusammenhängende Aktion in insgesamt 16 Frames dar, angeordnet in 4 Spalten × 4 Zeilen.
+
+【Spritesheet-Spezifikationen】 ・Quadratische Leinwand ・4 Spalten × 4 Zeilen, insgesamt 16 Frames ・Die 16 Zellen müssen exakt dieselbe Größe haben ・Halte oben, unten, links und rechts an jeder Zelle einen Mindestabstand von 10 px ein ・Keinerlei Rahmenlinien, Rasterlinien, Zahlen, Buchstaben, Symbole oder UI-Elemente ・Der Hintergrund ist in allen Frames ein einheitliches, monochromes Weiß ・Ordne die Frames chronologisch von oben links nach rechts und von oben nach unten an
+
+【Am wichtigsten: Feste Größe und Position】 ・Der Darstellungsmaßstab des Charakters muss in allen 16 Frames identisch sein ・Kamera-Zoom (Zoom-In/Zoom-Out) ist verboten ・Die Referenzlinie des Bodenkontakts der Füße muss auf derselben Höhe fixiert sein ・Die zentrale Position des Charakters darf sich zwischen aufeinanderfolgenden Frames nicht stark verschieben ・Ändere die Pose nur in dem für die Bewegung erforderlichen Umfang
+
+【Am wichtigsten: Vollständig innerhalb der Zelle bleiben】 ・Alles, einschließlich Haare, Kleidung, Gliedmaßen, Waffen, Requisiten, Effekte, Nachleuchten und Partikel, darf sich nur innerhalb der jeweiligen Zelle befinden ・Kein Überlappen in benachbarte Zellen ・Der Sicherheitsbereich von 10 px Rand darf nicht verletzt werden ・Auch bei ausladenden Aktionen darf der Charakter nicht verkleinert werden, um zu passen ・Falls nötig, dämpfe die Effekte oder die Ausholbewegung der Arme, damit alles in der Zelle bleibt
+
+【Zeichenrichtlinien】 ・Klare, leicht lesbare Silhouette für ein 2D-Game-Sprite ・Natürlich ineinander übergehende Bewegungen zwischen den Frames ・Fokus auf fehlerfreie Kontinuität als Animationsmaterial, nicht als Einzelillustration ・Vereinheitliche Zeichendichte, Linienführung, Kolorierung und Schattierung in jedem Frame
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1270,20 +1270,31 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2097797456117539136"></a>
 
-### Çeviri sürüyor
+### Referans bir karakterden 4×4 \(16 kare\) 2D oyun sprite sayfası oluşturmak için şablon istemi.
 
 Yazar：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Orijinal gönderi](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans bir karakterden 4×4 \(16 kare\) 2D oyun sprite sayfası oluşturmak için şablon istemi.
 
 <img src="covers/2097797456117539136.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu karakteri referans alarak, oyun için bir 2D animasyon sprite sayfası (sprite sheet) oluştur.
+İçerik: "🔴Eylemi girin"
+
+Tek bir kesintisiz eylemi, 4 sütun × 4 satır halinde toplam 16 karede göster.
+
+【Sprite Sayfası Özellikleri】 ・Kare tuval ・4 sütun × 4 satır, toplam 16 kare ・16 hücrenin boyutu tamamen birbiriyle aynı olmalıdır ・Her hücrenin üst, alt, sol ve sağ tarafında en az 10 px kenar boşluğu bırakılmalıdır ・Kenarlık çizgileri, ızgara çizgileri, sayılar, harfler, semboller veya kullanıcı arayüzü (UI) kesinlikle bulunmamalıdır ・Arka plan tüm karelerde tek tip, düz beyaz olmalıdır ・Her kare sol üstten sağa, yukarıdan aşağıya doğru kronolojik sırayla dizilmelidir
+
+【En Önemlisi: Boyut ve Konumun Sabitlenmesi】 ・16 karenin tamamında karakterin görüntüleme ölçeği birbiriyle tutarlı olmalıdır ・Kamera yakınlaştırma (zoom-in) ve uzaklaştırma (zoom-out) yasaktır ・Ayakların yere bastığı zemin temas referans çizgisi aynı yükseklikte sabitlenmelidir ・Karakterin merkez konumu ardışık kareler arasında belirgin şekilde kaymamalıdır ・Yalnızca hareket için gereken ölçüde poz değiştirilmelidir
+
+【En Önemlisi: Tamamen Hücre İçinde Kalması】 ・Saç, giysi, kollar/bacaklar, silahlar, küçük aksesuarlar, efektler, ardıl parıltılar ve parçacıklar dahil olmak üzere her şey yalnızca her bir hücrenin sınırları içinde kalmalıdır ・Yan hücreye taşmamalıdır ・10 px'lik kenar boşluğu güvenlik alanı ihlal edilmemelidir ・Eylem genişlese bile, karakter küçültülerek sığdırılmaya çalışılmamalıdır ・Gerekirse hücre içine sığması için efektlerin veya kol savurma genişliğinin boyutu azaltılmalıdır
+
+【Çizim İlkeleri】 ・2D oyun sprite'ı olarak kolayca seçilebilen, net ve anlaşılır bir silüet ・Kareler arasında doğal olarak birbirine bağlanan hareketler ・Tek bir illüstrasyon olarak değil, animasyon materyali olarak kusursuz bir sürekliliğe öncelik verilmelidir ・Her karedeki detay yoğunluğu, çizgi kalitesi, boyama ve gölgelendirme birbiriyle uyumlu olmalıdır
 ```
 
 [↑ Kategorilere dön](#catalog)

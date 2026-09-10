@@ -1287,20 +1287,31 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2097797456117539136"></a>
 
-### Đang dịch
+### Prompt mẫu để tạo sprite sheet game 2D 4×4 \(16 khung hình\) từ nhân vật tham chiếu.
 
 Tác giả：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Bài gốc](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt mẫu để tạo sprite sheet game 2D 4×4 \(16 khung hình\) từ nhân vật tham chiếu.
 
 <img src="covers/2097797456117539136.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Dựa trên nhân vật này, hãy tạo một sprite sheet hoạt ảnh 2D dùng cho game.
+Nội dung là "🔴Nhập hành động"
+
+Thể hiện một hành động liên tục bằng tổng cộng 16 khung hình xếp thành 4 cột × 4 hàng.
+
+【Quy cách sprite sheet】 ・Khung vẽ hình vuông ・4 cột × 4 hàng, tổng cộng 16 khung hình ・16 ô có kích thước hoàn toàn bằng nhau ・Đảm bảo khoảng cách lề tối thiểu 10px ở bốn phía trên, dưới, trái, phải của mỗi ô ・Tuyệt đối không có đường viền, đường lưới, chữ số, chữ cái, ký hiệu, UI ・Hình nền là màu trắng đơn sắc đồng nhất ở tất cả các khung hình ・Mỗi khung hình được sắp xếp theo trình tự thời gian từ góc trên bên trái sang phải, từ hàng trên xuống hàng dưới
+
+【Quan trọng nhất: Cố định kích thước và vị trí】 ・Thống nhất tỷ lệ hiển thị của nhân vật trong toàn bộ 16 khung hình ・Nghiêm cấm phóng to (zoom in) hoặc thu nhỏ (zoom out) camera ・Cố định đường tham chiếu tiếp xúc mặt đất dưới chân ở cùng một độ cao ・Vị trí trung tâm của nhân vật không dịch chuyển lớn giữa các khung hình trước và sau ・Chỉ thay đổi tư thế trong phạm vi cần thiết cho chuyển động
+
+【Quan trọng nhất: Nằm trọn vẹn hoàn toàn bên trong ô】 ・Bao gồm tất cả từ tóc, trang phục, tay chân, vũ khí, phụ kiện, hiệu ứng, vệt sáng, hạt đều chỉ nằm gọn bên trong mỗi ô ・Không tràn sang ô bên cạnh ・Không xâm phạm vào vùng an toàn của lề 10px ・Dù hành động có biên độ lớn, cũng không thu nhỏ nhân vật để điều chỉnh ・Nếu cần thiết, hãy tiết chế hiệu ứng hoặc độ vung của cánh tay để nằm gọn trong ô
+
+【Định hướng vẽ】 ・Hình bóng (silhouette) rõ ràng, dễ nhìn đối với sprite game 2D ・Chuyển động liên kết tự nhiên giữa các khung hình ・Chú trọng tính liên tục mạch lạc như một tài nguyên hoạt ảnh thay vì một bức tranh đơn lẻ ・Thống nhất mật độ chi tiết vẽ, đường nét, tô màu và đổ bóng ở mỗi khung hình
 ```
 
 [↑ Về danh mục](#catalog)

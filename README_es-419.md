@@ -1285,20 +1285,31 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2097797456117539136"></a>
 
-### Traducción en curso
+### Prompt de plantilla para generar una hoja de sprites de juego 2D de 4×4 \(16 fotogramas\) a partir de un personaje de referencia.
 
 Autor：[@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN) · [Publicación original](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de plantilla para generar una hoja de sprites de juego 2D de 4×4 \(16 fotogramas\) a partir de un personaje de referencia.
 
 <img src="covers/2097797456117539136.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tomando como referencia a este personaje, crea una hoja de sprites (sprite sheet) de animación 2D para un juego.
+El contenido es "🔴Introduce la acción"
+
+Representa una sola acción continua en un total de 16 fotogramas organizados en 4 columnas × 4 filas.
+
+【Especificaciones de la hoja de sprites】 ・Lienzo cuadrado ・4 columnas × 4 filas, 16 fotogramas en total ・Las 16 celdas deben tener exactamente el mismo tamaño ・Asegura un margen mínimo de 10 px arriba, abajo, a la izquierda y a la derecha de cada celda ・Sin bordes, líneas de cuadrícula, números, texto, símbolos ni elementos de interfaz de usuario (UI) ・Fondo blanco sólido y uniforme en todos los fotogramas ・Organiza cada fotograma en orden cronológico de arriba a la izquierda hacia la derecha, y de arriba hacia abajo
+
+【Lo más importante: Fijar el tamaño y la posición】 ・Unifica la escala de visualización del personaje en los 16 fotogramas ・Prohibido hacer zoom-in o zoom-out de la cámara ・Fija la línea de referencia de contacto con el suelo a la misma altura ・La posición central del personaje no debe desplazarse considerablemente entre fotogramas consecutivos ・Cambia la pose solo dentro del rango necesario para el movimiento
+
+【Lo más importante: Contenerlo completamente dentro de la celda】 ・Todo, incluyendo cabello, ropa, extremidades, armas, accesorios, efectos, estelas y partículas, debe quedar exclusivamente dentro de cada celda ・No debe sobresalir hacia la celda contigua ・No invadir el área de seguridad del margen de 10 px ・Aunque la acción sea amplia, no reduzcas el tamaño del personaje para ajustarlo ・Si es necesario, modera los efectos o la amplitud del movimiento de los brazos para que quepa dentro de la celda
+
+【Directrices de dibujo】 ・Silueta clara y fácil de leer como sprite de juego en 2D ・Movimiento fluido y natural entre fotogramas ・Prioriza una continuidad coherente como recurso de animación, no como una ilustración individual ・Unifica la densidad de detalle, el trazo, el coloreado y el sombreado en cada fotograma
 ```
 
 [↑ Volver a categorías](#catalog)
