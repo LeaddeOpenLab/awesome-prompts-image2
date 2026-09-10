@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**60** Prompts · Latest addition: **2026-09-10**
+**61** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1167,6 +1167,32 @@ Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item
 
 ```text
 Create an ultra realistic vertical 9:16 editorial streetwear photograph of a young man with thick curly dark hair, wearing black sunglasses, a cream and black oversized polo shirt with bold “OAKLAND” collegiate lettering and smaller athletic text underneath, loose black cargo-style pants, white sneakers, and a classic metal wristwatch. He is casually leaning against the front of a vintage American car with his hands in his pockets and one leg crossed over the other. Set the scene on a gritty urban street with an old weathered building behind him. Add large faded wall typography reading “OAKLAND”, with “CALIFORNIA” and “EST. 1852” underneath. Warm late-afternoon sunlight, muted brown and beige color palette, subtle film grain, soft shadows, nostalgic 1990s street-fashion aesthetic, realistic skin texture, natural pose, cinematic depth of field, detailed vintage car, authentic editorial photography. Full body composition, low eye-level camera, 35mm lens, warm cinematic lighting, photorealistic, high detail, 4K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Sci-Fi
+
+<a name="prompt-2097880604872438019"></a>
+
+### A grand, realistic sci-fi landscape featuring ochre-red hills, a tiny solitary rear silhouette, and a colossal fractured stone planetary ring in the distance.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2097880604872438019)
+
+Photography · Illustration · Cyberpunk / Sci-Fi · Landscape / Nature · Published
+
+**Summary:** A grand, realistic sci-fi landscape featuring ochre-red hills, a tiny solitary rear silhouette, and a colossal fractured stone planetary ring in the distance.
+
+<img src="images/2097880604872438019-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Generate a 2:3 vertical grand sci-fi landscape image featuring photorealistic natural textures, fine film grain, and restrained vintage cinematic color grading. In the foreground are softly rolling ochre-red dried-grass hills, with a solitary adult standing near the bottom center slightly to the left, back facing the camera, wearing a dark long coat; the figure's height occupies only 2.5% of the frame, quietly gazing into the distance. Across the vast middle-ground plain, countless tiny, low-rise off-white settlements are scattered, with a silver-cyan river winding in a gentle S-curve through the towns and reddish-brown earth. Towering behind the horizon is a planetary-scale, slightly tilted ancient fractured stone mega-ring: the ring body is extremely massive, its colossal left arc entity dominating the upper-left of the frame, with its top and left edges cropped by the frame; the curved fractured segment on the right extends into the sky, with an irregular fracture misaligned with the main ring; the center encloses an arcing sky void expanding toward the upper-right, not two straight parallel walls. The surface features rough stratification resembling deep cyan-black basalt, macro fractures, and slowly weathered longitudinal furrows, definitely not a smooth metallic ring. Warm golden low-angle sunlight skims from the right side of the frame across the curved inner rim and the fracture, while the vast bulk of the structure sinks into layered dark-green shadows, its base obscured by massive yet serene milky-white-golden cumulus clouds and dust mist, resembling clouds accumulating at the foot of the behemoth rather than an explosion. The right sky is deep grey-cyan-blue, the dried grass is coppery red and dark ochre, and the river reflects only restrained natural light. Use the tiny rear view, miniature towns, cloud layer at the foot of the titan, and the ring extending off-frame to emphasize the insignificance of humanity. Quiet, distant, heavy, incomprehensible grandeur, crisp depth layers, realistic natural light, no text, no logos, no watermarks, no lasers or lens flares.
 ```
 
 [↑ Back to categories](#catalog)

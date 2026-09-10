@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**60** 개 · 최근 추가: **2026-09-10**
+**61** 개 · 최근 추가: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [픽셀 아트](#category-pixel-art) · [수채화](#category-watercolor) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [픽셀 아트](#category-pixel-art) · [수채화](#category-watercolor) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1226,6 +1226,32 @@ Famous for: [짧고 독특한 사실]
 
 ```text
 풍성한 곱슬머리의 젊은 남성을 포착한 초현실적인 세로 9:16 에디토리얼 스트리트웨어 사진을 생성하세요. 그는 블랙 선글라스를 착용하고, 굵은 “OAKLAND” 칼리지 레터링과 그 아래 작은 애슬레틱 텍스트가 새겨진 크림 및 블랙 색상의 오버사이즈 폴로 셔츠, 헐렁한 블랙 카고 스타일 팬츠, 화이트 스니커즈, 클래식한 메탈 손목시계를 착용하고 있습니다. 그는 주머니에 손을 넣고 한쪽 다리를 다른 쪽 다리에 꼰 채 빈티지 아메리칸 클래식 카 앞부분에 자연스럽게 기대어 서 있습니다. 거친 도시의 거리와 그의 뒤로 보이는 오래되고 풍화된 건물을 배경으로 설정하세요. 벽면에는 빛바랜 커다란 “OAKLAND” 타이포그래피와 그 아래에 “CALIFORNIA” 및 “EST. 1852” 텍스트를 추가하세요. 따뜻한 늦은 오후의 햇살, 차분한 브라운과 베이지 컬러 팔레트, 미묘한 필름 그레인, 부드러운 그림자, 향수를 자극하는 1990년대 스트리트 패션 감성, 사실적인 피부 질감, 자연스러운 포즈, 시네마틱한 심도, 디테일한 빈티지 카, 진정한 에디토리얼 사진. 전신 구도, 낮은 눈높이 카메라, 35mm 렌즈, 따뜻한 시네마틱 조명, 사실적 묘사, 높은 디테일, 4K.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 사이버펑크 / SF
+
+<a name="prompt-2097880604872438019"></a>
+
+### 번역 중
+
+작성자：[@listudio](https://x.com/listudio) · [원본 게시물](https://x.com/listudio/status/2097880604872438019)
+
+사진술 · 일러스트레이션 · 사이버펑크 / SF · 풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097880604872438019-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

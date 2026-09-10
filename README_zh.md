@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**60** 条内容 · 最新收录: **2026-09-10**
+**61** 条内容 · 最新收录: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素艺术](#category-pixel-art) · [水彩画](#category-watercolor) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素艺术](#category-pixel-art) · [水彩画](#category-watercolor) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1228,6 +1228,32 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 
 ```text
 创作一张超写实的垂直 9:16 时尚街头潮流杂志摄影大片。画面中是一名留着浓密深色卷发的年轻男子，戴着黑色墨镜，身穿米黑相间的宽松大版Polo衫，胸前印有醒目的“OAKLAND”大学风字样及下方的较小运动风文本，搭配宽松黑色工装风格长裤、白色运动鞋和经典金属腕表。他双手插兜，一腿交叉搭在另一腿前，随性地倚靠在一辆美式老爷车前部。场景设定在一条粗粝质感的城市街道上，身后是一座斑驳的风化老建筑。墙面上带有大面积褪色的“OAKLAND”字样壁画，下方标注有“CALIFORNIA”和“EST. 1852”。温暖的午后斜阳，低饱和度棕褐色与米色调，微妙的胶片颗粒感，柔和阴影，怀旧的1990年代街头潮流美学，逼真的皮肤纹理，自然的姿态，电影级景深，细节精致的老爷车，真实的时尚杂志摄影风格。全身构图，低机位平视视角，35mm镜头，温暖电影感光效，逼真质感，高细节，4K。
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 赛博朋克 / 科幻
+
+<a name="prompt-2097880604872438019"></a>
+
+### 翻译中
+
+作者：[@listudio](https://x.com/listudio) · [查看 X 原帖](https://x.com/listudio/status/2097880604872438019)
+
+摄影 · 插画 · 赛博朋克 / 科幻 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097880604872438019-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

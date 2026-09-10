@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**60** 筆內容 · 最新收錄: **2026-09-10**
+**61** 筆內容 · 最新收錄: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素藝術](#category-pixel-art) · [水彩](#category-watercolor) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [像素藝術](#category-pixel-art) · [水彩](#category-watercolor) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1226,6 +1226,32 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 ```text
 創作一張超寫實的垂直 9:16 時尚街頭潮流雜誌攝影大片。畫面中是一名留著濃密深色捲髮的年輕男子，戴著黑色太陽眼鏡，身穿米黑相間的寬鬆大版Polo衫，胸前印有醒目的「OAKLAND」學院風格字樣及下方的較小運動風格文字，搭配寬鬆黑色工裝風格長褲、白色運動鞋和經典金屬腕錶。他雙手插在口袋裡，一腿交叉在另一腿前，隨意地倚靠在一輛美式老爺車車頭。場景設定在一條粗獷質感的城市街道上，身後是一座斑駁的風化老建築。牆面上有大面積褪色的「OAKLAND」字樣壁畫，下方標有「CALIFORNIA」和「EST. 1852」。溫暖的午後陽光，低飽和度棕褐色與米色調，細微的底片顆粒感，柔和陰影，懷舊的1990年代街頭潮流美學，逼真的皮膚紋理，自然的姿勢，電影級景深，細節精緻的老爺車，真實的時尚雜誌攝影風格。全身構圖，低機位平視視角，35mm鏡頭，溫暖電影感光效，逼真質感，高細節，4K。
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 賽博龐克 / 科幻
+
+<a name="prompt-2097880604872438019"></a>
+
+### 翻譯中
+
+作者：[@listudio](https://x.com/listudio) · [查看 X 原帖](https://x.com/listudio/status/2097880604872438019)
+
+攝影 · 插圖 · 賽博龐克 / 科幻 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097880604872438019-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

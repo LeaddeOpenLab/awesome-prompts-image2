@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**60** Prompt · Son eklenen: **2026-09-10**
+**61** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Piksel Sanatı](#category-pixel-art) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1189,6 +1189,32 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ür�
 Siyah güneş gözlüğü, üzerinde kalın harflerle kolej tipi “OAKLAND” yazısı ve altında daha küçük sportif metin bulunan krem ve siyah renkli oversize polo tişört, bol siyah kargo pantolon, beyaz spor ayakkabılar ve klasik metal kol saati takan, gür kıvırcık koyu renk saçlı genç bir erkeğin ultra gerçekçi dikey 9:16 editoryal sokak modası fotoğrafını oluşturun. Elleri ceplerinde, bir bacağı diğerinin üzerine atılmış şekilde klasik bir Amerikan arabasının önüne rahatça yaslanmış.
 Sahneyi, arkasında eski, yıpranmış bir bina bulunan dokulu bir şehir sokağına yerleştirin. Duvarda “OAKLAND” yazan, altında ise “CALIFORNIA” ve “EST. 1852” bulunan büyük, soluk bir tipografi ekleyin. Sıcak ikindi güneşi, mat kahverengi ve bej renk paleti, hafif film greni, yumuşak gölgeler, 1990'ların nostaljik sokak modası estetiği, gerçekçi cilt dokusu, doğal poz, sinematik alan derinliği, detaylı klasik araba, özgün editoryal fotoğrafçılık.
 Tam boy kompozisyon, düşük göz hizasında kamera, 35 mm lens, sıcak sinematik aydınlatma, fotogerçekçi, yüksek detay, 4K.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Siberpunk / Bilim Kurgu
+
+<a name="prompt-2097880604872438019"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2097880604872438019)
+
+Fotoğrafçılık · İllüstrasyon · Siberpunk / Bilim Kurgu · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097880604872438019-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

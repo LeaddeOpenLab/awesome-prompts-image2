@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**60** Prompt · Bổ sung mới nhất: **2026-09-10**
+**61** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Nghệ thuật Pixel](#category-pixel-art) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Nghệ thuật Pixel](#category-pixel-art) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1226,6 +1226,32 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 
 ```text
 Tạo một bức ảnh thời trang dạo phố chụp cho tạp chí theo khung hình dọc 9:16 siêu thực về một chàng trai trẻ có mái tóc xoăn dày màu đen, đeo kính râm màu đen, mặc áo polo ngoại cỡ màu kem và đen với dòng chữ phong cách đại học in đậm “OAKLAND” cùng dòng chữ thể thao nhỏ hơn bên dưới, quần túi hộp màu đen dáng rộng, giày thể thao màu trắng và đồng hồ đeo tay kim loại cổ điển. Anh ấy đang thong thả tựa vào đầu một chiếc xe hơi cổ điển của Mỹ với hai tay đút túi và một chân bắt chéo qua chân kia. Bối cảnh diễn ra trên một con phố đô thị bụi bặm với tòa nhà cũ kỹ nhuốm màu thời gian phía sau anh ấy. Thêm kiểu chữ lớn mờ dần trên tường có nội dung “OAKLAND”, kèm theo “CALIFORNIA” và “EST. 1852” ở bên dưới. Ánh nắng ấm áp lúc cuối chiều, bảng màu nâu và be dịu mắt, hạt phim tinh tế, bóng đổ mềm mại, thẩm mỹ thời trang đường phố thập niên 1990 đầy hoài niệm, kết cấu da chân thực, tư thế tự nhiên, độ sâu trường ảnh điện ảnh, xe cổ chi tiết, nhiếp ảnh tạp chí chân thực. Bố cục toàn thân, góc máy ngang tầm mắt thấp, ống kính 35mm, ánh sáng điện ảnh ấm áp, chân thực như ảnh chụp, độ chi tiết cao, 4K.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Khoa học viễn tưởng
+
+<a name="prompt-2097880604872438019"></a>
+
+### Đang dịch
+
+Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2097880604872438019)
+
+Nhiếp ảnh · Minh họa · Cyberpunk / Khoa học viễn tưởng · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097880604872438019-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

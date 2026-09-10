@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**60** Prompts · Última incorporación: **2026-09-10**
+**61** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Render 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Render 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1228,6 +1228,32 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de 
 Crea una fotografía editorial de moda urbana vertical 9:16 ultrarrealista de un hombre joven con pelo oscuro, rizado y grueso, que lleva gafas de sol negras, un polo oversize en tonos crema y negro con la inscripción universitaria en negrita «OAKLAND» y un texto deportivo más pequeño debajo, pantalones holgados tipo cargo negros, zapatillas blancas y un reloj de pulsera metálico clásico. Está apoyado casualmente contra la parte delantera de un coche clásico americano con las manos en los bolsillos y una pierna cruzada sobre la otra.
 Ambienta la escena en una calle urbana de aspecto rudo con un edificio antiguo y desgastado detrás de él. Añade una gran tipografía desvaída en la pared donde se lea «OAKLAND», con «CALIFORNIA» y «EST. 1852» debajo. Luz cálida de última hora de la tarde, paleta de colores apagada en marrones y beis, sutil grano de película, sombras suaves, estética nostálgica de la moda urbana de los años 90, textura de piel realista, pose natural, profundidad de campo cinematográfica, coche clásico detallado, auténtica fotografía editorial.
 Composición de cuerpo entero, cámara a la altura de los ojos en ángulo bajo, objetivo de 35 mm, iluminación cinematográfica cálida, fotorrealista, gran nivel de detalle, 4K.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Ciberpunk / Ciencia ficción
+
+<a name="prompt-2097880604872438019"></a>
+
+### Traducción en curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2097880604872438019)
+
+Fotografía · Ilustración · Ciberpunk / Ciencia ficción · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097880604872438019-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

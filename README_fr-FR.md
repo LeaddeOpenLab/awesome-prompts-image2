@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**60** Prompts · Dernier ajout: **2026-09-10**
+**61** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarelle](#category-watercolor) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Pixel Art](#category-pixel-art) · [Aquarelle](#category-watercolor) · [Rétro / Vintage](#category-retro-vintage) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1204,6 +1204,32 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Article d
 Créez une photographie de mode streetwear éditoriale verticale 9:16 ultra-réaliste d'un jeune homme aux cheveux foncés, épais et bouclés, portant des lunettes de soleil noires, un polo oversize crème et noir avec l'inscription universitaire en gras « OAKLAND » et un texte athlétique plus petit en dessous, un pantalon cargo noir ample, des baskets blanches et une montre-bracelet classique en métal. Il est nonchalamment appuyé contre l'avant d'une voiture américaine vintage, les mains dans les poches et une jambe croisée sur l'autre.
 Situez la scène dans une rue urbaine brute avec un vieux bâtiment patiné derrière lui. Ajoutez une grande typographie murale délavée indiquant « OAKLAND », avec « CALIFORNIA » et « EST. 1852 » en dessous. Lumière chaude de fin d'après-midi, palette de couleurs marron et beige atténuées, grain de pellicule subtil, ombres douces, esthétique nostalgique de la mode urbaine des années 1990, texture de peau réaliste, pose naturelle, profondeur de champ cinématographique, voiture vintage détaillée, photographie éditoriale authentique.
 Composition en pied, caméra à hauteur des yeux en contre-plongée, objectif 35 mm, éclairage cinématographique chaud, photoréaliste, niveau de détail élevé, 4K.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Science-fiction
+
+<a name="prompt-2097880604872438019"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2097880604872438019)
+
+Photographie · Illustration · Cyberpunk / Science-fiction · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097880604872438019-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

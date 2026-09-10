@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**60** 件 · 最新の追加: **2026-09-10**
+**61** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [ピクセルアート](#category-pixel-art) · [水彩](#category-watercolor) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [ピクセルアート](#category-pixel-art) · [水彩](#category-watercolor) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1226,6 +1226,32 @@ Famous for: [短い特徴的な豆知識]
 
 ```text
 濃い巻き毛の黒髪をした若い男性をフィーチャーした、超リアルな垂直 9:16 のエディトリアル・ストリートウェア写真を撮影してください。彼は黒のサングラスをかけ、大胆な「OAKLAND」のカレッジロゴとその下に小さなアスレチックテキストがプリントされたクリームと黒のオーバーサイズポロシャツ、ゆったりとした黒のカーゴパンツ、白いスニーカー、そしてクラシックなメタル製腕時計を身に着けています。ポケットに手を入れ、片脚をもう片方の脚の上にクロスさせて、アメリカンクラシックカーのフロントにさりげなくもたれかかっています。背景には古びた風化したビルが建つ、ざらついた都会の通りを設定してください。背後の壁には色あせた「OAKLAND」の大きなタイポグラフィ、そしてその下には「CALIFORNIA」と「EST. 1852」の文字を描いてください。暖かな午後の遅い日差し、落ち着いたブラウンとベージュのカラーパレット、ほのかなフィルムグレイン、柔らかい影、ノスタルジックな1990年代のストリートファッションの美学、リアルな肌の質感、自然なポーズ、映画のような被写界深度、細部まで作り込まれたヴィンテージカー、本物のエディトリアル写真。全身構図、ローアングルのアイレベルカメラ、35mmレンズ、暖かみのあるシネマティックライティング、フォトリアリスティック、ハイディテール、4K。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## サイバーパンク / SF
+
+<a name="prompt-2097880604872438019"></a>
+
+### 翻訳中
+
+作者：[@listudio](https://x.com/listudio) · [元の投稿](https://x.com/listudio/status/2097880604872438019)
+
+写真撮影 · イラスト · サイバーパンク / SF · 風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097880604872438019-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)
