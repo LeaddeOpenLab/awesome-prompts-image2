@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**59** Prompts · Dernier ajout: **2026-09-10**
+**60** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2097886029692969195"></a>
+
+### Traduction en cours
+
+Auteur：[@ohmuyi](https://x.com/ohmuyi) · [Publication originale](https://x.com/ohmuyi/status/2097886029692969195)
+
+Photographie · Portrait / Selfie · Influenceur / Mannequin · Article de mode · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097886029692969195-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097532595814940683"></a>
 

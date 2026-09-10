@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**59** Prompt · Bổ sung mới nhất: **2026-09-10**
+**60** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097886029692969195"></a>
+
+### Đang dịch
+
+Tác giả：[@ohmuyi](https://x.com/ohmuyi) · [Bài gốc](https://x.com/ohmuyi/status/2097886029692969195)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097886029692969195-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097532595814940683"></a>
 

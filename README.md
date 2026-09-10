@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**59** Prompts · Latest addition: **2026-09-10**
+**60** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097886029692969195"></a>
+
+### Chinese internet celebrity bedroom mirror selfie photoshoot prompt, showcasing a short hair low-cut outfit and soft indoor lighting style.
+
+Author：[@ohmuyi](https://x.com/ohmuyi) · [Source](https://x.com/ohmuyi/status/2097886029692969195)
+
+Photography · Portrait / Selfie · Influencer / Model · Fashion Item · Architecture / Interior · Published
+
+**Summary:** Chinese internet celebrity bedroom mirror selfie photoshoot prompt, showcasing a short hair low-cut outfit and soft indoor lighting style.
+
+<img src="images/2097886029692969195-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+3:4, mobile phone close-up mirror selfie, Chinese internet celebrity, cool fair skin, black short bob with light airy straight bangs, tight-fitting low-cut short-sleeved top, phone covering the right one-third of the face, bedroom with white bed and black-framed mirror, soft indoor lighting, gentle and charming
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097532595814940683"></a>
 

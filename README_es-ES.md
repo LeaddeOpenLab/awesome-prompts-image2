@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**59** Prompts · Última incorporación: **2026-09-10**
+**60** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097886029692969195"></a>
+
+### Traducción en curso
+
+Autor：[@ohmuyi](https://x.com/ohmuyi) · [Publicación original](https://x.com/ohmuyi/status/2097886029692969195)
+
+Fotografía · Retrato / Selfie · Influencer / Modelo · Artículo de moda · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097886029692969195-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097532595814940683"></a>
 
