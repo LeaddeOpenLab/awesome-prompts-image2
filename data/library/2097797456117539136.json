@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T00:37:43.728Z",
+  "model": "image2.5",
+  "prompt": "このキャラクターを参照して、ゲーム用の2Dアニメーションスプライトシートを作成して。\n内容は「🔴アクションを記入」\n\n1つの連続したアクションを、4列×4行の合計16フレームで表現する。\n\n【スプライトシート仕様】 ・正方形キャンバス ・4列×4行、合計16フレーム ・16個のセルは完全に同じ大きさ ・各セルの上下左右に最低10pxの余白を確保する ・枠線、グリッド線、数字、文字、記号、UIは一切不要 ・背景は全フレームで統一された単色の白 ・各フレームは左上から右へ、上段から下段へ、時間順に並べる\n\n【最重要：サイズと位置の固定】 ・16フレームすべてでキャラクターの表示倍率を統一する ・カメラのズームイン、ズームアウトは禁止 ・足元の接地面の基準線を同じ高さに固定する ・キャラクターの中心位置がフレームの前後で大きく移動しない・動きに必要な範囲だけポーズを変える\n\n【最重要：セル内に完全に収める】 ・髪、服、手足、武器、小物、エフェクト、残光、粒子を含むすべてを各セルの内部だけに収める ・隣のセルにはみ出さない ・余白10pxの安全領域を侵さない ・アクションが大きくなっても、キャラクターを縮小して調整しない ・必要ならエフェクトや腕の振り幅を控えめにして、セル内に収める\n\n【描画方針】 ・2Dゲーム用スプライトとして読みやすい、明快なシルエット ・フレーム間で自然につながる動き ・1枚絵ではなく、アニメーション素材として破綻のない連続性を重視 ・各フレームの描き込み密度、線、塗り、陰影を統一する",
+  "promptTranslations": {
+    "en": "Reference this character to create a 2D animation sprite sheet for a game.\nThe action is \"🔴 Enter action here\".\n\nExpress one continuous action across a total of 16 frames in 4 columns × 4 rows.\n\n[Sprite Sheet Specifications]\n・Square canvas\n・4 columns × 4 rows, 16 frames in total\n・All 16 cells must be exactly the same size\n・Ensure a minimum margin of 10px on the top, bottom, left, and right of each cell\n・No borders, grid lines, numbers, letters, symbols, or UI elements whatsoever\n・Background must be a unified solid white across all frames\n・Arrange frames in chronological order from top-left to right, and from top row to bottom row\n\n[Most Important: Fixed Size and Position]\n・Keep the character's display scale consistent across all 16 frames\n・Camera zoom-in and zoom-out are prohibited\n・Fix the ground contact baseline beneath the feet at the exact same height\n・Ensure the character's center position does not shift drastically between frames; change poses only as necessary for the movement\n\n[Most Important: Stay Completely Within the Cell]\n・Keep everything, including hair, clothing, limbs, weapons, accessories, effects, afterglow, and particles, strictly inside each cell\n・Do not overflow into adjacent cells\n・Do not breach the 10px margin safe zone\n・Even if the action becomes large, do not scale down the character to compensate\n・If necessary, tone down effects or the swing range of arms to keep everything inside the cell\n\n[Drawing Guidelines]\n・Clear, legible silhouette readable as a 2D game sprite\n・Natural movement connecting smoothly between frames\n・Prioritize flawless continuity as animation assets rather than standalone illustrations\n・Unify detail density, line work, coloring, and shading across every frame"
+  },
+  "summaryTranslations": {
+    "en": "Template prompt for generating a 4×4 (16-frame) 2D game sprite sheet from a reference character."
+  },
+  "translationVersion": 2,
+  "summary": "参照キャラクターから4×4（16コマ）の2Dゲーム用スプライトシートを生成するためのテンプレートプロンプト。",
+  "summaryEn": "A template prompt for generating a 4x4 16-frame 2D game sprite sheet referencing a character.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097797456117539136",
+    "canonicalUrl": "https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136",
+    "author": {
+      "username": "SSSS_CRYPTOMAN",
+      "displayName": "SSSS.CRYPTOMAN⚡️AI",
+      "profileUrl": "https://x.com/SSSS_CRYPTOMAN"
+    },
+    "publishedAt": "2026-09-09T21:21:03.000Z",
+    "collectedAt": "2026-09-10T00:16:35.115Z",
+    "language": "ja",
+    "originalText": "スマホでも作れる✨️\nGPT Image 2.5で作るGIFアニメーション\n\n簡単なプロンプトでもできますが、フレームがズレる場合が多かったので精度を上げた作り方です\n\n✅️作り方\n①ChatGPTのアプリで「Work」モードにして、作りたいキャラの画像を参照\n↓\n②下記プロンプトをコピペして、🔴作りたいアクションを記入\n↓\n③コマ割りの画像が出来たら「この画像を均等に分割してGIFを作成。各フレームの前後でキャラの立ち位置や設置面が合うように調整する。」と入力\n\nこれだけでGIFアニメが完成！\nアクションを色々変えて遊んでみてください\n\n👇️②で使うプロンプト\nこのキャラクターを参照して、ゲーム用の2Dアニメーションスプライトシートを作成して。\n内容は「🔴アクションを記入」\n\n1つの連続したアクションを、4列×4行の合計16フレームで表現する。\n\n【スプライトシート仕様】 ・正方形キャンバス ・4列×4行、合計16フレーム ・16個のセルは完全に同じ大きさ ・各セルの上下左右に最低10pxの余白を確保する ・枠線、グリッド線、数字、文字、記号、UIは一切不要 ・背景は全フレームで統一された単色の白 ・各フレームは左上から右へ、上段から下段へ、時間順に並べる\n\n【最重要：サイズと位置の固定】 ・16フレームすべてでキャラクターの表示倍率を統一する ・カメラのズームイン、ズームアウトは禁止 ・足元の接地面の基準線を同じ高さに固定する ・キャラクターの中心位置がフレームの前後で大きく移動しない・動きに必要な範囲だけポーズを変える\n\n【最重要：セル内に完全に収める】 ・髪、服、手足、武器、小物、エフェクト、残光、粒子を含むすべてを各セルの内部だけに収める ・隣のセルにはみ出さない ・余白10pxの安全領域を侵さない ・アクションが大きくなっても、キャラクターを縮小して調整しない ・必要ならエフェクトや腕の振り幅を控えめにして、セル内に収める\n\n【描画方針】 ・2Dゲーム用スプライトとして読みやすい、明快なシルエット ・フレーム間で自然につながる動き ・1枚絵ではなく、アニメーション素材として破綻のない連続性を重視 ・各フレームの描き込み密度、線、塗り、陰影を統一する",
+    "media": [
+      {
+        "type": "animated_gif",
+        "url": "https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136",
+        "thumbnailUrl": "https://pbs.twimg.com/tweet_video_thumb/HRzfplxaYAAEzX5.jpg",
+        "analysisUrl": "https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzfqLqaMAAvrqF.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzfqLqaMAAvrqF.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzfqcvaoAAI5gk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzfqcvaoAAI5gk.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzfqwpbsAAu5G_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzfqwpbsAAu5G_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 36,
+      "repostCount": 5,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1939
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136",
+  "coverUrl": "https://pbs.twimg.com/tweet_video_thumb/HRzfplxaYAAEzX5.jpg",
+  "coverPath": "covers/2097797456117539136.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:HRzfplxaYAAEzX5.mp4",
+    "x-video:HRzfplxaYAAEzX5.jpg",
+    "x-image:/media/HRzfqLqaMAAvrqF",
+    "x-image:/media/HRzfqcvaoAAI5gk",
+    "x-image:/media/HRzfqwpbsAAu5G_",
+    "x-post:2097797456117539136"
+  ],
+  "analysis": {
+    "summary": "参照キャラクターから4×4（16コマ）の2Dゲーム用スプライトシートを生成するためのテンプレートプロンプト。",
+    "summaryEn": "A template prompt for generating a 4x4 16-frame 2D game sprite sheet referencing a character.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付の画像およびGIFは、プロンプトで指示された4×4グリッド配置、白背景、均等なスケールと接地面を保った連続転倒アクションスプライトシートと完全に一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "このキャラクターを参照して、ゲーム用の2Dアニメーションスプライトシートを作成して。\n内容は「🔴アクションを記入」\n\n1つの連続したアクションを、4列×4行の合計16フレームで表現する。\n\n【スプライトシート仕様】 ・正方形キャンバス ・4列×4行、合計16フレーム ・16個のセルは完全に同じ大きさ ・各セルの上下左右に最低10pxの余白を確保する ・枠線、グリッド線、数字、文字、記号、UIは一切不要 ・背景は全フレームで統一された単色の白 ・各フレームは左上から右へ、上段から下段へ、時間順に並べる\n\n【最重要：サイズと位置の固定】 ・16フレームすべてでキャラクターの表示倍率を統一する ・カメラのズームイン、ズームアウトは禁止 ・足元の接地面の基準線を同じ高さに固定する ・キャラクターの中心位置がフレームの前後で大きく移動しない・動きに必要な範囲だけポーズを変える\n\n【最重要：セル内に完全に収める】 ・髪、服、手足、武器、小物、エフェクト、残光、粒子を含むすべてを各セルの内部だけに収める ・隣のセルにはみ出さない ・余白10pxの安全領域を侵さない ・アクションが大きくなっても、キャラクターを縮小して調整しない ・必要ならエフェクトや腕の振り幅を控えめにして、セル内に収める\n\n【描画方針】 ・2Dゲーム用スプライトとして読みやすい、明快なシルエット ・フレーム間で自然につながる動き ・1枚絵ではなく、アニメーション素材として破綻のない連続性を重視 ・各フレームの描き込み密度、線、塗り、陰影を統一する",
+    "sourceRange": {
+      "start": 285,
+      "end": 946
+    },
+    "translations": {
+      "zh": "参考此角色，制作游戏用2D动画精灵图集。内容为「🔴填入动作」。用4列×4行共16帧表现单个连续动作。规格要求正方形画布、16等分单元格、白底、固定尺寸与地面高度、无UI网格且完整容纳于格内。",
+      "en": "Create a 2D animation sprite sheet for games referencing this character. Action: [insert action]. Represent one continuous action across 16 frames in a 4x4 grid. Uniform square cells, white background, consistent character scale and ground level, cleanly contained within cells."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "game_asset",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
