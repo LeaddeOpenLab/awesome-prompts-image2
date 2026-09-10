@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**55** Prompts · Latest addition: **2026-09-09**
+**56** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1217,6 +1217,34 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097784050660376617"></a>
+
+### A translucent, glowing maple leaf hovers above calm water, with pink flowers blooming inside and its stem gently touching the surface to create concentric ripples.
+
+Author：[@churvikv](https://x.com/churvikv) · [Source](https://x.com/churvikv/status/2097784050660376617)
+
+Other · Published
+
+**Summary:** A translucent, glowing maple leaf hovers above calm water, with pink flowers blooming inside and its stem gently touching the surface to create concentric ripples.
+
+<img src="images/2097784050660376617-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097784050660376617-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Prompt 1:
+An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.
+
+Prompt 2:
+A majestic, ethereal maple leaf made of translucent, crystalline material floats delicately above a serene dark pond. The leaf is intricately detailed with glowing veins and is embedded with small, soft pink cherry blossom flowers and buds that seem to grow directly from its structure. Golden, shimmering magical dust particles swirl around the leaf, casting a warm, radiant glow. The tip of the leaf stem gently touches the water surface, creating perfect concentric ripples that reflect the light. The background features a dreamy, out-of-focus forest landscape at dusk, with hints of silhouetted trees and a soft gradient sky ranging from deep twilight blues to pale pinks. Floating pink lotus flowers rest on the calm water surface in the foreground and mid-ground. The lighting is soft, cinematic, and magical, highlighting the glassy textures and bioluminescent quality of the scene. The composition is centered, vertical, and symmetrical, evoking a sense of tranquility, mystical nature, and fairy-tale beauty, rendered with hyper-realistic digital art precision.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097780695414530375"></a>
 
