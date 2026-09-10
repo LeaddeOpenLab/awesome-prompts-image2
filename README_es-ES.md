@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**61** Prompts · Última incorporación: **2026-09-10**
+**62** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1119,6 +1119,34 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097954772586557873"></a>
+
+### Traducción en curso
+
+Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicación original](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097954772586557873-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**61** Prompts · Última adição: **2026-09-10**
+**62** Prompts · Última adição: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1080,6 +1080,34 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2097954772586557873"></a>
+
+### Tradução em andamento
+
+Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicação original](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097954772586557873-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

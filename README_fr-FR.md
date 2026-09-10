@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**61** Prompts · Dernier ajout: **2026-09-10**
+**62** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1095,6 +1095,34 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2097954772586557873"></a>
+
+### Traduction en cours
+
+Auteur：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publication originale](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097954772586557873-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

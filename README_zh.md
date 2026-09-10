@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**61** 条内容 · 最新收录: **2026-09-10**
+**62** 条内容 · 最新收录: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1119,6 +1119,34 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2097954772586557873"></a>
+
+### 翻译中
+
+作者：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [查看 X 原帖](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+摄影 · 复古 / 怀旧 · 人像 / 自拍 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097954772586557873-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

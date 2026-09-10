@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**61** Prompt · Bổ sung mới nhất: **2026-09-10**
+**62** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1119,6 +1119,34 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2097954772586557873"></a>
+
+### Đang dịch
+
+Tác giả：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Bài gốc](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097954772586557873-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

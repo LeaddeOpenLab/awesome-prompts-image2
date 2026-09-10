@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**61** Prompt · Son eklenen: **2026-09-10**
+**62** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1080,6 +1080,34 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097954772586557873"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Orijinal gönderi](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097954772586557873-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**61** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**62** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1095,6 +1095,34 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097954772586557873"></a>
+
+### Übersetzung läuft
+
+Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Originalbeitrag](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097954772586557873-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097954772586557873-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097954772586557873-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097954772586557873-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097628670143954978"></a>
 
