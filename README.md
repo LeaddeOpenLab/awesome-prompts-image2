@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**69** Prompts · Latest addition: **2026-09-11**
+**70** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1459,6 +1459,64 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098363788928143624"></a>
+
+### Structured prompt for an exploded view product poster of a sparkling oolong tea beverage can.
+
+Author：[@luo24853969](https://x.com/luo24853969) · [Source](https://x.com/luo24853969/status/2098363788928143624)
+
+Product Marketing · Poster / Flyer · Product · Published
+
+**Summary:** Structured prompt for an exploded view product poster of a sparkling oolong tea beverage can.
+
+<img src="images/2098363788928143624-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098363788928143624-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+{
+  "type": "Exploded view product poster",
+  "subject": "Sparkling tea beverage can",
+  "style": "Clean high-tech 3D render, studio lighting, subtle glowing details",
+  "background": "Soft pastel orange and light beige gradient",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vertically stacked exploded view, fully displaying the 9 structural layers of the sparkling oolong tea can: outer aluminum can body, top lid pull tab, printed label layer, inner wall lining, sparkling liquid core, bottom concave structure, sugar-free formula core, delicate fragrance oolong tea essence layer, bottom anti-slip design.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Sugar-Free Formula\nZero-burden refreshing taste, making every sip light and effortless.",
+        "Sparkling Carbonation Structure\nFine, dense bubbles delivering crisp, exhilarating textural layers.",
+        "Delicate Fragrance Oolong Tea Essence\nCarefully selected oolong tea leaves, preserving natural tea aroma and sweet aftertaste."
+      ],
+      "right_side": [
+        "High-Quality Aluminum Can Body\nLightweight and durable, perfectly locking in fresh flavor.",
+        "Top Lid Pull Tab Design\nEasy to open, enhancing the user experience.",
+        "Gradient Visual Label\nSoft pastel orange to off-white color scheme, creating a fresh atmosphere.",
+        "330ml Optimal Capacity\nJust right to carry around, refreshing wonderful moments anytime.",
+        "Bottom Stable Structure\nAnti-slip design for secure placement."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "Freshness, starting from the structure.",
+        "body": "Every layer of structure is meticulously designed; from the sugar-free formula to the delicate fragrance oolong tea essence, PUBBLE brings a pure and refreshing experience through refined craftsmanship and natural flavor."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098256551425319223"></a>
 

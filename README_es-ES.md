@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**69** Prompts · Última incorporación: **2026-09-11**
+**70** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098363788928143624"></a>
+
+### Traducción en curso
+
+Autor：[@luo24853969](https://x.com/luo24853969) · [Publicación original](https://x.com/luo24853969/status/2098363788928143624)
+
+Marketing de producto · Póster / Folleto · Producto · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098363788928143624-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098363788928143624-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098256551425319223"></a>
 
