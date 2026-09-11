@@ -1186,7 +1186,7 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2098314775344394279"></a>
 
-### Übersetzung läuft
+### Prompt für ein historisches Gruppenfoto der Acht Schönheiten von Qinhuai mit direktem CCD-Blitz
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098314775344394279)
 
@@ -1194,7 +1194,7 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Gruppe / Paar
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097135361046839783)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein historisches Gruppenfoto der Acht Schönheiten von Qinhuai mit direktem CCD-Blitz
 
 <img src="images/2098314775344394279-1.jpg" alt="Bild 1" width="480" />
 
@@ -1207,7 +1207,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Duftendes Puder und prachtvolle Eleganz; die mondhell-verschleierte Stimmung am Qinhuai; blickende Augen voller frühlingshafter Anmut; jede mit ihrer eigenen Ausdruckskraft und Pose; direkter CCD-Kamerablitz; Die acht Schönheiten von Qinhuai: Gruppenfoto von Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen und Ma Xianglan
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

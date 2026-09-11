@@ -1210,7 +1210,7 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2098314775344394279"></a>
 
-### Đang dịch
+### Từ khóa ảnh chụp chung Tần Hoài Bát Diễm cổ phong đánh flash trực diện CCD
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098314775344394279)
 
@@ -1218,7 +1218,7 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097135361046839783)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Từ khóa ảnh chụp chung Tần Hoài Bát Diễm cổ phong đánh flash trực diện CCD
 
 <img src="images/2098314775344394279-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1231,7 +1231,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hương phấn ngạt ngào diễm lệ; trăng mờ bến Tần Hoài; ánh mắt liếc nhìn đượm vẻ xuân tình; mỗi người một vẻ phong thái riêng; đèn flash trực diện máy ảnh CCD; Tần Hoài Bát Diễm: Liễu Như Thị, Trần Viên Viên, Lý Hương Quân, Đổng Tiểu Uyển, Cố Hoành Ba, Biện Ngọc Kinh, Khấu Bạch Môn, Mã Tương Lan chụp ảnh chung
 ```
 
 [↑ Về danh mục](#catalog)

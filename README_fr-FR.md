@@ -1186,7 +1186,7 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2098314775344394279"></a>
 
-### Traduction en cours
+### Prompt pour photo de groupe des Huit Beautés de Qinhuai au flash direct CCD de style classique
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098314775344394279)
 
@@ -1194,7 +1194,7 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Groupe / 
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097135361046839783)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour photo de groupe des Huit Beautés de Qinhuai au flash direct CCD de style classique
 
 <img src="images/2098314775344394279-1.jpg" alt="Image 1" width="480" />
 
@@ -1207,7 +1207,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Parfum cosmétique et beauté somptueuse ; la lune vaporeuse de la rivière Qinhuai ; regards éclatants de charme printanier ; chacune avec son expression et son attitude singulières ; flash direct de capteur CCD ; les Huit Beautés de Qinhuai : photo de groupe de Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen et Ma Xianglan
 ```
 
 [↑ Retour aux catégories](#catalog)

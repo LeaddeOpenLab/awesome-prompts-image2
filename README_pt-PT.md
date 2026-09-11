@@ -1171,7 +1171,7 @@ Converta a fotografia para o estilo de um diário de viagem desenhado à mão co
 
 <a name="prompt-2098314775344394279"></a>
 
-### Tradução em curso
+### Prompt para fotografia de grupo das Oito Belezas de Qinhuai com flash direto CCD em estilo clássico
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098314775344394279)
 
@@ -1179,7 +1179,7 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Grupo / Casa
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097135361046839783)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para fotografia de grupo das Oito Belezas de Qinhuai com flash direto CCD em estilo clássico
 
 <img src="images/2098314775344394279-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1192,7 +1192,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em curso
+Aroma a maquilhagem e esplendorosa beleza; a lua enevoada sobre o rio Qinhuai; olhares repletos de encanto primaveril; cada uma com a sua postura e expressão singulares; flash direto de câmara CCD; as Oito Belezas de Qinhuai: fotografia de grupo de Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen e Ma Xianglan
 ```
 
 [↑ Voltar às categorias](#catalog)

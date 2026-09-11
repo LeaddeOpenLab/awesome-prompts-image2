@@ -1171,7 +1171,7 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2098314775344394279"></a>
 
-### Çeviri sürüyor
+### Doğrudan CCD flaşlı klasik tarzda Qinhuai'nin Sekiz Güzeli grup fotoğrafı istemi
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2098314775344394279)
 
@@ -1179,7 +1179,7 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Grup / Ç
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097135361046839783)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Doğrudan CCD flaşlı klasik tarzda Qinhuai'nin Sekiz Güzeli grup fotoğrafı istemi
 
 <img src="images/2098314775344394279-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1192,7 +1192,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Makyaj kokusu ve görkemli cazibe; Qinhuai Nehri'nin sisli ayı; bahar canlılığı saçan cilveli bakışlar; her birinin kendine has zarafeti ve edası; doğrudan CCD flaşı; Qinhuai'nin Sekiz Güzeli: Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen ve Ma Xianglan'ın toplu fotoğrafı
 ```
 
 [↑ Kategorilere dön](#catalog)
