@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**68** Prompt · Son eklenen: **2026-09-11**
+**69** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2098277688498880901"></a>
 
-### Çeviri sürüyor
+### Berrak mavi gökyüzü fonunda, gerçeküstü kızıl tüylü alaca at portresi fotoğrafı.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277688498880901)
 
 Fotoğrafçılık · Portre / Selfie · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Berrak mavi gökyüzü fonunda, gerçeküstü kızıl tüylü alaca at portresi fotoğrafı.
 
 <img src="images/2098277688498880901-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4 dikey formatta gerçeküstü bir hayvan portresi sanat fotoğrafı oluşturun. Güçlü ve yapılı alaca bir atın başı, boynu, omuzları ve göğsü alt açıdan çekilmiş; gövde alt ve sağ taraftan doğal bir şekilde kadraj dışına taşmış; atın başı orta-alt kısımda konumlanmış ve sola doğru üç çeyrek profilden bakıyor; kulakları doğal olarak dikilmiş; nemli, derin siyah gözlerinde minik bir ışık parıltısı var. Üst üçte birlik kısımda bulutsuz, berrak kobalt mavisi bir gökyüzü yer alıyor. Post renginde ince, gerçeküstü bir renk dönüşümü uygulanmış; ana gövde zengin tuğla kırmızısı ve mercan kırmızısı tonlarında, burun kemiğinden ağız ve burun çevresine kadar uzanan geniş, düzensiz pembe-beyaz alaca lekeler ve omuz ile göğüsteki kırmızı-beyaz lekeler arasında az miktarda koyu mavi tonlar bulunuyor. Uzun yelesi sağdan esen güçlü rüzgarla sola doğru dalgalanıyor, ince uzun kıl tutamları üst üste biniyor, parlak kırmızı yele telleri derin bordo gölgelerle iç içe geçiyor ve bir kısmı boynun üzerine dökülüyor. Kısa tüyler, burun delikleri, bıyıklar ve kas detayları son derece gerçekçi. Parlak ve doğal yan ışık, yoğun ve katmanlı gölgeler, anı donduran net bir fotoğrafçılık, hafif film greni ve mat tonlar, vahşi, özgür ve çarpıcı bir moda editoryali hissi. Koşum takımı, insan, yazı, logo veya filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1168,6 +1168,36 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Grup / Çift · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098314775344394279-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

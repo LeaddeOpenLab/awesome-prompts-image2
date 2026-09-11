@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**68** Prompts · Última adição: **2026-09-11**
+**69** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Crie uma fotografia artística colorida e surrealista em formato vertical 3:4. U
 
 <a name="prompt-2098277688498880901"></a>
 
-### Tradução em andamento
+### Fotografia de retrato surrealista de cavalo malhado de pelo vermelho com fundo de céu azul puro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277688498880901)
 
 Fotografia · Retrato / Selfie · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Fotografia de retrato surrealista de cavalo malhado de pelo vermelho com fundo de céu azul puro.
 
 <img src="images/2098277688498880901-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia artística de retrato animal surrealista em formato vertical 3:4. Tomada em ângulo baixo da cabeça, pescoço, ombros e peito de um cavalo malhado robusto; o corpo é cortado naturalmente na parte inferior e à direita; a cabeça do cavalo fica na porção centro-inferior voltada em três quartos para a esquerda; as orelhas estão naturalmente eretas; os olhos negros, profundos e úmidos possuem um minúsculo reflexo. O terço superior é preenchido por um céu azul-cobalto puro e sem nuvens. A pelagem tem uma recoloração surrealista e minuciosa, dominada por tons intensos de vermelho-tijolo e vermelho-coral, com grandes manchas irregulares de cor branco-rosada da ponte do nariz ao focinho, e pequenas áreas em azul-escuro entre as manchas vermelhas e brancas dos ombros e peito. A longa crina flui para a esquerda soprada por um vento forte vindo da direita, com fios finos e longos sobrepostos, pelos vermelho-brilhantes entrelaçados a sombras em tom vinho-escuro, caindo parcialmente sobre o pescoço. Pelos curtos, narinas, pelos táteis e musculatura com detalhes realistas. Luz lateral natural e brilhante, sombras densas e ricas em camadas, fotografia nítida congelando o instante, leve granulação de filme e tons foscos, com uma pegada editorial de moda selvagem, livre e marcante. Sem arreios, pessoas, texto, logotipo ou marca-d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1168,6 +1168,36 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Grupo / Casal · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098314775344394279-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

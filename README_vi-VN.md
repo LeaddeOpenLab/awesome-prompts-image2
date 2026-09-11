@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**68** Prompt · Bổ sung mới nhất: **2026-09-11**
+**69** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Tạo một bức ảnh nghệ thuật màu siêu thực định dạng dọc 3:
 
 <a name="prompt-2098277688498880901"></a>
 
-### Đang dịch
+### Nhiếp ảnh chân dung ngựa đốm lông đỏ siêu thực, nền trời xanh thuần khiết.
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277688498880901)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nhiếp ảnh chân dung ngựa đốm lông đỏ siêu thực, nền trời xanh thuần khiết.
 
 <img src="images/2098277688498880901-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh nghệ thuật chân dung động vật siêu thực theo chiều dọc tỷ lệ 3:4. Chụp góc thấp đầu, cổ, vai và ngực của một chú ngựa đốm lực lưỡng, cơ thể được cắt cúp tự nhiên ở phía dưới và bên phải, đầu ngựa nằm ở phần giữa phía dưới quay ba phần tư sang trái, hai tai dựng thẳng tự nhiên, đôi mắt đen sâu ẩm ướt có ánh phản chiếu nhỏ. Một phần ba phía trên là bầu trời xanh coban thuần khiết không một gợn mây. Màu lông được đổi màu siêu thực và tinh xảo, tông màu chủ đạo là đỏ gạch đậm và đỏ san hô, từ sống mũi đến mõm có các vệt đốm trắng hồng lớn không đều, giữa các mảng đốm đỏ trắng ở vai và ngực có một ít màu xanh lam đậm. Bờm dài bị gió mạnh thổi từ bên phải bung xõa sang bên trái, các sợi lông dài mảnh đan xen vào nhau, những sợi lông đỏ tươi hòa quyện cùng bóng tối màu đỏ rượu vang đậm, một phần rủ xuống cổ. Lông ngắn, lỗ mũi, râu và các chi tiết cơ bắp chân thực. Ánh sáng xiên tự nhiên và tươi sáng, vùng tối dày dặn có chiều sâu, nhiếp ảnh sắc nét bắt trọn khoảnh khắc, có hạt phim nhẹ và tông màu lì mờ, mang phong cách biên tập thời trang hoang dã, tự do và sắc nét. Không có dây cương yên ngựa, con người, văn bản, logo hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1207,6 +1207,36 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2098314775344394279"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Nhóm / Cặp đôi · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098314775344394279-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

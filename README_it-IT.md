@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**68** Prompt · Ultima aggiunta: **2026-09-11**
+**69** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Crea una fotografia artistica surrealista a colori in formato verticale 3:4. Una
 
 <a name="prompt-2098277688498880901"></a>
 
-### Traduzione in corso
+### Fotografia ritratto surrealista di un cavallo pezzato dal manto rosso su sfondo di cielo azzurro puro.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277688498880901)
 
 Fotografia · Ritratto / Selfie · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotografia ritratto surrealista di un cavallo pezzato dal manto rosso su sfondo di cielo azzurro puro.
 
 <img src="images/2098277688498880901-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia artistica di ritratto animale surrealista in formato verticale 3:4. Inquadratura dal basso di testa, collo, spalle e petto di un robusto cavallo pezzato; il corpo è tagliato naturalmente in basso e a destra; la testa del cavallo è posizionata nella parte medio-bassa, girata di tre quarti verso sinistra; le orecchie sono dritte in modo naturale; gli occhi, neri e umidi, hanno un minuscolo riflesso. Il terzo superiore è occupato da un cielo blu cobalto puro e privo di nuvole. Il mantello presenta una ricolorazione surrealista e meticolosa, dominata da un intenso rosso mattone e rosso corallo, con ampie pezzature irregolari bianco-rosate dalla canna nasale al muso e rari tocchi di blu scuro tra le macchie rosse e bianche su spalle e petto. La lunga criniera è mossa verso sinistra da un forte vento proveniente da destra, con sottili ciocche che si sovrappongono, crini rosso brillante intrecciati a ombre color vino scuro, ricadendo parzialmente sul collo. Pelo corto, narici, vibrisse e muscoli dai dettagli realistici. Luce laterale naturale e brillante, ombre dense e stratificate, fotografia nitida che congela l'istante, leggera grana da pellicola e toni opachi, con uno stile editoriale di moda selvaggio, libero e d'impatto. Senza finimenti, persone, testo, logo o filigrana.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1183,6 +1183,36 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Gruppo / Coppia · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098314775344394279-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

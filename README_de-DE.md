@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**68** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**69** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Erstelle eine surreale Farb-Kunstfotografie im Hochformat 3:4. Eine menschenleer
 
 <a name="prompt-2098277688498880901"></a>
 
-### Übersetzung läuft
+### Surrealistisches Porträtfoto eines rothaarigen Schecken vor reinem blauem Himmel.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277688498880901)
 
 Fotografie · Porträt / Selfie · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Surrealistisches Porträtfoto eines rothaarigen Schecken vor reinem blauem Himmel.
 
 <img src="images/2098277688498880901-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine surrealistische Tierporträt-Kunstfotografie im Hochformat 3:4. Froschperspektive auf Kopf, Hals, Schultern und Brust eines kräftigen Schecken; der Körper ist unten und rechts natürlich beschnitten; der Pferdekopf befindet sich im mittleren unteren Bereich, in einer Dreiviertelansicht nach links gedreht; die Ohren stehen natürlich aufgerichtet; die tiefschwarzen, feuchten Augen weisen eine winzige Lichtreflexion auf. Das obere Drittel zeigt einen wolkenlosen, reinen kobaltblauen Himmel. Das Fell ist detailreich und surrealistisch umgefärbt, hauptsächlich in sattem Ziegelrot und Korallenrot, mit großen, unregelmäßigen rosa-weißen Flecken vom Nasenrücken bis zu den Nüstern und spärlichem Dunkelblau zwischen den roten und weißen Flecken an Schultern und Brust. Die lange Mähne wird von einem starken Wind von rechts nach links geweht, wobei sich feine, lange Haarsträhnen überlagern, leuchtend rote Strähnen mit tief weinroten Schatten verwoben sind und teilweise über den Hals fallen. Kurzes Fell, Nüstern, Tasthaare und Muskeldetails sind lebensecht. Helles, natürliches Seitenlicht, dichte und vielschichtige Tiefen, gestochen scharfe Fotografie, die den Moment einfriert, feines Filmkorn und matte Farbtöne mit einer wilden, freien und markanten Fashion-Editorial-Anmutung. Kein Zaumzeug, keine Personen, kein Text, kein Logo oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1183,6 +1183,36 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Gruppe / Paar · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098314775344394279-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

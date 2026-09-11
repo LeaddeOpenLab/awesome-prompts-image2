@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**68** Prompts · Dernier ajout: **2026-09-11**
+**69** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Créez une photographie d'art couleur surréaliste au format portrait 3:4. Une c
 
 <a name="prompt-2098277688498880901"></a>
 
-### Traduction en cours
+### Photographie de portrait surréaliste d'un cheval pie à robe rouge sur fond de ciel bleu pur.
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277688498880901)
 
 Photographie · Portrait / Selfie · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photographie de portrait surréaliste d'un cheval pie à robe rouge sur fond de ciel bleu pur.
 
 <img src="images/2098277688498880901-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créer une photographie d'art de portrait animalier surréaliste au format vertical 3:4. Prise de vue en contre-plongée de la tête, de l'encolure, des épaules et du poitrail d'un cheval pie robuste, le corps étant naturellement coupé en bas et sur la droite ; la tête du cheval se trouve dans la partie inférieure centrale, tournée de trois quarts vers la gauche ; les oreilles sont naturellement dressées ; les yeux noirs profonds et humides présentent un infime reflet. Le tiers supérieur laisse place à un ciel bleu cobalt pur et sans nuages. La robe bénéficie d'une recoloration surréaliste et méticuleuse, dominée par un rouge brique et un rouge corail intenses, de larges taches irrégulières blanc rosé s'étendant du chanfrein aux naseaux, et de légères touches de bleu foncé entre les taches rouges et blanches des épaules et du poitrail. La longue crinière se déploie vers la gauche sous l'effet d'un vent puissant venu de la droite, les mèches fines et longues se superposant, les crins rouge vif s'entremêlant à des ombres bordeaux profond, retombant partiellement sur l'encolure. Poils courts, naseaux, vibrisses et muscles aux détails réalistes. Lumière latérale naturelle et éclatante, ombres denses et nuancées, photographie nette figeant l'instant, léger grain argentique et tons mats, évoquant un éditorial de mode sauvage, libre et saisissant. Aucun harnachement, aucun être humain, texte, logo ou filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1183,6 +1183,36 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Groupe / Couple · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098314775344394279-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

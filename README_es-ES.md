@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**68** Prompts · Última incorporación: **2026-09-11**
+**69** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Crea una fotografía artística surrealista en color en formato vertical 3:4. Un
 
 <a name="prompt-2098277688498880901"></a>
 
-### Traducción en curso
+### Fotografía de retrato de caballo pinto de pelaje rojo surrealista, con fondo de cielo azul puro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277688498880901)
 
 Fotografía · Retrato / Selfie · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía de retrato de caballo pinto de pelaje rojo surrealista, con fondo de cielo azul puro.
 
 <img src="images/2098277688498880901-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía artística de retrato animal surrealista en formato vertical 3:4. Plano contrapicado de la cabeza, el cuello, los hombros y el pecho de un caballo pinto robusto; el cuerpo está cortado de forma natural en la parte inferior y a la derecha; la cabeza del caballo se ubica en la zona media-inferior girada en vista de tres cuartos hacia la izquierda; las orejas están erguidas de forma natural; los ojos, negros, profundos y húmedos, tienen un diminuto reflejo. El tercio superior queda reservado a un cielo azul cobalto puro y sin nubes. Pelaje con un recoloreado surrealista y minucioso, con una base intensa en rojo ladrillo y rojo coral, grandes manchas irregulares de color blanco rosáceo desde el puente nasal hasta el hocico, y un sutil azul oscuro entre las manchas rojas y blancas de los hombros y el pecho. Las largas crines ondean hacia la izquierda mecidas por un fuerte viento que sopla desde la derecha, con finas hebras superpuestas donde los mechones rojo brillante se entrelazan con sombras en tono vino tinto oscuro, cayendo parcialmente sobre el cuello. Detalles realistas en el pelo corto, los ollares, los bigotes y la musculatura. Luz lateral natural y brillante, sombras densas y con relieve, fotografía nítida que congela el instante, grano sutil de película y tonos mates, con una marcada sensación editorial de moda, salvaje y libre. Sin arreos, personas, texto, logotipo ni marca de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1207,6 +1207,36 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Grupo / Pareja · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098314775344394279-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

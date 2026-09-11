@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**68** Prompts · Latest addition: **2026-09-11**
+**69** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1148,6 +1148,36 @@ Transform the photo into a hand-drawn travel journal style using colored pencil 
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Traditional Chinese style CCD direct flash Eight Beauties of Qinhuai group photo prompt
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Group / Couple · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Summary:** Traditional Chinese style CCD direct flash Eight Beauties of Qinhuai group photo prompt
+
+<img src="images/2098314775344394279-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Rouged fragrance and splendid beauty; misty moonlight over the Qinhuai River; glances brimming with springtime charm; each with distinct grace and demeanor; CCD direct flash; group photo of the Eight Beauties of Qinhuai: Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen, and Ma Xianglan
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 

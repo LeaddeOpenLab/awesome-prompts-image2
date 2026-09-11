@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**68** Prompts · Última incorporación: **2026-09-11**
+**69** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -79,20 +79,20 @@ Crea una fotografía artística surrealista en color en formato vertical 3:4. Un
 
 <a name="prompt-2098277688498880901"></a>
 
-### Traducción en curso
+### Fotografía de retrato de caballo pinto de pelaje rojo surrealista, con fondo de cielo azul puro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277688498880901)
 
 Fotografía · Retrato / Selfie · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía de retrato de caballo pinto de pelaje rojo surrealista, con fondo de cielo azul puro.
 
 <img src="images/2098277688498880901-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía artística de retrato animal surrealista en formato vertical 3:4. Toma en contrapicado de la cabeza, el cuello, los hombros y el pecho de un caballo pinto robusto; el cuerpo se recorta de forma natural en la parte inferior y a la derecha; la cabeza del caballo se sitúa en la zona media-inferior girada en tres cuartos de perfil hacia la izquierda; las orejas están erguidas con naturalidad; los ojos negros, profundos y húmedos tienen un reflejo diminuto. El tercio superior deja un cielo azul cobalto puro y sin nubes. Pelaje con un recoloreo surrealista y detallado, predominantemente rojo ladrillo intenso y rojo coral, con grandes manchas irregulares de color blanco rosáceo desde el puente de la nariz hasta el hocico, y pequeñas zonas de azul oscuro entre las manchas rojas y blancas de los hombros y el pecho. La larga crin se despliega hacia la izquierda impulsada por un fuerte viento que sopla desde la derecha, con hebras finas y largas superpuestas, pelos rojo brillante entrelazados con sombras rojo vino oscuro, cayendo parcialmente sobre el cuello. Pelo corto, fosas nasales, bigotes y músculos con detalles realistas. Iluminación lateral natural y brillante, zonas oscuras densas y estratificadas, fotografía nítida que congela el instante, ligero grano de película y tonos mate, con un aire editorial de moda salvaje, libre y vibrante. Sin arreos, personas, texto, logotipo ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1183,6 +1183,36 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098314775344394279"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2098314775344394279)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Grupo / Pareja · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097135361046839783)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098314775344394279-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098314775344394279-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098314775344394279-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098314775344394279-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097954772586557873"></a>
 
