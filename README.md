@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**64** Prompts · Latest addition: **2026-09-11**
+**66** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098277612053561383"></a>
+
+### Surreal art photography of a pink-white salt shore and ocean transitioning from coral red to deep blue.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2098277612053561383)
+
+Photography · Landscape / Nature · Published
+
+**Summary:** Surreal art photography of a pink-white salt shore and ocean transitioning from coral red to deep blue.
+
+<img src="images/2098277612053561383-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 3:4 vertical surreal color art photograph. An empty coast without people, with the upper quarter featuring a uniform grayish cobalt blue sky and an extremely thin light pink distant shore traversing the high horizon. A pinkish-white saline shore bank extends from the left down to the foreground, with coarse crystalline grains, loose gravel, and naturally eroded edges clearly visible, the shoreline forming a gentle, asymmetrical arc. The shallow waters near the shore are a rich coral red, vermilion, and pink, with several slender breaking ripples advancing diagonally toward the lower right, gradually transitioning into the deep Prussian blue sea on the right; the water has realistic transparency, fine ripples, and reflections, not resembling paint or lava. Sunny side-lighting, pinkish-white highlights that retain detail, clean large color blocks contrasted with authentic microscopic textures, delicate film grain, a matte print feel, quiet, unfamiliar, blazing yet cool. Full-bleed photograph, no text, borders, logos, or watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Red and blue contrasting surreal cactus botanical photography featuring flat coral red prickly pear pads and deep cobalt blue columnar cacti.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2098277762410942530)
+
+Photography · Published
+
+**Summary:** Red and blue contrasting surreal cactus botanical photography featuring flat coral red prickly pear pads and deep cobalt blue columnar cacti.
+
+<img src="images/2098277762410942530-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 3:4 vertical surreal botanical art photograph. A slightly muted, cloudless azure sky serves as the background, viewed from a low angle looking up at a cluster of real cacti growing cropped from the bottom edge. From the left to the center, three to five staggered oval flat prickly pear pads are arranged, with the tallest pad tilting slightly to the left; their skin is recolored in vibrant coral red and watermelon red, preserving the waxy matte texture, fine undulating wrinkles, and regular yet non-mechanical areoles. On the right stands a tall, deep cobalt blue columnar cactus featuring distinct vertical ribs, deep Prussian blue grooves, and vermilion star-shaped spines arranged along the rib edges. At the bottom, a few blue flat pads overlap with small red pads, forming distinct layers, leaving negative space for the sky on the upper left. Strong natural sunlight from the upper left illuminates the botanical volume and spines; vivid colors are anchored to convincing plant tissue. Sculptural, asymmetrical geometric composition, fine photographic textures, slight film grain, restrained matte finish, avoiding any plastic or 3D render look. No pots, flowers, text, logo, or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 

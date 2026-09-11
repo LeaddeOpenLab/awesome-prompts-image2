@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**64** Prompt · Bổ sung mới nhất: **2026-09-11**
+**66** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098277612053561383"></a>
+
+### Đang dịch
+
+Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277612053561383)
+
+Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098277612053561383-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Đang dịch
+
+Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277762410942530)
+
+Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098277762410942530-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1409,20 +1453,23 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098256551425319223"></a>
 
-### Đang dịch
+### Lời nhắc mang phong cách xướng niệm kỳ ảo triệu hồi thanh kiếm hai lưỡi chứa đựng sức mạnh vảy rồng và ánh chớp.
 
 Tác giả：[@0Narasan](https://x.com/0Narasan) · [Bài gốc](https://x.com/0Narasan/status/2098256551425319223)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mang phong cách xướng niệm kỳ ảo triệu hồi thanh kiếm hai lưỡi chứa đựng sức mạnh vảy rồng và ánh chớp.
 
 <img src="images/2098256551425319223-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+『Nơi tận cùng của hư không, hãy lắng nghe nhịp đập của rồng thiêng say ngủ. Chiếc sừng xuyên thủng bầu trời, nguồn ma lực thiêu rụi vạn vật hỡi.
+Lấy con dấu khế ước mà hạ lệnh.
+Hãy tụ lại nơi cánh tay phải của ta, một tay nhưng hai lưỡi, kẻ phán quyết tự do và tuyệt đối.
+Hãy ngự sự bảo hộ của vảy rồng vào lưỡi kiếm, biến tiếng gầm hủy diệt thành ánh chớp. Hãy đến và phán quyết đi——』
 ```
 
 [↑ Về danh mục](#catalog)

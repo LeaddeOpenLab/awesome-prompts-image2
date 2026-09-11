@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**64** Prompt · Ultima aggiunta: **2026-09-11**
+**66** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098277612053561383"></a>
+
+### Traduzione in corso
+
+Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277612053561383)
+
+Fotografia · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098277612053561383-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Traduzione in corso
+
+Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277762410942530)
+
+Fotografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098277762410942530-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1407,20 +1451,23 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098256551425319223"></a>
 
-### Traduzione in corso
+### Prompt in stile incantesimo fantasy per evocare una spada a doppio taglio che racchiude il potere delle scaglie di drago e del bagliore.
 
 Autore：[@0Narasan](https://x.com/0Narasan) · [Post originale](https://x.com/0Narasan/status/2098256551425319223)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt in stile incantesimo fantasy per evocare una spada a doppio taglio che racchiude il potere delle scaglie di drago e del bagliore.
 
 <img src="images/2098256551425319223-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+『Ai confini del vuoto, ascolta il battito del drago dormiente. Corno che squarcia i cieli, fonte di potere magico che brucia ogni cosa.
+Con il sigillo del patto, comando.
+Radunati sul mio braccio destro, a una mano ma a doppio taglio, libero e assoluto giustiziere.
+Accogli la protezione delle scaglie di drago nella lama, trasforma il ruggito della rovina in un bagliore. Vieni e giudica——』
 ```
 
 [↑ Torna alle categorie](#catalog)

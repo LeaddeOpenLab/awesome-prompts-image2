@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**64** Prompt · Son eklenen: **2026-09-11**
+**66** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098277612053561383"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277612053561383)
+
+Fotoğrafçılık · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098277612053561383-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277762410942530)
+
+Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098277762410942530-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1392,20 +1436,23 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098256551425319223"></a>
 
-### Çeviri sürüyor
+### Ejderha pullarının gücünü ve parıltısını barındıran çift ağızlı bir kılıcı çağırmak için fantezi ilahi tarzı istem.
 
 Yazar：[@0Narasan](https://x.com/0Narasan) · [Orijinal gönderi](https://x.com/0Narasan/status/2098256551425319223)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ejderha pullarının gücünü ve parıltısını barındıran çift ağızlı bir kılıcı çağırmak için fantezi ilahi tarzı istem.
 
 <img src="images/2098256551425319223-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+『Boşluğun kıyısında, uyuyan ejderhanın nabzını dinle. Göğü delen boynuz, her şeyi yakan büyü gücünün kaynağı.
+Sözleşmenin mührüyle emrediyorum.
+Sağ kolumda toplan, tek elli ama çift ağızlı, özgür ve mutlak infazcı.
+Ejderha pullarının korumasını kılıca yerleştir, yıkımın kükremesini bir parıltıya dönüştür. Gel ve hükmünü ver——』
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**64** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**66** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098277612053561383"></a>
+
+### Übersetzung läuft
+
+Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277612053561383)
+
+Fotografie · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098277612053561383-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Übersetzung läuft
+
+Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277762410942530)
+
+Fotografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098277762410942530-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1407,20 +1451,23 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098256551425319223"></a>
 
-### Übersetzung läuft
+### Prompt im Stil eines Fantasy-Gesangs zur Beschwörung eines zweischneidigen Schwertes, das die Macht von Drachenschuppen und Lichtblitzen in sich trägt.
 
 Autor：[@0Narasan](https://x.com/0Narasan) · [Originalbeitrag](https://x.com/0Narasan/status/2098256551425319223)
 
 Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt im Stil eines Fantasy-Gesangs zur Beschwörung eines zweischneidigen Schwertes, das die Macht von Drachenschuppen und Lichtblitzen in sich trägt.
 
 <img src="images/2098256551425319223-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+『Am Ende der Leere, lausche dem Pulsieren des schlafenden Drachen. Horn, das den Himmel durchstößt, Quelle magischer Kraft, die alles verbrennt.
+Mit dem Siegel des Paktes befehle ich.
+Versammle dich an meinem rechten Arm, einhändig und doch zweischneidig, freier und absoluter Vollstrecker.
+Bette den Schutz der Drachenschuppen in die Klinge ein, verwandle das Gebrüll des Verderbens in ein Aufblitzen. Komm und richte——』
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

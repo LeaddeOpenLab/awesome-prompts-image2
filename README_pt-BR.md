@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**64** Prompts · Última adição: **2026-09-11**
+**66** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098277612053561383"></a>
+
+### Tradução em andamento
+
+Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277612053561383)
+
+Fotografia · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098277612053561383-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Tradução em andamento
+
+Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277762410942530)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098277762410942530-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1392,20 +1436,23 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098256551425319223"></a>
 
-### Tradução em andamento
+### Prompt no estilo encantamento de fantasia para invocar uma espada de lâmina dupla imbuída com o poder das escamas de dragão e do lampejo.
 
 Autor：[@0Narasan](https://x.com/0Narasan) · [Publicação original](https://x.com/0Narasan/status/2098256551425319223)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt no estilo encantamento de fantasia para invocar uma espada de lâmina dupla imbuída com o poder das escamas de dragão e do lampejo.
 
 <img src="images/2098256551425319223-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+『Nos confins do vazio, ouça o pulsar do dragão adormecido. Chifre que perfura os céus, fonte de poder mágico que queima todas as coisas.
+Pelo selo do pacto, eu ordeno.
+Reúna-se em meu braço direito, de uma mão mas com lâmina dupla, executor livre e absoluto.
+Abrigue a proteção das escamas de dragão na lâmina, transforme o rugido da ruína em um lampejo. Venha e julgue——』
 ```
 
 [↑ Voltar às categorias](#catalog)

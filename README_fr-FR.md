@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**64** Prompts · Dernier ajout: **2026-09-11**
+**66** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098277612053561383"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277612053561383)
+
+Photographie · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098277612053561383-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098277762410942530"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277762410942530)
+
+Photographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098277762410942530-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097886029692969195"></a>
 
@@ -1407,20 +1451,23 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098256551425319223"></a>
 
-### Traduction en cours
+### Prompt d'incantation fantastique pour invoquer une épée à double tranchant imprégnée du pouvoir des écailles de dragon et d'éclats de lumière.
 
 Auteur：[@0Narasan](https://x.com/0Narasan) · [Publication originale](https://x.com/0Narasan/status/2098256551425319223)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'incantation fantastique pour invoquer une épée à double tranchant imprégnée du pouvoir des écailles de dragon et d'éclats de lumière.
 
 <img src="images/2098256551425319223-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+『Aux confins du vide, écoute les pulsations du dragon endormi. Corne perçant les cieux, source de puissance magique brûlant toute chose.
+Par le sceau du pacte, j'ordonne.
+Assemble-toi sur mon bras droit, à une main mais à double tranchant, exécuteur libre et absolu.
+Insuffle la protection des écailles de dragon dans la lame, transforme le rugissement de la ruine en éclat de lumière. Viens et juge——』
 ```
 
 [↑ Retour aux catégories](#catalog)
