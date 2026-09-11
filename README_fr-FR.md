@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**62** Prompts · Dernier ajout: **2026-09-10**
+**63** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1098,13 +1098,13 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 <a name="prompt-2097954772586557873"></a>
 
-### Traduction en cours
+### Prompt de portrait rétro des années 1980 utilisant l'identité de référence avec une esthétique de film argentique 35 mm, une mode vintage et une lueur ambiante de néon.
 
 Auteur：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publication originale](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait rétro des années 1980 utilisant l'identité de référence avec une esthétique de film argentique 35 mm, une mode vintage et une lueur ambiante de néon.
 
 <img src="images/2097954772586557873-1.jpg" alt="Image 1" width="480" />
 
@@ -1117,7 +1117,13 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un authentique portrait rétro-vintage des années 1980 au format vertical 4:5, en utilisant la personne fournie comme référence faciale exacte. Préservez son identité, sa structure faciale, ses traits reconnaissables, son teint de peau et son expression naturelle avec une grande précision — n'altérez pas et n'embellissez pas le visage.
+
+Donnez au sujet une coiffure classique des années 1980 et une tenue élégante et fidèle à l'époque, avec des silhouettes audacieuses, des textures authentiques et une attitude vintage décontractée. Composez le portrait naturellement avec une forte dimension éditoriale, en maintenant le sujet comme point focal évident.
+
+Capturez l'image comme si elle avait été prise avec un appareil photo argentique 35 mm, avec un grain de film réaliste, de subtiles poussières et textures, une douce délicatesse, des détails de peau naturels, une légère décoloration et d'authentiques imperfections argentiques. Utilisez un étalonnage des couleurs chaleureux et nostalgique, de doux reflets néon, une lueur ambiante subtile et un flash direct intégré à l'appareil pour créer le look distinctif d'une photographie emblématique des années 1980.
+
+Conservez un éclairage cinématographique tout en restant crédible, avec des ombres douces, des reflets réalistes, un contraste naturel et une exposition argentique légèrement imparfaite. L'image finale doit donner l'impression d'avoir été véritablement photographiée dans les années 1980 — non pas recréée numériquement —, avec une atmosphère intemporelle, nostalgique, élégante et naturellement cool.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1398,6 +1404,38 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098277846250922232"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098277846250922232-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Image 5" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 

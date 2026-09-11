@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**62** Prompts · Latest addition: **2026-09-10**
+**63** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1341,6 +1341,38 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098277846250922232"></a>
+
+### Boyfriend-perspective iPhone tennis daily snapshots, young girl in simple tennis wear
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Portrait / Selfie · Character · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Summary:** Boyfriend-perspective iPhone tennis daily snapshots, young girl in simple tennis wear
+
+<img src="images/2098277846250922232-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+Like a casual tennis daily photo taken by a boyfriend on an iPhone: a young adult girl wearing a simple tennis outfit and sneakers; randomly capturing her different movements, spontaneous in-the-moment happenings, and varying shooting distances each time, like an authentic, candid photo casually taken while spending time together.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 

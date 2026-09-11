@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**62** Prompt · Son eklenen: **2026-09-10**
+**63** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1083,13 +1083,13 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 <a name="prompt-2097954772586557873"></a>
 
-### Çeviri sürüyor
+### 35 mm analog film estetiği, vintage moda ve neon ortam ışıltısı ile referans kimliği kullanan 1980'ler retro portre istemi.
 
 Yazar：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Orijinal gönderi](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 35 mm analog film estetiği, vintage moda ve neon ortam ışıltısı ile referans kimliği kullanan 1980'ler retro portre istemi.
 
 <img src="images/2097954772586557873-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1102,7 +1102,13 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sağlanan kişiyi birebir yüz referansı olarak kullanarak 4:5 dikey en-boy oranında otantik bir 1980'ler retro-vintage portresi oluşturun. Kişinin kimliğini, yüz yapısını, ayırt edici hatlarını, ten rengini ve doğal ifadesini yüksek doğrulukla koruyun; yüzü değiştirmeyin veya güzelleştirmeyin.
+
+Kişiye klasik bir 1980'ler saç modeli ile cesur silüetlere, otantik dokulara ve zahmetsiz bir vintage tavra sahip, döneme uygun şık kıyafetler verin. Portreyi güçlü bir editoryal hisle, kişiyi net bir odak noktası olarak tutarak doğal bir şekilde oluşturun.
+
+Görüntüyü gerçekçi film greni, hafif toz ve doku, nazik bir yumuşaklık, doğal cilt detayları, hafif renk solması ve otantik analog kusurlarla 35 mm analog bir film kamerasıyla çekilmiş gibi yakalayın. İkonik bir 1980'ler fotoğrafının belirgin görünümünü oluşturmak için sıcak ve nostaljik bir renk derecelendirmesi, yumuşak neon vurguları, ince bir ortam ışıltısı ve doğrudan makine üstü flaş kullanın.
+
+Aydınlatmayı yumuşak gölgeler, gerçekçi parlak alanlar, doğal kontrast ve hafif kusurlu bir film pozlamasıyla sinematik ancak inandırıcı tutun. Ortaya çıkan nihai görüntü, zamansız, nostaljik, modaya uygun ve zahmetsizce havalı bir atmosferle dijital olarak yeniden üretilmiş değil, gerçekten 1980'lerde fotoğraflanmış gibi hissettirmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1383,6 +1389,38 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098277846250922232"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098277846250922232-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 

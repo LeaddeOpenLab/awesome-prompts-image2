@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**62** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**63** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1098,13 +1098,13 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 <a name="prompt-2097954772586557873"></a>
 
-### Übersetzung läuft
+### 1980er-Jahre-Retro-Porträt-Prompt unter Verwendung der Referenzidentität mit 35mm-Analogfilm-Ästhetik, Vintage-Mode und Neon-Umgebungsleuchten.
 
 Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Originalbeitrag](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 1980er-Jahre-Retro-Porträt-Prompt unter Verwendung der Referenzidentität mit 35mm-Analogfilm-Ästhetik, Vintage-Mode und Neon-Umgebungsleuchten.
 
 <img src="images/2097954772586557873-1.jpg" alt="Bild 1" width="480" />
 
@@ -1117,7 +1117,13 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentl
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein authentisches Retro-Vintage-Porträt im Stil der 1980er Jahre in einem vertikalen Seitenverhältnis von 4:5, wobei die bereitgestellte Person als exakte Gesichtsreferenz dient. Bewahre ihre Identität, Gesichtsstruktur, erkennbaren Merkmale, den Hautton und den natürlichen Ausdruck mit hoher Genauigkeit – das Gesicht darf nicht verändert oder verschönert werden.
+
+Verleihe der Person eine klassische 1980er-Jahre-Frisur und stilvolle, zeitgenössisch akkurate Mode mit markanten Silhouetten, authentischen Texturen und einer mühelosen Vintage-Attitüde. Gestalte das Porträt natürlich mit einem starken redaktionellen Flair und halte die Person als klaren Fokus.
+
+Nimm das Bild so auf, als wäre es mit einer analogen 35mm-Filmkamera aufgenommen worden, mit realistischem Filmkorn, subtilem Staub und Textur, sanfter Weichheit, natürlichen Hautdetails, leichtem Verblassen der Farben und authentischen analogen Unvollkommenheiten. Verwende ein warmes, nostalgisches Color Grading, sanfte Neon-Highlights, ein dezentes Umgebungsleuchten und einen direkten Kamerablitz, um den unverwechselbaren Look einer ikonischen Fotografie der 1980er Jahre zu erzeugen.
+
+Halte die Beleuchtung filmisch und dennoch glaubwürdig, mit weichen Schatten, realistischen Highlights, natürlichem Kontrast und einer leicht unvollkommenen Filmbelichtung. Das endgültige Bild sollte sich echt wie in den 1980er Jahren fotografiert anfühlen – nicht digital nachgebildet, mit einer zeitlosen, nostalgischen, modischen und mühelos coolen Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1398,6 +1404,38 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098277846250922232"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098277846250922232-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 

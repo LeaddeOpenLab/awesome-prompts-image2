@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**62** Prompt · Bổ sung mới nhất: **2026-09-10**
+**63** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1122,13 +1122,13 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 <a name="prompt-2097954772586557873"></a>
 
-### Đang dịch
+### Lời nhắc chân dung retro thập niên 1980 sử dụng nhận dạng tham chiếu với thẩm mỹ phim analog 35mm, thời trang vintage và ánh sáng neon môi trường.
 
 Tác giả：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Bài gốc](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung retro thập niên 1980 sử dụng nhận dạng tham chiếu với thẩm mỹ phim analog 35mm, thời trang vintage và ánh sáng neon môi trường.
 
 <img src="images/2097954772586557873-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1141,7 +1141,13 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung cổ điển retro thập niên 1980 đích thực với tỷ lệ khung hình dọc 4:5, sử dụng người được cung cấp làm hình ảnh tham chiếu khuôn mặt chính xác. Giữ nguyên nhận dạng, cấu trúc khuôn mặt, các đặc điểm dễ nhận biết, tông màu da và biểu cảm tự nhiên của họ với độ chính xác cao—không thay đổi hoặc làm đẹp khuôn mặt.
+
+Cho chủ thể mang kiểu tóc cổ điển của thập niên 1980 và thời trang phong cách, đúng chuẩn thời kỳ đó với phom dáng táo bạo, chất liệu vải chân thực cùng phong thái vintage đầy tự nhiên. Bố cục bức chân dung tự nhiên với cảm giác biên tập thời trang mạnh mẽ, giữ cho chủ thể là tâm điểm rõ ràng.
+
+Chụp bức ảnh như thể được chụp bằng máy ảnh phim analog 35mm, với hạt phim chân thực, một chút bụi và vân phim mờ nhạt, độ mềm mại nhẹ nhàng, chi tiết da tự nhiên, màu sắc hơi phai và các khuyết điểm analog nguyên bản. Sử dụng tông màu hoài cổ ấm áp, điểm sáng neon dịu nhẹ, ánh sáng môi trường le lói tinh tế và đèn flash trực tiếp từ máy ảnh để tạo nên diện mạo đặc trưng của một bức ảnh mang tính biểu tượng của thập niên 1980.
+
+Giữ ánh sáng mang tính điện ảnh nhưng vẫn chân thực, với bóng đổ mềm mại, điểm sáng thực tế, độ tương phản tự nhiên và độ phơi sáng phim có phần không hoàn hảo nhẹ. Hình ảnh cuối cùng phải mang lại cảm giác được chụp thực sự vào những năm 1980—chứ không phải được tái tạo kỹ thuật số, với bầu không khí vượt thời gian, hoài niệm, thời thượng và cực kỳ ngầu một cách tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1400,6 +1406,38 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098277846250922232"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098277846250922232-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Hình ảnh 5" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**62** Prompts · Última adição: **2026-09-10**
+**63** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1083,13 +1083,13 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 
 <a name="prompt-2097954772586557873"></a>
 
-### Tradução em andamento
+### Prompt de retrato retrô dos anos 1980 usando identidade de referência com estética de filme analógico de 35 mm, moda vintage e brilho ambiente neon.
 
 Autor：[@Goodmanprotocol](https://x.com/Goodmanprotocol) · [Publicação original](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
 Fotografia · Retrô / Vintage · Retrato / Selfie · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato retrô dos anos 1980 usando identidade de referência com estética de filme analógico de 35 mm, moda vintage e brilho ambiente neon.
 
 <img src="images/2097954772586557873-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1102,7 +1102,13 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um autêntico retrato retrô-vintage dos anos 1980 na proporção vertical de 4:5, utilizando a pessoa fornecida como referência facial exata. Preserve sua identidade, estrutura facial, traços reconhecíveis, tom de pele e expressão natural com alta precisão — não altere nem embeleze o rosto.
+
+Dê ao indivíduo um penteado clássico dos anos 1980 e roupas estilosas e fiéis à época, com silhuetas ousadas, texturas autênticas e uma atitude vintage natural. Componha o retrato de forma natural com uma forte pegada editorial, mantendo a pessoa como o ponto focal claro.
+
+Capture a imagem como se tivesse sido tirada em uma câmera de filme analógico de 35 mm, com granulação de filme realista, poeira e textura sutis, suavidade delicada, detalhes naturais da pele, leve desbotamento de cores e imperfeições analógicas autênticas. Use uma gradação de cores quente e nostálgica, realces suaves de neon, brilho ambiente sutil e flash direto da câmera para criar o visual característico de uma fotografia icônica dos anos 1980.
+
+Mantenha a iluminação cinematográfica, porém crível, com sombras suaves, realces realistas, contraste natural e uma exposição de filme ligeiramente imperfeita. A imagem final deve parecer genuinamente fotografada nos anos 1980 — não recriada digitalmente —, com uma atmosfera atemporal, nostálgica, moderna e naturalmente estilosa.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1383,6 +1389,38 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098277846250922232"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098277846250922232)
+
+Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2096132813120807024)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098277846250922232-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098277846250922232-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098277846250922232-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098277846250922232-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098277846250922232-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097797456117539136"></a>
 
