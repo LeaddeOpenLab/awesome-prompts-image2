@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**71** Prompts · Latest addition: **2026-09-11**
+**72** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1983,6 +1983,72 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098369223244628234"></a>
+
+### A sequential generation prompt depicting a Japanese woman executing a sequence of actions from receiving a pass to finishing a dunk in a poolside resort 3x3 basketball game across a 4-part narrative structure \(introduction, development, climax, conclusion\).
+
+Author：[@splash\_GL](https://x.com/splash_GL) · [Source](https://x.com/splash_GL/status/2098369223244628234)
+
+Character · Published
+
+**Summary:** A sequential generation prompt depicting a Japanese woman executing a sequence of actions from receiving a pass to finishing a dunk in a poolside resort 3x3 basketball game across a 4-part narrative structure \(introduction, development, climax, conclusion\).
+
+<img src="images/2098369223244628234-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098369223244628234-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098369223244628234-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098369223244628234-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+[Output]
+Create a series of 4 independent photo portraits in [9:16] aspect ratio.
+Generate completely separate, individual image files rather than a collage, contact sheet, split screen, or merged single canvas. Each image must feature the identical adult woman, the exact same outfit, accessories, court, lighting conditions, and photographic style.
+
+• Common Settings (COMMON LOCK)
+{Story}
+Morning, on a poolside 3x3 basketball court at a resort hotel. A distinctly adult Japanese gyaru woman in her early 20s participates in an intense game as part of a 3-person team. Depicting a 4-part progression (Introduction, Development, Twist/Climax, Conclusion): receiving a pass from a teammate, finding space, maneuvering past a defender, accelerating into the paint area, stepping into a powerful takeoff, and finishing with a one-handed dunk shot. The primary focus is not merely the subject's appearance, but the continuous physical movement—rapidly shifting court distances unique to a narrow 3x3 half-court, ball trajectory, footwork, weight shifting, the sense of rising ascent in the jump, cloth and hair inertia, through to the landing.
+{Subject Appearance}:
+The central figure is an unmistakably adult Japanese gyaru woman in her early 20s. A tall, hourglass-shaped slim build. Long legs, a slender waist, wide pelvis characteristic of an adult female, and slender limbs, contrasted with bell-shaped, extremely voluminous breasts where weight gathers at the bottom, naturally drooping significantly with gravity, each appearing far larger than a basketball. This extreme body proportion must be strictly locked as the highest priority and must not be normalized, reduced in size, or rendered unnaturally spherical during athletic movement. Maintain an anatomically natural connection to the rib cage, shoulders, back, and waist.
+The facial features are distinct, authentic Japanese characteristics leaning below average rather than idealized beauty. Small monolid to shallow double-eyelid eyes, slightly spaced eye stance, a low nasal bridge, a petite nose tip, a wide mouth, and a naturally asymmetrical facial outline. Healthy light-beige skin. Gyaru-style makeup using thin eyeliner, understated mascara, beige-tone lipstick, and natural blush. Platinum-silver short straight hair, blunt heavy bangs cut horizontally near the eyebrows, with short ends extending from below the ears to the nape of the neck. Only the tips of the hair move with a slight delay relative to the body due to running, taking off, and jumping.
+{Outfit}:
+Pink-based resort swimwear. Fabric designed with sufficient front-panel width and three-dimensional tailoring to comfortably cover the exceptionally large bust, visibly protruding forward over the chest. The neckline, armholes, sides, and high-cut leg openings are fully opaque, ensuring neither breasts nor undergarments are exposed even during vigorous motion. Black-and-white high-grip basketball shoes. Small silver hoop earrings only. Bags, smartphones, and unnecessary accessories are kept off-court and omitted from the frame.
+{Location}:
+An outdoor 3x3 half-court adjacent to a resort hotel poolside. Blue-gray elastic court surfacing, white 3-point lines and paint area, transparent backboard, orange rim, black support pole, and a resort swimming pool with swimming guests in the distance. The hotel's exterior wall is visible in the background, with only required teammates and opponents partially visible at the edges of the frame. The court surface shows only faint scuff marks from shoes during play. No stray basketballs, drinks, bags, or decorative items. Realistic scale proportions are maintained between the rim height, backboard, court lines, and the subject's height.
+{Lighting & Photography}:
+Low natural morning sunlight casts from the side of the court, stretching long shadows of the players and the basket pole across the ground surface. Weak reflected light from the hotel's exterior walls fills the shadow side. The face and attire are not flatly or evenly lit; the contrast between highlights and shadows is naturally preserved.
+The photographer is a friend shooting from outside the sideline. Following the sequence toward the baseline alongside the dunk movement, tracking from an angle that does not obstruct the player's path. In jumping scenes, the camera is positioned low to capture both the rim and the subject's upward ascent within the same frame. Dynamic perspective without excessive wide-angle distortion.
+FUJIFILM CLASSIC Neg.-inspired rendering, soft natural skin tones, gently saturated colors.
+{Consistency}:
+Strictly maintain the identical face, hair, skin, specified body shape, outfit, shoes, and accessories across all 4 images. Prioritizing the specified body proportions above all else, while naturally aligning gravity, inertia, fabric tension, and anatomical structures.
+
+image_1 [Introduction]:
+Right after catching a fast pass from a teammate near the right wing. The subject is positioned slightly right of center, body angled toward the hoop, stepping forward with her left foot, securing the ball with both hands held below chest level. Her face is turned toward the rim, checking the defender and the open lane with small, focused eyes. Her right elbow is naturally bent, and her left hand supports the side of the ball. Her upper body maintains posture, centering her gravity to transition instantly into acceleration. The front panel of the swimwear projects forward over her chest; one defender stands roughly 1.5m in front, and one teammate moves along the opposite perimeter. Medium-full shot. The camera is stationed outside the sideline, slightly angled upward from waist height, leaving the path toward the hoop visible in the deep background.
+
+image_2 [Development]:
+The moment of powerful acceleration into the paint area after driving past the outside of the defender. The subject takes a single, heavy dribble with her right hand, pushing off the floor with her right foot while extending her left leg forward. Her face faces the rim, eyes locked on the forward path. Her left arm swings diagonally backward for running balance. The ball is in transit back up toward her right hand from the floor, aligning precisely with the body's forward direction. Natural inertia and delay from acceleration affect her chest and hair. The defender begins falling behind her back. Full-body shot. The camera is positioned at the photographer's knee-to-waist height after shifting toward the baseline, capturing a low diagonal front angle that frames the foot kicking the floor, the ball, and the hoop all in the same shot.
+
+image_3 [Twist/Climax]:
+The instant of taking off on the final step right before the basket, rising high into the air toward a one-handed dunk. The subject kicks off strongly from the floor with her left leg, driving her right knee forward and upward, holding the basketball high overhead with her right arm. Her left arm extends outward to the side to stabilize her aerial posture. Her face is directed at the rim, her gaze fixed onto the center of the rim. Her body is completely off the floor, clearly showing her long legs and upward jump trajectory. Her bust exhibits lag due to gravity and inertia relative to the rising torso. Dynamic full-body shot. The camera angles sharply upward from knee height outside the baseline, visually chaining the ball, extended arm, rim, and transparent backboard vertically, highlighting the jump height and upward path.
+
+image_4 [Conclusion]:
+Immediately after the dunk is executed, forcefully hammering the ball through from directly above the rim with her right hand. The ball begins passing downward through the net as her right hand pulls away from the rim. The subject transitions into descent, naturally flexing her knees to prepare for landing. Her left arm is spread to the side of her body, and her gaze begins turning downward to locate her landing spot on the court. Residual inertia from the shift between ascent and descent remains in her hair and chest, with the fabric hem beginning to fall a beat behind. In the background, a teammate already turns to run back on defense, while an opponent under the basket tracks the ball. Full-body shot. Shot from a low, diagonal side angle outside the baseline, presenting the ball passing through the net, the descending body, and the court landing spot in a continuous flow.
+
+Output 4 individual image files. Do not combine them into a single page.
+Ensure the changes (deltas) for each image are independent and function as complete, standalone instructions. Even when the model processes prompts individually, do not abbreviate with phrases like "same as above" or "likewise"; fully apply the COMMON LOCK subject identity, body proportions, clothing, court, and shooting conditions to each image.
+
+{Output Constraints}:
+Lock the specified body shape across all 4 images, expressing dynamic athletic motion through posture, gravity, inertia, and fabric tension rather than altering the body proportions themselves. Ensure continuity in rim height, jump trajectory, takeoff position, and relative ball position. Always feature exactly one basketball of standard official regulation size. Avoid deformities in fingers, wrists, elbows, knees, ankles, ears, garments, net, rim, backboard, or court lines. Prioritize dynamic fluidity linking acceleration, takeoff, ascent, dunk, and descent. Eliminate distortions, blurring, extra limbs, duplicate balls, melting, excessive post-processing, artificial CG aesthetics, and AI-typical ornamentation. Do not include text, jersey numbers, team names, brand logos, watermarks, or UI elements.
+Negative prompt: collage, grid, 2x2 grid, split screen, four panel, contact sheet, multi-panel, layout, comic panel, one canvas, combined image, duplicate basketball, extra ball, extra limbs, extra fingers, fused fingers, malformed hands, distorted anatomy, floating limbs, rigid pose, static pose, artificial spherical breasts, reduced bust size, inconsistent body proportions, detached anatomy, exposed underwear, transparent clothing, readable text, logo, watermark, UI.
 ```
 
 [↑ Back to categories](#catalog)

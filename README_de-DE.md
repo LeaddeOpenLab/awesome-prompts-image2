@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**71** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**72** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -2029,6 +2029,34 @@ Charakter · Veröffentlicht
 
 ```text
 Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Belichtungsverhältnis, die Lichtrichtung, die Textur der Kleidung und den Kompositionsrhythmus bei; entwirf die Figur und das thematische Farbschema neu. Die Person ist ein Erwachsener; kopiere nicht das Gesicht der Referenzperson. Nach der Generierung im Vergleich zum Originalbild prüfen: Wurde eigenmächtig die Beleuchtung verändert, die Kleidung dicker gemacht oder die Haut übermäßig glatt retuschiert?
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098369223244628234"></a>
+
+### Übersetzung läuft
+
+Autor：[@splash\_GL](https://x.com/splash_GL) · [Originalbeitrag](https://x.com/splash_GL/status/2098369223244628234)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098369223244628234-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098369223244628234-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098369223244628234-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098369223244628234-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

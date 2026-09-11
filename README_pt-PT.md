@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**71** Prompts · Adição mais recente: **2026-09-11**
+**72** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -2014,6 +2014,34 @@ Personagem · Publicado
 
 ```text
 Use a imagem em anexo como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo da composição; redesenhe a personagem e a paleta de cores temática. A personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, a roupa ficou mais grossa ou a pele foi excessivamente suavizada?
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098369223244628234"></a>
+
+### Tradução em curso
+
+Autor：[@splash\_GL](https://x.com/splash_GL) · [Publicação original](https://x.com/splash_GL/status/2098369223244628234)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098369223244628234-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098369223244628234-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098369223244628234-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098369223244628234-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

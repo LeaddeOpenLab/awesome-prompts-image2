@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**71** Prompts · Última incorporación: **2026-09-11**
+**72** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -2029,6 +2029,34 @@ Personaje · Publicado
 
 ```text
 Usa la imagen adjunta como referencia del esquema fotográfico. Mantén su relación de exposición, dirección de la luz, textura de las telas y ritmo de composición; rediseña el personaje y la paleta de colores temática. El personaje debe ser un adulto, sin copiar el rostro de la persona de referencia. Tras la generación, compárala con la imagen original para verificar: ¿se cambió arbitrariamente la iluminación, se hizo la ropa más gruesa o se suavizó la piel en exceso?
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098369223244628234"></a>
+
+### Traducción en curso
+
+Autor：[@splash\_GL](https://x.com/splash_GL) · [Publicación original](https://x.com/splash_GL/status/2098369223244628234)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098369223244628234-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098369223244628234-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098369223244628234-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098369223244628234-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

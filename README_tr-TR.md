@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**71** Prompt · Son eklenen: **2026-09-11**
+**72** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -2014,6 +2014,34 @@ Karakter · Yayımlandı
 
 ```text
 Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisini, ışık yönünü, kumaş dokusunu ve kompozisyon ritmini koruyun; karakteri ve tematik renk paletini yeniden tasarlayın. Karakter bir yetişkin olmalı, referanstaki kişinin yüzü kopyalanmamalıdır. Üretimden sonra orijinal görselle karşılaştırarak kontrol edin: Işıklandırma izinsiz olarak değiştirildi mi, giysiler kalınlaştırıldı mı veya cilt aşırı derecede pürüzsüzleştirildi mi?
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098369223244628234"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@splash\_GL](https://x.com/splash_GL) · [Orijinal gönderi](https://x.com/splash_GL/status/2098369223244628234)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098369223244628234-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098369223244628234-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098369223244628234-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098369223244628234-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
