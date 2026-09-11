@@ -1549,7 +1549,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098400287262470292"></a>
 
-### Traducción en curso
+### Guion técnico publicitario de 10 segundos para auriculares inalámbricos de alta gama, que muestra a una profesional urbana moderna probándose y usando el producto en un entorno de oficina.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1557,14 +1557,50 @@ Cómic / Guion gráfico · Marketing de producto · Personaje · Producto · Pai
 
 Publicación original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Resumen:** Traducción en curso
+**Resumen:** Guion técnico publicitario de 10 segundos para auriculares inalámbricos de alta gama, que muestra a una profesional urbana moderna probándose y usando el producto en un entorno de oficina.
 
 <img src="covers/2098400287262470292.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza los auriculares inalámbricos Bluetooth y el estuche de carga AEROX ONE de la imagen de referencia como única referencia de producto. Mantén de forma estricta e idéntica la forma, las proporciones, el metal gris plateado y los materiales blancos esmerilados de los auriculares, los contornos redondeados del estuche de carga, la tipografía de la marca, las posiciones de los orificios y las relaciones estructurales; no rediseñes, no deformes y no muestres productos redundantes.
+
+Produce un comercial publicitario de 10 segundos para una marca de electrónica de consumo de alta gama, incorporando a una joven mujer asiática como protagonista de estilo de vida urbano. La protagonista tiene una presencia limpia, pulcra y sobria, viste una camisa blanca minimalista o un saco sastre gris claro, con maquillaje natural y textura de piel realista, encarnando el temperamento de una profesional urbana moderna en general. El personaje solo sirve para expresar el estilo de vida y la atmósfera; el producto sigue siendo siempre el núcleo visual.
+
+0-2 segundos:
+Espacio de oficina moderno por la mañana, con luz natural entrando por ventanales de piso a techo. La protagonista camina hacia su escritorio, dejando su teléfono y un bolso de piel. La toma corta rápidamente al estuche de carga AEROX ONE sobre el escritorio; la tapa se abre con precisión y ambos auriculares aparecen con claridad. El ritmo de la cámara es limpio y directo, mostrando el producto desde el primer segundo.
+
+2-4 segundos:
+La protagonista toma un auricular y se lo coloca en el oído, con un movimiento natural, elegante y sin exageraciones. La toma cambia a un primer plano del auricular, con reflejos blancos fríos en el borde metálico; el auricular encaja de forma natural en el oído, destacando la sofisticación del producto una vez puesto. El fondo muestra un entorno de oficina desenfocado.
+
+4-6 segundos:
+La protagonista camina por un pasillo de oficina moderna o cafetería llevando los auriculares puestos; la cámara realiza un paneo de seguimiento lateral suave. Su actitud es concentrada, relajada y en control. En la imagen, el auricular debe permanecer claramente visible, sin quedar totalmente cubierto por el cabello. La atmósfera general enfatiza el traslado urbano, la sensación de eficiencia y el estilo de vida.
+
+6-8 segundos:
+Corte a ella sentada junto a la ventana usando una laptop, con una mano tocando suavemente el auricular, como si cambiara de modo o respondiera una llamada. La toma avanza ligeramente hacia adelante, la ciudad al fondo queda desenfocada, y el producto junto con la actitud del personaje crean una sensación publicitaria de lifestyle de alta gama.
+
+8-10 segundos:
+Corte rápido de vuelta a una toma hero shot exclusiva del producto. Los auriculares y el estuche de carga AEROX ONE reposan sobre un escritorio gris plateado minimalista, con un fondo suavemente desenfocado y la protagonista fuera de foco a lo lejos como ambiente contextual. La cámara desacelera gradualmente y se detiene; los auriculares y el estuche de carga se convierten en el único sujeto nítido en pantalla, formando el cierre de un anuncio de marca de electrónica de consumo de gama alta.
+
+Estilo general:
+De alta gama, moderno, tecnológico, urbano, sobrio, auténtico, como una campaña de una marca internacional de electrónica de consumo.
+La imagen debe tener una textura de fotografía comercial real, lentes ópticos reales, perspectiva precisa, bordes de producto nítidos y materiales de metal gris plateado y blanco esmerilado auténticos y naturales.
+El ritmo debe presentar variaciones claras, evitando la cámara lenta durante todo el video.
+Los movimientos del personaje deben ser naturales, evitando poses forzadas, sonrisas excesivas y expresiones exageradas.
+
+Requisitos clave:
+La apariencia del producto debe ser consistente.
+La estructura de los auriculares en el oído del personaje debe ser normal y de proporción realista.
+El cabello de la protagonista no debe cubrir los auriculares.
+No agregar un segundo set de auriculares.
+Sin deformación del producto.
+Sin efectos especiales de ciencia ficción exagerados.
+Sin estética ciberpunk ni neón.
+Sin bloques grandes de subtítulos.
+Sin manos deformes.
+El personaje no debe opacar el protagonismo del producto.
+Sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

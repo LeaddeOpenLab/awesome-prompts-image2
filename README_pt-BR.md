@@ -1534,7 +1534,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098400287262470292"></a>
 
-### Tradução em andamento
+### Prompt de roteiro/storyboard de anúncio comercial de 10 segundos para fones de ouvido sem fio topo de linha, retratando uma mulher profissional urbana moderna usando o produto em ambiente corporativo.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1542,14 +1542,50 @@ Quadrinhos / Storyboard · Marketing de Produto · Personagem · Produto · Pais
 
 Publicação original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de roteiro/storyboard de anúncio comercial de 10 segundos para fones de ouvido sem fio topo de linha, retratando uma mulher profissional urbana moderna usando o produto em ambiente corporativo.
 
 <img src="covers/2098400287262470292.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Utilize os fones de ouvido sem fio Bluetooth e o estojo de carregamento AEROX ONE da imagem de referência como a única referência de produto. Mantenha de forma estrita e idêntica o formato dos fones, as proporções, o metal cinza-prateado e os materiais em branco fosco, os contornos arredondados do estojo de carregamento, a tipografia da marca, a posição das aberturas e as relações estruturais; não redesenhe, não deforme e não inclua produtos extras.
+
+Produza um comercial publicitário de 10 segundos para uma marca de eletrônicos de consumo topo de linha, introduzindo uma jovem mulher asiática como protagonista de estilo de vida urbano. A protagonista possui uma presença limpa, elegante e comedida, vestindo uma camisa branca minimalista ou um blazer cinza-claro, com maquiagem natural, textura de pele realista, transmitindo no geral a atitude de uma mulher profissional urbana contemporânea. A personagem atua apenas na expressão do estilo de vida e do ambiente; o produto permanece sempre como o núcleo visual.
+
+0-2 segundos:
+Espaço de escritório moderno logo pela manhã, com luz natural entrando através de janelas do chão ao teto. A protagonista caminha até a mesa e pousa o celular e uma bolsa de couro. A câmera corta rapidamente para o estojo de carregamento AEROX ONE sobre a mesa; a tampa se abre de forma precisa, revelando nitidamente os dois fones. O ritmo do plano é limpo e direto, exibindo o produto logo no primeiro segundo.
+
+2-4 segundos:
+A protagonista pega um fone e o coloca no ouvido, com um movimento natural, refinado e sem exageros. A câmera corta para um close-up do fone, exibindo reflexos brancos frios na borda metálica; o fone se ajusta com naturalidade à orelha, destacando a sofisticação do produto em uso. O fundo exibe o ambiente de escritório desfocado.
+
+4-6 segundos:
+A protagonista caminha pelo corredor de um escritório moderno ou de uma cafeteria usando os fones de ouvido; a câmera realiza um movimento de acompanhamento lateral suave. Sua atitude é focada, tranquila e confiante. No enquadramento, o fone deve permanecer claramente visível, sem ser totalmente encoberto pelo cabelo. O tom geral enfatiza a rotina urbana, a eficiência e o estilo de vida.
+
+6-8 segundos:
+Corte para ela sentada perto da janela usando um laptop, tocando suavemente no fone com uma mão, como se alternasse modos ou atendesse a uma ligação. A câmera se aproxima suavemente, a paisagem urbana ao fundo fica desfocada, e a relação entre o produto e a personagem evoca uma atmosfera requintada de anúncio de lifestyle.
+
+8-10 segundos:
+Corte rápido de volta para um hero shot focado exclusivamente no produto. Os fones de ouvido e o estojo de carregamento AEROX ONE repousam sobre uma mesa minimalista cinza-prateada, com o fundo suavemente desfocado e a protagonista ao longe fora de foco, compondo a atmosfera. A câmera desacelera gradualmente até parar; os fones e o estojo de carregamento tornam-se o único objeto em foco nítido na tela, finalizando o anúncio de marca de eletrônicos de luxo.
+
+Estilo geral:
+Topo de linha, moderno, tecnológico, urbano, sóbrio, autêntico, com a identidade de uma campanha internacional de eletrônicos de consumo.
+A imagem deve apresentar textura autêntica de fotografia comercial, lentes ópticas reais, perspectiva exata, arestas de produto nítidas e materiais de metal cinza-prateado e branco fosco realistas.
+O ritmo deve conter variações perceptíveis, evitando o uso contínuo de câmera lenta.
+Movimentos naturais da personagem, sem poses artificiais, sem sorrisos exagerados e sem expressões teatrais.
+
+Requisitos fundamentais:
+Aparência do produto rigorosamente consistente.
+Os fones no ouvido da personagem devem possuir estrutura correta e proporções reais.
+O cabelo da protagonista não deve cobrir os fones.
+Não adicionar um segundo par de fones.
+Sem deformação do produto.
+Sem efeitos especiais exagerados de ficção científica.
+Sem estética cyberpunk ou neon.
+Sem blocos extensos de texto ou legendas.
+Sem deformações nas mãos.
+A personagem não deve roubar o protagonismo do produto.
+Sem marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

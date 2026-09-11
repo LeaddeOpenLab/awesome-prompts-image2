@@ -1549,7 +1549,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098400287262470292"></a>
 
-### Traduzione in corso
+### Prompt per storyboard di uno spot pubblicitario di 10 secondi per auricolari wireless di fascia alta, che illustra una professionista urbana moderna mentre indossa e utilizza il prodotto in un contesto d'ufficio.
 
 Autore：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1557,14 +1557,50 @@ Fumetto / Storyboard · Marketing di Prodotto · Personaggio · Prodotto · Paes
 
 Post originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per storyboard di uno spot pubblicitario di 10 secondi per auricolari wireless di fascia alta, che illustra una professionista urbana moderna mentre indossa e utilizza il prodotto in un contesto d'ufficio.
 
 <img src="covers/2098400287262470292.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Utilizza gli auricolari wireless Bluetooth e la custodia di ricarica AEROX ONE presenti nell'immagine di riferimento come unico riferimento di prodotto. Mantieni rigorosamente invariati forma, proporzioni, metallo grigio argento e materiali bianco opaco degli auricolari, i profili arrotondati della custodia di ricarica, la scritta del marchio, la posizione dei fori e le relazioni strutturali; non riprogettare, non deformare e non inserire prodotti superflui.
+
+Realizza uno spot pubblicitario di 10 secondi per un brand di elettronica di consumo di fascia alta, inserendo una giovane donna asiatica come protagonista di lifestyle urbano. La protagonista ha un'aria pulita, curata e sobria, indossa una camicia bianca minimalista o un blazer grigio chiaro, trucco naturale, texture della pelle realistica, incarnando complessivamente il carattere di una professionista urbana moderna. Il personaggio ha il solo compito di esprimere stile di vita e atmosfera; il prodotto rimane sempre il fulcro visivo.
+
+0-2 secondi:
+Spazio ufficio moderno al mattino presto, con luce naturale che filtra dalle vetrate a tutta altezza. La protagonista si avvicina alla scrivania, posando lo smartphone e una borsa in pelle. La telecamera stacca rapidamente sulla custodia di ricarica AEROX ONE sulla scrivania; il coperchio si apre con precisione e i due auricolari appaiono chiaramente. Il ritmo di ripresa è nitido e scorrevole, con il prodotto visibile fin dal primo secondo.
+
+2-4 secondi:
+La protagonista prende un auricolare e lo inserisce nell'orecchio, con un gesto naturale, elegante e senza esagerazioni. L'inquadratura passa a un primo piano dell'auricolare, con riflessi bianchi freddi sul bordo metallico; l'auricolare aderisce naturalmente all'orecchio, mettendo in risalto la raffinatezza del prodotto indossato. Sullo sfondo, l'ambiente dell'ufficio appare sfocato.
+
+4-6 secondi:
+La protagonista cammina lungo il corridoio di un ufficio moderno o di un bar indossando gli auricolari; la telecamera effettua una fluida ripresa laterale di tracciamento. Il suo atteggiamento è concentrato, rilassato e sicuro di sé. Nell'inquadratura l'auricolare deve rimanere chiaramente visibile, senza essere completamente coperto dai capelli. L'atmosfera complessiva sottolinea il pendolarismo urbano, il senso di efficienza e il lifestyle.
+
+6-8 secondi:
+Stacco su di lei seduta vicino alla finestra mentre utilizza un computer portatile; con una mano tocca delicatamente l'auricolare, come per cambiare modalità o rispondere a una chiamata. La telecamera avanza leggermente, la città sullo sfondo è sfocata e l'unione tra prodotto e protagonista crea un raffinato impatto pubblicitario lifestyle.
+
+8-10 secondi:
+Rapido ritorno a un hero shot puramente incentrato sul prodotto. Gli auricolari e la custodia di ricarica AEROX ONE sono posizionati su una scrivania minimalista grigio argento, con sfondo morbidamente sfocato e la protagonista fuori fuoco in lontananza a definire l'atmosfera. La telecamera rallenta gradualmente fino a fermarsi; gli auricolari e la custodia diventano l'unico soggetto nitido nell'inquadratura, creando la chiusura perfetta per uno spot di elettronica di consumo premium.
+
+Stile generale:
+Di fascia alta, moderno, tecnologico, urbano, sobrio, autentico, come la campagna di un marchio internazionale di elettronica di consumo.
+L'immagine deve vantare una qualità di fotografia commerciale autentica, lenti ottiche reali, prospettiva accurata, bordi del prodotto nitidi e materiali in metallo grigio argento e bianco satinato realistici.
+Il ritmo deve avere variazioni marcate, evitando il rallentatore continuo.
+Movimenti naturali del personaggio, evitando pose artefatte, sorrisi eccessivi ed espressioni teatrali.
+
+Requisiti fondamentali:
+L'aspetto del prodotto deve rimanere coerente.
+Gli auricolari nell'orecchio del personaggio devono avere struttura corretta e proporzioni realistiche.
+I capelli della protagonista non devono coprire gli auricolari.
+Non inserire un secondo set di auricolari.
+Nessuna deformazione del prodotto.
+Nessun effetto speciale fantascientifico esagerato.
+Nessuna estetica cyberpunk o neon.
+Nessun blocco di testo o sottotitolo esteso.
+Nessuna deformazione delle mani.
+Il personaggio non deve sottrarre la scena al prodotto.
+Nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

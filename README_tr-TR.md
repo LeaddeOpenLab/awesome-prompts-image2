@@ -1534,7 +1534,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098400287262470292"></a>
 
-### Çeviri sürüyor
+### Modern şehirli bir iş kadınının ofis ortamında ürünü takıp kullanmasını gösteren 10 saniyelik üst düzey kablosuz kulaklık reklamı storyboard istemi.
 
 Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1542,14 +1542,50 @@ Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi]
 
 Orijinal gönderi：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Modern şehirli bir iş kadınının ofis ortamında ürünü takıp kullanmasını gösteren 10 saniyelik üst düzey kablosuz kulaklık reklamı storyboard istemi.
 
 <img src="covers/2098400287262470292.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans görseldeki AEROX ONE kablosuz Bluetooth kulaklıkları ve şarj kutusunu tek ürün referansı olarak kullanın; kulaklık biçimini, oranlarını, gümüş-gri metal ve mat beyaz malzemeleri, şarj kutusunun yuvarlak hatlarını, marka yazısını, delik konumlarını ve yapısal ilişkileri birebir ve kesinlikle koruyun; yeniden tasarlamayın, deforme etmeyin ve fazladan ürün eklemeyin.
+
+Şehirli yaşam tarzını yansıtan genç bir Asyalı kadını başrol olarak dahil ederek üst segment bir tüketici elektroniği markası için 10 saniyelik bir reklam filmi hazırlayın. Başrol oyuncusu duru, net ve ölçülü bir auraya sahip olmalı; sade beyaz bir gömlek veya açık gri bir ceket giymeli, doğal makyajı, gerçekçi cilt dokusuyla modern bir şehirli iş kadını havası taşımalıdır. Karakter yalnızca yaşam tarzı ve atmosfer ifadesini üstlenir; ürün daima görsel odak noktasıdır.
+
+0-2 saniye:
+Sabahın erken saatlerinde modern bir ofis alanı; tavandan tabana uzanan pencerelerden içeri doğal ışık girmektedir. Kadın karakter masaya doğru yürür, telefonunu ve deri çantasını bırakır. Kamera hızla masa üzerindeki AEROX ONE şarj kutusuna geçer; kapak seri ve net bir şekilde açılır, iki kulaklık belirgin biçimde görünür. Kamera ritmi net ve akıcıdır, ürün ilk saniyeden itibaren görünür.
+
+2-4 saniye:
+Kadın karakter kulaklıklardan birini alır ve kulağına takar; hareketleri doğal, zarif ve abartısızdır. Kamera kulaklığa yakın plana geçer, metal kenarlarda soğuk beyaz ışıltılar belirir; kulaklık kulağa doğal bir şekilde oturur ve ürünün takıldığındaki zarifliği vurgulanır. Arka planda flu bir ofis ortamı yer alır.
+
+4-6 saniye:
+Kadın karakter kulaklık takılı halde modern bir ofis koridorunda veya kafede yürür; kamera pürüzsüz bir yan takip çekimi yapar. Duruşu odaklanmış, rahat ve kontrollüdür. Karede kulaklık tamamen saçla kapanmamalı, net bir şekilde görünür kalmalıdır. Genel hava şehir içi ulaşımı, verimlilik hissini ve yaşam tarzını vurgular.
+
+6-8 saniye:
+Pencere kenarında oturup dizüstü bilgisayar kullandığı sahneye geçilir; bir eliyle hafifçe kulaklığa dokunur, sanki mod değiştiriyor veya bir aramayı yanıtlıyor gibidir. Kamera hafifçe yaklaşır, arka plandaki şehir flu hale gelir; ürün ile karakterin duruşu birleşerek üst düzey bir lifestyle reklam hissi oluşturur.
+
+8-10 saniye:
+Yalnızca ürüne odaklanan bir hero shot çekimine hızlıca dönülür. AEROX ONE kulaklıklar ve şarj kutusu minimalist gümüş-gri bir masa üzerinde durur; arka plan yumuşak bir şekilde bulanıktır ve kadın karakter uzakta odak dışı kalarak ortama derinlik katar. Kamera yavaşça yavaşlar ve durur; kulaklıklar ve şarj kutusu karedeki tek net özne haline gelerek üst düzey bir tüketici elektroniği marka reklamının kapanışını oluşturur.
+
+Genel Tarz:
+Üst düzey, modern, teknolojik, kentsel, ölçülü, gerçekçi; uluslararası bir tüketici elektroniği markası kampanyası hissi.
+Görüntü gerçek bir ticari fotoğrafçılık dokusuna, gerçek optik lenslere, kusursuz bir perspektife, keskin ürün kenarlarına ve gerçekçi gümüş-gri metal ile mat beyaz malzeme detaylarına sahip olmalıdır.
+Ritim belirgin değişimler göstermeli, baştan sona ağır çekimden kaçınılmalıdır.
+Karakter hareketleri doğal olmalı, poz verme hissinden, aşırı gülümsemeden ve abartılı mimiklerden kaçınılmalıdır.
+
+Önemli Gereksinimler:
+Ürün görünümü tamamen tutarlı olmalıdır.
+Karakterin kulağındaki kulaklık doğru yapıya ve gerçekçi oranlara sahip olmalıdır.
+Kadın karakterin saçları kulaklığı örtmemelidir.
+İkinci bir kulaklık seti eklenmemelidir.
+Üründe deformasyon olmamalıdır.
+Aşırı bilim kurgu özel efektleri olmamalıdır.
+Neon siberpunk tarzı olmamalıdır.
+Uzun metinli altyazılar olmamalıdır.
+El anatomisinde bozukluk olmamalıdır.
+Karakter ürünün ana özne olma rolünü çalmamalıdır.
+Filigran olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

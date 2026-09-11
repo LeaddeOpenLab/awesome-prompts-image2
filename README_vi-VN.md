@@ -1551,7 +1551,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098400287262470292"></a>
 
-### Đang dịch
+### Gợi ý phân cảnh quảng cáo thương mại 10 giây cho tai nghe không dây cao cấp, thể hiện quá trình đeo và sử dụng sản phẩm của nữ nhân viên công sở thành thị hiện đại trong không gian văn phòng.
 
 Tác giả：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1559,14 +1559,50 @@ Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Nhân vật
 
 Bài gốc：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Gợi ý phân cảnh quảng cáo thương mại 10 giây cho tai nghe không dây cao cấp, thể hiện quá trình đeo và sử dụng sản phẩm của nữ nhân viên công sở thành thị hiện đại trong không gian văn phòng.
 
 <img src="covers/2098400287262470292.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng tai nghe Bluetooth không dây và hộp sạc AEROX ONE trong ảnh tham khảo làm sản phẩm tham chiếu duy nhất, duy trì nghiêm ngặt và nhất quán về kiểu dáng, tỷ lệ tai nghe, chất liệu kim loại xám bạc và bề mặt trắng mờ, đường nét bo tròn của hộp sạc, chữ thương hiệu, vị trí các lỗ và mối quan hệ cấu trúc; không được thiết kế lại, không được biến dạng, không được xuất hiện sản phẩm thừa.
+
+Tạo một video quảng cáo thương hiệu điện tử tiêu dùng cao cấp dài 10 giây, kết hợp một phụ nữ châu Á trẻ tuổi làm nhân vật nữ chính thể hiện phong cách sống thành thị. Nữ chính có khí chất trong trẻo, sắc sảo, điềm tĩnh, mặc áo sơ mi trắng đơn giản hoặc áo khoác blazer màu xám nhạt, trang điểm tự nhiên, kết cấu da chân thực, toát lên phong thái của người phụ nữ công sở thành thị hiện đại. Nhân vật chỉ đóng vai trò truyền tải phong cách sống và bầu không khí, sản phẩm luôn là tâm điểm thị giác.
+
+0-2 giây:
+Không gian văn phòng hiện đại vào buổi sáng sớm, ánh sáng tự nhiên từ cửa sổ kính kịch trần tràn vào phòng. Nữ chính bước đến bên bàn làm việc, đặt điện thoại và túi da xuống. Ống kính chuyển cảnh nhanh đến hộp sạc AEROX ONE trên mặt bàn, nắp hộp mở ra dứt khoát, hai bên tai nghe xuất hiện rõ ràng. Nhịp độ khung hình gọn gàng, dứt khoát, sản phẩm xuất hiện ngay từ giây đầu tiên.
+
+2-4 giây:
+Nữ chính cầm một bên tai nghe lên và đeo vào tai, động tác tự nhiên, thanh lịch, không cường điệu. Ống kính chuyển sang cận cảnh tai nghe, mép kim loại ánh lên vệt sáng trắng lạnh, tai nghe ôm vừa vặn tự nhiên vào tai, tập trung thể hiện sự tinh tế của sản phẩm khi đeo. Hậu cảnh là môi trường văn phòng được làm mờ.
+
+4-6 giây:
+Nữ chính đeo tai nghe bước qua khu vực văn phòng hiện đại hoặc lối đi trong quán cà phê, ống kính lia mượt mà theo góc ngang để theo sát. Trạng thái của cô tập trung, thư thái và đầy tự chủ. Trong khung hình, tai nghe phải luôn nhìn thấy rõ ràng, không bị tóc che khuất hoàn toàn. Tổng thể nhấn mạnh cảm giác đi lại nơi đô thị, tính hiệu quả và phong cách sống.
+
+6-8 giây:
+Chuyển sang cảnh cô ngồi bên cửa sổ sử dụng máy tính xách tay, một tay chạm nhẹ vào tai nghe như thể đang chuyển chế độ hoặc nhận cuộc gọi. Ống kính đẩy nhẹ về phía trước, hậu cảnh thành phố mờ ảo, trạng thái của sản phẩm và nhân vật tạo nên cảm giác quảng cáo lifestyle cao cấp.
+
+8-10 giây:
+Nhanh chóng chuyển về hero shot thuần túy của sản phẩm. Tai nghe và hộp sạc AEROX ONE được đặt trên mặt bàn màu xám bạc tối giản, hậu cảnh mờ dịu, nữ chính ở hậu cảnh xa bị mất nét đóng vai trò làm nền không khí. Máy quay từ từ giảm tốc độ rồi dừng lại, tai nghe và hộp sạc trở thành chủ thể sắc nét duy nhất trong khung hình, tạo nên phần kết cho quảng cáo thương hiệu điện tử tiêu dùng cao cấp.
+
+Phong cách tổng thể:
+Cao cấp, hiện đại, công nghệ, đô thị, điềm đạm, chân thực, như một campaign thương hiệu điện tử tiêu dùng quốc tế.
+Hình ảnh phải có chất lượng nhiếp ảnh thương mại chân thực, ống kính quang học thực tế, phối cảnh chính xác, mép sản phẩm sắc nét, chất liệu kim loại xám bạc và bề mặt trắng mờ chân thực, tự nhiên.
+Nhịp điệu cần có sự thay đổi rõ rệt, tránh sử dụng chuyển động chậm trong toàn bộ thời lượng.
+Động tác của nhân vật tự nhiên, tránh cảm giác tạo dáng gượng gạo, tránh cười quá mức, tránh biểu cảm thái quá.
+
+Yêu cầu trọng tâm:
+Ngoại hình sản phẩm duy trì tính nhất quán.
+Tai nghe trên tai nhân vật phải có cấu trúc bình thường, tỷ lệ chân thực.
+Tóc của nữ chính không được che khuất tai nghe.
+Không thêm bộ tai nghe thứ hai.
+Không làm biến dạng sản phẩm.
+Không dùng hiệu ứng kỹ xảo khoa học viễn tưởng quá đà.
+Không phong cách neon cyberpunk.
+Không có phụ đề đoạn dài.
+Không có bàn tay dị dạng.
+Không để nhân vật lấn át chủ thể sản phẩm.
+Không có hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

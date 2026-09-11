@@ -1549,7 +1549,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098400287262470292"></a>
 
-### Traduction en cours
+### Prompt de découpage technique pour un spot publicitaire de 10 secondes d'écouteurs sans fil haut de gamme, montrant une femme active urbaine moderne portant et utilisant le produit au bureau.
 
 Auteur：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1557,14 +1557,50 @@ Bande dessinée / Storyboard · Marketing produit · Personnage · Produit · Pa
 
 Publication originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de découpage technique pour un spot publicitaire de 10 secondes d'écouteurs sans fil haut de gamme, montrant une femme active urbaine moderne portant et utilisant le produit au bureau.
 
 <img src="covers/2098400287262470292.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez les écouteurs sans fil Bluetooth et le boîtier de charge AEROX ONE de l'image de référence comme unique référence produit. Conservez de manière stricte et identique la forme des écouteurs, les proportions, le métal gris argenté et les matériaux blanc mat, les contours arrondis du boîtier de charge, la typographie de la marque, l'emplacement des ouvertures et les relations structurelles ; ne pas reconcevoir, ne pas déformer, ne pas introduire de produits superflus.
+
+Créez un spot publicitaire de 10 secondes pour une marque d'électronique grand public haut de gamme, intégrant une jeune femme asiatique comme héroïne de style de vie urbain. L'héroïne dégage une allure soignée, vive et sobre, vêtue d'une chemise blanche minimaliste ou d'un blazer gris clair, avec un maquillage naturel, une texture de peau réaliste, incarnant le tempérament d'une femme d'affaires urbaine moderne. Le personnage sert uniquement à exprimer le style de vie et l'atmosphère ; le produit demeure en permanence le cœur visuel.
+
+0-2 secondes :
+Espace de bureau moderne au petit matin, la lumière naturelle traverse des baies vitrées allant du sol au plafond. L'héroïne s'approche du bureau et y dépose son téléphone ainsi qu'un sac en cuir. La caméra coupe rapidement vers le boîtier de charge AEROX ONE posé sur la table ; le couvercle s'ouvre avec netteté, dévoilant clairement les deux écouteurs. Le rythme du plan est fluide et direct, le produit apparaissant dès la première seconde.
+
+2-4 secondes :
+L'héroïne saisit un écouteur et l'insère dans son oreille, d'un geste naturel, élégant et sans exagération. La caméra passe à un gros plan sur l'écouteur, révélant des reflets blanc froid sur les bords métalliques ; l'écouteur s'ajuste parfaitement à l'oreille, mettant en valeur le raffinement du produit porté. L'arrière-plan montre un environnement de bureau flouté.
+
+4-6 secondes :
+L'héroïne marche dans le couloir d'un bureau moderne ou d'un café en portant les écouteurs ; la caméra effectue un travelling latéral fluide. Son attitude est concentrée, détendue et confiante. À l'écran, l'écouteur doit rester bien visible sans être masqué par les cheveux. L'ensemble met en avant les trajets urbains, le sentiment d'efficacité et le style de vie.
+
+6-8 secondes :
+Plan sur elle assise près de la fenêtre en train d'utiliser un ordinateur portable, touchant délicatement l'écouteur d'une main, comme pour changer de mode ou prendre un appel. La caméra effectue une légère avancée, la ville en arrière-plan est floue, le produit et l'attitude du personnage créant une esthétique publicitaire lifestyle haut de gamme.
+
+8-10 secondes :
+Retour rapide à un hero shot centré exclusivement sur le produit. Les écouteurs et le boîtier de charge AEROX ONE reposent sur un bureau gris argenté minimaliste, avec un arrière-plan doucement flouté et l'héroïne en arrière-plan flou servant d'ambiance. La caméra ralentit progressivement jusqu'à s'arrêter ; les écouteurs et le boîtier deviennent l'unique sujet net à l'écran, constituant la conclusion d'un spot de marque d'électronique grand public haut de gamme.
+
+Style global :
+Haut de gamme, moderne, technologique, urbain, sobre, authentique, digne d'une campagne de marque internationale d'électronique grand public.
+L'image doit présenter une texture photographique commerciale authentique, de véritables objectifs optiques, une perspective rigoureuse, des contours de produit nets, et des textures de métal gris argenté et de blanc mat réalistes.
+Le rythme doit afficher des variations marquées, en évitant les ralentis continus.
+Gestuelle naturelle du personnage, sans pose figée, sans sourire forcé ni expressions excessives.
+
+Exigences clés :
+Apparence du produit rigoureusement constante.
+Structure et proportions réalistes des écouteurs insérés dans l'oreille.
+Les cheveux de l'héroïne ne doivent pas masquer l'écouteur.
+Ne pas ajouter de deuxième paire d'écouteurs.
+Aucune déformation du produit.
+Pas d'effets spéciaux de science-fiction excessifs.
+Pas d'esthétique cyberpunk néon.
+Pas de longs sous-titres textuels.
+Pas de mains déformées.
+Le personnage ne doit pas voler la vedette au produit.
+Pas de filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1549,7 +1549,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098400287262470292"></a>
 
-### Übersetzung läuft
+### 10-sekündiger Storyboard-Prompt für einen High-End-Werbespot kabelloser Kopfhörer, der eine moderne urbane Geschäftsfrau beim Tragen und Verwenden des Produkts im Büroumfeld zeigt.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2098400287262470292)
 
@@ -1557,14 +1557,50 @@ Comic / Storyboard · Produktmarketing · Charakter · Produkt · Stadtbild / St
 
 Originalbeitrag：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2098318586859377102)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-sekündiger Storyboard-Prompt für einen High-End-Werbespot kabelloser Kopfhörer, der eine moderne urbane Geschäftsfrau beim Tragen und Verwenden des Produkts im Büroumfeld zeigt.
 
 <img src="covers/2098400287262470292.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie die kabellosen Bluetooth-Kopfhörer AEROX ONE und das Ladeetui aus dem Referenzbild als einzige Produktreferenz. Halten Sie die Form der Kopfhörer, die Proportionen, das silbergraue Metall und die mattweißen Materialien, die abgerundeten Konturen des Ladeetuis, den Markenschriftzug, die Öffnungspositionen und die strukturellen Verhältnisse strikt und identisch ein; nicht neu gestalten, nicht verformen und keine überflüssigen Produkte einfügen.
+
+Erstellen Sie einen 10-sekündigen Werbespot für eine High-End-Unterhaltungselektronikmarke mit einer jungen asiatischen Frau als urbane Lifestyle-Hauptdarstellerin. Die Hauptdarstellerin strahlt eine saubere, gepflegte und zurückhaltende Eleganz aus, trägt ein schlichtes weißes Hemd oder einen hellgrauen Blazer, dezentes Make-up, echte Hauttextur und verkörpert insgesamt das Flair einer modernen städtischen Geschäftsfrau. Die Figur transportiert lediglich Lebensstil und Atmosphäre; das Produkt bleibt stets der visuelle Mittelpunkt.
+
+0–2 Sekunden:
+Moderner Büroraum am frühen Morgen, natürliches Licht strömt durch bodentiefe Fenster herein. Die Protagonistin tritt an den Schreibtisch und legt Smartphone und Ledertasche ab. Ein schneller Schnitt zeigt das AEROX ONE Ladeetui auf dem Tisch; der Deckel öffnet sich präzise und beide Kopfhörer kommen deutlich zum Vorschein. Das Kameratempo ist sauber und direkt, das Produkt ist ab der ersten Sekunde sichtbar.
+
+2–4 Sekunden:
+Die Protagonistin nimmt einen Kopfhörer und setzt ihn sich ins Ohr – die Bewegung ist natürlich, elegant und unaufdringlich. Die Kamera wechselt zu einer Nahaufnahme des Kopfhörers mit kühl-weißen Reflexionen an den Metallkanten; der Kopfhörer sitzt natürlich im Ohr und betont die exquisite Ästhetik des getragenen Produkts. Der Hintergrund zeigt ein unscharfes Büroambiente.
+
+4–6 Sekunden:
+Die Protagonistin geht mit Kopfhörern durch einen modernen Büroflur oder ein Café; die Kamera folgt in einer sanften seitlichen Tracking-Fahrt. Ihre Haltung ist fokussiert, entspannt und souverän. Im Bild müssen die Kopfhörer klar erkennbar bleiben und dürfen nicht vollständig vom Haar verdeckt werden. Der Gesamteindruck betont urbanes Pendeln, Effizienz und Lifestyle-Gefühl.
+
+6–8 Sekunden:
+Schnitt auf sie, wie sie am Fenster sitzt und an einem Laptop arbeitet; eine Hand berührt sanft den Kopfhörer, als würde sie den Modus wechseln oder einen Anruf annehmen. Die Kamera fährt leicht heran, die Stadt im Hintergrund verschwimmt, und das Zusammenspiel von Produkt und Protagonistin erzeugt eine hochwertige Lifestyle-Werbeästhetik.
+
+8–10 Sekunden:
+Schneller Schnitt zurück zu einem reinen Produkt-Hero-Shot. Die AEROX ONE Kopfhörer und das Ladeetui liegen auf einem minimalistischen silbergrauen Schreibtisch, der Hintergrund ist weich gezeichnet, während die Protagonistin in weiter Ferne unscharf zur Atmosphäre beiträgt. Die Kamera verlangsamt sich allmählich und stoppt; Kopfhörer und Ladeetui werden zum einzigen scharfen Hauptmotiv im Bild – das perfekte Finale eines High-End-Elektronikmarken-Spots.
+
+Gesamtstil:
+High-End, modern, technologieorientiert, urban, zurückhaltend, authentisch, wie die Kampagne einer internationalen Unterhaltungselektronikmarke.
+Das Bild muss eine echte Werbefotografie-Qualität besitzen, echte optische Linsen, präzise Perspektiven, scharfe Produktkanten sowie natürliche silbergraue Metall- und mattweiße Materialtexturen.
+Der Rhythmus muss spürbare Tempowechsel aufweisen; durchgehende Zeitlupe ist zu vermeiden.
+Natürliche Bewegungen der Figur, keine gestellten Posen, kein übertriebenes Lächeln, keine theatralische Mimik.
+
+Wichtigste Anforderungen:
+Das Erscheinungsbild des Produkts muss konsistent bleiben.
+Die Kopfhörer im Ohr der Figur müssen anatomisch korrekt sitzen und realistische Proportionen aufweisen.
+Die Haare der Protagonistin dürfen die Kopfhörer nicht verdecken.
+Kein zweites Kopfhörerset hinzufügen.
+Keine Produktverzerrungen.
+Keine übertriebenen Sci-Fi-Spezialeffekte.
+Kein Neon-Cyberpunk-Stil.
+Keine langen Textuntertitel.
+Keine missgebildeten Hände.
+Die Figur darf das Produkt nicht als Hauptmotiv verdrängen.
+Keine Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
