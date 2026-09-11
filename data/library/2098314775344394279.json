@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:44:16.596Z",
+  "model": "image2.5",
+  "prompt": "脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照",
+  "promptTranslations": {
+    "en": "Rouged fragrance and splendid beauty; misty moonlight over the Qinhuai River; glances brimming with springtime charm; each with distinct grace and demeanor; CCD direct flash; group photo of the Eight Beauties of Qinhuai: Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen, and Ma Xianglan"
+  },
+  "summaryTranslations": {
+    "en": "Traditional Chinese style CCD direct flash Eight Beauties of Qinhuai group photo prompt"
+  },
+  "translationVersion": 2,
+  "summary": "古风CCD直闪秦淮八艳群像合照提示词",
+  "summaryEn": "Prompt for a vintage CCD flash portrait featuring the Eight Beauties of Qinhuai.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097135361046839783",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2097135361046839783",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "這楊玉環，我是真的喜歡～\n\n@grok #四大美女 #楊玉環 #西施 #貂蟬 #王昭君 \n\n🔵 GPT image 2 Prompt:\n\n極簡東方 × 宋式美學 × 古風 Editorial × 獨立藝術封面 × CCD直閃\n中國古代四大美女：西施、王昭君、貂蟬、楊玉環 https://t.co/HIOcorT6o0"
+    },
+    "id": "2098314775344394279",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2098314775344394279",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-11T07:36:41.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "zh",
+    "originalText": "秦淮八艳～\n\n🔵 GPT image 2.5 Sunburst Prompt:\n\n脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照\n\n@grok 出图，打败GPT https://t.co/izdCemC9x9",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR62KU3akAAR6ql.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR62KU3akAAR6ql.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqFb-RaUAANJ-T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqFb-RaUAANJ-T.jpg",
+        "sourcePostId": "2097135361046839783"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqFb-QawAAOIVb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqFb-QawAAOIVb.jpg",
+        "sourcePostId": "2097135361046839783"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRqFb-QaEAEtjAB.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRqFb-QaEAEtjAB.jpg",
+        "sourcePostId": "2097135361046839783"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 521
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2098314775344394279",
+  "coverUrl": "https://pbs.twimg.com/media/HR62KU3akAAR6ql.jpg",
+  "coverPath": "images/2098314775344394279-1.jpg",
+  "imagePaths": [
+    "images/2098314775344394279-1.jpg",
+    "images/2098314775344394279-2.jpg",
+    "images/2098314775344394279-3.jpg",
+    "images/2098314775344394279-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR62KU3akAAR6ql",
+    "x-image:/media/HRqFb-RaUAANJ-T",
+    "x-image:/media/HRqFb-QawAAOIVb",
+    "x-image:/media/HRqFb-QaEAEtjAB",
+    "x-post:2098314775344394279",
+    "x-post:2097135361046839783"
+  ],
+  "analysis": {
+    "summary": "古风CCD直闪秦淮八艳群像合照提示词",
+    "summaryEn": "Prompt for a vintage CCD flash portrait featuring the Eight Beauties of Qinhuai.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图像准确呈现了八位身着古装的女子在秦淮夜景下的合照，并标注了提示词中提及的所有人物姓名及CCD直闪摄影风格。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照",
+    "sourceRange": {
+      "start": 41,
+      "end": 105
+    },
+    "translations": {
+      "zh": "脂香绮艳；秦淮烟月；顾盼生春；各具情态；CCD直闪；秦淮八艳：柳如是、陈圆圆、李香君、董小宛、顾横波、卞玉京、寇白门、马湘兰合照",
+      "en": "Delicate and glamorous; Qinhuai misty moon; charming eyes full of vitality; varied expressions; CCD direct flash; group photo of the Eight Beauties of Qinhuai: Liu Rushi, Chen Yuanyuan, Li Xiangjun, Dong Xiaowan, Gu Hengbo, Bian Yujing, Kou Baimen, Ma Xianglan"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "古风人物群像摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
