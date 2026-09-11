@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:18:03.000Z",
+  "model": "image2.5",
+  "prompt": "创作一张 3:4 竖屏超现实彩色艺术摄影。空旷海岸没有人物，上方四分之一是均匀灰钴蓝天空，一条极细浅粉远岸横贯高位地平线。粉白盐质岸壁从左侧延伸至下方前景，粗糙晶粒、松散砂砾与自然侵蚀边缘清晰可见，岸线形成舒缓不对称弧线。近岸浅水呈浓郁珊瑚红、朱红与粉红，几道纤细碎浪斜向右下方推进，逐渐过渡到右侧深普鲁士蓝海水；水具有真实透明度、细密波纹和反光，不像颜料或熔岩。晴日侧光，粉白高光保留细节，干净大色块与真实微观纹理对照，细腻胶片颗粒、哑光印刷观感，安静陌生、炽热而清冷。满版摄影，无文字、边框、logo或水印。",
+  "promptTranslations": {
+    "en": "Create a 3:4 vertical surreal color art photograph. An empty coast without people, with the upper quarter featuring a uniform grayish cobalt blue sky and an extremely thin light pink distant shore traversing the high horizon. A pinkish-white saline shore bank extends from the left down to the foreground, with coarse crystalline grains, loose gravel, and naturally eroded edges clearly visible, the shoreline forming a gentle, asymmetrical arc. The shallow waters near the shore are a rich coral red, vermilion, and pink, with several slender breaking ripples advancing diagonally toward the lower right, gradually transitioning into the deep Prussian blue sea on the right; the water has realistic transparency, fine ripples, and reflections, not resembling paint or lava. Sunny side-lighting, pinkish-white highlights that retain detail, clean large color blocks contrasted with authentic microscopic textures, delicate film grain, a matte print feel, quiet, unfamiliar, blazing yet cool. Full-bleed photograph, no text, borders, logos, or watermarks."
+  },
+  "summaryTranslations": {
+    "en": "Surreal art photography of a pink-white salt shore and ocean transitioning from coral red to deep blue."
+  },
+  "translationVersion": 2,
+  "summary": "粉白盐岸与珊瑚红至深蓝渐变海水的超现实艺术摄影。",
+  "summaryEn": "Surreal art photograph of a pink-white salt shore meeting coral red and deep blue sea.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098277612053561383",
+    "canonicalUrl": "https://x.com/listudio/status/2098277612053561383",
+    "author": {
+      "username": "listudio",
+      "displayName": "leolee",
+      "profileUrl": "https://x.com/listudio"
+    },
+    "publishedAt": "2026-09-11T05:09:01.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "zh",
+    "originalText": "#AIArt  #photographie \n\nMade by GPT Image 2.5  ➡️ https://t.co/pfafZV9Bzt.\n----\nprompt：\n创作一张 3:4 竖屏超现实彩色艺术摄影。空旷海岸没有人物，上方四分之一是均匀灰钴蓝天空，一条极细浅粉远岸横贯高位地平线。粉白盐质岸壁从左侧延伸至下方前景，粗糙晶粒、松散砂砾与自然侵蚀边缘清晰可见，岸线形成舒缓不对称弧线。近岸浅水呈浓郁珊瑚红、朱红与粉红，几道纤细碎浪斜向右下方推进，逐渐过渡到右侧深普鲁士蓝海水；水具有真实透明度、细密波纹和反光，不像颜料或熔岩。晴日侧光，粉白高光保留细节，干净大色块与真实微观纹理对照，细腻胶片颗粒、哑光印刷观感，安静陌生、炽热而清冷。满版摄影，无文字、边框、logo或水印。\n----\nMade by ➡️ https://t.co/pfafZV9Bzt.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6UPf7awAAsysF.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6UPf7awAAsysF.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/listudio/status/2098277612053561383",
+  "coverUrl": "https://pbs.twimg.com/media/HR6UPf7awAAsysF.jpg",
+  "coverPath": "images/2098277612053561383-1.jpg",
+  "imagePaths": [
+    "images/2098277612053561383-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR6UPf7awAAsysF",
+    "x-post:2098277612053561383"
+  ],
+  "analysis": {
+    "summary": "粉白盐岸与珊瑚红至深蓝渐变海水的超现实艺术摄影。",
+    "summaryEn": "Surreal art photograph of a pink-white salt shore meeting coral red and deep blue sea.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了提示词描述的左侧粉白盐质晶体岸壁、珊瑚红近岸浅水过渡至深蓝海水，以及晴天侧光下的波纹质感。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "创作一张 3:4 竖屏超现实彩色艺术摄影。空旷海岸没有人物，上方四分之一是均匀灰钴蓝天空，一条极细浅粉远岸横贯高位地平线。粉白盐质岸壁从左侧延伸至下方前景，粗糙晶粒、松散砂砾与自然侵蚀边缘清晰可见，岸线形成舒缓不对称弧线。近岸浅水呈浓郁珊瑚红、朱红与粉红，几道纤细碎浪斜向右下方推进，逐渐过渡到右侧深普鲁士蓝海水；水具有真实透明度、细密波纹和反光，不像颜料或熔岩。晴日侧光，粉白高光保留细节，干净大色块与真实微观纹理对照，细腻胶片颗粒、哑光印刷观感，安静陌生、炽热而清冷。满版摄影，无文字、边框、logo或水印。",
+    "sourceRange": {
+      "start": 88,
+      "end": 344
+    },
+    "translations": {
+      "zh": "创作一张 3:4 竖屏超现实彩色艺术摄影。空旷海岸没有人物，上方四分之一是均匀灰钴蓝天空，一条极细浅粉远岸横贯高位地平线。粉白盐质岸壁从左侧延伸至下方前景，粗糙晶粒、松散砂砾与自然侵蚀边缘清晰可见，岸线形成舒缓不对称弧线。近岸浅水呈浓郁珊瑚红、朱红与粉红，几道纤细碎浪斜向右下方推进，逐渐过渡到右侧深普鲁士蓝海水；水具有真实透明度、细密波纹和反光，不像颜料或熔岩。晴日侧光，粉白高光保留细节，干净大色块与真实微观纹理对照，细腻胶片颗粒、哑光印刷观感，安静陌生、炽热而清冷。满版摄影，无文字、边框、logo或水印。",
+      "en": "Create a 3:4 vertical surreal color art photograph. An empty coastline with no people; the top quarter is uniform cobalt grey sky, with an extremely thin light pink distant shore across the high horizon. Pink-white salt cliffs extend from the left to the lower foreground, with coarse grains, loose gravel, and naturally eroded edges clearly visible, forming a gentle asymmetrical arc. The shallow nearshore water is rich coral red, vermilion, and pink, with delicate breaking waves moving toward the lower right, gradually transitioning into deep Prussian blue seawater on the right; the water possesses realistic transparency, fine ripples, and reflections, unlike paint or lava. Sunny sidelight with preserved highlight details, clean color blocks contrasting with micro-textures, fine film grain, matte print feel, quiet and unfamiliar. Full bleed photograph, no text, borders, logos, or watermarks."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "超现实风景艺术摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
