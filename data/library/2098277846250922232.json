@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:06:43.765Z",
+  "model": "image2.5",
+  "prompt": "像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。",
+  "promptTranslations": {
+    "en": "Like a casual tennis daily photo taken by a boyfriend on an iPhone: a young adult girl wearing a simple tennis outfit and sneakers; randomly capturing her different movements, spontaneous in-the-moment happenings, and varying shooting distances each time, like an authentic, candid photo casually taken while spending time together."
+  },
+  "summaryTranslations": {
+    "en": "Boyfriend-perspective iPhone tennis daily snapshots, young girl in simple tennis wear"
+  },
+  "translationVersion": 2,
+  "summary": "男朋友视角iPhone网球日常抓拍，简洁网球服少女",
+  "summaryEn": "Boyfriend-perspective candid iPhone tennis snapshot of a girl in simple tennis wear",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2096132813120807024",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2096132813120807024",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "10组动作组合，总有一款你喜欢～\n\n🔵 GPT image 2 Prompt:\n\niPhone 手机生活抓拍，9:16竖幅；东亚INS女网红，白皙肌肤，夸张身材，自然生活状态。\n\n从以下10组中随机选择1组脸部表情＋手部动作：\n01｜😏似笑非笑＋🤏指尖轻触嘴角\n02｜😮突然惊讶＋🙌双手捂脸\n03｜😐面无表情＋☝️一根手指抵唇\n04｜😳突然愣住＋🫣双手遮半脸\n05｜😌慵懒放空＋🖐️手托下巴\n06｜😜调皮吐舌＋✌️剪刀手\n07｜🤔歪头思考＋👉手指轻点脸颊\n08｜😶冷淡直视＋🫰手指比心\n09｜😆忍不住笑＋🤭单手捂嘴\n10｜😮‍💨无奈叹气＋🤦🏻‍♀️单手扶额\n\n每张图独立随机选择，不继承上一张结果。\n\n随机元素，随机不同场景，随机镜头，随机韩系时髦日常服饰，以修身上衣、短款针织、吊带、短裙、牛仔短裤、简洁街头单品为主；随机氛围。围绕确认的表情＋手部动作自由发挥，保持随手捕捉般的瞬间感。\n\n左下签名“● DeepBlue”，●为纯 #0B3D91深蓝色，DeepBlue 为白色自然手写体。\n\n出图前，先和我确定选择动作。"
+    },
+    "id": "2098277846250922232",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2098277846250922232",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-11T05:09:57.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "zh",
+    "originalText": "为何网球服这么像拉拉队队服的，到底谁借鉴的谁？\n@grok \n\n🔵 GPT image 2.5 Prompt:\n\n像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。 https://t.co/TBEntMlzEc",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6UkI3aAAA3K4y.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6UkI3aAAA3K4y.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRb1rVqa0AAp7ph.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRb1rVqa0AAp7ph.jpg",
+        "sourcePostId": "2096132813120807024"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRb1rVsbEAAukJT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRb1rVsbEAAukJT.jpg",
+        "sourcePostId": "2096132813120807024"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRb1rYPbQAAwo06.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRb1rYPbQAAwo06.jpg",
+        "sourcePostId": "2096132813120807024"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRb1rVqbYAAVdvR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRb1rVqbYAAVdvR.jpg",
+        "sourcePostId": "2096132813120807024"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 482
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2098277846250922232",
+  "coverUrl": "https://pbs.twimg.com/media/HR6UkI3aAAA3K4y.jpg",
+  "coverPath": "images/2098277846250922232-1.jpg",
+  "imagePaths": [
+    "images/2098277846250922232-1.jpg",
+    "images/2098277846250922232-2.jpg",
+    "images/2098277846250922232-3.jpg",
+    "images/2098277846250922232-4.jpg",
+    "images/2098277846250922232-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR6UkI3aAAA3K4y",
+    "x-image:/media/HRb1rVqa0AAp7ph",
+    "x-image:/media/HRb1rVsbEAAukJT",
+    "x-image:/media/HRb1rYPbQAAwo06",
+    "x-image:/media/HRb1rVqbYAAVdvR",
+    "x-post:2098277846250922232",
+    "x-post:2096132813120807024"
+  ],
+  "analysis": {
+    "summary": "男朋友视角iPhone网球日常抓拍，简洁网球服少女",
+    "summaryEn": "Boyfriend-perspective candid iPhone tennis snapshot of a girl in simple tennis wear",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "第一张图片展示了身穿白色网球服在网球场拾球的年轻女孩，iPhone随手拍男友视角构图与Prompt完全相符。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。",
+    "sourceRange": {
+      "start": 57,
+      "end": 140
+    },
+    "translations": {
+      "zh": "像男朋友用 iPhone 随手拍下的网球日常：年轻成年女孩，穿简洁网球服和球鞋；每次随机捕捉她不同的动作、当下发生的瞬间和拍摄距离，像两个人相处时偶然留下的真实照片。",
+      "en": "Like tennis daily life casually shot by a boyfriend with an iPhone: young adult girl wearing a simple tennis outfit and sneakers; randomly capturing different actions, candid moments, and distances each time, like authentic photos taken naturally when two people are together."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图抓拍真实风格人像",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
