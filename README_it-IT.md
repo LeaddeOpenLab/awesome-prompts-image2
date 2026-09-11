@@ -603,7 +603,7 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 
 <a name="prompt-2098362443042803749"></a>
 
-### Traduzione in corso
+### Sequenza d'azione cinematografica di un assassino che combatte contro i cavalieri templari in una fortezza della Granada del XV secolo.
 
 Autore：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -611,14 +611,14 @@ Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 Post originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza d'azione cinematografica di un assassino che combatte contro i cavalieri templari in una fortezza della Granada del XV secolo.
 
 <img src="covers/2098362443042803749.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Nella Granada del XV secolo, un assassino solitario combatte contro decine di cavalieri templari d'élite tra le mura di una sterminata fortezza. Facendo affidamento su un taijutsu fulmineo, accelerazioni improvvise e precise deviazioni di spada, trasforma ogni fendente nemico in un devastante contrattacco. Una sequenza d'azione ad alto voltaggio di 30 secondi degna di un kolossal AAA, guidata da pura energia cinetica, tracking continuo da cinepresa IMAX e uno slancio di combattimento implacabile.
 ```
 
 [↑ Torna alle categorie](#catalog)

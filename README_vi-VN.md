@@ -635,7 +635,7 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 
 <a name="prompt-2098362443042803749"></a>
 
-### Đang dịch
+### Trường đoạn hành động đậm chất điện ảnh về một sát thủ chiến đấu với các hiệp sĩ Templar trong pháo đài Granada thế kỷ 15.
 
 Tác giả：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -643,14 +643,14 @@ Tác giả：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.c
 
 Bài gốc：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Trường đoạn hành động đậm chất điện ảnh về một sát thủ chiến đấu với các hiệp sĩ Templar trong pháo đài Granada thế kỷ 15.
 
 <img src="covers/2098362443042803749.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tại Granada thế kỷ 15, một sát thủ đơn độc chiến đấu qua hàng chục hiệp sĩ Templar tinh nhuệ bên trong những bức tường của một pháo đài rộng lớn. Dựa vào thể thuật nhanh như chớp, khả năng bứt tốc mạnh mẽ và những pha đỡ đòn gạt kiếm chuẩn xác, anh biến mọi đòn tấn công của kẻ thù thành một pha phản công tàn khốc. Một trường đoạn hành động bom tấn AAA dài 30 giây kịch tính tột độ, được thúc đẩy bởi động năng thuần túy, những cú lia máy IMAX theo sát liên tục và nhịp độ chiến đấu không ngừng nghỉ.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -603,7 +603,7 @@ Portrait haute résolution d'un homme sud-asiatique de 23 ans aux yeux fermés e
 
 <a name="prompt-2098362443042803749"></a>
 
-### Traduction en cours
+### Séquence d'action cinématographique d'un assassin combattant des chevaliers templiers dans une forteresse de Grenade au XVe siècle.
 
 Auteur：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -611,14 +611,14 @@ Image cinématographique / Photogramme de film · Publié
 
 Publication originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence d'action cinématographique d'un assassin combattant des chevaliers templiers dans une forteresse de Grenade au XVe siècle.
 
 <img src="covers/2098362443042803749.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Dans la Grenade du XVe siècle, un assassin solitaire affronte des dizaines de chevaliers templiers d'élite au sein des murs d'une immense forteresse. S'appuyant sur un taijutsu fulgurant, des accélérations explosives et des parades d'épée d'une précision chirurgicale, il transforme chaque coup ennemi en une contre-attaque dévastatrice. Une séquence d'action de 30 secondes digne d'un blockbuster AAA à haute intensité, portée par une énergie cinétique brute, un travelling continu en caméra IMAX et un élan de combat implacable.
 ```
 
 [↑ Retour aux catégories](#catalog)

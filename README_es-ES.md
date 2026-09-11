@@ -635,7 +635,7 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 
 <a name="prompt-2098362443042803749"></a>
 
-### Traducción en curso
+### Secuencia de acción cinematográfica de un asesino luchando contra caballeros templarios en una fortaleza de la Granada del siglo XV.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -643,14 +643,14 @@ Cine / Fotograma de película · Publicado
 
 Publicación original：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de acción cinematográfica de un asesino luchando contra caballeros templarios en una fortaleza de la Granada del siglo XV.
 
 <img src="covers/2098362443042803749.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+En la Granada del siglo XV, un asesino solitario se abre paso luchando contra decenas de caballeros templarios de élite dentro de los muros de una vasta fortaleza. Valiéndose de un taijutsu ultrarrápido, aceleraciones explosivas y desvíos de espada milimétricos, convierte cada ataque enemigo en un contraataque devastador. Una secuencia de acción de 30 segundos digna de un taquillazo AAA de alto octanaje, impulsada por pura energía cinética, un seguimiento continuo de cámara IMAX y un ritmo de combate implacable.
 ```
 
 [↑ Volver a categorías](#catalog)

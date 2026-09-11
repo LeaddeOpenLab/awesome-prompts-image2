@@ -613,7 +613,7 @@ Gözleri kapalı ve başı dingin bir ifadeyle geriye eğilmiş, dağınık siya
 
 <a name="prompt-2098362443042803749"></a>
 
-### Çeviri sürüyor
+### 15. yüzyıl Granada kalesinde Tapınak Şövalyeleri ile savaşan bir suikastçının sinematik aksiyon sekansı.
 
 Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -621,14 +621,14 @@ Sinematik / Film Karesi · Yayımlandı
 
 Orijinal gönderi：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Özet:** Çeviri sürüyor
+**Özet:** 15. yüzyıl Granada kalesinde Tapınak Şövalyeleri ile savaşan bir suikastçının sinematik aksiyon sekansı.
 
 <img src="covers/2098362443042803749.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+15. yüzyıl Granada'sında, yalnız bir suikastçı devasa bir kalenin surları içinde onlarca seçkin Tapınak Şövalyesi'ne karşı savaşıyor. Şimşek hızındaki Taijutsu'suna, anlık patlayıcı hızlanmalarına ve kusursuz kılıç saptırmalarına güvenerek, düşmanın her saldırısını yıkıcı bir karşı darbeye dönüştürüyor. Saf kinetik enerji, kesintisiz IMAX kamera takibi ve dur durak bilmeyen bir çatışma ivmesiyle yönlendirilen, yüksek tempolu 30 saniyelik bir AAA gişe canavarı aksiyon sekansı.
 ```
 
 [↑ Kategorilere dön](#catalog)

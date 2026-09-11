@@ -603,7 +603,7 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 
 <a name="prompt-2098362443042803749"></a>
 
-### Übersetzung läuft
+### Filmische Actionsequenz eines Assassinen, der in einer Festung im Granada des 15. Jahrhunderts gegen Templerritter kämpft.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2098362443042803749)
 
@@ -611,14 +611,14 @@ Kinematisch / Filmstill · Veröffentlicht
 
 Originalbeitrag：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2097579893017989538)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Actionsequenz eines Assassinen, der in einer Festung im Granada des 15. Jahrhunderts gegen Templerritter kämpft.
 
 <img src="covers/2098362443042803749.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Im Granada des 15. Jahrhunderts kämpft sich ein einsamer Assassine innerhalb der Mauern einer weitläufigen Festung durch Dutzende von Elite-Templerrittern. Mit blitzschnellem Taijutsu, explosionsartigen Beschleunigungen und präzisen Schwertparaden verwandelt er jeden gegnerischen Schlag in einen verheerenden Konter. Eine hochexplosive, 30-sekündige AAA-Blockbuster-Actionsequenz, getragen von roher kinetischer Energie, kontinuierlicher IMAX-Kameraverfolgung und unerbittlicher Kampfdynamik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
