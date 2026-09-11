@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**66** Prompts · Última incorporación: **2026-09-11**
+**67** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098277612053561383"></a>
 
-### Traducción en curso
+### Fotografía artística surrealista de una orilla de sal blanca y rosada con agua de mar en degradado de rojo coral a azul oscuro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277612053561383)
 
 Fotografía · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía artística surrealista de una orilla de sal blanca y rosada con agua de mar en degradado de rojo coral a azul oscuro.
 
 <img src="images/2098277612053561383-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Crea una fotografía artística surrealista en color en formato vertical 3:4. Una costa desierta sin personas, el cuarto superior es un cielo azul cobalto grisáceo uniforme, con una orilla lejana de color rosa pálido sumamente fina que cruza un horizonte elevado. Una pared costera salina de color blanco rosáceo se extiende desde la izquierda hacia el primer plano inferior, con granos cristalinos rugosos, grava suelta y bordes erosionados de forma natural claramente visibles, formando una costa de curva suave y asimétrica. Las aguas poco profundas cerca de la orilla muestran un intenso rojo coral, bermellón y rosa, con unas pocas olas finas y rotas que avanzan en diagonal hacia la parte inferior derecha, pasando gradualmente al agua marina azul de Prusia oscuro de la derecha; el agua tiene una transparencia realista, ondas finas y reflejos, sin parecer pintura ni lava. Luz lateral de día soleado, luces altas blanco-rosáceas que conservan los detalles, grandes bloques limpios de color en contraste con texturas microscópicas reales, grano de película fino, sensación de impresión mate, silenciosa, extraña, ardiente y a la vez fría. Fotografía a sangre completa, sin texto, bordes, logotipos ni marcas de agua.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Traducción en curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277688498880901)
+
+Fotografía · Retrato / Selfie · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098277688498880901-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 

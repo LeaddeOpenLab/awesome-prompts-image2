@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**66** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**67** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098277612053561383"></a>
 
-### Übersetzung läuft
+### Surreale Kunstfotografie eines rosa-weißen Salzufers und Meerwassers mit Farbverlauf von Korallenrot zu Dunkelblau.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277612053561383)
 
 Fotografie · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Surreale Kunstfotografie eines rosa-weißen Salzufers und Meerwassers mit Farbverlauf von Korallenrot zu Dunkelblau.
 
 <img src="images/2098277612053561383-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Erstelle eine surreale Farb-Kunstfotografie im Hochformat 3:4. Eine menschenleere, weite Küste, das obere Viertel besteht aus einem gleichmäßigen grau-kobaltblauen Himmel, durchzogen von einem extrem feinen, blassrosa fernen Ufer entlang des hohen Horizonts. Ein rosa-weißer Salz-Klippenrand erstreckt sich von links bis in den unteren Vordergrund, wobei raue Kristallkörner, loser Kies und natürliche Erosionskanten deutlich sichtbar sind; die Uferlinie bildet einen sanften, asymmetrischen Bogen. Das seichte Wasser in Ufernähe zeigt ein kräftiges Korallenrot, Zinnoberrot und Rosa, während einige zarte, brechende Wellen diagonal nach rechts unten rollen und allmählich in das dunkle preußischblaue Meerwasser auf der rechten Seite übergehen; das Wasser besitzt echte Transparenz, feine Wellen und Reflexionen, ohne wie Farbe oder Lava zu wirken. Sonniges Seitenlicht, rosa-weiße Lichter mit erhaltenen Details, saubere große Farbflächen im Kontrast zu echten mikroskopischen Texturen, feines Filmkorn, matte Druckoptik, still, fremdartig, glühend und doch kühl. Randlose Fotografie, kein Text, Rahmen, Logo oder Wasserzeichen.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Übersetzung läuft
+
+Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277688498880901)
+
+Fotografie · Porträt / Selfie · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098277688498880901-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 

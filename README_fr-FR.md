@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**66** Prompts · Dernier ajout: **2026-09-11**
+**67** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098277612053561383"></a>
 
-### Traduction en cours
+### Photographie d'art surréaliste d'un rivage de sel blanc rosé et d'une eau de mer dégradée du rouge corail au bleu profond.
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277612053561383)
 
 Photographie · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photographie d'art surréaliste d'un rivage de sel blanc rosé et d'une eau de mer dégradée du rouge corail au bleu profond.
 
 <img src="images/2098277612053561383-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Créez une photographie d'art couleur surréaliste au format portrait 3:4. Une côte déserte sans aucune silhouette humaine, le quart supérieur est un ciel bleu cobalt grisâtre uniforme, traversé sur une ligne d'horizon élevée par un rivage lointain rose pâle extrêmement fin. Une falaise côtière saline blanc rosé s'étend de la gauche vers le premier plan inférieur, avec des grains cristallins rugueux, du gravier meuble et des bords érodés naturels clairement visibles, le littoral formant une courbe douce et asymétrique. Les eaux peu profondes près du rivage affichent un rouge corail, un vermillon et un rose intenses, quelques vagues fines déferlant en diagonale vers le bas à droite, pour se fondre progressivement dans l'eau de mer bleu de Prusse foncé sur la droite ; l'eau possède une transparence réelle, de fines ondulations et des reflets, sans ressembler à de la peinture ou de la lave. Lumière latérale de jour ensoleillé, hautes lumières blanc rosé préservant les détails, grands aplats de couleur nets contrastant avec des microtextures réelles, grain argentique fin, aspect d'impression mate, calme, étrange, ardent et glacial à la fois. Photographie plein cadre, sans texte, bordure, logo ni filigrane.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277688498880901)
+
+Photographie · Portrait / Selfie · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098277688498880901-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 

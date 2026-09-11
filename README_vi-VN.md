@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**66** Prompt · Bổ sung mới nhất: **2026-09-11**
+**67** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098277612053561383"></a>
 
-### Đang dịch
+### Nhiếp ảnh nghệ thuật siêu thực về bờ muối trắng hồng cùng làn nước biển chuyển màu từ đỏ san hô sang xanh thẫm.
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277612053561383)
 
 Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nhiếp ảnh nghệ thuật siêu thực về bờ muối trắng hồng cùng làn nước biển chuyển màu từ đỏ san hô sang xanh thẫm.
 
 <img src="images/2098277612053561383-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Tạo một bức ảnh nghệ thuật màu siêu thực định dạng dọc 3:4. Bờ biển vắng lặng không một bóng người, một phần tư phía trên là bầu trời xanh coban xám đồng nhất, một đường bờ biển xa xôi màu hồng nhạt cực kỳ thanh mảnh vắt ngang đường chân trời ở vị trí cao. Vách đá muối màu trắng hồng trải dài từ bên trái xuống tiền cảnh phía dưới, những hạt tinh thể thô ráp, sỏi rời và các cạnh xói mòn tự nhiên hiện rõ mồn một, đường bờ biển tạo thành một đường cong bất đối xứng mềm mại. Vùng nước nông gần bờ có màu đỏ san hô, đỏ chu sa và hồng đậm đà, vài con sóng nhỏ lăn tăn mảnh mai tiến chéo xuống góc dưới bên phải, chuyển tiếp dần sang màu nước biển xanh Phổ đậm ở bên phải; nước có độ trong suốt chân thực, gợn sóng li ti và ánh phản chiếu, không giống như sơn hay dung nham. Ánh sáng xiên vào ngày nắng, các vùng sáng trắng hồng vẫn giữ được chi tiết, các mảng màu sạch sẽ tương phản với kết cấu vi mô chân thực, hạt phim mịn màng, cảm giác in mờ, tĩnh lặng xa lạ, nồng nhiệt mà lạnh lùng. Ảnh tràn viền, không có chữ, khung viền, logo hoặc hình mờ.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Đang dịch
+
+Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277688498880901)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098277688498880901-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 

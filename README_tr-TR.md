@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**66** Prompt · Son eklenen: **2026-09-11**
+**67** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098277612053561383"></a>
 
-### Çeviri sürüyor
+### Pembe-beyaz tuz kıyısı ve mercan kırmızısından koyu maviye geçişli deniz suyunun gerçeküstü sanat fotoğrafı.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277612053561383)
 
 Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pembe-beyaz tuz kıyısı ve mercan kırmızısından koyu maviye geçişli deniz suyunun gerçeküstü sanat fotoğrafı.
 
 <img src="images/2098277612053561383-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+3:4 dikey formatta gerçeküstü bir renkli sanat fotoğrafı oluşturun. İnsansız, ıssız bir sahil; üst dörtte birlik kısım homojen gri-kobalt mavisi bir gökyüzü olup, yüksek ufuk çizgisini son derece ince, açık pembe uzak bir kıyı şeridi kesmektedir. Pembe-beyaz tuzlu kıyı falezleri sol taraftan alt ön plana doğru uzanır; pürüzlü kristal taneleri, gevşek çakıllar ve doğal erozyona uğramış kenarlar net bir şekilde görünür, kıyı çizgisi yumuşak ve asimetrik bir kavis çizer. Kıyıya yakın sığ sular zengin mercan kırmızısı, zencefre ve pembe tonlarındadır; birkaç ince kırılan dalga sağ alta doğru çaprazlama ilerleyerek sağdaki koyu Prusya mavisi deniz suyuna yumuşak bir geçiş yapar; su boya veya lav gibi değil, gerçekçi bir şeffaflığa, ince dalgacıklara ve yansımalara sahiptir. Güneşli bir günün yan ışığı, detayları korunan pembe-beyaz parlak alanlar, gerçek mikro dokularla tezat oluşturan temiz geniş renk blokları, ince film greni, mat baskı hissi; sessiz, yabancı, yakıcı ama aynı zamanda serin. Kenarlıksız tam boy fotoğraf; yazı, çerçeve, logo veya filigran içermez.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277688498880901)
+
+Fotoğrafçılık · Portre / Selfie · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098277688498880901-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 

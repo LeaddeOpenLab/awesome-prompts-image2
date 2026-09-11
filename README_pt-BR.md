@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**66** Prompts · Última adição: **2026-09-11**
+**67** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098277612053561383"></a>
 
-### Tradução em andamento
+### Fotografia artística surrealista de uma costa de sal branca-rosada e água do mar em degradê de vermelho-coral a azul-escuro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277612053561383)
 
 Fotografia · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Fotografia artística surrealista de uma costa de sal branca-rosada e água do mar em degradê de vermelho-coral a azul-escuro.
 
 <img src="images/2098277612053561383-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Crie uma fotografia artística colorida e surrealista em formato vertical 3:4. Uma costa vazia sem pessoas, o quarto superior é um céu uniforme em azul-cobalto acinzentado, com uma orla distante rosa-claro extremamente fina cruzando um horizonte alto. Uma encosta costeira salina branca-rosada se estende da esquerda até o primeiro plano inferior, com grãos cristalinos ásperos, cascalho solto e bordas naturalmente erodidas nitidamente visíveis, formando uma linha costeira em curva suave e assimétrica. A água rasa perto da margem tem tons intensos de vermelho-coral, vermelhão e rosa, com algumas ondas finas avançando diagonalmente para o canto inferior direito, fazendo uma transição gradual para a água do mar em azul-da-Prússia escuro à direita; a água tem transparência realista, pequenas ondulações e reflexos, sem parecer tinta ou lava. Luz lateral de dia ensolarado, realces branco-rosados com detalhes preservados, grandes blocos de cores limpas em contraste com microtexturas reais, grão de filme fino, sensação de impressão fosca, silenciosa, estranha, ardente e fria. Fotografia sem bordas (full-bleed), sem texto, molduras, logos ou marcas d'água.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Tradução em andamento
+
+Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277688498880901)
+
+Fotografia · Retrato / Selfie · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098277688498880901-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 

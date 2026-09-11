@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**66** Prompt · Ultima aggiunta: **2026-09-11**
+**67** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098277612053561383"></a>
 
-### Traduzione in corso
+### Fotografia artistica surrealista di una riva di sale bianco-rosata e acqua di mare sfumata dal rosso corallo al blu scuro.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277612053561383)
 
 Fotografia · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotografia artistica surrealista di una riva di sale bianco-rosata e acqua di mare sfumata dal rosso corallo al blu scuro.
 
 <img src="images/2098277612053561383-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Crea una fotografia artistica surrealista a colori in formato verticale 3:4. Una costa deserta senza figure umane, il quarto superiore è un cielo uniforme blu cobalto grigiastro, con una riva lontana rosa pallido estremamente sottile che attraversa un orizzonte alto. Una scogliera costiera salina bianco-rosata si estende da sinistra fino al primo piano inferiore, con granuli cristallini ruvidi, ghiaia sciolta e bordi erosi naturali chiaramente visibili; la linea di costa forma una curva asimmetrica e morbida. Le acque poco profonde vicino alla riva presentano tonalità intense di rosso corallo, vermiglio e rosa, con poche e sottili onde frangenti che avanzano diagonalmente verso il basso a destra, passando gradualmente all'acqua di mare blu di Prussia scuro sulla destra; l'acqua ha una trasparenza reale, increspature fini e riflessi, senza sembrare pittura o lava. Luce laterale di una giornata soleggiata, alte luci bianco-rosate che conservano i dettagli, grandi campiture pulite di colore a contrasto con microstrutture reali, grana della pellicola fine, resa di stampa opaca, silenziosa, estranea, ardente e al tempo stesso fredda. Fotografia a tutta pagina, senza testo, bordi, loghi o filigrane.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Traduzione in corso
+
+Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277688498880901)
+
+Fotografia · Ritratto / Selfie · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098277688498880901-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**66** Prompts · Latest addition: **2026-09-11**
+**67** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -49,6 +49,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Create a 3:4 vertical surreal color art photograph. An empty coast without people, with the upper quarter featuring a uniform grayish cobalt blue sky and an extremely thin light pink distant shore traversing the high horizon. A pinkish-white saline shore bank extends from the left down to the foreground, with coarse crystalline grains, loose gravel, and naturally eroded edges clearly visible, the shoreline forming a gentle, asymmetrical arc. The shallow waters near the shore are a rich coral red, vermilion, and pink, with several slender breaking ripples advancing diagonally toward the lower right, gradually transitioning into the deep Prussian blue sea on the right; the water has realistic transparency, fine ripples, and reflections, not resembling paint or lava. Sunny side-lighting, pinkish-white highlights that retain detail, clean large color blocks contrasted with authentic microscopic textures, delicate film grain, a matte print feel, quiet, unfamiliar, blazing yet cool. Full-bleed photograph, no text, borders, logos, or watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Surreal red-coated piebald horse portrait photography against a pure blue sky background.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2098277688498880901)
+
+Photography · Portrait / Selfie · Abstract / Background · Published
+
+**Summary:** Surreal red-coated piebald horse portrait photography against a pure blue sky background.
+
+<img src="images/2098277688498880901-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 3:4 vertical surreal animal portrait art photograph. A low-angle shot of a robust piebald horse's head, neck, and shoulder-chest, with the body naturally cropped at the bottom and right side. The horse's head is positioned in the lower-middle, turned to the left in a three-quarter profile, with ears naturally erect, and deep black, moist eyes showing subtle reflections. The upper third is left with a cloudless, pure cobalt blue sky. The coat color features detailed surreal recoloring: primarily rich brick red and coral red, with large irregular pinkish-white patches from the bridge of the nose to the muzzle, and sparse deep blue accents between the red and white patches on the shoulder and chest. The long mane is swept to the left by a strong wind blowing from the right, with slender overlapping strands where bright red hairs interweave with deep burgundy shadows, partially cascading down the neck. Realistic details of short coat, nostrils, whiskers, and musculature. Bright natural side lighting, dense and layered shadows, sharp photography freezing a split second, subtle film grain and matte tones, evoking a wild, free, vivid fashion editorial feel. No harness, humans, text, logo, or watermark.
 ```
 
 [↑ Back to categories](#catalog)

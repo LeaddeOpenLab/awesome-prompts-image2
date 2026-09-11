@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**66** Prompts · Última incorporación: **2026-09-11**
+**67** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,15 +35,37 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098277612053561383"></a>
 
-### Traducción en curso
+### Fotografía artística surrealista de una orilla de sal blanca y rosada con agua marina en degradado de rojo coral a azul oscuro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277612053561383)
 
 Fotografía · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía artística surrealista de una orilla de sal blanca y rosada con agua marina en degradado de rojo coral a azul oscuro.
 
 <img src="images/2098277612053561383-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Crea una fotografía artística surrealista en color en formato vertical 3:4. Una costa solitaria sin personas, el cuarto superior es un cielo azul cobalto grisáceo uniforme, con una orilla lejana de color rosa pálido sumamente delgada que cruza un horizonte alto. Una pared costera salina de color blanco rosado se extiende desde la izquierda hacia el primer plano inferior, con granos cristalinos ásperos, grava suelta y bordes erosionados naturalmente bien visibles, formando una línea costera de curva suave y asimétrica. Las aguas poco profundas cerca de la orilla muestran un intenso rojo coral, bermellón y rosa, con unas pocas olas delgadas que avanzan en diagonal hacia abajo a la derecha, pasando gradualmente al agua marina azul de Prusia oscuro de la derecha; el agua tiene una transparencia realista, finas ondas y reflejos, sin parecer pintura ni lava. Luz lateral de día soleado, luces altas blanco-rosadas que conservan los detalles, grandes bloques de color limpios en contraste con texturas microscópicas reales, grano de película fino, aspecto de impresión mate, silenciosa, extraña, ardiente pero fría. Fotografía a sangre completa, sin texto, bordes, logotipos ni marcas de agua.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098277688498880901"></a>
+
+### Traducción en curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277688498880901)
+
+Fotografía · Retrato / Selfie · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098277688498880901-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
