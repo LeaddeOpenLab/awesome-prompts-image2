@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**67** Prompts · Latest addition: **2026-09-11**
+**68** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098277829154951371"></a>
+
+### Seaside fine art photography featuring an asymmetrical composition with a coral-pink sailboat anchored in a quiet, deserted bay, framed by a pine tree on the right.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2098277829154951371)
+
+Photography · Vehicle · Published
+
+**Summary:** Seaside fine art photography featuring an asymmetrical composition with a coral-pink sailboat anchored in a quiet, deserted bay, framed by a pine tree on the right.
+
+<img src="images/2098277829154951371-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 3:4 vertical seaside fine art photograph. A tranquil, deserted bay with a clear gray-blue sky occupying the upper seventy percent, and a straight deep blue horizon below. A realistic small monohull sailboat is anchored slightly to the left of the lower-middle section, its slender mast extending into the sky, its coral-pink triangular sail gently billowed with believable canvas stitching and tension, a narrow deep-blue strip at the foot of the sail, a pinkish-white cabin, pitch-black windows, a coral-red lower hull, and plausible thin rigging. The calm teal-blue water surface has fine horizontal ripples and soft, fragmented pink reflections. On the right side, a dark pine tree creates an asymmetrical frame, with its trunk rising from the lower right and its canopy reaching in from the upper right, the needles showing sparse dark reddish-pink daylight highlights while preserving a vast expanse of sky. At the very bottom is a strip of fine pinkish-white sand beach with faint tree shadows. Realistic hull, tree bark, pine needles, and seawater, crisp daylight, deep shadows, subtle film grain, understated matte print texture, surreal colors yet believable spatial depth, quiet, lingering, dreamlike, and detached. No people, text, logo, or watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098277612053561383"></a>
 

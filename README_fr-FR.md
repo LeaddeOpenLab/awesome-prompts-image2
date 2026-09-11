@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**67** Prompts · Dernier ajout: **2026-09-11**
+**68** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098277829154951371"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277829154951371)
+
+Photographie · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098277829154951371-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098277612053561383"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**67** Prompt · Son eklenen: **2026-09-11**
+**68** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098277829154951371"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277829154951371)
+
+Fotoğrafçılık · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098277829154951371-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098277612053561383"></a>
 
