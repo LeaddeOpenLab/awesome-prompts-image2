@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:17:49.488Z",
+  "model": "image2.5",
+  "prompt": "创作一张 3:4 竖屏超现实动物肖像艺术摄影。低机位拍摄健壮花斑马的头部、颈部与肩胸，身体在底部及右侧自然裁切，马头位于中下部向左转为四分之三侧面，双耳自然竖立，深黑湿润眼睛有微小反光。上方三分之一留无云纯净钴蓝天空。毛色精细超现实换色，主体浓郁砖红和珊瑚红，鼻梁至口鼻大块粉白不规则斑纹，肩胸红白斑间少量深蓝。长鬃毛被从右吹来的强风向左舒展，细长发丝交叠，亮红发丝与深酒红阴影交织，局部垂落颈部。短毛、鼻孔、胡须和肌肉细节真实。明亮自然侧光，浓密有层次暗部，凝固瞬间的清晰摄影，轻微胶片颗粒和哑光色调，野性自由鲜明的时尚编辑感。无马具、人物、文字、logo或水印。",
+  "promptTranslations": {
+    "en": "Create a 3:4 vertical surreal animal portrait art photograph. A low-angle shot of a robust piebald horse's head, neck, and shoulder-chest, with the body naturally cropped at the bottom and right side. The horse's head is positioned in the lower-middle, turned to the left in a three-quarter profile, with ears naturally erect, and deep black, moist eyes showing subtle reflections. The upper third is left with a cloudless, pure cobalt blue sky. The coat color features detailed surreal recoloring: primarily rich brick red and coral red, with large irregular pinkish-white patches from the bridge of the nose to the muzzle, and sparse deep blue accents between the red and white patches on the shoulder and chest. The long mane is swept to the left by a strong wind blowing from the right, with slender overlapping strands where bright red hairs interweave with deep burgundy shadows, partially cascading down the neck. Realistic details of short coat, nostrils, whiskers, and musculature. Bright natural side lighting, dense and layered shadows, sharp photography freezing a split second, subtle film grain and matte tones, evoking a wild, free, vivid fashion editorial feel. No harness, humans, text, logo, or watermark."
+  },
+  "summaryTranslations": {
+    "en": "Surreal red-coated piebald horse portrait photography against a pure blue sky background."
+  },
+  "translationVersion": 2,
+  "summary": "超现实红毛斑纹马匹肖像摄影，纯净蓝天背景。",
+  "summaryEn": "Surreal portrait photograph of a red-and-white patterned horse under a blue sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098277688498880901",
+    "canonicalUrl": "https://x.com/listudio/status/2098277688498880901",
+    "author": {
+      "username": "listudio",
+      "displayName": "leolee",
+      "profileUrl": "https://x.com/listudio"
+    },
+    "publishedAt": "2026-09-11T05:09:19.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "zh",
+    "originalText": "#AIArt #photographie \n\nMade by GPT Image 2.5  ➡️ https://t.co/pfafZV9Bzt.\n----\nprompt：\n\n创作一张 3:4 竖屏超现实动物肖像艺术摄影。低机位拍摄健壮花斑马的头部、颈部与肩胸，身体在底部及右侧自然裁切，马头位于中下部向左转为四分之三侧面，双耳自然竖立，深黑湿润眼睛有微小反光。上方三分之一留无云纯净钴蓝天空。毛色精细超现实换色，主体浓郁砖红和珊瑚红，鼻梁至口鼻大块粉白不规则斑纹，肩胸红白斑间少量深蓝。长鬃毛被从右吹来的强风向左舒展，细长发丝交叠，亮红发丝与深酒红阴影交织，局部垂落颈部。短毛、鼻孔、胡须和肌肉细节真实。明亮自然侧光，浓密有层次暗部，凝固瞬间的清晰摄影，轻微胶片颗粒和哑光色调，野性自由鲜明的时尚编辑感。无马具、人物、文字、logo或水印。\n\n----\nMade by ➡️ https://t.co/pfafZV9Bzt.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6UZ6PaAAE3X-n.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6UZ6PaAAE3X-n.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 33
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/listudio/status/2098277688498880901",
+  "coverUrl": "https://pbs.twimg.com/media/HR6UZ6PaAAE3X-n.jpg",
+  "coverPath": "images/2098277688498880901-1.jpg",
+  "imagePaths": [
+    "images/2098277688498880901-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR6UZ6PaAAE3X-n",
+    "x-post:2098277688498880901"
+  ],
+  "analysis": {
+    "summary": "超现实红毛斑纹马匹肖像摄影，纯净蓝天背景。",
+    "summaryEn": "Surreal portrait photograph of a red-and-white patterned horse under a blue sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面呈现低机位拍摄的红白斑纹马，鬃毛随风向左飞舞，带有深蓝点缀，背景为纯净深蓝天空，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "创作一张 3:4 竖屏超现实动物肖像艺术摄影。低机位拍摄健壮花斑马的头部、颈部与肩胸，身体在底部及右侧自然裁切，马头位于中下部向左转为四分之三侧面，双耳自然竖立，深黑湿润眼睛有微小反光。上方三分之一留无云纯净钴蓝天空。毛色精细超现实换色，主体浓郁砖红和珊瑚红，鼻梁至口鼻大块粉白不规则斑纹，肩胸红白斑间少量深蓝。长鬃毛被从右吹来的强风向左舒展，细长发丝交叠，亮红发丝与深酒红阴影交织，局部垂落颈部。短毛、鼻孔、胡须和肌肉细节真实。明亮自然侧光，浓密有层次暗部，凝固瞬间的清晰摄影，轻微胶片颗粒和哑光色调，野性自由鲜明的时尚编辑感。无马具、人物、文字、logo或水印。",
+    "sourceRange": {
+      "start": 88,
+      "end": 371
+    },
+    "translations": {
+      "zh": "创作一张 3:4 竖屏超现实动物肖像艺术摄影。低机位拍摄健壮花斑马的头部、颈部与肩胸，身体在底部及右侧自然裁切，马头位于中下部向左转为四分之三侧面，双耳自然竖立，深黑湿润眼睛有微小反光。上方三分之一留无云纯净钴蓝天空。毛色精细超现实换色，主体浓郁砖红和珊瑚红，鼻梁至口鼻大块粉白不规则斑纹，肩胸红白斑间少量深蓝。长鬃毛被从右吹来的强风向左舒展，细长发丝交叠，亮红发丝与深酒红阴影交织，局部垂落颈部。短毛、鼻孔、胡须和肌肉细节真实。明亮自然侧光，浓密有层次暗部，凝固瞬间的清晰摄影，轻微胶片颗粒和哑光色调，野性自由鲜明的时尚编辑感。无马具、人物、文字、logo或水印。",
+      "en": "Create a 3:4 vertical surreal animal portrait photograph. Low angle shot of the head, neck, and shoulder of a robust pinto horse, naturally cropped at the bottom and right. The horse's head turns left in three-quarter view, with alert ears and dark glistening eyes. Pure cobalt blue sky above. The coat features surreal recoloring in rich brick red and coral with pinkish-white patches and deep blue accents on the chest. Long vibrant red mane flows in the wind. Natural side lighting, matte film grain, wild and editorial."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "超现实红毛花斑马肖像摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
