@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**63** Prompts · Latest addition: **2026-09-11**
+**64** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1341,6 +1341,28 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098256551425319223"></a>
+
+### A fantasy incantation-style prompt summoning a double-edged sword imbued with the power of dragon scales and flashes of light.
+
+Author：[@0Narasan](https://x.com/0Narasan) · [Source](https://x.com/0Narasan/status/2098256551425319223)
+
+Animal / Creature · Published
+
+**Summary:** A fantasy incantation-style prompt summoning a double-edged sword imbued with the power of dragon scales and flashes of light.
+
+<img src="images/2098256551425319223-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+"Hear the pulse of the sleeping dragon at the edge of the void. Horn that pierces the heavens, fountainhead of magic that scorches all creation.\nBy the seal of the covenant, I command.\nGather upon my right arm, one-handed yet double-edged, the free and absolute condemner.\nHarbor the protection of dragon scales upon your blade, and turn the roar of ruin into a flash of light. Come forth and pass judgment——"
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098277846250922232"></a>
 

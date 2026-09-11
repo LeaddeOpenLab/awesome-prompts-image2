@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**63** Prompts · Dernier ajout: **2026-09-11**
+**64** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1404,6 +1404,28 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098256551425319223"></a>
+
+### Traduction en cours
+
+Auteur：[@0Narasan](https://x.com/0Narasan) · [Publication originale](https://x.com/0Narasan/status/2098256551425319223)
+
+Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098256551425319223-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098277846250922232"></a>
 

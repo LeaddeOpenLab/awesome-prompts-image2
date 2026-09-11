@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**63** Prompts · Última adição: **2026-09-11**
+**64** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1389,6 +1389,28 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098256551425319223"></a>
+
+### Tradução em andamento
+
+Autor：[@0Narasan](https://x.com/0Narasan) · [Publicação original](https://x.com/0Narasan/status/2098256551425319223)
+
+Animal / Criatura · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098256551425319223-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098277846250922232"></a>
 
