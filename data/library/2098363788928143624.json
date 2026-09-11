@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:23:07.939Z",
+  "model": "image2.5",
+  "prompt": "{\n  \"type\": \"爆炸圖產品海報\",\n  \"subject\": \"氣泡茶飲料罐\",\n  \"style\": \"乾淨高科技3D渲染、棚拍燈光、微發光細節\",\n  \"background\": \"柔和粉橘與淺米色漸層\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"垂直堆疊爆炸圖，完整展示氣泡烏龍茶罐的9個結構層次：外層鋁罐本體、頂蓋拉環、印刷標籤層、內壁塗層、氣泡液體本體、底部凹槽結構、無糖配方核心、清香烏龍茶精華層、底部防滑設計。\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"無糖配方\\n零負擔的清爽口感，讓每一口都輕盈自在。\",\n        \"氣泡結構\\n細緻綿密的氣泡，帶來清新暢快的口感層次。\",\n        \"清香烏龍茶精華\\n精選烏龍茶葉，保留自然茶香與回甘。\"\n      ],\n      \"right_side\": [\n        \"高品質鋁罐本體\\n輕量耐用，完美鎖住新鮮風味。\",\n        \"頂蓋拉環設計\\n方便開啟，提升使用體驗。\",\n        \"漸層視覺標籤\\n粉橘到米白的柔和配色，營造清新氛圍。\",\n        \"330ml 適量容量\\n隨身攜帶剛好，隨時刷新美好時刻。\",\n        \"底部穩固結構\\n防滑設計，放置更安心。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"清新，從結構開始。\",\n        \"body\": \"每一層結構都經過精心設計，從無糖配方到清香烏龍茶精華，PUBBLE 以細緻工藝與自然風味，帶來純粹的清爽體驗。\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}",
+  "promptTranslations": {
+    "en": "{\n  \"type\": \"Exploded view product poster\",\n  \"subject\": \"Sparkling tea beverage can\",\n  \"style\": \"Clean high-tech 3D render, studio lighting, subtle glowing details\",\n  \"background\": \"Soft pastel orange and light beige gradient\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"Vertically stacked exploded view, fully displaying the 9 structural layers of the sparkling oolong tea can: outer aluminum can body, top lid pull tab, printed label layer, inner wall lining, sparkling liquid core, bottom concave structure, sugar-free formula core, delicate fragrance oolong tea essence layer, bottom anti-slip design.\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Sugar-Free Formula\\nZero-burden refreshing taste, making every sip light and effortless.\",\n        \"Sparkling Carbonation Structure\\nFine, dense bubbles delivering crisp, exhilarating textural layers.\",\n        \"Delicate Fragrance Oolong Tea Essence\\nCarefully selected oolong tea leaves, preserving natural tea aroma and sweet aftertaste.\"\n      ],\n      \"right_side\": [\n        \"High-Quality Aluminum Can Body\\nLightweight and durable, perfectly locking in fresh flavor.\",\n        \"Top Lid Pull Tab Design\\nEasy to open, enhancing the user experience.\",\n        \"Gradient Visual Label\\nSoft pastel orange to off-white color scheme, creating a fresh atmosphere.\",\n        \"330ml Optimal Capacity\\nJust right to carry around, refreshing wonderful moments anytime.\",\n        \"Bottom Stable Structure\\nAnti-slip design for secure placement.\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"Freshness, starting from the structure.\",\n        \"body\": \"Every layer of structure is meticulously designed; from the sugar-free formula to the delicate fragrance oolong tea essence, PUBBLE brings a pure and refreshing experience through refined craftsmanship and natural flavor.\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}"
+  },
+  "summaryTranslations": {
+    "en": "Structured prompt for an exploded view product poster of a sparkling oolong tea beverage can."
+  },
+  "translationVersion": 2,
+  "summary": "氣泡烏龍茶飲料罐的爆炸圖產品海報結構化提示詞。",
+  "summaryEn": "Structured prompt for an exploded-view product poster of a sparkling tea beverage can.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098363788928143624",
+    "canonicalUrl": "https://x.com/luo24853969/status/2098363788928143624",
+    "author": {
+      "username": "luo24853969",
+      "displayName": "koala",
+      "profileUrl": "https://x.com/luo24853969"
+    },
+    "publishedAt": "2026-09-11T10:51:27.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "zh",
+    "originalText": "接續上上篇，manus 的好處是他能在手機上操作就能去安裝網路上的 skill 並使用相對來說方便，但價格也比較高是依據使用量付費，\n\ngpt image2.5出了之後同樣去生成了產品海報，效果也非常好只是就要自己去找 skill 解析出裡面的 prompt 給 gpt來生圖，也分享一下使用的prompt 以及參考的 GitHub。\n\nhttps://t.co/BGjRwHkXsg\n\n{\n  \"type\": \"爆炸圖產品海報\",\n  \"subject\": \"氣泡茶飲料罐\",\n  \"style\": \"乾淨高科技3D渲染、棚拍燈光、微發光細節\",\n  \"background\": \"柔和粉橘與淺米色漸層\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"垂直堆疊爆炸圖，完整展示氣泡烏龍茶罐的9個結構層次：外層鋁罐本體、頂蓋拉環、印刷標籤層、內壁塗層、氣泡液體本體、底部凹槽結構、無糖配方核心、清香烏龍茶精華層、底部防滑設計。\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"無糖配方\\n零負擔的清爽口感，讓每一口都輕盈自在。\",\n        \"氣泡結構\\n細緻綿密的氣泡，帶來清新暢快的口感層次。\",\n        \"清香烏龍茶精華\\n精選烏龍茶葉，保留自然茶香與回甘。\"\n      ],\n      \"right_side\": [\n        \"高品質鋁罐本體\\n輕量耐用，完美鎖住新鮮風味。\",\n        \"頂蓋拉環設計\\n方便開啟，提升使用體驗。\",\n        \"漸層視覺標籤\\n粉橘到米白的柔和配色，營造清新氛圍。\",\n        \"330ml 適量容量\\n隨身攜帶剛好，隨時刷新美好時刻。\",\n        \"底部穩固結構\\n防滑設計，放置更安心。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"清新，從結構開始。\",\n        \"body\": \"每一層結構都經過精心設計，從無糖配方到清香烏龍茶精華，PUBBLE 以細緻工藝與自然風味，帶來純粹的清爽體驗。\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}\n\n#manus #gpt #AI #design",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7ivg8a8AAr27N.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7ivg8a8AAr27N.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7ivgjbMAAOS0T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7ivgjbMAAOS0T.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 43
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/luo24853969/status/2098363788928143624",
+  "coverUrl": "https://pbs.twimg.com/media/HR7ivg8a8AAr27N.jpg",
+  "coverPath": "images/2098363788928143624-1.jpg",
+  "imagePaths": [
+    "images/2098363788928143624-1.jpg",
+    "images/2098363788928143624-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7ivg8a8AAr27N",
+    "x-image:/media/HR7ivgjbMAAOS0T",
+    "x-post:2098363788928143624"
+  ],
+  "analysis": {
+    "summary": "氣泡烏龍茶飲料罐的爆炸圖產品海報結構化提示詞。",
+    "summaryEn": "Structured prompt for an exploded-view product poster of a sparkling tea beverage can.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成圖像與提示詞中的結構化爆炸圖、標籤文案及 PUBBLE 氣泡烏龍茶罐完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"type\": \"爆炸圖產品海報\",\n  \"subject\": \"氣泡茶飲料罐\",\n  \"style\": \"乾淨高科技3D渲染、棚拍燈光、微發光細節\",\n  \"background\": \"柔和粉橘與淺米色漸層\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"垂直堆疊爆炸圖，完整展示氣泡烏龍茶罐的9個結構層次：外層鋁罐本體、頂蓋拉環、印刷標籤層、內壁塗層、氣泡液體本體、底部凹槽結構、無糖配方核心、清香烏龍茶精華層、底部防滑設計。\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"無糖配方\\n零負擔的清爽口感，讓每一口都輕盈自在。\",\n        \"氣泡結構\\n細緻綿密的氣泡，帶來清新暢快的口感層次。\",\n        \"清香烏龍茶精華\\n精選烏龍茶葉，保留自然茶香與回甘。\"\n      ],\n      \"right_side\": [\n        \"高品質鋁罐本體\\n輕量耐用，完美鎖住新鮮風味。\",\n        \"頂蓋拉環設計\\n方便開啟，提升使用體驗。\",\n        \"漸層視覺標籤\\n粉橘到米白的柔和配色，營造清新氛圍。\",\n        \"330ml 適量容量\\n隨身攜帶剛好，隨時刷新美好時刻。\",\n        \"底部穩固結構\\n防滑設計，放置更安心。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"清新，從結構開始。\",\n        \"body\": \"每一層結構都經過精心設計，從無糖配方到清香烏龍茶精華，PUBBLE 以細緻工藝與自然風味，帶來純粹的清爽體驗。\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}",
+    "sourceRange": {
+      "start": 194,
+      "end": 1115
+    },
+    "translations": {
+      "zh": "{\n  \"type\": \"爆炸圖產品海報\",\n  \"subject\": \"氣泡茶飲料罐\",\n  \"style\": \"乾淨高科技3D渲染、棚拍燈光、微發光細節\",\n  \"background\": \"柔和粉橘與淺米色漸層\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"垂直堆疊爆炸圖，完整展示氣泡烏龍茶罐的9個結構層次：外層鋁罐本體、頂蓋拉環、印刷標籤層、內壁塗層、氣泡液體本體、底部凹槽結構、無糖配方核心、清香烏龍茶精華層、底部防滑設計。\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"無糖配方\\n零負擔的清爽口感，讓每一口都輕盈自在。\",\n        \"氣泡結構\\n細緻綿密的氣泡，帶來清新暢快的口感層次。\",\n        \"清香烏龍茶精華\\n精選烏龍茶葉，保留自然茶香與回甘。\"\n      ],\n      \"right_side\": [\n        \"高品質鋁罐本體\\n輕量耐用，完美鎖住新鮮風味。\",\n        \"頂蓋拉環設計\\n方便開啟，提升使用體驗。\",\n        \"漸層視覺標籤\\n粉橘到米白的柔和配色，營造清新氛圍。\",\n        \"330ml 適量容量\\n隨身攜帶剛好，隨時刷新美好時刻。\",\n        \"底部穩固結構\\n防滑設計，放置更安心。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"清新，從結構開始。\",\n        \"body\": \"每一層結構都經過精心設計，從無糖配方到清香烏龍茶精華，PUBBLE 以細緻工藝與自然風味，帶來純粹的清爽體驗。\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}",
+      "en": "{\n  \"type\": \"Exploded view product poster\",\n  \"subject\": \"Sparkling tea beverage can\",\n  \"style\": \"Clean high-tech 3D render, studio lighting, subtle glowing details\",\n  \"background\": \"Soft pastel orange and light beige gradient\",\n  \"header\": {\n    \"logo\": \"PUBBLE\",\n    \"subtitle\": \"REFRESH YOUR MOMENT WITH PUBBLE!\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"Vertical stacked exploded view showcasing 9 structural layers of the sparkling oolong tea can: aluminum can body, pull-tab lid, printed label, inner coating, carbonated liquid body, bottom concave base, sugar-free formula core, oolong tea extract layer, non-slip base.\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Sugar-Free Formula\\nRefreshing zero-burden taste.\",\n        \"Carbonated Structure\\nFine bubbles bringing crisp layers.\",\n        \"Oolong Tea Essence\\nSelected tea leaves retaining natural aroma.\"\n      ],\n      \"right_side\": [\n        \"Premium Aluminum Can\\nLightweight, durable, locks freshness.\",\n        \"Pull-Tab Lid Design\\nEasy to open, enhances experience.\",\n        \"Gradient Label\\nSoft orange to off-white palette.\",\n        \"330ml Optimal Volume\\nPortable size for refreshing moments.\",\n        \"Stable Base\\nAnti-slip design for secure placement.\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"Freshness starts from structure.\",\n        \"body\": \"Every layer is meticulously crafted to deliver pure refreshment.\"\n      },\n      \"right_logo\": \"PUBBLE\"\n    }\n  }\n}"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
