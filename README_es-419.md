@@ -101,20 +101,20 @@ Traducción en curso
 
 <a name="prompt-2098277762410942530"></a>
 
-### Traducción en curso
+### Fotografía botánica surrealista de cactus en contraste de rojo y azul, con cactus planos rojo coral y cactus columnar azul cobalto oscuro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277762410942530)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía botánica surrealista de cactus en contraste de rojo y azul, con cactus planos rojo coral y cactus columnar azul cobalto oscuro.
 
 <img src="images/2098277762410942530-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía artística botánica surrealista en formato vertical 3:4. Con un cielo azul celeste despejado y ligeramente grisáceo de fondo, se observa en contrapicado un grupo de cactus reales que crecen desde el borde inferior y aparecen recortados. Desde la izquierda hacia el centro hay de tres a cinco palas de cactus planas y ovaladas escalonadas, la más alta inclinada ligeramente hacia la izquierda, con la piel recoloreada en rojo coral y rojo sandía vibrantes, conservando un acabado mate ceroso, finas arrugas onduladas y areolas regulares pero no mecánicas. A la derecha, un cactus columnar alto de color azul cobalto oscuro, con costillas verticales pronunciadas, surcos en azul de Prusia profundo y espinas estrelladas de color rojo bermellón alineadas a lo largo del borde de las costillas. En la base, unas pocas palas planas azules se superponen con pequeñas palas rojas, con capas claras, dejando un espacio de cielo en la parte superior izquierda. La intensa luz solar natural desde la parte superior izquierda resalta el volumen y las espinas de la planta; los colores vivos se adhieren a un tejido vegetal creíble. Composición asimétrica de escultura geométrica, textura fotográfica fina, grano de película sutil y mate sobrio, evitando el aspecto de plástico o render 3D. Sin macetas, flores, texto, logotipos ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

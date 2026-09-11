@@ -101,20 +101,20 @@ Fotografie · Porträt / Selfie · Zusammenfassung / Hintergrund · Veröffentli
 
 <a name="prompt-2098277762410942530"></a>
 
-### Übersetzung läuft
+### Surreale Kaktus-Pflanzenfotografie im Rot-Blau-Farbkontrast mit flachen korallenroten Kakteen und dunkelkobaltblauem Säulenkaktus.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277762410942530)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Surreale Kaktus-Pflanzenfotografie im Rot-Blau-Farbkontrast mit flachen korallenroten Kakteen und dunkelkobaltblauem Säulenkaktus.
 
 <img src="images/2098277762410942530-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine surreale botanische Kunstfotografie im Hochformat 3:4. Vor dem Hintergrund eines leicht gräulichen, wolkenlosen himmelblauen Himmels blickt die Kamera aus der Untersicht auf eine Gruppe echter Kakteen, die vom unteren Bildrand heraufwachsen und angeschnitten sind. Von links bis zur Mitte befinden sich drei bis fünf versetzte, ovale, flache Kaktusglieder, von denen das höchste leicht nach links geneigt ist; die Außenhaut ist in leuchtendem Korallenrot und Wassermelonenrot umgefärbt, wobei das wachsartige, matte Finish, feine Fältelungen und regelmäßige, aber unmechanische Areolen erhalten bleiben. Auf der rechten Seite steht ein hoher, dunkelkobaltblauer Säulenkaktus mit ausgeprägten vertikalen Rippen, tief preußischblauen Rillen und zinnoberroten, sternförmigen Dornen entlang der Rippenkanten. Am unteren Rand überlappen sich wenige blaue Flachglieder mit kleinen roten Gliedern in klaren Schichten, während oben links eine Himmelslücke frei bleibt. Starkes natürliches Sonnenlicht von oben links modelliert das Volumen der Pflanzen und die Dornen; die lebendigen Farben haften auf glaubwürdigem Pflanzengewebe. Geometrisch-skulpturale, asymmetrische Komposition, feine fotografische Textur, dezentes Filmkorn, zurückhaltende Mattierung, frei von Plastik- oder 3D-Rendering-Anmutung. Keine Blumentöpfe, Blüten, Texte, Logos oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

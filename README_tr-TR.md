@@ -101,20 +101,20 @@ Fotoğrafçılık · Portre / Selfie · Özet / Arka Plan · Yayımlandı
 
 <a name="prompt-2098277762410942530"></a>
 
-### Çeviri sürüyor
+### Yassı mercan kırmızısı kaktüsler ve koyu kobalt mavisi sütun kaktüs içeren, kırmızı ve mavi kontrastlı sürrealist kaktüs botanik fotoğrafı.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277762410942530)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yassı mercan kırmızısı kaktüsler ve koyu kobalt mavisi sütun kaktüs içeren, kırmızı ve mavi kontrastlı sürrealist kaktüs botanik fotoğrafı.
 
 <img src="images/2098277762410942530-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4 dikey formatta sürrealist bir botanik sanat fotoğrafı oluşturun. Arka planda hafif grimsi, bulutsuz gök mavisi bir gökyüzü yer alırken, alt kenardan yukarı doğru büyüyen ve çerçeveden kesilen gerçek kaktüs grubu alt açıdan görüntülenir. Soldan merkeze doğru üç ila beş adet kademeli oval yassı kaktüs gövdesi bulunur; en yüksek olanı hafifçe sola eğimlidir, dış yüzeyi canlı mercan kırmızısı ve karpuz kırmızısına dönüştürülmüştür; mumsu mat doku, ince kıvrımlar ve mekanik olmayan düzenli areoller korunmuştur. Sağda, belirgin dikey kaburgalara, derin Prusya mavisi yarıklara ve kaburga kenarları boyunca dizilmiş zencefre kırmızısı yıldız biçimli dikenlere sahip, uzun, koyu kobalt mavisi sütun şeklinde bir kaktüs yükselir. Dip kısımda az sayıda mavi yassı kaktüs ile küçük kırmızı kaktüsler belirgin katmanlar halinde örtüşür, sol üst kısımda gökyüzü boşluğu bırakılmıştır. Sol üstten gelen güçlü doğal güneş ışığı bitkilerin hacmini ve dikenlerini aydınlatır; canlı renkler inandırıcı bitki dokusuna kusursuzca tutunmuştur. Geometrik bir heykel gibi asimetrik kompozisyon, ince fotoğrafik doku, hafif film greni, ölçülü matlık; plastik ve 3D render hissiyatından kaçınılmıştır. Saksı, çiçek, yazı, logo veya filigran içermez.
 ```
 
 [↑ Kategorilere dön](#catalog)

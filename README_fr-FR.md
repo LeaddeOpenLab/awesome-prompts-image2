@@ -101,20 +101,20 @@ Traduction en cours
 
 <a name="prompt-2098277762410942530"></a>
 
-### Traduction en cours
+### Photographie botanique surréaliste de cactus en contraste rouge et bleu, avec des cactus plats rouge corail et un cactus colonnaire bleu cobalt foncé.
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277762410942530)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photographie botanique surréaliste de cactus en contraste rouge et bleu, avec des cactus plats rouge corail et un cactus colonnaire bleu cobalt foncé.
 
 <img src="images/2098277762410942530-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie d'art botanique surréaliste au format vertical 3:4. Avec pour arrière-plan un ciel bleu azur sans nuages légèrement teinté de gris, vue en contre-plongée sur un groupe de vrais cactus poussant depuis le bord inférieur et coupés par le cadre. De la gauche vers le centre se trouvent trois à cinq raquettes de cactus ovales et plates décalées, la plus haute légèrement inclinée vers la gauche, avec une épiderme recolorée en rouge corail et rouge pastèque éclatants, conservant un fini mat cireux, de fines ondulations plissées et des aréoles régulières mais non mécaniques. Sur la droite, un grand cactus colonnaire bleu cobalt foncé, aux côtes verticales bien marquées, aux sillons bleu de Prusse profond et aux épines étoilées vermillon alignées le long des arêtes des côtes. À la base, quelques raquettes plates bleues se superposent à de petites raquettes rouges selon des strates nettes, laissant un espace de ciel en haut à gauche. Une forte lumière naturelle du soleil venant d'en haut à gauche fait ressortir le volume et les épines des plantes ; les couleurs vives adhèrent à un tissu végétal crédible. Composition asymétrique sculpturale et géométrique, texture photographique fine, léger grain de film, matité sobre, évitant tout aspect plastique ou rendu 3D. Sans pots, fleurs, texte, logos ni filigranes.
 ```
 
 [↑ Retour aux catégories](#catalog)

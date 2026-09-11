@@ -101,20 +101,20 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Tóm tắt / Bối cảnh · 
 
 <a name="prompt-2098277762410942530"></a>
 
-### Đang dịch
+### Nhiếp ảnh thực vật xương rồng siêu thực phối màu tương phản đỏ xanh, bao gồm xương rồng dẹt màu đỏ san hô và xương rồng cột màu xanh coban đậm.
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277762410942530)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nhiếp ảnh thực vật xương rồng siêu thực phối màu tương phản đỏ xanh, bao gồm xương rồng dẹt màu đỏ san hô và xương rồng cột màu xanh coban đậm.
 
 <img src="images/2098277762410942530-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh nghệ thuật thực vật siêu thực tỷ lệ dọc 3:4. Hướng nhìn từ dưới lên với hậu cảnh là bầu trời xanh da trời không mây pha chút ánh xám, cận cảnh cụm xương rồng thật mọc lên từ cạnh dưới bị cắt góc. Từ bên trái đến trung tâm là 3 đến 5 nhánh xương rồng dẹt hình bầu dục so le, nhánh cao nhất hơi nghiêng sang trái, bề mặt đổi màu sang đỏ san hô và đỏ dưa hấu rực rỡ, vẫn giữ độ lì sáp, các nếp nhăn gợn sóng nhỏ và các nốt gai đều đặn nhưng tự nhiên. Bên phải là cây xương rồng cột cao màu xanh coban đậm, các gờ sườn dọc nổi rõ, rãnh màu xanh Phổ đậm, các gai hình sao màu đỏ son xếp dọc theo mép sườn. Phía dưới có một vài nhánh dẹt màu xanh lam đan xen với các nhánh nhỏ màu đỏ, phân tầng rõ ràng, phía trên bên trái chừa khoảng trống bầu trời. Ánh sáng tự nhiên mạnh từ góc trên bên trái chiếu rõ khối lượng và gai của thực vật; màu sắc rực rỡ bám trên mô thực vật chân thực. Bố cục bất đối xứng như tác phẩm điêu khắc hình học, kết cấu nhiếp ảnh chi tiết, hạt phim nhẹ, độ lì vừa phải, tránh cảm giác nhựa và kết xuất 3D. Không có chậu cây, hoa, văn bản, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

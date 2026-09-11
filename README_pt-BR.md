@@ -101,20 +101,20 @@ Tradução em andamento
 
 <a name="prompt-2098277762410942530"></a>
 
-### Tradução em andamento
+### Fotografia botânica surrealista de cactos em contraste vermelho e azul, contendo cactos achatados vermelho-coral e cacto colunar azul-cobalto escuro.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277762410942530)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Fotografia botânica surrealista de cactos em contraste vermelho e azul, contendo cactos achatados vermelho-coral e cacto colunar azul-cobalto escuro.
 
 <img src="images/2098277762410942530-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia artística botânica surrealista no formato vertical 3:4. Com um céu azul-celeste sem nuvens e levemente acinzentado ao fundo, vista em ângulo baixo de um grupo de cactos reais brotando da borda inferior e cortados pelo enquadramento. Da esquerda para o centro, há de três a cinco artículos achatados e ovais de cacto dispostos de forma intercalada, o mais alto levemente inclinado para a esquerda, com a casca recolorida em vermelho-coral e vermelho-melancia vibrantes, preservando um acabamento fosco ceroso, rugas e ondulações sutis e aréolas regulares, mas não mecânicas. À direita, um cacto colunar alto em azul-cobalto escuro, com costelas verticais bem definidas, sulcos em azul-da-prússia profundo e espinhos estrelados vermelho-vermelhão alinhados ao longo da borda das costelas. Na base, alguns artículos achatados azuis sobrepõem-se a pequenos artículos vermelhos com camadas nítidas, deixando um espaço de céu no canto superior esquerdo. A forte luz solar natural vinda do canto superior esquerdo destaca o volume das plantas e os espinhos; cores vívidas aderem a um tecido vegetal verossímil. Composição assimétrica escultural e geométrica, textura fotográfica refinada, granulado de filme suave, efeito fosco contido, evitando aparência plástica ou de renderização 3D. Sem vasos, flores, textos, logotipos ou marcas d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

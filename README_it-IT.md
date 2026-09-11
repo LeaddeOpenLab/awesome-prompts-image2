@@ -101,20 +101,20 @@ Traduzione in corso
 
 <a name="prompt-2098277762410942530"></a>
 
-### Traduzione in corso
+### Fotografia botanica surrealista di cactus a contrasto rosso e blu, comprendente cactus piatti rosso corallo e un cactus colonnare blu cobalto scuro.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277762410942530)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotografia botanica surrealista di cactus a contrasto rosso e blu, comprendente cactus piatti rosso corallo e un cactus colonnare blu cobalto scuro.
 
 <img src="images/2098277762410942530-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia d'arte botanica surrealista in formato verticale 3:4. Sullo sfondo di un cielo azzurro senza nuvole e leggermente tendente al grigio, una ripresa dal basso verso l'alto mostra un gruppo di cactus reali che crescono dal bordo inferiore e risultano tagliati dall'inquadratura. Da sinistra verso il centro si trovano da tre a cinque pale di cactus piatte e ovali sfalsate, la più alta leggermente inclinata verso sinistra, con l'epidermide ricolorata in vivaci toni rosso corallo e rosso anguria, mantenendo una finitura cerosa opaca, sottili pieghe e ondulazioni, e areole regolari ma non meccaniche. Sulla destra si erge un alto cactus colonnare blu cobalto scuro, con costolature verticali marcate, scanalature blu di Prussia profondo e spine stellate rosso vermiglio allineate lungo il margine delle costolature. In basso, alcune pale piatte blu si sovrappongono a piccole pale rosse con livelli ben distinti, lasciando uno spazio di cielo in alto a sinistra. L'intensa luce solare naturale dall'alto a sinistra mette in risalto il volume e le spine delle piante; i colori vivaci aderiscono a un tessuto vegetale credibile. Composizione asimmetrica scultorea e geometrica, texture fotografica raffinata, leggera grana della pellicola, opacità sobria, evitando qualsiasi aspetto plastico o da rendering 3D. Senza vasi, fiori, testo, loghi o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)
