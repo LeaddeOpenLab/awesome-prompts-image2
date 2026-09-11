@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**70** 条内容 · 最新收录: **2026-09-11**
+**71** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,30 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2098362443042803749"></a>
+
+### 翻译中
+
+作者：[@yourPlugAI](https://x.com/yourPlugAI) · [查看 X 原帖](https://x.com/yourPlugAI/status/2098362443042803749)
+
+电影 / 电影剧照 · 已推流
+
+查看 X 原帖：[@yourPlugAI](https://x.com/yourPlugAI) · [查看 X 原帖](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**概括:** 翻译中
+
+<img src="covers/2098362443042803749.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**70** Prompts · Latest addition: **2026-09-11**
+**71** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -608,6 +608,30 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098362443042803749"></a>
+
+### Cinematic action sequence of an assassin fighting Templar knights in 15th-century Granada fortress.
+
+Author：[@yourPlugAI](https://x.com/yourPlugAI) · [Source](https://x.com/yourPlugAI/status/2098362443042803749)
+
+Cinematic / Film Still · Published
+
+Source：[@yourPlugAI](https://x.com/yourPlugAI) · [Source](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**Summary:** Cinematic action sequence of an assassin fighting Templar knights in 15th-century Granada fortress.
+
+<img src="covers/2098362443042803749.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+In 15th-century Granada, a solo assassin battles through dozens of elite Templar knights within the walls of a sprawling fortress. Relying on lightning-fast Taijutsu, burst-acceleration, and precise sword deflections, he turns every enemy strike into a devastating counter. A high-octane 30-second AAA blockbuster action sequence driven by raw kinetic energy, continuous IMAX camera tracking, and relentless combat momentum.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 

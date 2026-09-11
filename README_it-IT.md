@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**70** Prompt · Ultima aggiunta: **2026-09-11**
+**71** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -600,6 +600,30 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098362443042803749"></a>
+
+### Traduzione in corso
+
+Autore：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2098362443042803749)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+Post originale：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098362443042803749.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**70** Prompts · Última incorporación: **2026-09-11**
+**71** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,30 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098362443042803749"></a>
+
+### Traducción en curso
+
+Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2098362443042803749)
+
+Cine / Fotograma de película · Publicado
+
+Publicación original：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098362443042803749.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 

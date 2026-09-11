@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**70** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**71** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -600,6 +600,30 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098362443042803749"></a>
+
+### Übersetzung läuft
+
+Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2098362443042803749)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+Originalbeitrag：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098362443042803749.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 

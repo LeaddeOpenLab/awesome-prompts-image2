@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**70** Prompt · Bổ sung mới nhất: **2026-09-11**
+**71** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -632,6 +632,30 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098362443042803749"></a>
+
+### Đang dịch
+
+Tác giả：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2098362443042803749)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+Bài gốc：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2097579893017989538)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098362443042803749.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097716825668702388"></a>
 
