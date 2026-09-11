@@ -1549,13 +1549,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098363788928143624"></a>
 
-### Übersetzung läuft
+### Strukturierter Prompt für ein Explosionsansicht-Produktplakat einer kohlensäurehaltigen Oolong-Teedose.
 
 Autor：[@luo24853969](https://x.com/luo24853969) · [Originalbeitrag](https://x.com/luo24853969/status/2098363788928143624)
 
 Produktmarketing · Plakat / Flyer · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Strukturierter Prompt für ein Explosionsansicht-Produktplakat einer kohlensäurehaltigen Oolong-Teedose.
 
 <img src="images/2098363788928143624-1.jpg" alt="Bild 1" width="480" />
 
@@ -1564,7 +1564,41 @@ Produktmarketing · Plakat / Flyer · Produkt · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "type": "Explosionsansicht-Produktplakat",
+  "subject": "Kohlensäurehaltige Teedose",
+  "style": "Sauberes High-Tech-3D-Rendering, Studiobeleuchtung, dezent leuchtende Details",
+  "background": "Sanfter Farbverlauf aus Pastellorange und hellem Beige",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vertikal gestapelte Explosionsansicht, die alle 9 strukturellen Schichten der kohlensäurehaltigen Oolong-Teedose vollständig zeigt: äußerer Aluminiumdosenkörper, Zuglaschendeckel, bedruckte Etikettenschicht, Innenwandbeschichtung, kohlensäurehaltiger Flüssigkeitskörper, Bodenrillenstruktur, zuckerfreier Rezepturkern, Schicht aus duftender Oolong-Tee-Essenz, rutschfestes Bodendesign.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Zuckerfreie Rezeptur\nSchwereloser, erfrischender Geschmack, der jeden Schluck leicht und unbeschwert macht.",
+        "Kohlensäurestruktur\nFeine und dichte Kohlensäurebläschen für frische, belebende Geschmacksschichten.",
+        "Duftende Oolong-Tee-Essenz\nAusgewählte Oolong-Teeblätter bewahren das natürliche Teearoma und den sanften Nachgeschmack."
+      ],
+      "right_side": [
+        "Hochwertiger Aluminiumdosenkörper\nLeicht und langlebig, schließt frische Aromen perfekt ein.",
+        "Zuglaschendesign\nLeicht zu öffnen für ein verbessertes Nutzungserlebnis.",
+        "Etikett mit visuellem Farbverlauf\nSanfte Farbgebung von Pastellorange bis Beige-Weiß für eine frische Atmosphäre.",
+        "Passgenaue 330-ml-Kapazität\nPerfekt zum Mitnehmen, um jeden schönen Moment aufzufrischen.",
+        "Stabile Bodenstruktur\nRutschfestes Design für einen sicheren Stand."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "Frische beginnt in der Struktur.",
+        "body": "Jede einzelne Schicht ist durchdacht gestaltet – von der zuckerfreien Rezeptur bis zur duftenden Oolong-Tee-Essenz bietet PUBBLE mit feiner Handwerkskunst und natürlichem Geschmack ein unverfälscht erfrischendes Erlebnis."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

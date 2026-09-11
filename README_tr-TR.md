@@ -1534,13 +1534,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098363788928143624"></a>
 
-### Çeviri sürüyor
+### Gazlı oolong çayı içecek kutusu için ayrılmış parça görünümlü ürün afişi yapılandırılmış istemi.
 
 Yazar：[@luo24853969](https://x.com/luo24853969) · [Orijinal gönderi](https://x.com/luo24853969/status/2098363788928143624)
 
 Ürün Pazarlaması · Poster / El İlanı · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gazlı oolong çayı içecek kutusu için ayrılmış parça görünümlü ürün afişi yapılandırılmış istemi.
 
 <img src="images/2098363788928143624-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1549,7 +1549,41 @@ Yazar：[@luo24853969](https://x.com/luo24853969) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "type": "Ayrılmış parça görünümünde ürün afişi",
+  "subject": "Gazlı çay içecek kutusu",
+  "style": "Temiz yüksek teknolojili 3D render, stüdyo aydınlatması, hafif parıldayan detaylar",
+  "background": "Yumuşak pastel turuncu ve açık bej degrade",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Gazlı oolong çayı kutusunun 9 yapısal katmanını eksiksiz gösteren dikey katmanlı patlatılmış görünüm: dış alüminyum kutu gövdesi, açma halkalı üst kapak, baskılı etiket katmanı, iç kaplama, gazlı sıvı gövdesi, alt oluk yapısı, şekersiz formül çekirdeği, aromatik oolong çayı özü katmanı, kaymaz alt taban tasarımı.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Şekersiz Formül\nHer yudumu hafif ve ferah kılan, yük hissettirmeyen tazelik.",
+        "Gazlı Yapı\nCanlandırıcı ve ferahlatıcı lezzet katmanları sunan ince ve yoğun kabarcıklar.",
+        "Aromatik Oolong Çayı Özü\nDoğal çay kokusunu ve damağa kalan tatlılığı koruyan seçkin oolong çay yaprakları."
+      ],
+      "right_side": [
+        "Yüksek Kaliteli Alüminyum Kutu Gövdesi\nHafif ve dayanıklı, taze lezzeti mükemmel şekilde muhafaza eder.",
+        "Açma Halkalı Üst Kapak Tasarımı\nKolay açılır, kullanım deneyimini artırır.",
+        "Degrade Görsel Etiket\nPastel turuncudan bej-beyaza yumuşak renk paletiyle ferah bir atmosfer yaratır.",
+        "330 ml İdeal Hacim\nKolay taşınabilir, her anı tazelemeye hazır.",
+        "Sağlam Taban Yapısı\nKaymaz tasarım sayesinde daha güvenli duruş."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "Ferahlık yapıdan başlar.",
+        "body": "Her katman özenle tasarlandı; şekersiz formülden aromatik oolong çayı özüne kadar PUBBLE, titiz işçiliği ve doğal aromalarıyla saf bir ferahlık deneyimi sunuyor."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)

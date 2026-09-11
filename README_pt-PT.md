@@ -1534,13 +1534,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098363788928143624"></a>
 
-### Tradução em curso
+### Prompt estruturado para cartaz de produto em vista explodida de uma lata de chá oolong com gás.
 
 Autor：[@luo24853969](https://x.com/luo24853969) · [Publicação original](https://x.com/luo24853969/status/2098363788928143624)
 
 Marketing de Produto · Pôster / Folheto · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt estruturado para cartaz de produto em vista explodida de uma lata de chá oolong com gás.
 
 <img src="images/2098363788928143624-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1549,7 +1549,41 @@ Marketing de Produto · Pôster / Folheto · Produto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+{
+  "type": "Cartaz de produto em vista explodida",
+  "subject": "Lata de chá com gás",
+  "style": "Renderização 3D limpa e de alta tecnologia, iluminação de estúdio, pormenores subtilmente brilhantes",
+  "background": "Gradiente suave de laranja pastel e bege-claro",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vista explodida empilhada verticalmente a apresentar na íntegra as 9 camadas estruturais da lata de chá oolong com gás: corpo exterior em lata de alumínio, anel da tampa superior, camada do rótulo impresso, revestimento interior, líquido gaseificado, ranhura estrutural inferior, núcleo da fórmula sem açúcar, camada de essência de chá oolong aromático, design antiderrapante na base.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Fórmula sem açúcar\nSabor refrescante e ligeiro, para que cada gole seja suave e livre de preocupações.",
+        "Estrutura gaseificada\nBolhas finas e densas que conferem camadas de textura refrescantes e revigorantes.",
+        "Essência de chá oolong aromático\nFolhas selecionadas de chá oolong que preservam o aroma natural e o travo adocicado."
+      ],
+      "right_side": [
+        "Corpo da lata em alumínio de alta qualidade\nLeve e resistente, sela com perfeição o sabor fresco.",
+        "Design de anel na tampa superior\nFácil de abrir, proporcionando uma melhor experiência de utilização.",
+        "Rótulo visual em degradé\nTons suaves de laranja pastel a bege-claro, criando uma atmosfera fresca.",
+        "Capacidade ideal de 330 ml\nFácil de transportar para qualquer lugar, renovando os seus melhores momentos.",
+        "Estrutura de base estável\nDesign antiderrapante para um pousar mais seguro."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "A frescura começa na estrutura.",
+        "body": "Cada camada estrutural foi meticulosamente concebida; da fórmula sem açúcar à essência de chá oolong aromático, a PUBBLE alia perícia apurada e sabores naturais para proporcionar uma experiência puramente refrescante."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Voltar às categorias](#catalog)

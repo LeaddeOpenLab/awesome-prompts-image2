@@ -1551,13 +1551,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098363788928143624"></a>
 
-### Đang dịch
+### Lời nhắc có cấu trúc cho poster sản phẩm dạng hình chiếu nổ của lon nước trà ô long có ga.
 
 Tác giả：[@luo24853969](https://x.com/luo24853969) · [Bài gốc](https://x.com/luo24853969/status/2098363788928143624)
 
 Tiếp thị sản phẩm · Áp phích / Tờ rơi · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc có cấu trúc cho poster sản phẩm dạng hình chiếu nổ của lon nước trà ô long có ga.
 
 <img src="images/2098363788928143624-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1566,7 +1566,41 @@ Tiếp thị sản phẩm · Áp phích / Tờ rơi · Sản phẩm · Đã xu�
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "type": "Poster sản phẩm dạng hình chiếu nổ",
+  "subject": "Lon nước ngọt trà có ga",
+  "style": "Kết xuất 3D công nghệ cao sạch sẽ, ánh sáng studio, chi tiết phát sáng nhẹ",
+  "background": "Chuyển sắc cam phấn nhẹ nhàng và be nhạt",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Hình chiếu nổ xếp chồng theo chiều dọc, hiển thị đầy đủ 9 tầng cấu trúc của lon trà ô long có ga: thân lon nhôm bên ngoài, nắp bật có khoen giật, lớp nhãn in, lớp phủ thành trong, phần chất lỏng có ga, cấu trúc rãnh đáy lon, lõi công thức không đường, tầng tinh chất trà ô long thanh mát, thiết kế chống trượt ở đáy.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Công thức không đường\nVị thanh sảng khoái không gánh nặng, cho mỗi ngụm uống đều nhẹ nhàng thoải mái.",
+        "Cấu trúc bọt khí\nBọt khí mịn màng, mang lại tầng lớp hương vị tươi mát sảng khoái.",
+        "Tinh chất trà ô long thanh mát\nTuyển chọn búp trà ô long, lưu giữ hương trà tự nhiên và vị ngọt hậu."
+      ],
+      "right_side": [
+        "Thân lon nhôm chất lượng cao\nNhẹ và bền bỉ, khóa trọn hương vị tươi mới hoàn hảo.",
+        "Thiết kế khoen bật trên nắp\nDễ dàng mở, nâng cao trải nghiệm sử dụng.",
+        "Nhãn thị giác chuyển màu\nPhối màu nhẹ nhàng từ cam phấn sang trắng kem, tạo bầu không khí thanh mát.",
+        "Dung tích vừa vặn 330ml\nTối ưu để mang theo, làm mới khoảnh khắc tuyệt vời bất cứ lúc nào.",
+        "Cấu trúc đáy vững chắc\nThiết kế chống trượt, đặt để an tâm hơn."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "Sự sảng khoái, bắt đầu từ cấu trúc.",
+        "body": "Mỗi tầng cấu trúc đều được thiết kế tỉ mỉ, từ công thức không đường đến tinh chất trà ô long thanh khiết, PUBBLE mang đến trải nghiệm tươi mát thuần khiết với tay nghề tinh xảo và hương vị tự nhiên."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Về danh mục](#catalog)

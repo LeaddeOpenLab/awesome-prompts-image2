@@ -1549,13 +1549,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098363788928143624"></a>
 
-### Traduzione in corso
+### Prompt strutturato per poster di prodotto con vista esplosa di una lattina di tè oolong frizzante.
 
 Autore：[@luo24853969](https://x.com/luo24853969) · [Post originale](https://x.com/luo24853969/status/2098363788928143624)
 
 Marketing di Prodotto · Poster / Volantino · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt strutturato per poster di prodotto con vista esplosa di una lattina di tè oolong frizzante.
 
 <img src="images/2098363788928143624-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1564,7 +1564,41 @@ Marketing di Prodotto · Poster / Volantino · Prodotto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+{
+  "type": "Poster di prodotto con vista esplosa",
+  "subject": "Lattina di tè frizzante",
+  "style": "Rendering 3D pulito e high-tech, illuminazione da studio, dettagli leggermente luminosi",
+  "background": "Morbida sfumatura tra arancio pastello e beige chiaro",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vista esplosa impilata verticalmente che illustra l'insieme dei 9 strati strutturali della lattina di tè oolong frizzante: corpo esterno in alluminio, linguetta del coperchio superiore, strato dell'etichetta stampata, rivestimento interno, corpo del liquido frizzante, scanalatura sul fondo, nucleo della formula senza zucchero, strato di essenza aromatica di tè oolong, design antiscivolo inferiore.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Formula senza zucchero\nGusto rinfrescante e leggero, per rendere ogni sorso piacevole e privo di sensi di colpa.",
+        "Struttura frizzante\nBollicine fini e dense che offrono una stratificazione rinfrescante e vivace.",
+        "Essenza di tè oolong aromatico\nFoglie di tè oolong selezionate per preservare il profumo naturale e il retrogusto morbido."
+      ],
+      "right_side": [
+        "Corpo della lattina in alluminio di alta qualità\nLeggero e resistente, sigilla alla perfezione la freschezza del gusto.",
+        "Design con linguetta superiore\nFacile da aprire per un'esperienza d'uso superiore.",
+        "Etichetta visiva sfumata\nTonalità delicate dall'arancio tenue al bianco beige per creare un'atmosfera fresca.",
+        "Capacità ottimale da 330 ml\nComoda da portare con sé, per rinfrescare ogni momento.",
+        "Fondo dalla struttura stabile\nDesign antiscivolo per un appoggio più sicuro."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "La freschezza comincia dalla struttura.",
+        "body": "Ogni singolo strato è studiato nei minimi dettagli: dalla formula senza zucchero all'essenza di tè oolong aromatico, PUBBLE combina maestria artigianale e aromi naturali per regalare un'esperienza puramente rinfrescante."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Torna alle categorie](#catalog)

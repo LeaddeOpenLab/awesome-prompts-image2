@@ -1549,13 +1549,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098363788928143624"></a>
 
-### Traduction en cours
+### Prompt structuré pour une affiche de produit en vue éclatée d'une canette de thé oolong pétillant.
 
 Auteur：[@luo24853969](https://x.com/luo24853969) · [Publication originale](https://x.com/luo24853969/status/2098363788928143624)
 
 Marketing produit · Affiche / Flyer · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt structuré pour une affiche de produit en vue éclatée d'une canette de thé oolong pétillant.
 
 <img src="images/2098363788928143624-1.jpg" alt="Image 1" width="480" />
 
@@ -1564,7 +1564,41 @@ Marketing produit · Affiche / Flyer · Produit · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "type": "Affiche de produit en vue éclatée",
+  "subject": "Canette de thé pétillant",
+  "style": "Rendu 3D épuré et high-tech, éclairage de studio, détails subtilement lumineux",
+  "background": "Dégradé doux d'orange pastel et de beige clair",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vue éclatée empilée verticalement présentant l'intégralité des 9 couches structurelles de la canette de thé oolong pétillant : corps extérieur en aluminium, languette du couvercle supérieur, couche d'étiquette imprimée, revêtement intérieur, liquide pétillant, structure rainurée inférieure, cœur de formule sans sucre, couche d'essence de thé oolong parfumé, conception antidérapante inférieure.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Formule sans sucre\nUn goût rafraîchissant et léger pour que chaque gorgée soit synonyme de liberté.",
+        "Structure pétillante\nDes bulles fines et denses offrant des strates de saveurs fraîches et tonifiantes.",
+        "Essence de thé oolong parfumé\nFeuilles de thé oolong sélectionnées pour préserver le parfum naturel du thé et son arrière-goût délicat."
+      ],
+      "right_side": [
+        "Corps de canette en aluminium de haute qualité\nLéger et résistant, scellant parfaitement la fraîcheur des saveurs.",
+        "Conception de couvercle à languette\nFacile à ouvrir, améliorant l'expérience utilisateur.",
+        "Étiquette visuelle en dégradé\nPalette douce d'orange pastel à blanc cassé, instaurant une atmosphère fraîche.",
+        "Contenance adaptée de 330 ml\nIdéale à emporter partout pour sublimer chaque instant.",
+        "Structure de fond stable\nConception antidérapante pour une pose plus sûre."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "La fraîcheur commence par la structure.",
+        "body": "Chaque couche de la structure a été méticuleusement conçue ; de la formule sans sucre à l'essence de thé oolong délicatement parfumée, PUBBLE associe savoir-faire précis et saveurs naturelles pour offrir une expérience purement rafraîchissante."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Retour aux catégories](#catalog)

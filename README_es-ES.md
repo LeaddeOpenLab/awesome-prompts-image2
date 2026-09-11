@@ -1573,13 +1573,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098363788928143624"></a>
 
-### Traducción en curso
+### Prompt estructurado para póster de producto con vista explosionada de una lata de bebida de té oolong con gas.
 
 Autor：[@luo24853969](https://x.com/luo24853969) · [Publicación original](https://x.com/luo24853969/status/2098363788928143624)
 
 Marketing de producto · Póster / Folleto · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt estructurado para póster de producto con vista explosionada de una lata de bebida de té oolong con gas.
 
 <img src="images/2098363788928143624-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1588,7 +1588,41 @@ Marketing de producto · Póster / Folleto · Producto · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+{
+  "type": "Póster de producto con vista explosionada",
+  "subject": "Lata de bebida de té con gas",
+  "style": "Render 3D limpio de alta tecnología, iluminación de estudio, detalles sutilmente luminosos",
+  "background": "Degradado suave de naranja rosado y beige claro",
+  "header": {
+    "logo": "PUBBLE",
+    "subtitle": "REFRESH YOUR MOMENT WITH PUBBLE!"
+  },
+  "layout": {
+    "centerpiece": "Vista explosionada apilada verticalmente que muestra por completo los 9 niveles estructurales de la lata de té oolong con gas: cuerpo exterior de lata de aluminio, anilla de apertura de la tapa superior, capa de etiqueta impresa, revestimiento de la pared interior, cuerpo líquido con gas, estructura de hendidura inferior, núcleo de fórmula sin azúcar, capa de extracto de té oolong aromático, diseño antideslizante en la base.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Fórmula sin azúcar\nSabor refrescante sin cargas, para que cada sorbo sea ligero y libre.",
+        "Estructura de burbujas\nBurbujas finas y densas que aportan un nivel de sabor fresco y estimulante.",
+        "Extracto de té oolong aromático\nHojas de té oolong seleccionadas que conservan el aroma natural del té y su regusto dulce."
+      ],
+      "right_side": [
+        "Cuerpo de lata de aluminio de alta calidad\nLigero y duradero, conserva perfectamente el sabor fresco.",
+        "Diseño de anilla en tapa superior\nFácil de abrir, mejorando la experiencia de uso.",
+        "Etiqueta visual degradada\nSuave combinación de colores desde el naranja rosado hasta el blanco crudo, creando un ambiente fresco.",
+        "Capacidad adecuada de 330 ml\nIdeal para llevar, renovando los mejores momentos en cualquier instante.",
+        "Estructura estable en la base\nDiseño antideslizante, para apoyarla con mayor tranquilidad."
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "La frescura comienza desde la estructura.",
+        "body": "Cada capa estructural ha sido meticulosamente diseñada: desde la fórmula sin azúcar hasta el extracto de té oolong aromático, PUBBLE ofrece una experiencia pura y refrescante con una artesanía delicada y sabores naturales."
+      },
+      "right_logo": "PUBBLE"
+    }
+  }
+}
 ```
 
 [↑ Volver a categorías](#catalog)
