@@ -1407,7 +1407,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098277846250922232"></a>
 
-### Traduzione in corso
+### Istantanea quotidiana di tennis dal punto di vista del fidanzato con iPhone, ragazza in semplice completo da tennis
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1415,7 +1415,7 @@ Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istantanea quotidiana di tennis dal punto di vista del fidanzato con iPhone, ragazza in semplice completo da tennis
 
 <img src="images/2098277846250922232-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1430,7 +1430,7 @@ Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Come una routine quotidiana di tennis scattata al volo dal fidanzato con un iPhone: una giovane ragazza adulta con un semplice completo da tennis e scarpe da ginnastica; catturando a caso ogni volta i suoi diversi movimenti, l'istante vissuto sul momento e varie distanze di ripresa, come foto autentiche scattate spontaneamente mentre passano del tempo insieme.
 ```
 
 [↑ Torna alle categorie](#catalog)

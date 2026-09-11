@@ -1407,7 +1407,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098277846250922232"></a>
 
-### Übersetzung läuft
+### Alltags-Schnappschuss beim Tennis aus Freund-Perspektive mit dem iPhone, junges Mädchen in schlichter Tenniskleidung
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1415,7 +1415,7 @@ Porträt / Selfie · Charakter · Veröffentlicht
 
 Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Alltags-Schnappschuss beim Tennis aus Freund-Perspektive mit dem iPhone, junges Mädchen in schlichter Tenniskleidung
 
 <img src="images/2098277846250922232-1.jpg" alt="Bild 1" width="480" />
 
@@ -1430,7 +1430,7 @@ Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Wie von einem Freund beiläufig mit dem iPhone aufgenommene Tennis-Alltagsmomente: Eine junge erwachsene Frau in schlichter Tenniskleidung und Sneakers; fängt jedes Mal zufällig ihre unterschiedlichen Bewegungen, den flüchtigen Moment und verschiedene Aufnahmeabstände ein, wie echte, spontane Schnappschüsse aus der gemeinsamen Zeit.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

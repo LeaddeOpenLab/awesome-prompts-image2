@@ -1392,7 +1392,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098277846250922232"></a>
 
-### Tradução em andamento
+### Flagrante do cotidiano de tênis na perspectiva do namorado com iPhone, garota com roupa de tênis simples
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1400,7 +1400,7 @@ Retrato / Selfie · Personagem · Publicado
 
 Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Flagrante do cotidiano de tênis na perspectiva do namorado com iPhone, garota com roupa de tênis simples
 
 <img src="images/2098277846250922232-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1415,7 +1415,7 @@ Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Como o cotidiano do tênis registrado despretensiosamente pelo namorado com um iPhone: uma jovem adulta vestindo roupas de tênis simples e tênis esportivo; capturando aleatoriamente a cada vez seus diferentes movimentos, o momento exato e distâncias variadas, como fotos reais tiradas espontaneamente enquanto passam o tempo juntos.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1409,7 +1409,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098277846250922232"></a>
 
-### Đang dịch
+### Ảnh chụp lén tennis đời thường góc nhìn bạn trai bằng iPhone, thiếu nữ trong trang phục tennis đơn giản
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1417,7 +1417,7 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
 Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp lén tennis đời thường góc nhìn bạn trai bằng iPhone, thiếu nữ trong trang phục tennis đơn giản
 
 <img src="images/2098277846250922232-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1432,7 +1432,7 @@ Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Khoảnh khắc chơi tennis đời thường như được bạn trai tiện tay chụp bằng iPhone: cô gái trẻ tuổi trưởng thành, mặc trang phục tennis và đi giày thể thao đơn giản; mỗi lần ngẫu nhiên bắt trọn các động tác khác nhau, khoảnh khắc diễn ra tại thời điểm đó và cự ly chụp khác nhau, giống như những bức ảnh chân thật vô tình được lưu lại khi hai người ở bên nhau.
 ```
 
 [↑ Về danh mục](#catalog)

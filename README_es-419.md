@@ -1407,7 +1407,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098277846250922232"></a>
 
-### Traducción en curso
+### Foto espontánea de tenis con iPhone desde la perspectiva del novio, chica con ropa de tenis sencilla
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1415,7 +1415,7 @@ Retrato / Selfie · Personaje · Publicado
 
 Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto espontánea de tenis con iPhone desde la perspectiva del novio, chica con ropa de tenis sencilla
 
 <img src="images/2098277846250922232-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1430,7 +1430,7 @@ Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Una rutina de tenis casual como tomada por el novio con un iPhone: una chica joven adulta, con ropa de tenis sencilla y tenis deportivos; capturando al azar cada vez sus diferentes movimientos, el instante del momento y distintas distancias de disparo, como fotos reales tomadas de forma espontánea mientras pasan tiempo juntos.
 ```
 
 [↑ Volver a categorías](#catalog)

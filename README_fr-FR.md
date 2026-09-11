@@ -1407,7 +1407,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098277846250922232"></a>
 
-### Traduction en cours
+### Instantané du quotidien au tennis vue par le petit ami sur iPhone, jeune femme en tenue de tennis épurée
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1415,7 +1415,7 @@ Portrait / Selfie · Personnage · Publié
 
 Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Résumé:** Traduction en cours
+**Résumé:** Instantané du quotidien au tennis vue par le petit ami sur iPhone, jeune femme en tenue de tennis épurée
 
 <img src="images/2098277846250922232-1.jpg" alt="Image 1" width="480" />
 
@@ -1430,7 +1430,7 @@ Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Comme une scène quotidienne de tennis capturée sur le vif par un petit ami avec un iPhone : une jeune femme adulte vêtue d'une tenue de tennis simple et de baskets ; saisissant au hasard à chaque fois ses différents mouvements, l'instant présent et différentes distances de prise de vue, comme de véritables photos prises spontanément lorsque deux personnes passent du temps ensemble.
 ```
 
 [↑ Retour aux catégories](#catalog)

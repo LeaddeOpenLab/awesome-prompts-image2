@@ -1392,7 +1392,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098277846250922232"></a>
 
-### Çeviri sürüyor
+### Erkek arkadaşı bakış açısından iPhone günlük tenis enstantanesi, sade tenis kıyafetli genç kız
 
 Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2098277846250922232)
 
@@ -1400,7 +1400,7 @@ Portre / Selfie · Karakter · Yayımlandı
 
 Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2096132813120807024)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Erkek arkadaşı bakış açısından iPhone günlük tenis enstantanesi, sade tenis kıyafetli genç kız
 
 <img src="images/2098277846250922232-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1415,7 +1415,7 @@ Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Erkek arkadaşının iPhone ile gelişigüzel çektiği günlük bir tenis anı gibi: sade tenis kıyafeti ve spor ayakkabı giymiş genç yetişkin bir kız; her seferinde onun farklı hareketlerini, anlık gelişen anları ve çekim mesafelerini rastgele yakalayan, sanki iki kişi birlikteyken tesadüfen geriye kalmış gerçek fotoğraflar gibi.
 ```
 
 [↑ Kategorilere dön](#catalog)
