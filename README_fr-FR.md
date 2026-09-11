@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**72** Prompts · Dernier ajout: **2026-09-11**
+**73** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,30 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098400287262470292"></a>
+
+### Traduction en cours
+
+Auteur：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Bande dessinée / Storyboard · Marketing produit · Personnage · Produit · Paysage urbain / Rue · Publié
+
+Publication originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098400287262470292.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**72** Prompts · Última incorporación: **2026-09-11**
+**73** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1570,6 +1570,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098400287262470292"></a>
+
+### Traducción en curso
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Cómic / Guion gráfico · Marketing de producto · Personaje · Producto · Paisaje urbano / Calle · Publicado
+
+Publicación original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098400287262470292.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 

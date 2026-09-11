@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**72** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**73** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,30 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098400287262470292"></a>
+
+### Übersetzung läuft
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Comic / Storyboard · Produktmarketing · Charakter · Produkt · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098400287262470292.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 

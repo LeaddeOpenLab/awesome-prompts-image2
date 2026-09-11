@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**72** Prompt · Son eklenen: **2026-09-11**
+**73** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1531,6 +1531,30 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098400287262470292"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Çizgi Roman / Hikaye Taslağı · Ürün Pazarlaması · Karakter · Ürün · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098400287262470292.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 

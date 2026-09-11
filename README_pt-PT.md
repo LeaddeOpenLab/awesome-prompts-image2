@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**72** Prompts · Adição mais recente: **2026-09-11**
+**73** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1531,6 +1531,30 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098400287262470292"></a>
+
+### Tradução em curso
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Banda desenhada / Storyboard · Marketing de Produto · Personagem · Produto · Paisagem urbana / Rua · Publicado
+
+Publicação original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098400287262470292.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 

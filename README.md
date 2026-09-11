@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**72** Prompts · Latest addition: **2026-09-11**
+**73** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1483,6 +1483,66 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098400287262470292"></a>
+
+### 10-second high-end wireless earbuds commercial storyboard prompt, showing a modern urban career woman wearing and using the product in an office setting.
+
+Author：[@Adam38363368936](https://x.com/Adam38363368936) · [Source](https://x.com/Adam38363368936/status/2098400287262470292)
+
+Comic / Storyboard · Product Marketing · Character · Product · Cityscape / Street · Published
+
+Source：[@Adam38363368936](https://x.com/Adam38363368936) · [Source](https://x.com/Adam38363368936/status/2098318586859377102)
+
+**Summary:** 10-second high-end wireless earbuds commercial storyboard prompt, showing a modern urban career woman wearing and using the product in an office setting.
+
+<img src="covers/2098400287262470292.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Using the AEROX ONE wireless Bluetooth earbuds and charging case from the reference image as the sole product reference, strictly maintain the earbud shape, proportions, silver-gray metal and matte white materials, the rounded contour of the charging case, brand typography, aperture positions, and structural relationships consistent; do not redesign, do not deform, and do not introduce extra products.
+
+Produce a 10-second high-end consumer electronics brand commercial, featuring a young Asian woman as the urban lifestyle female protagonist. The protagonist has a clean, neat, and restrained temperament, wearing a simple white shirt or a light gray blazer, with natural makeup and realistic skin texture, embodying the overall vibe of a modern urban professional woman. The character only serves to express lifestyle and atmosphere; the product is always the visual centerpiece.
+
+0-2 seconds:
+Early morning modern office space, with natural light entering through floor-to-ceiling windows. The female protagonist walks to the desk and sets down her phone and leather bag. The camera cuts swiftly to the AEROX ONE charging case on the desk; the lid opens crisply, and both earbuds clearly appear. The camera pacing is crisp and sharp, with the product appearing in the very first second.
+
+2-4 seconds:
+The female protagonist picks up one earbud and places it in her ear with a natural, elegant, non-exaggerated motion. Cut to a close-up of the earbud, with cool white highlights gleaming along the metallic edge, fitting naturally in the ear, highlighting the sophisticated aesthetic of the product when worn. Blurred office environment in the background.
+
+4-6 seconds:
+The female protagonist walks through a modern office area or coffee shop aisle wearing the earbuds, captured with a smooth lateral tracking shot. Her demeanor is focused, relaxed, and in control. The earbuds must remain clearly visible in the frame and cannot be fully obscured by hair. The overall tone emphasizes urban commute, efficiency, and a lifestyle aesthetic.
+
+6-8 seconds:
+Cut to her sitting by the window using a laptop, one hand lightly tapping the earbud as if switching modes or answering a call. Slight camera push-in, blurred city in the background, creating a premium lifestyle commercial mood blending product and character.
+
+8-10 seconds:
+Quick cut back to a pure product hero shot. The AEROX ONE earbuds and charging case rest on a minimalist silver-gray tabletop, with a soft blurred background and the protagonist out of focus in the far distance providing environmental ambiance. The camera gradually decelerates and comes to a stop, leaving the earbuds and charging case as the sole sharp subject in the frame, creating the finale of a high-end consumer electronics brand commercial.
+
+Overall Style:
+High-end, modern, technological, urban, restrained, realistic, like an international consumer electronics brand campaign.
+The imagery must feature genuine commercial photography texture, real optical lenses, precise perspective, sharp product edges, and authentic, natural silver-gray metal and matte white materials.
+The pacing must have distinct variations; avoid using slow motion throughout.
+Human movements must be natural, avoiding a posed look, excessive smiling, and exaggerated facial expressions.
+
+Key Requirements:
+Maintain consistent product appearance.
+Earbuds must have normal anatomy and realistic proportions when worn in the character's ear.
+The protagonist's hair must not cover the earbuds.
+Do not add a second set of earbuds.
+No product deformation.
+No excessive sci-fi visual effects.
+No neon cyberpunk.
+No large blocks of subtitles.
+No deformed hands.
+The character must not overshadow the product as the main subject.
+No watermarks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098363788928143624"></a>
 
