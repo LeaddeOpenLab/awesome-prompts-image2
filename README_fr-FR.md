@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098277829154951371"></a>
 
-### Traduction en cours
+### Photographie d'art côtière asymétrique avec un voilier rose corail ancré dans une crique paisible et déserte, encadré par des pins sur la droite.
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098277829154951371)
 
 Photographie · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photographie d'art côtière asymétrique avec un voilier rose corail ancré dans une crique paisible et déserte, encadré par des pins sur la droite.
 
 <img src="images/2098277829154951371-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie d'art côtière verticale au format 3:4. Une crique paisible et déserte, un ciel bleu gris limpide occupant 70 % de la partie supérieure, une ligne d'horizon bleu foncé bien droite en bas. Un petit voilier monocoque réaliste est ancré en bas au centre, légèrement sur la gauche, un mât élancé s'élevant vers le ciel, une voile triangulaire rose corail délicatement gonflée, une tension crédible des coutures de la toile, une étroite bande bleu foncé au bas de la voile, une cabine blanc rosé, des fenêtres noir profond, une coque inférieure rouge corail, un gréement fin et plausible. La surface d'eau calme d'un bleu cyan présente de fines ondulations horizontales et de doux reflets roses fragmentés. Sur la droite, un pin sombre crée un cadrage asymétrique, le tronc partant du bas à droite, la cime s'étendant depuis le haut à droite, des aiguilles rehaussées de légers reflets solaires rose rouge foncé, préservant une vaste étendue de ciel. Tout en bas, une bande de plage de sable fin blanc rosé avec de faibles ombres d'arbres. Coque, écorce, aiguilles et eau de mer réalistes, lumière du soleil nette, ombres profondes, léger grain argentique, texture d'impression mate sobre, couleurs surréalistes mais relations spatiales crédibles, sérénité durable, détachement onirique. Sans personnages, texte, logo ni filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

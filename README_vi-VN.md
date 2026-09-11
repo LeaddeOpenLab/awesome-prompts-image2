@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098277829154951371"></a>
 
-### Đang dịch
+### Bức ảnh nghệ thuật bờ biển bất đối xứng với chiếc thuyền buồm màu hồng san hô neo đậu trong vịnh biển tĩnh lặng không người, rợp bóng thông bên phải.
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098277829154951371)
 
 Nhiếp ảnh · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh nghệ thuật bờ biển bất đối xứng với chiếc thuyền buồm màu hồng san hô neo đậu trong vịnh biển tĩnh lặng không người, rợp bóng thông bên phải.
 
 <img src="images/2098277829154951371-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh nghệ thuật bờ biển khổ dọc tỷ lệ 3:4. Một vịnh biển tĩnh lặng không bóng người, bầu trời xanh xám trong trẻo chiếm 70% phía trên, đường chân trời màu xanh thẫm thẳng tắp ở phía dưới. Một chiếc thuyền buồm đơn thân cỡ nhỏ chân thực neo ở phần dưới trung tâm hơi lệch sang trái, cột buồm mảnh mai vươn lên bầu trời, cánh buồm tam giác màu hồng san hô hơi căng gió, đường may vải buồm có độ căng chân thực, dải viền hẹp màu xanh thẫm ở chân buồm, cabin màu trắng phớt hồng, cửa sổ màu đen thẫm, đáy thân thuyền màu đỏ san hô, hệ thống dây chằng hợp lý. Mặt nước màu xanh lam yên ả với những gợn sóng ngang mịn màng và ánh phản chiếu màu hồng vỡ mềm mại. Bên phải là cây thông màu tối đóng khung bất đối xứng, thân cây mọc từ góc dưới bên phải, tán lá vươn vào từ góc trên bên phải, lá kim điểm xuyết chút ánh nắng màu hồng đỏ sẫm, giữ lại khoảng trời rộng lớn. Dưới cùng là một dải bãi cát mịn màu trắng hồng với bóng cây mờ nhạt. Thân thuyền, vỏ cây, lá kim và nước biển chân thực, ánh nắng sắc nét, bóng đổ sâu đậm, hạt phim nhẹ, chất cảm in mờ nhã nhặn, màu sắc siêu thực nhưng không gian đáng tin cậy, yên ả, lắng đọng, mang cảm giác xa cách như một giấc mơ. Không có người, chữ, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

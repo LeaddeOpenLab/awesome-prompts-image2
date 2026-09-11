@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098277829154951371"></a>
 
-### Tradução em curso
+### Fotografia artística costeira assimétrica com veleiro rosa-coral fundeado numa enseada calma e deserta, emoldurado por pinheiros à direita.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098277829154951371)
 
 Fotografia · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fotografia artística costeira assimétrica com veleiro rosa-coral fundeado numa enseada calma e deserta, emoldurado por pinheiros à direita.
 
 <img src="images/2098277829154951371-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma fotografia artística costeira vertical em proporção 3:4. Uma enseada tranquila e deserta, com céu cinzento-azulado límpido ocupando 70% da parte superior e uma linha do horizonte azul-escuro reta na parte inferior. Um pequeno veleiro monocasco realista fundeado na parte centro-inferior ligeiramente à esquerda, mastro fino a estender-se em direção ao céu, vela triangular rosa-coral suavemente enfunada, tensão verosímil nas costuras da lona, uma faixa estreita azul-escuro na esteira da vela, cabina branco-rosada, janelas preto-profundo, casco inferior vermelho-coral e cordame fino e verosímil. A superfície tranquila da água azul-ciano apresenta finas ondulações horizontais e suaves reflexos rosados fragmentados. No lado direito, um pinheiro escuro cria um enquadramento assimétrico, com o tronco a erguer-se do canto inferior direito e a copa a entrar pelo canto superior direito, agulhas com discretos realces solares em rosa avermelhado escuro, preservando uma ampla área de céu. Na parte mais inferior, uma faixa de praia de areia fina branco-rosada com sombras ténues da árvore. Casco, casca, agulhas e água do mar realistas, luz solar nítida, sombras profundas, ligeiro grão de película, textura discreta de impressão mate, cores surrealistas com espacialidade credível, serenidade prolongada e distanciamento onírico. Sem pessoas, texto, logótipo ou marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

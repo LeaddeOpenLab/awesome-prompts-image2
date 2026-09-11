@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098277829154951371"></a>
 
-### Traduzione in corso
+### Fotografia artistica costiera asimmetrica con una barca a vela rosa corallo ancorata in una cala tranquilla e deserta, incorniciata da pini a destra.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098277829154951371)
 
 Fotografia · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotografia artistica costiera asimmetrica con una barca a vela rosa corallo ancorata in una cala tranquilla e deserta, incorniciata da pini a destra.
 
 <img src="images/2098277829154951371-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia artistica costiera verticale in formato 3:4. Una cala tranquilla e deserta, con un cielo limpido grigio-blu che occupa il 70% superiore e una linea dell'orizzonte blu scuro dritta nella parte inferiore. Una piccola barca a vela monocarena realistica è ancorata nella parte medio-bassa leggermente a sinistra, con un albero sottile che si protende verso il cielo, una vela triangolare rosa corallo leggermente gonfia, una tensione verosimile delle cuciture della tela, una sottile fascia blu scuro alla base della vela, cabina bianco-rosata, finestre nero profondo, scafo inferiore rosso corallo e manovre sottili e coerenti. La calma superficie dell'acqua blu ciano presenta fini increspature orizzontali e morbidi riflessi rosa frammentati. Sul lato destro, un pino scuro crea un'inquadratura asimmetrica, con il tronco che sale da destra in basso e la chioma che si estende da destra in alto, aghi con lievi riflessi solari rosa rosso scuro, preservando un'ampia porzione di cielo. Nella parte inferiore assoluta, una striscia di spiaggia di sabbia finissima bianco-rosata con tenui ombre dell'albero. Scafo, corteccia, aghi e acqua di mare realistici, luce solare nitida, ombre profonde, leggera grana di pellicola, discreta consistenza di stampa opaca, colori surreali ma spazialità credibile, quiete prolungata e distacco onirico. Senza persone, testo, loghi né filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098277829154951371"></a>
 
-### Traducción en curso
+### Fotografía artística costera asimétrica con un velero rosa coral fondeado en una cala desierta y tranquila, enmarcado por pinos a la derecha.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098277829154951371)
 
 Fotografía · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía artística costera asimétrica con un velero rosa coral fondeado en una cala desierta y tranquila, enmarcado por pinos a la derecha.
 
 <img src="images/2098277829154951371-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía artística costera vertical de 3:4. Una cala tranquila y desierta, con un cielo despejado azul grisáceo que ocupa el 70% superior y una línea de horizonte azul oscuro recta en la parte inferior. Un pequeño velero monocasco realista fondeado en la parte inferior central, ligeramente a la izquierda, con un mástil delgado que se eleva hacia el cielo, una vela triangular de color rosa coral suavemente hinchada, tensión creíble en las costuras de la lona, una estrecha franja azul oscuro en la base de la vela, cabina blanca rosácea, ventanas negras profundas, casco inferior rojo coral y un aparejo fino y verosímil. La superficie del agua, en calma y de tono azul cian, presenta finas ondas horizontales y suaves reflejos rosados fragmentados. En el lado derecho, un pino oscuro crea un encuadre asimétrico, con el tronco naciendo desde abajo a la derecha y la copa entrando desde arriba a la derecha, con acículas que muestran sutiles toques de luz solar de color rosa rojizo oscuro, preservando una gran extensión de cielo. En la parte inferior absoluta, una franja de playa de arena fina blanco-rosada con sombras tenues del árbol. Casco, corteza, acículas y agua de mar realistas, luz solar nítida, sombras profundas, grano de película sutil, textura de impresión mate sobria, colores surrealistas pero con relaciones espaciales creíbles, serenidad prolongada y distanciamiento onírico. Sin personas, texto, logotipo ni marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

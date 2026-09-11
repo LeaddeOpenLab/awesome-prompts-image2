@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098277829154951371"></a>
 
-### Çeviri sürüyor
+### Sakin ve ıssız bir koyda demirlemiş mercan pembesi yelkenli ve sağında çam ağaçları bulunan asimetrik sahil sanat fotoğrafı.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098277829154951371)
 
 Fotoğrafçılık · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sakin ve ıssız bir koyda demirlemiş mercan pembesi yelkenli ve sağında çam ağaçları bulunan asimetrik sahil sanat fotoğrafı.
 
 <img src="images/2098277829154951371-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4 dikey formatta bir sahil güzel sanatlar fotoğrafı oluşturun. Sakin ve ıssız bir koy, üstteki %70'lik alanı kaplayan berrak gri-mavi gökyüzü ve altta uzanan düz, koyu mavi bir ufuk çizgisi. Orta alt kısmın biraz solunda demirlemiş gerçekçi, küçük bir tek gövdeli yelkenli tekne; gökyüzüne uzanan ince bir direk, hafifçe şişmiş mercan pembesi üçgen yelken, kanvas dikişlerinde inandırıcı bir gerginlik, yelkenin alt ucunda koyu mavi dar bir şerit, pembe-beyaz kamara, koyu siyah pencereler, mercan kırmızısı alt gövde ve makul incelikte donanım. Durgun camgöbeği mavisi su yüzeyinde ince yatay dalgacıklar ve yumuşak, kırılmış pembe yansımalar var. Sağ tarafta koyu renkli bir çam ağacı asimetrik bir çerçeve oluşturuyor; gövde sağ alttan yükseliyor, tepe kısmı sağ üstten içeri uzanıyor, iğne yapraklar koyu kırmızımsı pembe güneş ışığı pırıltıları taşıyor ve geniş gökyüzü boşluğu korunuyor. En altta pembe-beyaz ince kumlu bir plaj şeridi ve hafif ağaç gölgeleri yer alıyor. Gerçekçi tekne gövdesi, ağaç kabuğu, çam iğneleri ve deniz suyu; net güneş ışığı, derin gölgeler, hafif film greni, abartısız mat baskı dokusu, gerçeküstü renkler ancak inandırıcı mekânsal ilişkiler, dingin, zamansız ve rüya gibi bir soyutlanmışlık. İnsan, metin, logo veya filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

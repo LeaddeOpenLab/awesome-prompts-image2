@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098277829154951371"></a>
 
-### Übersetzung läuft
+### Asymmetrische maritime Kunstfotografie mit einem korallenrosa Segelboot vor Anker in einer ruhigen, verlassenen Bucht, flankiert von einer Kiefer zur Rechten.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098277829154951371)
 
 Fotografie · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Asymmetrische maritime Kunstfotografie mit einem korallenrosa Segelboot vor Anker in einer ruhigen, verlassenen Bucht, flankiert von einer Kiefer zur Rechten.
 
 <img src="images/2098277829154951371-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine maritime Kunstfotografie im Hochformat 3:4. Eine ruhige, menschenleere Bucht, ein klarer graublauer Himmel, der die oberen 70 % einnimmt, und ein gerader, tiefblauer Horizont im unteren Bereich. Ein realistisches, kleines Einrumpf-Segelboot liegt im unteren mittleren Bereich leicht links vor Anker, ein schlanker Mast ragt in den Himmel, das korallenrosa Dreieckssegel ist leicht gebläht, glaubwürdige Nahtspannung im Segeltuch, ein schmaler tiefblauer Streifen am Segelfuß, die Kabine rosig-weiß, die Fenster tiefschwarz, der Unterwasserrumpf korallenrot, stimmig feine Takelage. Die ruhige, cyanblaue Wasseroberfläche zeigt feine horizontale Wellen und weiche, zerstreute rosa Reflexionen. Auf der rechten Seite rahmt eine dunkle Kiefer die Szene asymmetrisch ein; der Stamm wächst von unten rechts empor, die Krone ragt von oben rechts herein, Nadeln mit dezenten dunkelrot-pinken Sonnenlicht-Highlights, wobei viel freier Himmel erhalten bleibt. Ganz unten ein Streifen feinster weiß-rosafarbener Sandstrand mit zarten Baumschatten. Realistischer Rumpf, Baumrinde, Kiefernadeln, Meerwasser, klares Sonnenlicht, tiefe Schatten, feines Filmkorn, dezente matte Drucktextur, surreale Farben bei glaubwürdiger Raumwirkung, ruhig, nachhallend, traumhaft distanziert. Keine Personen, Text, Logo oder Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
