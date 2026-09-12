@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:50:55.168Z",
+  "model": "image2.5",
+  "prompt": "{角色}，复古丝网印刷时装插画 × 独立出版海报 × 几何人物设计 × VOXCAT 品牌视觉。\n\n保留角色最具辨识度的发型轮廓、主色调、服装特征与代表性配件，但重新设计为简洁现代的时装造型。人物比例自然偏修长，采用侧身站立、倚靠、转身、回望、抱臂或手持角色道具等静态 Editorial 姿态，根据角色气质自动适配动作。\n\n画面使用 3～4 种高识别专色，以角色代表色建立主色体系，采用硬边平涂、粗颗粒半调网点、丝网印刷墨层、轻微套印错位、局部油墨堆积与纸张纤维纹理。人物轮廓粗而几何，细节高度概括，以大色块和剪影塑造身体与服装，不使用柔和数字水粉效果。\n\n背景采用非对称几何构成，以大面积圆形、矩形、弧线、裁切色块和留白组织版面，让人物与几何图形产生遮挡、穿插与越界关系，形成 1960s–1970s 复古商业印刷 × 当代独立艺术海报气质。\n\n融入 VOXCAT 品牌元素：左上角加入简洁的 stylized “V” × 猫耳/猫尾几何图形 Logo；右下角加入小型手写艺术家签名 “voxCAT”；人物服装根据造型自然加入一处低调 VOXCAT 织标、刺绣暗纹或微型金属铭牌；版面可加入极少量 “VOXCAT / VC / V×C” 微型印刷编号作为设计元素，与丝网印刷系统统一，不喧宾夺主。\n\n竖版人物主视觉，大面积留白，3～4色专色印刷，粗网点，套印偏移，纸张颗粒，几何色块，强剪影，简洁而具有收藏级独立艺术印刷品质感。",
+  "promptTranslations": {
+    "en": "{Character}, vintage screen print fashion illustration × indie publishing poster × geometric character design × VOXCAT brand visual.\n\nRetain the character's most recognizable hairstyle silhouette, primary color palette, clothing features, and signature accessories, but redesign them into a sleek, modern fashion look. The character's proportions are naturally elongated, adopting static Editorial poses such as standing in three-quarter view, leaning, turning, looking back, crossing arms, or holding a character prop, automatically adapting the action according to the character's temperament.\n\nThe visual utilizes 3–4 highly recognizable spot colors, establishing a primary color system based on the character's representative colors, employing hard-edge flat coloring, coarse halftone dots, screen print ink layers, slight misregistration, localized ink build-up, and paper fiber texture. The character's contours are bold and geometric, with highly summarized details, sculpting the body and clothing through large color blocks and silhouettes, without using soft digital gouache effects.\n\nThe background adopts an asymmetrical geometric composition, organizing the layout with expansive circles, rectangles, arcs, cropped color blocks, and negative space, creating relationships of occlusion, intersection, and boundary-crossing between the character and geometric forms, evoking a 1960s–1970s vintage commercial printing × contemporary indie art poster aesthetic.\n\nIntegrate VOXCAT brand elements: a minimalist stylized “V” × cat ear/cat tail geometric logo in the top-left corner; a small handwritten artist signature “voxCAT” in the bottom-right corner; naturally incorporate an understated VOXCAT woven label, tonal embroidered pattern, or micro metal nameplate onto the character's outfit according to the styling; a minimal number of “VOXCAT / VC / V×C” micro-printed serial numbers can be added to the layout as design elements, harmonizing with the screen printing system without overpowering the composition.\n\nVertical character key visual, expansive negative space, 3–4 spot color printing, coarse halftone screen, misregistration shift, paper grain, geometric color blocks, bold silhouette, minimalist with the tactile quality of a collectible indie art print."
+  },
+  "summaryTranslations": {
+    "en": "Vintage screen printing style indie publishing fashion poster prompt with geometric layout and specific brand visual elements."
+  },
+  "translationVersion": 2,
+  "summary": "复古丝网印刷风格的独立出版时装海报提示词，带有几何排版和特定品牌视觉元素。",
+  "summaryEn": "Retro screenprint style indie fashion poster prompt template featuring geometric layouts and brand visuals.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098762789489873062",
+    "canonicalUrl": "https://x.com/lovimg_com/status/2098762789489873062",
+    "author": {
+      "username": "lovimg_com",
+      "displayName": "lovimg_com",
+      "profileUrl": "https://x.com/lovimg_com"
+    },
+    "publishedAt": "2026-09-12T13:16:56.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "zh",
+    "originalText": "@lovimg_com https://t.co/54BjuWIsSG\n\nCreated with GPT Image 2.5\n\n🎨 Prompt:\n{角色}，复古丝网印刷时装插画 × 独立出版海报 × 几何人物设计 × VOXCAT 品牌视觉。\n\n保留角色最具辨识度的发型轮廓、主色调、服装特征与代表性配件，但重新设计为简洁现代的时装造型。人物比例自然偏修长，采用侧身站立、倚靠、转身、回望、抱臂或手持角色道具等静态 Editorial 姿态，根据角色气质自动适配动作。\n\n画面使用 3～4 种高识别专色，以角色代表色建立主色体系，采用硬边平涂、粗颗粒半调网点、丝网印刷墨层、轻微套印错位、局部油墨堆积与纸张纤维纹理。人物轮廓粗而几何，细节高度概括，以大色块和剪影塑造身体与服装，不使用柔和数字水粉效果。\n\n背景采用非对称几何构成，以大面积圆形、矩形、弧线、裁切色块和留白组织版面，让人物与几何图形产生遮挡、穿插与越界关系，形成 1960s–1970s 复古商业印刷 × 当代独立艺术海报气质。\n\n融入 VOXCAT 品牌元素：左上角加入简洁的 stylized “V” × 猫耳/猫尾几何图形 Logo；右下角加入小型手写艺术家签名 “voxCAT”；人物服装根据造型自然加入一处低调 VOXCAT 织标、刺绣暗纹或微型金属铭牌；版面可加入极少量 “VOXCAT / VC / V×C” 微型印刷编号作为设计元素，与丝网印刷系统统一，不喧宾夺主。\n\n竖版人物主视觉，大面积留白，3～4色专色印刷，粗网点，套印偏移，纸张颗粒，几何色块，强剪影，简洁而具有收藏级独立艺术印刷品质感。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBNoUgbwAAnOCi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBNoUgbwAAnOCi.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBNoUdbIAAjZYM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBNoUdbIAAjZYM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/lovimg_com/status/2098762789489873062",
+  "coverUrl": "https://pbs.twimg.com/media/HSBNoUgbwAAnOCi.jpg",
+  "coverPath": "images/2098762789489873062-1.jpg",
+  "imagePaths": [
+    "images/2098762789489873062-1.jpg",
+    "images/2098762789489873062-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBNoUgbwAAnOCi",
+    "x-image:/media/HSBNoUdbIAAjZYM",
+    "x-post:2098762789489873062"
+  ],
+  "analysis": {
+    "summary": "复古丝网印刷风格的独立出版时装海报提示词，带有几何排版和特定品牌视觉元素。",
+    "summaryEn": "Retro screenprint style indie fashion poster prompt template featuring geometric layouts and brand visuals.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图展示了包含林黛玉和芙宁娜的丝网印版画海报，排版、Logo、专色网点和几何色块与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{角色}，复古丝网印刷时装插画 × 独立出版海报 × 几何人物设计 × VOXCAT 品牌视觉。\n\n保留角色最具辨识度的发型轮廓、主色调、服装特征与代表性配件，但重新设计为简洁现代的时装造型。人物比例自然偏修长，采用侧身站立、倚靠、转身、回望、抱臂或手持角色道具等静态 Editorial 姿态，根据角色气质自动适配动作。\n\n画面使用 3～4 种高识别专色，以角色代表色建立主色体系，采用硬边平涂、粗颗粒半调网点、丝网印刷墨层、轻微套印错位、局部油墨堆积与纸张纤维纹理。人物轮廓粗而几何，细节高度概括，以大色块和剪影塑造身体与服装，不使用柔和数字水粉效果。\n\n背景采用非对称几何构成，以大面积圆形、矩形、弧线、裁切色块和留白组织版面，让人物与几何图形产生遮挡、穿插与越界关系，形成 1960s–1970s 复古商业印刷 × 当代独立艺术海报气质。\n\n融入 VOXCAT 品牌元素：左上角加入简洁的 stylized “V” × 猫耳/猫尾几何图形 Logo；右下角加入小型手写艺术家签名 “voxCAT”；人物服装根据造型自然加入一处低调 VOXCAT 织标、刺绣暗纹或微型金属铭牌；版面可加入极少量 “VOXCAT / VC / V×C” 微型印刷编号作为设计元素，与丝网印刷系统统一，不喧宾夺主。\n\n竖版人物主视觉，大面积留白，3～4色专色印刷，粗网点，套印偏移，纸张颗粒，几何色块，强剪影，简洁而具有收藏级独立艺术印刷品质感。",
+    "sourceRange": {
+      "start": 75,
+      "end": 691
+    },
+    "translations": {
+      "zh": "{角色}，复古丝网印刷时装插画 × 独立出版海报 × 几何人物设计 × VOXCAT 品牌视觉。\n\n保留角色最具辨识度的发型轮廓、主色调、服装特征与代表性配件，但重新设计为简洁现代的时装造型。人物比例自然偏修长，采用侧身站立、倚靠、转身、回望、抱臂或手持角色道具等静态 Editorial 姿态，根据角色气质自动适配动作。\n\n画面使用 3～4 种高识别专色，以角色代表色建立主色体系，采用硬边平涂、粗颗粒半调网点、丝网印刷墨层、轻微套印错位、局部油墨堆积与纸张纤维纹理。人物轮廓粗而几何，细节高度概括，以大色块和剪影塑造身体与服装，不使用柔和数字水粉效果。\n\n背景采用非对称几何构成，以大面积圆形、矩形、弧线、裁切色块和留白组织版面，让人物与几何图形产生遮挡、穿插与越界关系，形成 1960s–1970s 复古商业印刷 × 当代独立艺术海报气质。\n\n融入 VOXCAT 品牌元素：左上角加入简洁的 stylized “V” × 猫耳/猫尾几何图形 Logo；右下角加入小型手写艺术家签名 “voxCAT”；人物服装根据造型自然加入一处低调 VOXCAT 织标、刺绣暗纹或微型金属铭牌；版面可加入极少量 “VOXCAT / VC / V×C” 微型印刷编号作为设计元素，与丝网印刷系统统一，不喧宾夺主。\n\n竖版人物主视觉，大面积留白，3～4色专色印刷，粗网点，套印偏移，纸张颗粒，几何色块，强剪影，简洁而具有收藏级独立艺术印刷品质感。",
+      "en": "{Character}, retro screenprint fashion illustration × indie poster × geometric figure design × VOXCAT visual identity.\n\nRetain iconic hairstyle, colors, and key accessories, redesigned into modern fashion styling. Slender figure in editorial poses: standing, leaning, turning, or holding props.\n\nUses 3-4 spot colors, flat color blocks, coarse halftones, screenprint ink texture, misregistration, and paper grain. Bold geometric silhouettes without soft digital washes.\n\nAsymmetric geometric background with circles, rectangles, and negative space reminiscent of 1960s-1970s commercial art posters.\n\nIncludes stylized 'V' cat logo in top-left, 'voxCAT' signature bottom-right, subtle clothing tags, and minimal typography.\n\nVertical orientation, negative space, spot colors, visible halftones, retro print quality."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "插画设计与海报生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "包含占位符模板，配图展示了林黛玉与原神芙宁娜"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
