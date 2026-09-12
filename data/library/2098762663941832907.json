@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:51:07.862Z",
+  "model": "image2",
+  "prompt": "【主题】：____\n【中文标题】：____\n【英文标题】：____\n【左侧元素】：____\n【右侧元素】：____\n【中轴内容】：____\n【夹景方式】：人物动作 / 光影投射 / 正负对照 / 烟雾气流 / 实体轮廓\n【主色调】：____\n【辅助色】：____\n【日期 / 场馆】：____\n【画面比例】：9:16\n\n生成一张具有强设计感和文化展览气质的「中轴夹景」海报。画面建立清晰稳定的垂直中轴，让左右两侧的视觉元素共同把视线推向中央。两侧不只是做对称装饰，而是真正参与主题表达，可以是人物、水袖、烟气、器物、建筑、投影、材质轮廓，或者同一主题的不同状态。\n\n根据主题灵活选择夹景方式：\n人物动作可以用姿态、衣袖、布料和身体曲线夹出中央负形；\n光影投射可以让两侧阴影或亮面对中央形成收束；\n正负对照可以用原版与成品、实体与印痕、反刻与正印形成中轴关系；\n烟雾气流可以让两股连续上升或回旋的线条围绕中央；\n实体轮廓则通过器物、建筑或自然形态的边缘共同围出中心区域。\n\n标题必须是画面核心，并且真正参与构图。可以使用大字纵排、横排、错位排版、上下拆分或跨区排版，不要每次都套用同一种“四字标题”格式。文字允许和主体轻微穿插、遮挡、贴边，但要保持清晰可读。\n\n整体信息密度要比普通海报更丰富，可在中轴、边栏和底部加入少量展览信息，也可以增加一个小型研究模块，例如动作轨迹、工艺步骤、气流变化或结构示意，让画面更像成熟的 museum poster 和 editorial design。\n\n色彩控制在 3–5 个主要颜色，形成明确的大色块关系。画面第一眼要看到左右视觉力量和中轴聚焦，第二眼读到标题，第三眼发现构图方法与主题之间的联系。\n\n整体要求：高级、清晰、完整、层次丰富、具有视觉冲击，避免机械对称、固定模板感、PPT 式信息框、无意义装饰、斑驳噪点、文字模糊和低完成度 AI 感。",
+  "promptTranslations": {
+    "en": "[Theme]: ____\n[Chinese Title]: ____\n[English Title]: ____\n[Left Element]: ____\n[Right Element]: ____\n[Central Axis Content]: ____\n[Framing Technique]: Character Action / Light & Shadow Projection / Positive & Negative Contrast / Smoke & Airflow / Solid Silhouette\n[Primary Color Palette]: ____\n[Secondary Colors]: ____\n[Date / Venue]: ____\n[Aspect Ratio]: 9:16\n\nGenerate a poster with a strong sense of design and the aesthetic quality of a cultural exhibition, utilizing a \"central-axis framing\" composition. The visual should establish a clear and stable vertical central axis, where the visual elements on both the left and right sides converge to guide the viewer's gaze toward the center. The two sides should not merely serve as symmetrical decoration, but actively participate in thematic expression—this can include figures, flowing sleeves, smoke, artifacts, architecture, projections, material silhouettes, or different states of the same theme.\n\nFlexibly select the framing technique according to the theme:\nCharacter Action: utilize postures, sleeves, fabric, and bodily curves to carve out a central negative space;\nLight & Shadow Projection: allow shadows or highlights on either side to converge toward the center;\nPositive & Negative Contrast: employ original vs. finished product, solid form vs. imprint, negative engraving vs. positive print to establish a central-axis relationship;\nSmoke & Airflow: let two streams of continuously rising or swirling lines envelop the center;\nSolid Silhouette: use the edges of artifacts, architecture, or natural forms to collectively frame the central area.\n\nThe title must be the visual core of the piece and genuinely participate in the composition. Large-format vertical or horizontal typesetting, staggered arrangements, top-and-bottom splitting, or cross-zone layouts can be used; avoid repeatedly defaulting to the same \"four-character title\" format. Typography is permitted to subtly interlace, overlap, or edge against the main subject, provided it remains clearly legible.\n\nThe overall information density should be richer than typical posters, with minor exhibition details included along the central axis, sidebars, and bottom. A compact research-style module may also be integrated—such as motion trajectories, craft process steps, airflow shifts, or structural diagrams—making the visual resemble a mature museum poster and editorial design.\n\nLimit the color palette to 3–5 dominant colors, establishing clear, large color-block relationships. At first glance, the viewer should perceive the bilateral visual forces and central-axis focus; at second glance, read the title; and at third glance, discover the conceptual link between the composition method and the theme.\n\nOverall requirements: sophisticated, clean, complete, richly layered, visually striking; avoid mechanical symmetry, rigid template feels, presentation-slide-style info boxes, meaningless decorations, mottled noise, blurred text, and low-fidelity AI artifacts."
+  },
+  "summaryTranslations": {
+    "en": "A structured prompt template and layout design guidelines for generating cultural exhibition posters with a 'central-axis framing' composition."
+  },
+  "translationVersion": 2,
+  "summary": "一套用于生成具有文化展览气质的「中轴夹景」构图海报的结构化提示词模板与排版指导规则。",
+  "summaryEn": "A structured prompt template and design rule set for generating cultural exhibition posters with central-axis framing.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098762663941832907",
+    "canonicalUrl": "https://x.com/lovimg_com/status/2098762663941832907",
+    "author": {
+      "username": "lovimg_com",
+      "displayName": "lovimg_com",
+      "profileUrl": "https://x.com/lovimg_com"
+    },
+    "publishedAt": "2026-09-12T13:16:26.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "zh",
+    "originalText": "@lovimg_com https://t.co/joy52a7eYm\n\nCreated with GPT Image 2\n\n🎨 Prompt:\n提示词：\n\n【主题】：____\n【中文标题】：____\n【英文标题】：____\n【左侧元素】：____\n【右侧元素】：____\n【中轴内容】：____\n【夹景方式】：人物动作 / 光影投射 / 正负对照 / 烟雾气流 / 实体轮廓\n【主色调】：____\n【辅助色】：____\n【日期 / 场馆】：____\n【画面比例】：9:16\n\n生成一张具有强设计感和文化展览气质的「中轴夹景」海报。画面建立清晰稳定的垂直中轴，让左右两侧的视觉元素共同把视线推向中央。两侧不只是做对称装饰，而是真正参与主题表达，可以是人物、水袖、烟气、器物、建筑、投影、材质轮廓，或者同一主题的不同状态。\n\n根据主题灵活选择夹景方式：\n人物动作可以用姿态、衣袖、布料和身体曲线夹出中央负形；\n光影投射可以让两侧阴影或亮面对中央形成收束；\n正负对照可以用原版与成品、实体与印痕、反刻与正印形成中轴关系；\n烟雾气流可以让两股连续上升或回旋的线条围绕中央；\n实体轮廓则通过器物、建筑或自然形态的边缘共同围出中心区域。\n\n标题必须是画面核心，并且真正参与构图。可以使用大字纵排、横排、错位排版、上下拆分或跨区排版，不要每次都套用同一种“四字标题”格式。文字允许和主体轻微穿插、遮挡、贴边，但要保持清晰可读。\n\n整体信息密度要比普通海报更丰富，可在中轴、边栏和底部加入少量展览信息，也可以增加一个小型研究模块，例如动作轨迹、工艺步骤、气流变化或结构示意，让画面更像成熟的 museum poster 和 editorial design。\n\n色彩控制在 3–5 个主要颜色，形成明确的大色块关系。画面第一眼要看到左右视觉力量和中轴聚焦，第二眼读到标题，第三眼发现构图方法与主题之间的联系。\n\n整体要求：高级、清晰、完整、层次丰富、具有视觉冲击，避免机械对称、固定模板感、PPT 式信息框、无意义装饰、斑驳噪点、文字模糊和低完成度 AI 感。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBNgmma0AA1Wgt.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBNgmma0AA1Wgt.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBNgmtbQAAhIBl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBNgmtbQAAhIBl.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 40
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/lovimg_com/status/2098762663941832907",
+  "coverUrl": "https://pbs.twimg.com/media/HSBNgmma0AA1Wgt.jpg",
+  "coverPath": "images/2098762663941832907-1.jpg",
+  "imagePaths": [
+    "images/2098762663941832907-1.jpg",
+    "images/2098762663941832907-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBNgmma0AA1Wgt",
+    "x-image:/media/HSBNgmtbQAAhIBl",
+    "x-post:2098762663941832907"
+  ],
+  "analysis": {
+    "summary": "一套用于生成具有文化展览气质的「中轴夹景」构图海报的结构化提示词模板与排版指导规则。",
+    "summaryEn": "A structured prompt template and design rule set for generating cultural exhibition posters with central-axis framing.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带的海报展现了典型中轴排版、两侧夹景（水袖动作与窗棂光影）、中央大标题及辅助研究模块，与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "【主题】：____\n【中文标题】：____\n【英文标题】：____\n【左侧元素】：____\n【右侧元素】：____\n【中轴内容】：____\n【夹景方式】：人物动作 / 光影投射 / 正负对照 / 烟雾气流 / 实体轮廓\n【主色调】：____\n【辅助色】：____\n【日期 / 场馆】：____\n【画面比例】：9:16\n\n生成一张具有强设计感和文化展览气质的「中轴夹景」海报。画面建立清晰稳定的垂直中轴，让左右两侧的视觉元素共同把视线推向中央。两侧不只是做对称装饰，而是真正参与主题表达，可以是人物、水袖、烟气、器物、建筑、投影、材质轮廓，或者同一主题的不同状态。\n\n根据主题灵活选择夹景方式：\n人物动作可以用姿态、衣袖、布料和身体曲线夹出中央负形；\n光影投射可以让两侧阴影或亮面对中央形成收束；\n正负对照可以用原版与成品、实体与印痕、反刻与正印形成中轴关系；\n烟雾气流可以让两股连续上升或回旋的线条围绕中央；\n实体轮廓则通过器物、建筑或自然形态的边缘共同围出中心区域。\n\n标题必须是画面核心，并且真正参与构图。可以使用大字纵排、横排、错位排版、上下拆分或跨区排版，不要每次都套用同一种“四字标题”格式。文字允许和主体轻微穿插、遮挡、贴边，但要保持清晰可读。\n\n整体信息密度要比普通海报更丰富，可在中轴、边栏和底部加入少量展览信息，也可以增加一个小型研究模块，例如动作轨迹、工艺步骤、气流变化或结构示意，让画面更像成熟的 museum poster 和 editorial design。\n\n色彩控制在 3–5 个主要颜色，形成明确的大色块关系。画面第一眼要看到左右视觉力量和中轴聚焦，第二眼读到标题，第三眼发现构图方法与主题之间的联系。\n\n整体要求：高级、清晰、完整、层次丰富、具有视觉冲击，避免机械对称、固定模板感、PPT 式信息框、无意义装饰、斑驳噪点、文字模糊和低完成度 AI 感。",
+    "sourceRange": {
+      "start": 79,
+      "end": 873
+    },
+    "translations": {
+      "zh": "【主题】：____\n【中文标题】：____\n【英文标题】：____\n【左侧元素】：____\n【右侧元素】：____\n【中轴内容】：____\n【夹景方式】：人物动作 / 光影投射 / 正负对照 / 烟雾气流 / 实体轮廓\n【主色调】：____\n【辅助色】：____\n【日期 / 场馆】：____\n【画面比例】：9:16\n\n生成一张具有强设计感和文化展览气质的「中轴夹景」海报。画面建立清晰稳定的垂直中轴，让左右两侧的视觉元素共同把视线推向中央。两侧不只是做对称装饰，而是真正参与主题表达，可以是人物、水袖、烟气、器物、建筑、投影、材质轮廓，或者同一主题的不同状态。\n\n根据主题灵活选择夹景方式：\n人物动作可以用姿态、衣袖、布料和身体曲线夹出中央负形；\n光影投射可以让两侧阴影或亮面对中央形成收束；\n正负对照可以用原版与成品、实体与印痕、反刻与正印形成中轴关系；\n烟雾气流可以让两股连续上升或回旋的线条围绕中央；\n实体轮廓则通过器物、建筑或自然形态的边缘共同围出中心区域。\n\n标题必须是画面核心，并且真正参与构图。可以使用大字纵排、横排、错位排版、上下拆分或跨区排版，不要每次都套用同一种“四字标题”格式。文字允许和主体轻微穿插、遮挡、贴边，但要保持清晰可读。\n\n整体信息密度要比普通海报更丰富，可在中轴、边栏和底部加入少量展览信息，也可以增加一个小型研究模块，例如动作轨迹、工艺步骤、气流变化或结构示意，让画面更像成熟的 museum poster 和 editorial design。\n\n色彩控制在 3–5 个主要颜色，形成明确的大色块关系。画面第一眼要看到左右视觉力量和中轴聚焦，第二眼读到标题，第三眼发现构图方法与主题之间的联系。\n\n整体要求：高级、清晰、完整、层次丰富、具有视觉冲击，避免机械对称、固定模板感、PPT 式信息框、无意义装饰、斑驳噪点、文字模糊和低完成度 AI 感。",
+      "en": "[Topic]: ____\n[Chinese Title]: ____\n[English Title]: ____\n[Left Element]: ____\n[Right Element]: ____\n[Central Axis Content]: ____\n[Framing Method]: Figure gesture / Light & shadow projection / Positive-negative contrast / Smoke & airflow / Physical silhouette\n[Primary Color]: ____\n[Accent Color]: ____\n[Date / Venue]: ____\n[Aspect Ratio]: 9:16\n\nGenerate a highly stylized cultural exhibition poster utilizing a 'central-axis framing' composition. Establish a clear vertical axis with flanking visual elements directing focus toward the center. Title typography must be integrated into the layout. Maintain rich information density with editorial elements."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
