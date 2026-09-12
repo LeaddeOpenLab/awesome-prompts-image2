@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**78** 筆內容 · 最新收錄: **2026-09-12**
+**83** 筆內容 · 最新收錄: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2098799449237782991"></a>
+
+### 翻譯中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**概括:** 翻譯中
+
+<img src="images/2098799449237782991-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### 翻譯中
+
+作者：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [查看 X 原帖](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+攝影 · 人像 / 自拍 · 建築 / 室內設計 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098797110401335713-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### 翻譯中
+
+作者：[@AI\_money\_club](https://x.com/AI_money_club) · [查看 X 原帖](https://x.com/AI_money_club/status/2098779220566839714)
+
+攝影 · 角色 · 食物 / 飲品 · 已推流
+
+查看 X 原帖：[@AI\_money\_club](https://x.com/AI_money_club) · [查看 X 原帖](https://x.com/AI_money_club/status/2098767892028535126)
+
+**概括:** 翻譯中
+
+<img src="images/2098779220566839714-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1309,6 +1383,30 @@ App / 網站設計 · 3D 渲染 · 角色 · 已推流
 
 ## 復古 / 懷舊
 
+<a name="prompt-2098762789489873062"></a>
+
+### 翻譯中
+
+作者：[@lovimg\_com](https://x.com/lovimg_com) · [查看 X 原帖](https://x.com/lovimg_com/status/2098762789489873062)
+
+海報／傳單 · 插圖 · 復古 / 懷舊 · 時尚單品 · 文字 / 字體排版 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098762789489873062-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### 古風CCD直閃秦淮八艷群像合照提示詞
@@ -2233,6 +2331,30 @@ App / 網站設計 · 已推流
 
 ```text
 將附圖作為攝影方案參考。保留它的曝光關係、光線方向、衣料質感和構圖節奏；重新設計角色與主題配色。人物為成年人，不複製參考人物的臉。生成後對照原圖檢查：有沒有擅自改變佈光、加厚服裝，或者把皮膚修得過度光滑？
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### 翻譯中
+
+作者：[@lovimg\_com](https://x.com/lovimg_com) · [查看 X 原帖](https://x.com/lovimg_com/status/2098762663941832907)
+
+海報／傳單 · 文字 / 字體排版 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098762663941832907-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

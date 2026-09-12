@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**78** 条内容 · 最新收录: **2026-09-12**
+**83** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2098799449237782991"></a>
+
+### 翻译中
+
+作者：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**概括:** 翻译中
+
+<img src="images/2098799449237782991-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### 翻译中
+
+作者：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [查看 X 原帖](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+摄影 · 人像 / 自拍 · 建筑 / 室内设计 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098797110401335713-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### 翻译中
+
+作者：[@AI\_money\_club](https://x.com/AI_money_club) · [查看 X 原帖](https://x.com/AI_money_club/status/2098779220566839714)
+
+摄影 · 角色 · 食品 / 饮料 · 已推流
+
+查看 X 原帖：[@AI\_money\_club](https://x.com/AI_money_club) · [查看 X 原帖](https://x.com/AI_money_club/status/2098767892028535126)
+
+**概括:** 翻译中
+
+<img src="images/2098779220566839714-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1309,6 +1383,30 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 
 ## 复古 / 怀旧
 
+<a name="prompt-2098762789489873062"></a>
+
+### 翻译中
+
+作者：[@lovimg\_com](https://x.com/lovimg_com) · [查看 X 原帖](https://x.com/lovimg_com/status/2098762789489873062)
+
+海报 / 传单 · 插画 · 复古 / 怀旧 · 时尚单品 · 文本 / 排版 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098762789489873062-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### 古风CCD直闪秦淮八艳群像合照提示词
@@ -2233,6 +2331,30 @@ App / 网页设计 · 已推流
 
 ```text
 将附图作为摄影方案参考。保留它的曝光关系、光线方向、衣料质感和构图节奏；重新设计角色与主题配色。人物为成年人，不复制参考人物的脸。生成后对照原图检查：有没有擅自改变布光、加厚服装，或者把皮肤修得过度光滑？
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### 翻译中
+
+作者：[@lovimg\_com](https://x.com/lovimg_com) · [查看 X 原帖](https://x.com/lovimg_com/status/2098762663941832907)
+
+海报 / 传单 · 文本 / 排版 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098762663941832907-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

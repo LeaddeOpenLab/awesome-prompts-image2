@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**78** Prompts · Última adição: **2026-09-12**
+**83** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098799449237782991"></a>
+
+### Tradução em andamento
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098799449237782991-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Tradução em andamento
+
+Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicação original](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografia · Retrato / Selfie · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098797110401335713-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Tradução em andamento
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografia · Personagem · Alimentos / Bebidas · Publicado
+
+Publicação original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098779220566839714-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1265,6 +1339,30 @@ Converta a foto para o estilo de um diário de viagem desenhado à mão com láp
 
 ## Retrô / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Tradução em andamento
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762789489873062)
+
+Pôster / Flyer · Ilustração · Retrô / Vintage · Item de Moda · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098762789489873062-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt para foto em grupo das Oito Belezas de Qinhuai com flash direto CCD em estilo clássico
@@ -2211,6 +2309,30 @@ Personagem · Publicado
 
 ```text
 Use a imagem anexada como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo de composição; redesenhe o personagem e a paleta de cores temática. O personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, as roupas ficaram mais grossas ou a pele foi excessivamente suavizada?
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Tradução em andamento
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicação original](https://x.com/lovimg_com/status/2098762663941832907)
+
+Pôster / Flyer · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098762663941832907-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

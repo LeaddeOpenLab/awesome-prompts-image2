@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**78** Prompts · Última incorporación: **2026-09-12**
+**83** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098799449237782991"></a>
+
+### Traducción en curso
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098799449237782991-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traducción en curso
+
+Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publicación original](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografía · Retrato / Selfie · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098797110401335713-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografía · Personaje · Comida / Bebida · Publicado
+
+Publicación original：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098779220566839714-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1309,6 +1383,30 @@ Transforma la foto en un estilo de diario de viaje dibujado a mano con lápices 
 
 ## Retro / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Traducción en curso
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicación original](https://x.com/lovimg_com/status/2098762789489873062)
+
+Póster / Folleto · Ilustración · Retro / Vintage · Artículo de moda · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098762789489873062-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt para foto grupal de las Ocho Bellezas de Qinhuai con flash directo CCD de estilo clásico
@@ -2255,6 +2353,30 @@ Personaje · Publicado
 
 ```text
 Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la relación de exposición, la dirección de la luz, la textura de la tela y el ritmo de la composición; rediseña el personaje y la paleta de colores temáticos. El personaje es un adulto, no copies el rostro del personaje de referencia. Después de generar, coteja con la imagen original: ¿se ha cambiado la iluminación sin permiso, se ha engrosado la ropa o se ha suavizado la piel en exceso?
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traducción en curso
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Publicación original](https://x.com/lovimg_com/status/2098762663941832907)
+
+Póster / Folleto · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098762663941832907-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

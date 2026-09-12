@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**78** Prompt · Son eklenen: **2026-09-12**
+**83** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098799449237782991"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098799449237782991-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Orijinal gönderi](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotoğrafçılık · Portre / Selfie · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098797110401335713-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotoğrafçılık · Karakter · Yiyecek / İçecek · Yayımlandı
+
+Orijinal gönderi：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098779220566839714-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1265,6 +1339,30 @@ Fotoğrafı renkli kurşun kalem ve suluboya ile elle çizilmiş bir seyahat gü
 
 ## Retro / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@lovimg\_com](https://x.com/lovimg_com) · [Orijinal gönderi](https://x.com/lovimg_com/status/2098762789489873062)
+
+Poster / El İlanı · İllüstrasyon · Retro / Vintage · Moda Ürünü · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098762789489873062-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Doğrudan CCD flaşlı klasik tarzda Qinhuai'nin Sekiz Güzeli grup fotoğrafı istemi
@@ -2211,6 +2309,30 @@ Karakter · Yayımlandı
 
 ```text
 Ekli görseli fotoğraf konsepti referansı olarak kullanın. Pozlama ilişkisini, ışık yönünü, kumaş dokusunu ve kompozisyon ritmini koruyun; karakteri ve tematik renk paletini yeniden tasarlayın. Karakter bir yetişkin olmalı, referanstaki kişinin yüzü kopyalanmamalıdır. Üretimden sonra orijinal görselle karşılaştırarak kontrol edin: Işıklandırma izinsiz olarak değiştirildi mi, giysiler kalınlaştırıldı mı veya cilt aşırı derecede pürüzsüzleştirildi mi?
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@lovimg\_com](https://x.com/lovimg_com) · [Orijinal gönderi](https://x.com/lovimg_com/status/2098762663941832907)
+
+Poster / El İlanı · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098762663941832907-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

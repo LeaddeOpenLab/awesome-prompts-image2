@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**78** Prompts · Dernier ajout: **2026-09-12**
+**83** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098799449237782991"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098799449237782991-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traduction en cours
+
+Auteur：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Publication originale](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Photographie · Portrait / Selfie · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098797110401335713-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traduction en cours
+
+Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098779220566839714)
+
+Photographie · Personnage · Alimentation / Boissons · Publié
+
+Publication originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098779220566839714-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1280,6 +1354,30 @@ Transformez la photo en un style de carnet de voyage dessiné à la main aux cra
 
 ## Rétro / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Traduction en cours
+
+Auteur：[@lovimg\_com](https://x.com/lovimg_com) · [Publication originale](https://x.com/lovimg_com/status/2098762789489873062)
+
+Affiche / Flyer · Illustration · Rétro / Vintage · Article de mode · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098762789489873062-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt pour photo de groupe des Huit Beautés de Qinhuai au flash direct CCD de style classique
@@ -2226,6 +2324,30 @@ Personnage · Publié
 
 ```text
 Utilisez l'image jointe comme référence pour le schéma photographique. Conservez son rapport d'exposition, la direction de la lumière, la texture des tissus et le rythme de la composition ; redessinez le personnage et la palette de couleurs thématique. Le personnage est un adulte, sans copier le visage de la personne de référence. Après la génération, comparez avec l'image originale pour vérifier : l'éclairage a-t-il été modifié sans autorisation, les vêtements ont-ils été épaissis, ou la peau a-t-elle été retouchée de manière excessivement lisse ?
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traduction en cours
+
+Auteur：[@lovimg\_com](https://x.com/lovimg_com) · [Publication originale](https://x.com/lovimg_com/status/2098762663941832907)
+
+Affiche / Flyer · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098762663941832907-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

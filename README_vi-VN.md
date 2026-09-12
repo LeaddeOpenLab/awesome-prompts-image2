@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**78** Prompt · Bổ sung mới nhất: **2026-09-12**
+**83** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098799449237782991"></a>
+
+### Đang dịch
+
+Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098799449237782991-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Đang dịch
+
+Tác giả：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Bài gốc](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098797110401335713-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098779220566839714)
+
+Nhiếp ảnh · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+Bài gốc：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098779220566839714-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1309,6 +1383,30 @@ Chuyển đổi bức ảnh thành phong cách nhật ký du lịch vẽ tay b�
 
 ## Cổ điển / Cổ điển
 
+<a name="prompt-2098762789489873062"></a>
+
+### Đang dịch
+
+Tác giả：[@lovimg\_com](https://x.com/lovimg_com) · [Bài gốc](https://x.com/lovimg_com/status/2098762789489873062)
+
+Áp phích / Tờ rơi · Minh họa · Cổ điển / Cổ điển · Mặt hàng thời trang · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098762789489873062-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Từ khóa ảnh chụp chung Tần Hoài Bát Diễm cổ phong đánh flash trực diện CCD
@@ -2233,6 +2331,30 @@ Nhân vật · Đã xuất bản
 
 ```text
 Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Đang dịch
+
+Tác giả：[@lovimg\_com](https://x.com/lovimg_com) · [Bài gốc](https://x.com/lovimg_com/status/2098762663941832907)
+
+Áp phích / Tờ rơi · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098762663941832907-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

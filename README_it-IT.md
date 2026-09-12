@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**78** Prompt · Ultima aggiunta: **2026-09-12**
+**83** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098799449237782991"></a>
+
+### Traduzione in corso
+
+Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098799449237782991-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Traduzione in corso
+
+Autore：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Post originale](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografia · Ritratto / Selfie · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098797110401335713-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografia · Personaggio · Cibo / Bevande · Pubblicato
+
+Post originale：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098779220566839714-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1280,6 +1354,30 @@ Trasforma la foto nello stile di un diario di viaggio disegnato a mano con matit
 
 ## Retro / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762789489873062)
+
+Poster / Volantino · Illustrazione · Retro / Vintage · Articolo di moda · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762789489873062-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt per foto di gruppo delle Otto Bellezze di Qinhuai con flash diretto CCD in stile classico
@@ -2226,6 +2324,30 @@ Personaggio · Pubblicato
 
 ```text
 Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rapporto di esposizione, la direzione della luce, la consistenza dei tessuti e il ritmo compositivo; riprogetta il personaggio e la palette di colori tematica. Il personaggio deve essere un adulto, senza copiare il viso della persona di riferimento. Dopo la generazione, confrontala con l'immagine originale per verificare: l'illuminazione è stata modificata arbitrariamente, gli abiti sono stati appesantiti o la pelle è stata ritoccata risultando eccessivamente liscia?
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Traduzione in corso
+
+Autore：[@lovimg\_com](https://x.com/lovimg_com) · [Post originale](https://x.com/lovimg_com/status/2098762663941832907)
+
+Poster / Volantino · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762663941832907-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

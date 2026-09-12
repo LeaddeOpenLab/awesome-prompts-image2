@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**78** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**83** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098799449237782991"></a>
+
+### Übersetzung läuft
+
+Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098799449237782991)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2097630845435572490)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098799449237782991-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098799449237782991-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098797110401335713"></a>
+
+### Übersetzung läuft
+
+Autor：[@sdjn\_wgc](https://x.com/sdjn_wgc) · [Originalbeitrag](https://x.com/sdjn_wgc/status/2098797110401335713)
+
+Fotografie · Porträt / Selfie · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098797110401335713-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098779220566839714"></a>
+
+### Übersetzung läuft
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098779220566839714)
+
+Fotografie · Charakter · Essen / Trinken · Veröffentlicht
+
+Originalbeitrag：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098767892028535126)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098779220566839714-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098779220566839714-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098610123900064236"></a>
 
@@ -1280,6 +1354,30 @@ Verwandeln Sie das Foto in den handgezeichneten Stil eines Reisetagebuchs mit Bu
 
 ## Retro / Vintage
 
+<a name="prompt-2098762789489873062"></a>
+
+### Übersetzung läuft
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Originalbeitrag](https://x.com/lovimg_com/status/2098762789489873062)
+
+Plakat / Flyer · Illustration · Retro / Vintage · Modeartikel · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098762789489873062-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098762789489873062-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098314775344394279"></a>
 
 ### Prompt für ein historisches Gruppenfoto der Acht Schönheiten von Qinhuai mit direktem CCD-Blitz
@@ -2226,6 +2324,30 @@ Charakter · Veröffentlicht
 
 ```text
 Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Belichtungsverhältnis, die Lichtrichtung, die Textur der Kleidung und den Kompositionsrhythmus bei; entwirf die Figur und das thematische Farbschema neu. Die Person ist ein Erwachsener; kopiere nicht das Gesicht der Referenzperson. Nach der Generierung im Vergleich zum Originalbild prüfen: Wurde eigenmächtig die Beleuchtung verändert, die Kleidung dicker gemacht oder die Haut übermäßig glatt retuschiert?
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098762663941832907"></a>
+
+### Übersetzung läuft
+
+Autor：[@lovimg\_com](https://x.com/lovimg_com) · [Originalbeitrag](https://x.com/lovimg_com/status/2098762663941832907)
+
+Plakat / Flyer · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098762663941832907-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098762663941832907-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
