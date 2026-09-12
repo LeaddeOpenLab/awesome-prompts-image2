@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T20:18:30.476Z",
+  "model": "image2.5",
+  "prompt": "A photorealistic jungle-edge action frame. A woman in mud-spattered khaki runs toward camera, eyes wide; behind her a three-story ogre built of wet heliconia, ginger and bird-of-paradise, a mouth of red bracts opening, pollen like smoke. Rain. Palette: cadmium red, jungle green, khaki, the yellow of a heliconia beak. Petals tear off in her wake. 35mm, rain on the lens. 2:3 aspect ratio.",
+  "promptTranslations": {
+    "en": "A photorealistic jungle-edge action frame. A woman in mud-spattered khaki runs toward camera, eyes wide; behind her a three-story ogre built of wet heliconia, ginger and bird-of-paradise, a mouth of red bracts opening, pollen like smoke. Rain. Palette: cadmium red, jungle green, khaki, the yellow of a heliconia beak. Petals tear off in her wake. 35mm, rain on the lens. 2:3 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.",
+  "summaryEn": "Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098868060228927512",
+    "canonicalUrl": "https://x.com/TraffAlex/status/2098868060228927512",
+    "author": {
+      "username": "TraffAlex",
+      "displayName": "AlexAImaginator",
+      "profileUrl": "https://x.com/TraffAlex"
+    },
+    "publishedAt": "2026-09-12T20:15:15.000Z",
+    "collectedAt": "2026-09-12T20:15:44.467Z",
+    "language": "en",
+    "originalText": "GPT Image 2.5 Sunburst vs MAI-Image-2.6-flash — same prompt 🥊\n\nPrompt: A photorealistic jungle-edge action frame. A woman in mud-spattered khaki runs toward camera, eyes wide; behind her a three-story ogre built of wet heliconia, ginger and bird-of-paradise, a mouth of red bracts opening, pollen like smoke. Rain. Palette: cadmium red, jungle green, khaki, the yellow of a heliconia beak. Petals tear off in her wake. 35mm, rain on the lens. 2:3 aspect ratio.\n\n🔵 GPT Image 2.5: [img. 1]\n🟣 MAI Image: [img. 2]\n\nRT + reply who you pick 👇\n#AIart #GPTImage #MSMaiImage",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCtWheboAAa8cC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCtWheboAAa8cC.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCtXU_XwAsRKcj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCtXU_XwAsRKcj.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TraffAlex/status/2098868060228927512",
+  "coverUrl": "https://pbs.twimg.com/media/HSCtWheboAAa8cC.jpg",
+  "coverPath": "images/2098868060228927512-1.jpg",
+  "imagePaths": [
+    "images/2098868060228927512-1.jpg",
+    "images/2098868060228927512-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCtWheboAAa8cC",
+    "x-image:/media/HSCtXU_XwAsRKcj",
+    "x-post:2098868060228927512"
+  ],
+  "analysis": {
+    "summary": "Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.",
+    "summaryEn": "Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both generated images display the woman in khaki fleeing the tropical floral creature in a rain-soaked jungle."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic jungle-edge action frame. A woman in mud-spattered khaki runs toward camera, eyes wide; behind her a three-story ogre built of wet heliconia, ginger and bird-of-paradise, a mouth of red bracts opening, pollen like smoke. Rain. Palette: cadmium red, jungle green, khaki, the yellow of a heliconia beak. Petals tear off in her wake. 35mm, rain on the lens. 2:3 aspect ratio.",
+    "sourceRange": {
+      "start": 71,
+      "end": 460
+    },
+    "translations": {
+      "zh": "写实雨林边缘动态画面。泥泞卡其装女子奔向镜头，身后是湿润赫蕉、姜花和天堂鸟组成的庞大花妖巨兽张口喷粉。雨中，35毫米镜头水渍，2:3画幅。",
+      "en": "Photorealistic action shot of a woman in khaki running from a massive floral monster made of tropical plants in the rain. 35mm lens, 2:3 ratio."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
