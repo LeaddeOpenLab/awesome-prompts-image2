@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**84** Prompt · Bổ sung mới nhất: **2026-09-12**
+**85** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098866288957551034"></a>
+
+### Đang dịch
+
+Tác giả：[@TraffAlex](https://x.com/TraffAlex) · [Bài gốc](https://x.com/TraffAlex/status/2098866288957551034)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098866288957551034-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098866288957551034-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098868060228927512"></a>
 

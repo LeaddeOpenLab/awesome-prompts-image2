@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**84** Prompts · Latest addition: **2026-09-12**
+**85** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098866288957551034"></a>
+
+### A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.
+
+Author：[@TraffAlex](https://x.com/TraffAlex) · [Source](https://x.com/TraffAlex/status/2098866288957551034)
+
+Photography · Character · Published
+
+**Summary:** A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.
+
+<img src="images/2098866288957551034-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098866288957551034-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098868060228927512"></a>
 

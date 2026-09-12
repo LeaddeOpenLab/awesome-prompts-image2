@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**84** Prompts · Última incorporación: **2026-09-12**
+**85** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098866288957551034"></a>
+
+### Traducción en curso
+
+Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicación original](https://x.com/TraffAlex/status/2098866288957551034)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098866288957551034-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098866288957551034-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098868060228927512"></a>
 
