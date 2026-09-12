@@ -252,20 +252,20 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2098631695855669712"></a>
 
-### Đang dịch
+### Khoảnh khắc chân thực, ấm cúng về một phụ nữ Đông Á trong chiếc xe cắm trại ấm áp đang ngắm nhìn bầu trời đêm đầy sao của dải Ngân Hà.
 
 Tác giả：[@laviniavelle](https://x.com/laviniavelle) · [Bài gốc](https://x.com/laviniavelle/status/2098631695855669712)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khoảnh khắc chân thực, ấm cúng về một phụ nữ Đông Á trong chiếc xe cắm trại ấm áp đang ngắm nhìn bầu trời đêm đầy sao của dải Ngân Hà.
 
 <img src="images/2098631695855669712-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh chân thực, ấm cúng và vô cùng chi tiết về một người phụ nữ trẻ Đông Á với mái tóc búi lỏng nhẹ nhàng đang ngồi thoải mái bên trong chiếc xe cắm trại ấm áp vào ban đêm. Cô được quấn trong chiếc chăn bông dày dặn họa tiết hoa màu hồng, mặc áo len nỉ lông màu hồng ấm áp, hai tay cầm cốc gốm màu hồng và nhìn ra ngoài cửa sổ lớn của xe với nụ cười dịu dàng, thanh thản. Bên ngoài cửa sổ, bầu trời đêm tối tĩnh mịch đầy ngoạn mục để lộ dải Ngân Hà rực rỡ đầy sao trên nền bóng mờ của những dãy núi xa xa. Nội thất của xe cắm trại ngập tràn ánh đèn dây cổ tích ấm áp, những kệ gỗ ấm cúng với đồ trang trí nhà nhỏ nhắn, ảnh đóng khung và những con thú nhồi bông đáng yêu hình chú thỏ trắng và vịt con màu vàng. Ánh sáng môi trường ấm áp, đậm chất điện ảnh, độ phân giải 8k, chân thực như ảnh chụp, bầu không khí mơ màng.
 ```
 
 [↑ Về danh mục](#catalog)

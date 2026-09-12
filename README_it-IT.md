@@ -247,20 +247,20 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 <a name="prompt-2098631695855669712"></a>
 
-### Traduzione in corso
+### Uno scatto accogliente e fotorealistico di una donna dell'Asia orientale in un caldo camper van che contempla il cielo stellato della Via Lattea.
 
 Autore：[@laviniavelle](https://x.com/laviniavelle) · [Post originale](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Uno scatto accogliente e fotorealistico di una donna dell'Asia orientale in un caldo camper van che contempla il cielo stellato della Via Lattea.
 
 <img src="images/2098631695855669712-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una fotografia realistica, accogliente e altamente dettagliata di una giovane donna dell'Asia orientale con i capelli raccolti in un morbido chignon casual, seduta comodamente all'interno di un caldo camper van di notte. È avvolta in una spessa e soffice trapunta rosa a motivi floreali, indossa un morbido maglione in pile rosa peloso, tiene una tazza in ceramica rosa con entrambe le mani e guarda fuori dal grande finestrino del van con un sorriso dolce e sereno. Fuori dalla finestra, un cielo notturno scuro e mozzafiato rivela una vivida Via Lattea piena di stelle sopra le sagome di montagne lontane. L'interno del van è decorato con calde lucine fiabesche, accoglienti mensole in legno con piccole decorazioni per la casa, foto incorniciate e teneri peluche di un coniglietto bianco e un anatroccolo giallo. Illuminazione d'ambiente calda, cinematografica, risoluzione 8k, fotorealistica, atmosfera da sogno.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -252,20 +252,20 @@ Foto de un claro en el bosque con abundante follaje verde, altamente detallada
 
 <a name="prompt-2098631695855669712"></a>
 
-### Traducción en curso
+### Una toma acogedora y fotorrealista de una mujer de Asia oriental en una cálida furgoneta cámper contemplando el cielo estrellado de la Vía Láctea.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Publicación original](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una toma acogedora y fotorrealista de una mujer de Asia oriental en una cálida furgoneta cámper contemplando el cielo estrellado de la Vía Láctea.
 
 <img src="images/2098631695855669712-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una fotografía realista, acogedora y sumamente detallada de una joven mujer de Asia oriental con el pelo recogido en un moño suave e informal, sentada cómodamente dentro de una cálida furgoneta cámper por la noche. Está envuelta en un edredón rosa grueso y afelpado con estampado floral, viste un jersey de forro polar rosa suave y afelpado, sostiene una taza de cerámica rosa con ambas manos y mira por la gran ventana de la furgoneta con una sonrisa dulce y serena. Fuera de la ventana, un sobrecogedor cielo nocturno oscuro revela una vívida Vía Láctea repleta de estrellas sobre las siluetas de montañas lejanas. El interior de la furgoneta está lleno de cálidas guirnaldas de luces, acogedores estantes de madera con pequeños adornos para el hogar, fotos enmarcadas y lindos peluches de un conejito blanco y un patito amarillo. Iluminación ambiental cálida, cinematográfica, resolución 8k, fotorrealista, atmósfera de ensueño.
 ```
 
 [↑ Volver a categorías](#catalog)

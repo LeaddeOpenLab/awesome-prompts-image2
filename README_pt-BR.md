@@ -247,20 +247,20 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 <a name="prompt-2098631695855669712"></a>
 
-### Tradução em andamento
+### Uma foto aconchegante e fotorrealista de uma mulher do leste asiático em uma van camper aquecida contemplando o céu estrelado da Via Láctea.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Publicação original](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma foto aconchegante e fotorrealista de uma mulher do leste asiático em uma van camper aquecida contemplando o céu estrelado da Via Láctea.
 
 <img src="images/2098631695855669712-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma fotografia realista, aconchegante e altamente detalhada de uma jovem mulher do leste asiático com o cabelo preso em um coque casual e macio, sentada confortavelmente dentro de uma van camper aquecida à noite. Ela está enrolada em um edredom rosa espesso e felpudo com estampa floral, vestindo um suéter aconchegante de fleece felpudo rosa, segurando uma caneca de cerâmica rosa com as duas mãos e olhando pela grande janela da van com um sorriso suave e sereno. Do lado de fora da janela, um céu noturno escuro de tirar o fôlego revela uma Via Láctea vívida e repleta de estrelas sobre as silhuetas de montanhas distantes. O interior da van é repleto de luzes de fada quentes em cordão, prateleiras de madeira aconchegantes com pequenas decorações para a casa, fotos emolduradas e bichinhos de pelúcia fofos de um coelhinho branco e um patinho amarelo. Iluminação ambiente quente, cinematográfica, resolução 8k, fotorrealista, atmosfera sonhadora.
 ```
 
 [↑ Voltar às categorias](#catalog)

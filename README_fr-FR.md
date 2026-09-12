@@ -247,20 +247,20 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 <a name="prompt-2098631695855669712"></a>
 
-### Traduction en cours
+### Un cliché chaleureux et photoréaliste d'une femme est-asiatique dans un van aménagé douillet contemplant le ciel étoilé de la Voie lactée.
 
 Auteur：[@laviniavelle](https://x.com/laviniavelle) · [Publication originale](https://x.com/laviniavelle/status/2098631695855669712)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un cliché chaleureux et photoréaliste d'une femme est-asiatique dans un van aménagé douillet contemplant le ciel étoilé de la Voie lactée.
 
 <img src="images/2098631695855669712-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une photographie réaliste, chaleureuse et extrêmement détaillée d'une jeune femme est-asiatique avec les cheveux relevés en un chignon flou et décontracté, assise confortablement à l'intérieur d'un van aménagé chaleureux la nuit. Elle est enveloppée dans un édredon rose épais et douillet à motifs floraux, porte un pull polaire rose tout doux et duveteux, tient un mug en céramique rose à deux mains et regarde par la grande fenêtre du van avec un sourire doux et serein. De l'autre côté de la vitre, un ciel nocturne sombre à couper le souffle dévoile une Voie lactée éclatante et remplie d'étoiles au-dessus des silhouettes de montagnes lointaines. L'intérieur du van est baigné par des guirlandes lumineuses chaleureuses, d'étagères en bois accueillantes avec de petits objets de décoration, des photos encadrées et d'adorables peluches représentant un lapin blanc et un caneton jaune. Éclairage d'ambiance chaleureux, cinématographique, résolution 8k, photoréaliste, atmosphère onirique.
 ```
 
 [↑ Retour aux catégories](#catalog)

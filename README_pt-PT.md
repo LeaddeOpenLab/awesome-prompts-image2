@@ -247,20 +247,20 @@ Fotografia de uma clareira na floresta com muita folhagem verde, altamente detal
 
 <a name="prompt-2098631695855669712"></a>
 
-### Tradução em curso
+### Uma foto acolhedora e fotorrealista de uma mulher do leste asiático numa carrinha camper van aquecida a contemplar o céu estrelado da Via Láctea.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Publicação original](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma foto acolhedora e fotorrealista de uma mulher do leste asiático numa carrinha camper van aquecida a contemplar o céu estrelado da Via Láctea.
 
 <img src="images/2098631695855669712-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma fotografia realista, acolhedora e altamente detalhada de uma jovem mulher do leste asiático com o cabelo apanhado num carrapito casual e suave, sentada confortavelmente dentro de uma carrinha camper van aquecida à noite. Encontra-se envolvida num edredão cor-de-rosa espesso e felpudo com padrão floral, a vestir uma camisola acolhedora de lã polar felpuda cor-de-rosa, a segurar numa caneca de cerâmica cor-de-rosa com ambas as mãos e a olhar pela grande janela da carrinha com um sorriso suave e sereno. Fora da janela, um céu noturno escuro de cortar a respiração revela uma Via Láctea vívida e repleta de estrelas sobre as silhuetas de montanhas distantes. O interior da carrinha está repleto de grinaldas de luzes quentes, prateleiras de madeira acolhedoras com pequenas decorações para o lar, fotografias emolduradas e peluches amorosos de um coelhinho branco e um patinho amarelo. Iluminação ambiente quente, cinematográfica, resolução 8k, fotorrealista, atmosfera de sonho.
 ```
 
 [↑ Voltar às categorias](#catalog)

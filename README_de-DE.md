@@ -247,20 +247,20 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 <a name="prompt-2098631695855669712"></a>
 
-### Übersetzung läuft
+### Eine gemütliche, fotorealistische Aufnahme einer ostasiatischen Frau in einem warmen Wohnmobil, die in den sternenklaren Himmel der Milchstraße blickt.
 
 Autor：[@laviniavelle](https://x.com/laviniavelle) · [Originalbeitrag](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine gemütliche, fotorealistische Aufnahme einer ostasiatischen Frau in einem warmen Wohnmobil, die in den sternenklaren Himmel der Milchstraße blickt.
 
 <img src="images/2098631695855669712-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein realistisches, gemütliches und hochdetailliertes Foto einer jungen ostasiatischen Frau mit den Haaren in einem lockeren, weichen Dutt, die nachts bequem in einem warmen Campingbus sitzt. Sie ist in eine dicke, plüschige rosa Steppdecke mit Blumenmuster gehüllt, trägt einen gemütlichen, flauschigen rosa Fleecepullover, hält eine rosa Keramiktasse mit beiden Händen und blickt mit einem sanften, heiteren Lächeln aus dem großen Fenster des Vans. Draußen vor dem Fenster offenbart ein atemberaubender dunkler Nachthimmel eine lebendige, sternenübersäte Milchstraße über fernen Bergsilhouetten. Der Innenraum des Vans ist erfüllt von warmen Lichterketten, gemütlichen Holzregalen mit kleiner Wohndekoration, gerahmten Fotos und niedlichen Plüschtieren, einem weißen Häschen und einem gelben Entlein. Warme Umgebungsbeleuchtung, cineastisch, 8k-Auflösung, fotorealistisch, verträumte Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

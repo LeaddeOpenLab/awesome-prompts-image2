@@ -247,20 +247,20 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 <a name="prompt-2098631695855669712"></a>
 
-### Çeviri sürüyor
+### Sıcak bir karavanda yıldızlı Samanyolu gökyüzünü seyreden Doğu Asyalı bir kadının samimi, fotogerçekçi bir karesi.
 
 Yazar：[@laviniavelle](https://x.com/laviniavelle) · [Orijinal gönderi](https://x.com/laviniavelle/status/2098631695855669712)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sıcak bir karavanda yıldızlı Samanyolu gökyüzünü seyreden Doğu Asyalı bir kadının samimi, fotogerçekçi bir karesi.
 
 <img src="images/2098631695855669712-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Saçları yumuşak ve rahat bir topuz yapılmış genç bir Doğu Asyalı kadının geceleyin sıcak bir karavanın içinde konforlu bir şekilde oturduğu gerçekçi, samimi ve son derece detaylı bir fotoğraf. Çiçek desenli, kalın ve pelüş pembe bir yorgana sarılmış, rahat pembe tüylü polar bir kazak giymiş, iki eliyle pembe seramik bir kupa tutuyor ve hafif, huzurlu bir gülümsemeyle karavanın büyük penceresinden dışarı bakıyor. Pencerenin dışında, nefes kesici karanlık bir gece gökyüzü, uzaktaki dağ silüetlerinin üzerinde yıldızlarla dolu canlı bir Samanyolu galaksisini gözler önüne seriyor. Karavanın içi sıcak peri masalı dizi ışıkları, küçük ev dekorasyonları içeren samimi ahşap raflar, çerçeveli fotoğraflar ve sevimli beyaz bir tavşan ile sarı bir ördek yavrusu pelüş oyuncaklarıyla dolu. Sıcak, ortam aydınlatması, sinematik, 8k çözünürlük, fotogerçekçi, rüya gibi bir atmosfer.
 ```
 
 [↑ Kategorilere dön](#catalog)
