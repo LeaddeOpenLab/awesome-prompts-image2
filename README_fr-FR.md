@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098868060228927512"></a>
 
-### Traduction en cours
+### Plan d'action photoréaliste dans la jungle d'une femme en kaki boueux fuyant un monstre végétal floral sous la pluie.
 
 Auteur：[@TraffAlex](https://x.com/TraffAlex) · [Publication originale](https://x.com/TraffAlex/status/2098868060228927512)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Plan d'action photoréaliste dans la jungle d'une femme en kaki boueux fuyant un monstre végétal floral sous la pluie.
 
 <img src="images/2098868060228927512-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +50,7 @@ Photographie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un plan d'action photoréaliste à la lisière de la jungle. Une femme vêtue de kaki éclaboussé de boue court vers la caméra, les yeux écarquillés ; derrière elle, un ogre haut de trois étages fait d'héliconias mouillés, de gingembre et d'oiseaux de paradis, une gueule de bractées rouges qui s'ouvre, du pollen comme de la fumée. Pluie. Palette : rouge cadmium, vert jungle, kaki, le jaune d'un bec d'héliconia. Des pétales s'arrachent dans son sillage. 35 mm, pluie sur l'objectif. Format d'image 2:3.
 ```
 
 [↑ Retour aux catégories](#catalog)

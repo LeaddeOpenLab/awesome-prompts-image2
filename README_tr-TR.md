@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098868060228927512"></a>
 
-### Çeviri sürüyor
+### Yağmur altında çiçeksi bir bitki canavarından kaçan çamurlu haki giysili bir kadının fotogerçekçi orman aksiyonu karesi.
 
 Yazar：[@TraffAlex](https://x.com/TraffAlex) · [Orijinal gönderi](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmur altında çiçeksi bir bitki canavarından kaçan çamurlu haki giysili bir kadının fotogerçekçi orman aksiyonu karesi.
 
 <img src="images/2098868060228927512-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Orman kenarında fotogerçekçi bir aksiyon karesi. Çamur sıçramış haki kıyafetler içindeki bir kadın gözleri fal taşı gibi açık kameraya doğru koşuyor; arkasında ıslak helikonya, zencefil ve cennet kuşu çiçeğinden yapılmış üç katlı bir dev, kırmızı braktelerden oluşan bir ağız açılıyor, duman gibi polenler. Yağmur. Renk paleti: kadmiyum kırmızısı, orman yeşili, haki, bir helikonya gagasının sarısı. Koştuğu yolda taç yapraklar kopup savruluyor. 35mm, lens üzerinde yağmur damlaları. 2:3 en boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

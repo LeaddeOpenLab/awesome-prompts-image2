@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098868060228927512"></a>
 
-### Tradução em curso
+### Fotograma de ação fotorrealista na selva de uma mulher de cáqui enlameado a fugir de um monstro vegetal floral à chuva.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicação original](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fotograma de ação fotorrealista na selva de uma mulher de cáqui enlameado a fugir de um monstro vegetal floral à chuva.
 
 <img src="images/2098868060228927512-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Um fotograma de ação fotorrealista na orla da selva. Uma mulher em trajes cáqui salpicados de lama corre em direção à câmara, de olhos arregalados; atrás dela, um ogre de três andares feito de helicónias molhadas, gengibre e estrelícias, com uma boca de brácteas vermelhas a abrir-se, pólen como fumo. Chuva. Paleta: vermelho cádmio, verde selva, cáqui, o amarelo do bico de uma helicónia. Pétalas desprendem-se no seu rasto. 35mm, chuva na lente. Proporção de 2:3.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098868060228927512"></a>
 
-### Đang dịch
+### Khung cảnh hành động chân thực nơi rừng rậm về một người phụ nữ mặc đồ kaki lấm lem bùn đất đang chạy trốn khỏi một quái vật thực vật kết bằng hoa dưới trời mưa.
 
 Tác giả：[@TraffAlex](https://x.com/TraffAlex) · [Bài gốc](https://x.com/TraffAlex/status/2098868060228927512)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khung cảnh hành động chân thực nơi rừng rậm về một người phụ nữ mặc đồ kaki lấm lem bùn đất đang chạy trốn khỏi một quái vật thực vật kết bằng hoa dưới trời mưa.
 
 <img src="images/2098868060228927512-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,7 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Khung cảnh hành động chân thực bên rìa rừng rậm. Một người phụ nữ mặc trang phục kaki lấm lem bùn đất chạy về phía máy ảnh, mắt mở to; phía sau cô là một con quỷ ăn thịt người cao ba tầng được tạo nên từ hoa mỏ vẹt ướt sũng, hoa gừng và hoa thiên điểu, cái miệng bằng những lá bắc đỏ đang mở ra, phấn hoa bay mù mịt như khói. Mưa. Bảng màu: đỏ cadmi, xanh rừng nhiệt đới, kaki, vàng mỏ hoa heliconia. Những cánh hoa bị xé rách rụng lại sau gót chân cô. 35mm, nước mưa đọng trên ống kính. Tỷ lệ khung hình 2:3.
 ```
 
 [↑ Về danh mục](#catalog)

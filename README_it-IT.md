@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098868060228927512"></a>
 
-### Traduzione in corso
+### Fotogramma d'azione fotorealistico nella giungla di una donna in cachi infangato che fugge sotto la pioggia da un mostro vegetale floreale.
 
 Autore：[@TraffAlex](https://x.com/TraffAlex) · [Post originale](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotogramma d'azione fotorealistico nella giungla di una donna in cachi infangato che fugge sotto la pioggia da un mostro vegetale floreale.
 
 <img src="images/2098868060228927512-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un fotogramma d'azione fotorealistico ai margini della giungla. Una donna vestita di cachi schizzato di fango corre verso la telecamera con gli occhi spalancati; dietro di lei un orco alto tre piani fatto di eliconie bagnate, zenzero e fiori del paradiso, con una bocca di brattee rosse che si spalanca, polline come fumo. Pioggia. Palette: rosso cadmio, verde giungla, cachi, il giallo del becco di un'eliconia. Petali si staccano al suo passaggio. 35 mm, pioggia sull'obiettivo. Rapporto d'aspetto 2:3.
 ```
 
 [↑ Torna alle categorie](#catalog)

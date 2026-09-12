@@ -35,13 +35,13 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098868060228927512"></a>
 
-### Traducción en curso
+### Fotograma fotorrealista de acción en la selva de una mujer con ropa caqui enlodada que huye de un monstruo vegetal floral bajo la lluvia.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicación original](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotograma fotorrealista de acción en la selva de una mujer con ropa caqui enlodada que huye de un monstruo vegetal floral bajo la lluvia.
 
 <img src="images/2098868060228927512-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Un fotograma de acción fotorrealista al borde de la selva. Una mujer vestida de caqui salpicado de lodo corre hacia la cámara con los ojos muy abiertos; detrás de ella, un ogro de tres pisos hecho de heliconias húmedas, jengibre y ave del paraíso, con una boca de brácteas rojas que se abre y polen que se eleva como humo. Lluvia. Paleta: rojo cadmio, verde selva, caqui, el amarillo del pico de una heliconia. Los pétalos se desprenden a su paso. 35 mm, lluvia sobre la lente. Relación de aspecto 2:3.
 ```
 
 [↑ Volver a categorías](#catalog)

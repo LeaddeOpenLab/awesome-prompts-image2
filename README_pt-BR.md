@@ -35,13 +35,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098868060228927512"></a>
 
-### Tradução em andamento
+### Quadro fotorrealista de ação na selva de uma mulher em cáqui enlameado fugindo de um monstro vegetal floral na chuva.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicação original](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Quadro fotorrealista de ação na selva de uma mulher em cáqui enlameado fugindo de um monstro vegetal floral na chuva.
 
 <img src="images/2098868060228927512-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Um quadro de ação fotorrealista na borda da selva. Uma mulher vestindo cáqui salpicado de lama corre em direção à câmera, com os olhos arregalados; atrás dela, um ogro de três andares feito de helicônias molhadas, gengibre e ave-do-paraíso, uma boca de brácteas vermelhas se abrindo, pólen como fumaça. Chuva. Paleta: vermelho cádmio, verde selva, cáqui, o amarelo do bico de uma helicônia. Pétalas se desprendem em seu rastro. 35mm, chuva na lente. Proporção de tela 2:3.
 ```
 
 [↑ Voltar às categorias](#catalog)

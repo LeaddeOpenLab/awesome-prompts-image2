@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098868060228927512"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Dschungel-Action-Standbild einer Frau in schlammigem Khaki, die im Regen vor einem floralen Pflanzenmonster flieht.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Originalbeitrag](https://x.com/TraffAlex/status/2098868060228927512)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Dschungel-Action-Standbild einer Frau in schlammigem Khaki, die im Regen vor einem floralen Pflanzenmonster flieht.
 
 <img src="images/2098868060228927512-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches Action-Standbild am Rande des Dschungels. Eine Frau in schlammbespritztem Khaki rennt mit weit aufgerissenen Augen auf die Kamera zu; hinter ihr ein dreistöckiger Oger aus nassen Helikonien, Ingwerblüten und Strelizien, dessen Maul aus roten Hochblättern sich öffnet, Pollen wie Rauch. Regen. Farbpalette: Kadmiumrot, Dschungelgrün, Khaki, das Gelb eines Helikonienschnabels. Blütenblätter reißen in ihrem Kielwasser ab. 35mm, Regen auf der Linse. 2:3 Seitenverhältnis.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
