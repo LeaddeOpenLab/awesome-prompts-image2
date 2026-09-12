@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:50:31.282Z",
+  "model": "image2.5",
+  "prompt": "A completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.\n\nShe wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.\n\nA small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.\n\nAn electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.\n\nShot as an ordinary handheld photograph with a 35mm lens.\nOne clearly defined practical light source in an otherwise dark nighttime room.\n\nNatural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.\n\nAuthentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.\n\nInclude ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged.",
+  "promptTranslations": {
+    "en": "A completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.\n\nShe wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.\n\nA small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.\n\nAn electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.\n\nShot as an ordinary handheld photograph with a 35mm lens.\nOne clearly defined practical light source in an otherwise dark nighttime room.\n\nNatural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.\n\nAuthentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.\n\nInclude ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged."
+  },
+  "summaryTranslations": {
+    "en": "Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen."
+  },
+  "translationVersion": 2,
+  "summary": "Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.",
+  "summaryEn": "Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098767892028535126",
+      "canonicalUrl": "https://x.com/AI_money_club/status/2098767892028535126",
+      "author": {
+        "username": "AI_money_club",
+        "displayName": "こやす69＠AIプロンプト屋",
+        "profileUrl": "https://x.com/AI_money_club"
+      },
+      "originalText": "【ブクマ推奨】\n周防さん@y_suouのこのポストめっちゃリアルじゃないっすか？\nGPTimage2.5で作ったらしい\n\nなんでこんなにリアルなのか？\n\n気になってプロンプトを分解してみたら、\n実写感を出すためのヒントがかなり詰まってました📸\n\nやり方としては\n「高画質にする」のとは真逆\n\n夜の暗さ、光源、35mm、手持ち感、\nノイズ、白飛び、わずかなブレ\n\nコツは\n「綺麗に生成する」ことではなく、\n【現実のカメラならどう写るか】を再現すること。\n\nどの指示が何に効いているのか、\nプロンプトと画像を照らし合わせて図解しました👇\n\nAI画像のリアルさを追求してる人は、かなり参考になると思う。"
+    },
+    "id": "2098779220566839714",
+    "canonicalUrl": "https://x.com/AI_money_club/status/2098779220566839714",
+    "author": {
+      "username": "AI_money_club",
+      "displayName": "こやす69＠AIプロンプト屋",
+      "profileUrl": "https://x.com/AI_money_club"
+    },
+    "publishedAt": "2026-09-12T14:22:14.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "ja",
+    "originalText": "マジで写真やんけ…\n更に検証したんですが\n【1つの灯り】が条件でこのプロンプトはかなりリアルになる。\n超健全なのを乗せとくが…\n【1つの灯り】\nあとは解るよな？ｗ\n\n想像で皆さんがつくえろください。\n-------GPTimage2.5 Prompt----------\nA completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.\n\nShe wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.\n\nA small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.\n\nAn electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.\n\nShot as an ordinary handheld photograph with a 35mm lens.\nOne clearly defined practical light source in an otherwise dark nighttime room.\n\nNatural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.\n\nAuthentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.\n\nInclude ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBcQe3acAA-odD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBcQe3acAA-odD.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBSIzIbsAAtGe_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBSIzIbsAAtGe_.jpg",
+        "sourcePostId": "2098767892028535126"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 741
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_money_club/status/2098779220566839714",
+  "coverUrl": "https://pbs.twimg.com/media/HSBcQe3acAA-odD.jpg",
+  "coverPath": "images/2098779220566839714-1.jpg",
+  "imagePaths": [
+    "images/2098779220566839714-1.jpg",
+    "images/2098779220566839714-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBcQe3acAA-odD",
+    "x-image:/media/HSBSIzIbsAAtGe_",
+    "x-post:2098779220566839714",
+    "x-post:2098767892028535126"
+  ],
+  "analysis": {
+    "summary": "Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.",
+    "summaryEn": "Realistic snapshot prompt of a Japanese woman preparing instant noodles under single range-hood light in a dark kitchen.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image 1 shows the Japanese woman in a white T-shirt and navy lounge pants in a dark kitchen lit only by the stove/range light, pouring hot water into instant ramen."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.\n\nShe wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.\n\nA small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.\n\nAn electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.\n\nShot as an ordinary handheld photograph with a 35mm lens.\nOne clearly defined practical light source in an otherwise dark nighttime room.\n\nNatural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.\n\nAuthentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.\n\nInclude ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged.",
+    "sourceRange": {
+      "start": 136,
+      "end": 1533
+    },
+    "translations": {
+      "zh": "一个完全虚构的20岁成年日本女性，在午夜过后独自在狭小的公寓厨房里泡方便面。她穿着宽松的白色T恤和舒适的藏青色家居裤，自然地站在厨房台面旁，低头向杯面中倒入热水。台面上方微弱温暖的抽油烟机灯是主要的实用光源，厨房的大部分和相连的房间保持黑暗。电热水壶、打开的面包包装、筷子、半瓶茶、洗洁精、沥水架和几个未洗的盘子随意见到。厨房显得真实有人用过，而非摄影布置。35mm镜头手持抓拍，黑暗房间中单一光源，自然噪点与光影，真实生动的摄影感。",
+      "en": "A completely fictional 20-year-old adult Japanese woman is preparing instant noodles alone in a small apartment kitchen after midnight.\n\nShe wears a loose white T-shirt and comfortable navy lounge pants. She stands naturally beside the kitchen counter, pouring hot water into a cup of instant noodles while looking down at it.\n\nA small warm range-hood light above the counter is the primary practical light source. Most of the kitchen and adjoining room remain dark.\n\nAn electric kettle, opened noodle packaging, chopsticks, a half-finished bottle of tea, dish soap, a drying rack, and several unwashed dishes are casually visible. The kitchen looks genuinely used rather than styled for photography.\n\nShot as an ordinary handheld photograph with a 35mm lens.\nOne clearly defined practical light source in an otherwise dark nighttime room.\n\nNatural perspective, physically consistent lighting, realistic exposure falloff, slightly crushed shadows, subtle sensor noise in dark areas, mild lens softness, faint natural motion blur, realistic highlight clipping, restrained dynamic range.\n\nAuthentic raw photographic rendering, natural skin tonal variation, subtle realistic skin texture, realistic hair strands. No beauty retouching, no artificial HDR, no glowing skin, no cinematic lighting.\n\nInclude ordinary, slightly imperfect everyday objects and natural clutter. Nothing is perfectly arranged."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "Realistic snapshot photography of everyday night life",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
