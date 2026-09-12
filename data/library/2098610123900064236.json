@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:26:24.303Z",
+  "model": "image2.5",
+  "prompt": "A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition.",
+  "promptTranslations": {
+    "en": "A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition."
+  },
+  "summaryTranslations": {
+    "en": "A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle."
+  },
+  "translationVersion": 2,
+  "summary": "A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.",
+  "summaryEn": "A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098610123900064236",
+    "canonicalUrl": "https://x.com/Aqsahere_/status/2098610123900064236",
+    "author": {
+      "username": "Aqsahere_",
+      "displayName": "Aqsa",
+      "profileUrl": "https://x.com/Aqsahere_"
+    },
+    "publishedAt": "2026-09-12T03:10:18.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "GPT image 2.5 on chatgpt \n\nPrompt \nA realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_CxZpawAATIlM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_CxZpawAATIlM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_Cx7yaMAADfFV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_Cx7yaMAADfFV.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 1,
+      "replyCount": 16,
+      "quoteCount": 1,
+      "viewCount": 563
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Aqsahere_/status/2098610123900064236",
+  "coverUrl": "https://pbs.twimg.com/media/HR_CxZpawAATIlM.jpg",
+  "coverPath": "images/2098610123900064236-1.jpg",
+  "imagePaths": [
+    "images/2098610123900064236-1.jpg",
+    "images/2098610123900064236-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_CxZpawAATIlM",
+    "x-image:/media/HR_Cx7yaMAADfFV",
+    "x-post:2098610123900064236"
+  ],
+  "analysis": {
+    "summary": "A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.",
+    "summaryEn": "A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the prompt in subject, outfit, mouse-ear headband, pose with arms outstretched, and fairytale castle background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition.",
+    "sourceRange": {
+      "start": 35,
+      "end": 1722
+    },
+    "translations": {
+      "zh": "一张写实逼真的抓拍旅行照：一名年轻东亚女子在童话城堡度过欢乐梦幻的一天。她站在宏伟的欧式奇幻城堡前，背景展现梦幻的主题公园度假氛围。她留着栗棕色长微卷发，头戴可爱闪亮的蓝紫双色鼠耳发箍，微笑着看向侧上方。她身穿带金扣的米白色粗呢短外套、白衬衫配格子领带，以及高腰百褶格子裙裤。她张开双臂微微前倾，姿态活泼自然。背景为浅石阶梯和中世纪风城堡庭院，阴天柔和采光，具有智能手机抓拍质感与真实皮肤细节，3:4竖向构图。",
+      "en": "A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "candid travel photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Disney castle / theme park likeness"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
