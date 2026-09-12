@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**74** Prompts · Latest addition: **2026-09-12**
+**75** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098616431122559479"></a>
+
+### iPhone candid snapshot style campus sports field female student documentary photography prompt
+
+Author：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2098616431122559479)
+
+Photography · Portrait / Selfie · Published
+
+Source：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098240447038767437)
+
+**Summary:** iPhone candid snapshot style campus sports field female student documentary photography prompt
+
+<img src="images/2098616431122559479-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098616431122559479-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Campus daily documentary; delightfully accidental; iPhone original camera candid snapshot; narrow shoulders and extremely slim waist, exaggerated bust female student🙆🏻‍♀️
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098277829154951371"></a>
 

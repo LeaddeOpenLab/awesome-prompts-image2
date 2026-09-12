@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**74** 개 · 최근 추가: **2026-09-12**
+**75** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2098616431122559479"></a>
+
+### 번역 중
+
+작성자：[@DeepBlueX0](https://x.com/DeepBlueX0) · [원본 게시물](https://x.com/DeepBlueX0/status/2098616431122559479)
+
+사진술 · 인물 사진 / 셀카 · 배포 완료
+
+원본 게시물：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2098240447038767437)
+
+**요약:** 번역 중
+
+<img src="images/2098616431122559479-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098616431122559479-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098277829154951371"></a>
 

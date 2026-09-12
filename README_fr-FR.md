@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**74** Prompts · Dernier ajout: **2026-09-12**
+**75** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098616431122559479"></a>
+
+### Traduction en cours
+
+Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098616431122559479)
+
+Photographie · Portrait / Selfie · Publié
+
+Publication originale：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2098240447038767437)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098616431122559479-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098616431122559479-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098277829154951371"></a>
 
