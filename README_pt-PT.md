@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**76** Prompts · Adição mais recente: **2026-09-12**
+**77** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1581,6 +1581,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098634675057238254"></a>
+
+### Tradução em curso
+
+Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Pôster / Folheto · Personagem · Item de Moda · Texto / Tipografia · Publicado
+
+Publicação original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098634675057238254-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

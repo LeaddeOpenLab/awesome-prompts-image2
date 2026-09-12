@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**76** Prompt · Bổ sung mới nhất: **2026-09-12**
+**77** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1603,6 +1603,34 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098634675057238254"></a>
+
+### Đang dịch
+
+Tác giả：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Áp phích / Tờ rơi · Nhân vật · Mặt hàng thời trang · Văn bản / Kiểu chữ · Đã xuất bản
+
+Bài gốc：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098634675057238254-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

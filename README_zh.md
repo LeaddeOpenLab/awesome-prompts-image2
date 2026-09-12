@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**76** 条内容 · 最新收录: **2026-09-12**
+**77** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1603,6 +1603,34 @@ App / 网页设计 · 3D 渲染 · 角色 · 已推流
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098634675057238254"></a>
+
+### 翻译中
+
+作者：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [查看 X 原帖](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+海报 / 传单 · 角色 · 时尚单品 · 文本 / 排版 · 已推流
+
+查看 X 原帖：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [查看 X 原帖](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**概括:** 翻译中
+
+<img src="images/2098634675057238254-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="图片 3" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

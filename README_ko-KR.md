@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**76** 개 · 최근 추가: **2026-09-12**
+**77** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1603,6 +1603,34 @@ Famous for: [짧고 독특한 사실]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2098634675057238254"></a>
+
+### 번역 중
+
+작성자：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [원본 게시물](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+포스터 / 전단지 · 캐릭터 · 패션 아이템 · 텍스트 / 타이포그래피 · 배포 완료
+
+원본 게시물：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [원본 게시물](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**요약:** 번역 중
+
+<img src="images/2098634675057238254-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="이미지 3" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

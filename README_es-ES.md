@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**76** Prompts · Última incorporación: **2026-09-12**
+**77** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1625,6 +1625,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098634675057238254"></a>
+
+### Traducción en curso
+
+Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicación original](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Póster / Folleto · Personaje · Artículo de moda · Texto / Tipografía · Publicado
+
+Publicación original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicación original](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098634675057238254-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

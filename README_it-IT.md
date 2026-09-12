@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**76** Prompt · Ultima aggiunta: **2026-09-12**
+**77** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1596,6 +1596,34 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098634675057238254"></a>
+
+### Traduzione in corso
+
+Autore：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Post originale](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Poster / Volantino · Personaggio · Articolo di moda · Testo / Tipografia · Pubblicato
+
+Post originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Post originale](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098634675057238254-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

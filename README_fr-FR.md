@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**76** Prompts · Dernier ajout: **2026-09-12**
+**77** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1596,6 +1596,34 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098634675057238254"></a>
+
+### Traduction en cours
+
+Auteur：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publication originale](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Affiche / Flyer · Personnage · Article de mode · Texte / Typographie · Publié
+
+Publication originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publication originale](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098634675057238254-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

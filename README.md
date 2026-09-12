@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**76** Prompts · Latest addition: **2026-09-12**
+**77** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1533,6 +1533,34 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098634675057238254"></a>
+
+### A prompt to generate professional-quality live concert promotional flyers in a 2x2 grid with different costumes, genres, and typography while maintaining the character and art style.
+
+Author：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Source](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Poster / Flyer · Character · Fashion Item · Text / Typography · Published
+
+Source：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Source](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Summary:** A prompt to generate professional-quality live concert promotional flyers in a 2x2 grid with different costumes, genres, and typography while maintaining the character and art style.
+
+<img src="images/2098634675057238254-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Maintain this character and art style, and present live concert promotional flyers in a 2x2 grid of four panels featuring various live costumes and poses, as if created by a professional designer.\n\nFreely conceptualize the costumes, poses, music genres, backgrounds, lighting, and flyer designs, giving each of the four panels a distinct appeal and unexpected flair. Incorporate visuals and striking typography that convey the excitement and worldview of the live performance, and include fictional announcement information such as concert titles, dates, times, and venues to achieve a professional-grade finish.\n\nMaintain the exact same character and the same art style across all four panels. The overall aspect ratio should be 4:3.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**76** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**77** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1596,6 +1596,34 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098634675057238254"></a>
+
+### Übersetzung läuft
+
+Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Originalbeitrag](https://x.com/hAru_mAki_ch/status/2098634675057238254)
+
+Plakat / Flyer · Charakter · Modeartikel · Text / Typografie · Veröffentlicht
+
+Originalbeitrag：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Originalbeitrag](https://x.com/hAru_mAki_ch/status/2098616421190435145)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098634675057238254-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098634675057238254-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098634675057238254-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098559982035951785"></a>
 
