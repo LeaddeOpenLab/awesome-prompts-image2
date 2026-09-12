@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**73** Prompts · Última adição: **2026-09-11**
+**74** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1531,6 +1531,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098559982035951785"></a>
+
+### Tradução em andamento
+
+Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098559982035951785)
+
+Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098559982035951785-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

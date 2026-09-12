@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**73** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**74** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,34 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098559982035951785"></a>
+
+### Übersetzung läuft
+
+Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098559982035951785)
+
+Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098559982035951785-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

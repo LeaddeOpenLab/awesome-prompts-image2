@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**73** Prompt · Ultima aggiunta: **2026-09-11**
+**74** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,34 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098559982035951785"></a>
+
+### Traduzione in corso
+
+Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098559982035951785)
+
+Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098559982035951785-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

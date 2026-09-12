@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**73** Prompts · Latest addition: **2026-09-11**
+**74** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1483,6 +1483,39 @@ Create ONE independent high-end editorial poster for EACH uploaded photo. Never 
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098559982035951785"></a>
+
+### An aesthetic portrait described through classical poetry depicting a woman draped in sheer gauze and reclining on a couch after bathing.
+
+Author：[@listudio](https://x.com/listudio) · [Source](https://x.com/listudio/status/2098559982035951785)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** An aesthetic portrait described through classical poetry depicting a woman draped in sheer gauze and reclining on a couch after bathing.
+
+<img src="images/2098559982035951785-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Fresh from the fragrant orchid bath, draped in sheer gossamer,
+Her tender body reclines gracefully on a soft couch.
+Where layers of translucent silk overlap, her alabaster skin shines through,
+Eyes closed gently, harboring a lingering springtime tenderness.
+Warm mist hazily twines around her jade-like frame,
+A wisp of remaining warmth softly dissolves into the rosy glow.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**73** Prompts · Dernier ajout: **2026-09-11**
+**74** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1546,6 +1546,34 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098559982035951785"></a>
+
+### Traduction en cours
+
+Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098559982035951785)
+
+Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098559982035951785-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

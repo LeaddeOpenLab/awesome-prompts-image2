@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**73** Prompt · Bổ sung mới nhất: **2026-09-11**
+**74** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1548,6 +1548,34 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098559982035951785"></a>
+
+### Đang dịch
+
+Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098559982035951785)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098559982035951785-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 

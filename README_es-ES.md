@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**73** Prompts · Última incorporación: **2026-09-11**
+**74** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1570,6 +1570,34 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098559982035951785"></a>
+
+### Traducción en curso
+
+Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098559982035951785)
+
+Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098559982035951785-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098559982035951785-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098559982035951785-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098559982035951785-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098400287262470292"></a>
 
