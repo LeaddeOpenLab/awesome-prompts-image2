@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T20:19:43.338Z",
+  "model": "image2.5",
+  "prompt": "A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio.",
+  "promptTranslations": {
+    "en": "A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight."
+  },
+  "translationVersion": 2,
+  "summary": "A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.",
+  "summaryEn": "A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098866288957551034",
+    "canonicalUrl": "https://x.com/TraffAlex/status/2098866288957551034",
+    "author": {
+      "username": "TraffAlex",
+      "displayName": "AlexAImaginator",
+      "profileUrl": "https://x.com/TraffAlex"
+    },
+    "publishedAt": "2026-09-12T20:08:12.000Z",
+    "collectedAt": "2026-09-12T20:15:44.467Z",
+    "language": "en",
+    "originalText": "GPT Image 2.5 Sunburst vs MAI-Image-2.6-flash — same prompt 🥊\n\nPrompt: A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio.\n\n🔵 GPT Image 2.5: [img. 1]\n🟣 MAI Image: [img. 2]\n\nRT + reply who you pick 👇\n#AIart #GPTImage #MSMaiImage",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCrs4-asAAn_r1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCrs4-asAAn_r1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCrtwbWYAA9Qkz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCrtwbWYAA9Qkz.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TraffAlex/status/2098866288957551034",
+  "coverUrl": "https://pbs.twimg.com/media/HSCrs4-asAAn_r1.jpg",
+  "coverPath": "images/2098866288957551034-1.jpg",
+  "imagePaths": [
+    "images/2098866288957551034-1.jpg",
+    "images/2098866288957551034-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCrs4-asAAn_r1",
+    "x-image:/media/HSCrtwbWYAA9Qkz",
+    "x-post:2098866288957551034"
+  ],
+  "analysis": {
+    "summary": "A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.",
+    "summaryEn": "A photorealistic blockbuster still of a woman in a charcoal riding coat leaping over a dry stone river atop a living quartz stag in hard sunlight.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both generated images depict a woman in a charcoal coat riding a leaping crystal/quartz stag across a white stony riverbed under bright sunlight with prismatic flares."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio.",
+    "sourceRange": {
+      "start": 71,
+      "end": 525
+    },
+    "translations": {
+      "zh": "一部逼真的大片剧照。一名身穿深灰色骑行大衣的女子紧搂着一头雄鹿的脖子，雄鹿的身体宛如活生生的石英，鹿角如同一组散射着日光碎片的吊灯。它们正在凌空跃过一条布满白色石头的干涸河床，蹄子尚未落地，女子的大衣如旗帜般飞扬。强烈的阳光在她脸颊上投射出三棱镜般的彩虹。色调：石英白、炭灰、天空漂白感以及她温热肌肤的色泽。动感十足，没有马鞍枪支，没有暴力——只有速度。35mm镜头，2:3画幅比例。",
+      "en": "A photorealistic blockbuster still. A woman in a charcoal riding coat clings to the neck of a stag whose body is living quartz, antlers a chandelier of points throwing shards of daylight. They are mid-leap over a dry river of white stones, hooves not yet down, her coat a flag. Hard sun, prism rainbows on her cheek. Palette: quartz, charcoal, sky-bleach, a cut of her blood-warm skin. Kinetic, no saddle gun, no violence — speed. 35mm, 2:3 aspect ratio."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
