@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:20:08.999Z",
+  "model": "image2.5",
+  "prompt": "校园日常纪实；妙趣偶然；iPhone原相机抓拍；窄肩极细腰·夸张上围学生🙆🏻‍♀️",
+  "promptTranslations": {
+    "en": "Campus daily documentary; delightfully accidental; iPhone original camera candid snapshot; narrow shoulders and extremely slim waist, exaggerated bust female student🙆🏻‍♀️"
+  },
+  "summaryTranslations": {
+    "en": "iPhone candid snapshot style campus sports field female student documentary photography prompt"
+  },
+  "translationVersion": 2,
+  "summary": "iPhone抓拍风格的校园操场女学生纪实摄影提示词",
+  "summaryEn": "Prompt for candid iPhone-style documentary photo of a female student on campus",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098240447038767437",
+      "canonicalUrl": "https://x.com/DDJCXX/status/2098240447038767437",
+      "author": {
+        "username": "DDJCXX",
+        "displayName": "硅基废话",
+        "profileUrl": "https://x.com/DDJCXX"
+      },
+      "originalText": "一起去上课吗？\n\nPrompt 放评论区👇 https://t.co/gL2L5QiNSQ"
+    },
+    "id": "2098616431122559479",
+    "canonicalUrl": "https://x.com/DeepBlueX0/status/2098616431122559479",
+    "author": {
+      "username": "DeepBlueX0",
+      "displayName": "DeepBlue深藍",
+      "profileUrl": "https://x.com/DeepBlueX0"
+    },
+    "publishedAt": "2026-09-12T03:35:22.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "zh",
+    "originalText": "调了亿下提示词，\n可惜身材没很好还原～\n \n🔵 GPT image 2.5 Prompt:\n\n校园日常纪实；妙趣偶然；iPhone原相机抓拍；窄肩极细腰·夸张上围学生🙆🏻‍♀️ https://t.co/3mV619O3WG",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_Ig7ebQAArcpr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_Ig7ebQAArcpr.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR5yj_DaMAAkKKo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR5yj_DaMAAkKKo.jpg",
+        "sourcePostId": "2098240447038767437"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 287
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DeepBlueX0/status/2098616431122559479",
+  "coverUrl": "https://pbs.twimg.com/media/HR_Ig7ebQAArcpr.jpg",
+  "coverPath": "images/2098616431122559479-1.jpg",
+  "imagePaths": [
+    "images/2098616431122559479-1.jpg",
+    "images/2098616431122559479-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_Ig7ebQAArcpr",
+    "x-image:/media/HR5yj_DaMAAkKKo",
+    "x-post:2098616431122559479",
+    "x-post:2098240447038767437"
+  ],
+  "analysis": {
+    "summary": "iPhone抓拍风格的校园操场女学生纪实摄影提示词",
+    "summaryEn": "Prompt for candid iPhone-style documentary photo of a female student on campus",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了操场背景下身穿运动服、体态特征符合描述的女学生纪实抓拍"
+    },
+    "videoQuality": null,
+    "originalPrompt": "校园日常纪实；妙趣偶然；iPhone原相机抓拍；窄肩极细腰·夸张上围学生🙆🏻‍♀️",
+    "sourceRange": {
+      "start": 47,
+      "end": 88
+    },
+    "translations": {
+      "zh": "校园日常纪实；妙趣偶然；iPhone原相机抓拍；窄肩极细腰·夸张上围学生🙆🏻‍♀️",
+      "en": "Campus daily documentary; amusing accidental snapshot; iPhone stock camera candid; student with narrow shoulders, extremely slim waist, and exaggerated upper body figure 🙆🏻‍♀️"
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [
+        "mild sexualization"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
