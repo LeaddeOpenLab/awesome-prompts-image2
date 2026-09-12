@@ -1573,13 +1573,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098559982035951785"></a>
 
-### Traducción en curso
+### Retrato estético y evocador descrito con poesía clásica de una mujer tras el baño, envuelta en gasas y recostada en un diván.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicación original](https://x.com/listudio/status/2098559982035951785)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato estético y evocador descrito con poesía clásica de una mujer tras el baño, envuelta en gasas y recostada en un diván.
 
 <img src="images/2098559982035951785-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1592,7 +1592,12 @@ Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Recién concluido el baño perfumado, envuelta en un velo ligero,
+el cuerpo delicado se reclina a medias en el suave diván.
+Donde se superponen las sedas transparentes se vislumbra la piel de alabastro,
+con los ojos cerrados, rebosante de anhelos primaverales que se demoran sin fin.
+Una cálida y brumosa neblina envuelve sus huesos de jade,
+y un hilo de calor remanente se funde con los colores del ocaso.
 ```
 
 [↑ Volver a categorías](#catalog)

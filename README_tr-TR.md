@@ -1534,13 +1534,13 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098559982035951785"></a>
 
-### Çeviri sürüyor
+### Klasik şiir üslubuyla tasvir edilmiş, banyodan çıkıp tüllere bürünerek divana uzanmış bir kadının estetik ve lirik portresi.
 
 Yazar：[@listudio](https://x.com/listudio) · [Orijinal gönderi](https://x.com/listudio/status/2098559982035951785)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Klasik şiir üslubuyla tasvir edilmiş, banyodan çıkıp tüllere bürünerek divana uzanmış bir kadının estetik ve lirik portresi.
 
 <img src="images/2098559982035951785-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1553,7 +1553,12 @@ Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kokulu banyodan henüz çıkmış, incecik bir tüle bürünmüş,
+Narin bedeni yumuşak divana yanlamasına yaslanmış.
+İnce ipeklerin üst üste bindiği yerden pürüzsüz ak teni parıldar,
+Gözleri kapalı, bahar meltemi gibi tatlı bir arzuyla dalıp gitmiş.
+Ilık, buğulu bir sis yeşim misali narin endamını sarar,
+Kalan son ılık nefes akşam kızıllığına karışır.
 ```
 
 [↑ Kategorilere dön](#catalog)

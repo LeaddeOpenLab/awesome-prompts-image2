@@ -1549,13 +1549,13 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098559982035951785"></a>
 
-### Traduction en cours
+### Portrait esthétique et évocateur en poésie classique d'une femme sortant du bain, drapée de gaze et alanguie sur un divan.
 
 Auteur：[@listudio](https://x.com/listudio) · [Publication originale](https://x.com/listudio/status/2098559982035951785)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait esthétique et évocateur en poésie classique d'une femme sortant du bain, drapée de gaze et alanguie sur un divan.
 
 <img src="images/2098559982035951785-1.jpg" alt="Image 1" width="480" />
 
@@ -1568,7 +1568,12 @@ Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Le bain parfumé à peine achevé, drapée d'un voile léger,
+Le corps délicat à demi incliné sur le divan moelleux.
+Là où la gaze s'égrène en volutes transparaît une peau de jade nacré,
+Les yeux clos empreints d'une langueur printanière qui s'étire à l'infini.
+Une chaude brume vaporeuse enlace sa silhouette d'albâtre,
+Et un dernier souffle de tiédeur se fond dans les lueurs pourpres du crépuscule.
 ```
 
 [↑ Retour aux catégories](#catalog)

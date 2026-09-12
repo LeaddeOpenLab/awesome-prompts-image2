@@ -1534,13 +1534,13 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098559982035951785"></a>
 
-### Tradução em curso
+### Retrato estético e sugestivo em poesia clássica de uma mulher após o banho, envolta em gaze e recostada num divã.
 
 Autor：[@listudio](https://x.com/listudio) · [Publicação original](https://x.com/listudio/status/2098559982035951785)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato estético e sugestivo em poesia clássica de uma mulher após o banho, envolta em gaze e recostada num divã.
 
 <img src="images/2098559982035951785-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1553,7 +1553,12 @@ Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Recém-terminado o banho perfumado, coberta por um véu leve,
+o corpo delicado reclina-se de lado sobre o divã suave.
+Onde as gazes translúcidas se sobrepõem, transparece a alvura da pele,
+de olhos cerrados, plena de desejos primaveris que se prolongam vagarosos.
+Um vapor tépido e etéreo abraça as formas de jade,
+e um rasto de calor residual funde-se no rubor do crepúsculo.
 ```
 
 [↑ Voltar às categorias](#catalog)

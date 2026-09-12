@@ -1549,13 +1549,13 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098559982035951785"></a>
 
-### Traduzione in corso
+### Ritratto estetico e suggestivo descritto in poesia classica di una donna dopo il bagno, avvolta in veli e adagiata su un divano.
 
 Autore：[@listudio](https://x.com/listudio) · [Post originale](https://x.com/listudio/status/2098559982035951785)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto estetico e suggestivo descritto in poesia classica di una donna dopo il bagno, avvolta in veli e adagiata su un divano.
 
 <img src="images/2098559982035951785-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1568,7 +1568,12 @@ Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Appena concluso il bagno profumato, avvolta in un velo leggero,
+il corpo flessuoso si adagia a metà sul morbido divano.
+Dove gli strati di seta trasparente si sovrappongono traspare la pelle di giada candida,
+con gli occhi chiusi, colma di languori primaverili che si dilatano nel tempo.
+Una calda nebbia soffusa cinge le forme d'avorio,
+e un filo di tepore residuo sfuma nel chiarore del tramonto.
 ```
 
 [↑ Torna alle categorie](#catalog)

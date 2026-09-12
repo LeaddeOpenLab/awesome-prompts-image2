@@ -1549,13 +1549,13 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098559982035951785"></a>
 
-### Übersetzung läuft
+### Ästhetisches, stimmungsvolles Porträt in klassischer chinesischer Poesie einer Frau, die nach dem Bad in Schleier gehüllt auf einer Liege ruht.
 
 Autor：[@listudio](https://x.com/listudio) · [Originalbeitrag](https://x.com/listudio/status/2098559982035951785)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ästhetisches, stimmungsvolles Porträt in klassischer chinesischer Poesie einer Frau, die nach dem Bad in Schleier gehüllt auf einer Liege ruht.
 
 <img src="images/2098559982035951785-1.jpg" alt="Bild 1" width="480" />
 
@@ -1568,7 +1568,12 @@ Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kaum dem duftenden Bad entstiegen, von leichtem Schleier umhüllt,
+lehnt der zarte Leib halb seitlich auf der weichen Liege.
+Wo transparente Seidenschichten liegen, schimmert Alabasterhaut hervor,
+mit geschlossenen Augen, voll frühlingshafter Sehnsucht, die sanft verweilt.
+Ein warmer, dunstiger Nebel umfängt den feinen Jadekörper,
+und ein Hauch restlicher Wärme verfließt in das Abendrot.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

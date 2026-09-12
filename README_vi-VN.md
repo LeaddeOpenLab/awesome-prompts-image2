@@ -1551,13 +1551,13 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098559982035951785"></a>
 
-### Đang dịch
+### Bức chân dung mang ý cảnh duy mỹ được miêu tả bằng thơ cổ phong về người con gái sau khi tắm khoác áo the tựa sập.
 
 Tác giả：[@listudio](https://x.com/listudio) · [Bài gốc](https://x.com/listudio/status/2098559982035951785)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung mang ý cảnh duy mỹ được miêu tả bằng thơ cổ phong về người con gái sau khi tắm khoác áo the tựa sập.
 
 <img src="images/2098559982035951785-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1570,7 +1570,12 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vừa xong tắm nước lan khoác nhẹ làn sa mỏng,
+Thân mềm mại nghiêng tựa sập mềm êm.
+Từng lớp the buông hờ lộ làn da mỡ đông,
+Nhắm mắt chứa chan xuân sắc ý tứ xa vời.
+Sương ấm mơ màng quấn quýt xương ngọc,
+Một làn dư ấm hòa cùng ráng chiều.
 ```
 
 [↑ Về danh mục](#catalog)
