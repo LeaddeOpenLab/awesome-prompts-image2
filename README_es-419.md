@@ -35,13 +35,13 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098866288957551034"></a>
 
-### Traducción en curso
+### Una toma cinematográfica fotorrealista de una mujer con un abrigo de montar color carbón saltando sobre un río de piedras secas encima de un ciervo de cuarzo vivo bajo un sol intenso.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicación original](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una toma cinematográfica fotorrealista de una mujer con un abrigo de montar color carbón saltando sobre un río de piedras secas encima de un ciervo de cuarzo vivo bajo un sol intenso.
 
 <img src="images/2098866288957551034-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una toma cinematográfica fotorrealista de éxito de taquilla. Una mujer con un abrigo de montar color carbón se aferra al cuello de un ciervo cuyo cuerpo es de cuarzo vivo, con cornamentas como un candelabro de puntas que arrojan fragmentos de luz diurna. Están a mitad de un salto sobre un río seco de piedras blancas, las pezuñas aún no tocan el suelo, su abrigo como una bandera. Sol abrasador, arcoíris prismáticos en su mejilla. Paleta: cuarzo, carbón, cielo desteñido, un corte de su piel cálida por la sangre. Cinético, sin rifle en la montura, sin violencia — pura velocidad. 35 mm, relación de aspecto 2:3.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098866288957551034"></a>
 
-### Çeviri sürüyor
+### Sert güneş ışığı altında canlı kuvarstan bir geyiğin sırtında kurumuş taşlı bir nehrin üzerinden atlayan, kömür rengi binici paltolu bir kadının fotogerçekçi gişe filmi karesi.
 
 Yazar：[@TraffAlex](https://x.com/TraffAlex) · [Orijinal gönderi](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sert güneş ışığı altında canlı kuvarstan bir geyiğin sırtında kurumuş taşlı bir nehrin üzerinden atlayan, kömür rengi binici paltolu bir kadının fotogerçekçi gişe filmi karesi.
 
 <img src="images/2098866288957551034-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotogerçekçi bir gişe filmi karesi. Kömür rengi binici paltosu giymiş bir kadın, gövdesi canlı kuvarstan oluşan, boynuzları gün ışığı parçaları saçan sivri uçlu bir avizeyi andıran bir geyiğin boynuna sarılmış. Beyaz taşlardan oluşan kurumuş bir nehrin üzerinde sıçrayışın tam ortasındalar, toynaklar henüz yere inmemiş, kadının paltosu bir bayrak gibi dalgalanıyor. Sert güneş, yanağında prizmatik gökkuşakları. Renk paleti: kuvars, kömür rengi, ağarmış gökyüzü, teninin kan sıcağı dokusu. Kinetik, eyer tüfeği yok, şiddet yok — sadece hız. 35mm, 2:3 en-boy oranı.
 ```
 
 [↑ Kategorilere dön](#catalog)

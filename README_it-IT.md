@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098866288957551034"></a>
 
-### Traduzione in corso
+### Un fotogramma fotorealistico da colossal di una donna con un cappotto da equitazione antracite che salta sopra un fiume di pietre in secca in groppa a un cervo di quarzo vivente sotto una luce solare accecante.
 
 Autore：[@TraffAlex](https://x.com/TraffAlex) · [Post originale](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un fotogramma fotorealistico da colossal di una donna con un cappotto da equitazione antracite che salta sopra un fiume di pietre in secca in groppa a un cervo di quarzo vivente sotto una luce solare accecante.
 
 <img src="images/2098866288957551034-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un fotogramma fotorealistico da colossal cinematografico. Una donna con un cappotto da equitazione color antracite si aggrappa al collo di un cervo il cui corpo è di quarzo vivente, le cui corna formano un lampadario di punte che rifrangono frammenti di luce diurna. Sono a metà di un balzo sopra un fiume in secca di pietre bianche, gli zoccoli non ancora a terra, il cappotto di lei che sventola come una bandiera. Sole battente, arcobaleni prismatici sulla sua guancia. Tavolozza: quarzo, antracite, cielo sbiadito, uno scorcio della sua pelle calda e viva. Cinetico, nessuna arma da sella, nessuna violenza — solo velocità. 35mm, proporzioni 2:3.
 ```
 
 [↑ Torna alle categorie](#catalog)

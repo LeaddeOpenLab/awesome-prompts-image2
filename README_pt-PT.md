@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098866288957551034"></a>
 
-### Tradução em curso
+### Um fotograma fotorrealista de grande produção de uma mulher com um casaco de equitação antracite a saltar sobre um rio de pedras secas no dorso de um veado de quartzo vivo sob sol inclemente.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicação original](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um fotograma fotorrealista de grande produção de uma mulher com um casaco de equitação antracite a saltar sobre um rio de pedras secas no dorso de um veado de quartzo vivo sob sol inclemente.
 
 <img src="images/2098866288957551034-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Um fotograma fotorrealista de grande produção cinematográfica. Uma mulher com um casaco de equitação antracite agarra-se ao pescoço de um veado cujo corpo é de quartzo vivo, com hastes que formam um candelabro de pontas projetando fragmentos de luz do dia. Estão a meio de um salto sobre um rio seco de pedras brancas, os cascos ainda não tocaram no solo, o casaco dela drapeja como uma bandeira. Sol inclemente, arco-íris prismáticos na sua face. Paleta: quartzo, antracite, céu desbotado, um vislumbre da sua pele quente de sangue. Cinético, sem espingarda na sela, sem violência — pura velocidade. 35mm, proporção 2:3.
 ```
 
 [↑ Voltar às categorias](#catalog)

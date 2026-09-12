@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098866288957551034"></a>
 
-### Traduction en cours
+### Un arrêt sur image photoréaliste de superproduction montrant une femme en manteau d'équitation anthracite sautant au-dessus d'une rivière de pierres asséchée sur un cerf de quartz vivant sous un soleil cru.
 
 Auteur：[@TraffAlex](https://x.com/TraffAlex) · [Publication originale](https://x.com/TraffAlex/status/2098866288957551034)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un arrêt sur image photoréaliste de superproduction montrant une femme en manteau d'équitation anthracite sautant au-dessus d'une rivière de pierres asséchée sur un cerf de quartz vivant sous un soleil cru.
 
 <img src="images/2098866288957551034-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +50,7 @@ Photographie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un arrêt sur image photoréaliste de superproduction cinématographique. Une femme vêtue d'un manteau d'équitation anthracite s'accroche au cou d'un cerf dont le corps est en quartz vivant, ses bois formant un lustre de pointes qui projettent des éclats de lumière du jour. Ils sont en plein saut au-dessus d'une rivière asséchée de pierres blanches, les sabots pas encore posés, son manteau flottant comme un drapeau. Soleil cru, reflets prismatiques arc-en-ciel sur sa joue. Palette : quartz, anthracite, ciel délavé, une touche de sa peau à la chaleur sanguine. Cinétique, pas de fusil de selle, aucune violence — juste de la vitesse. 35 mm, format d'image 2:3.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098866288957551034"></a>
 
-### Übersetzung läuft
+### Ein fotorealistisches Blockbuster-Filmbild einer Frau in einem anthrazitfarbenen Reitmantel, die bei greller Sonne auf einem Hirsch aus lebendem Quarz über ein trockenes Steinbett springt.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Originalbeitrag](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein fotorealistisches Blockbuster-Filmbild einer Frau in einem anthrazitfarbenen Reitmantel, die bei greller Sonne auf einem Hirsch aus lebendem Quarz über ein trockenes Steinbett springt.
 
 <img src="images/2098866288957551034-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches Blockbuster-Filmbild. Eine Frau in einem anthrazitfarbenen Reitmantel klammert sich an den Hals eines Hirsches, dessen Körper aus lebendem Quarz besteht, das Geweih ein Kronleuchter aus Spitzen, der Scherben von Tageslicht wirft. Sie befinden sich mitten im Sprung über ein trockenes Flussbett aus weißen Steinen, die Hufe noch in der Luft, ihr Mantel weht wie eine Flagge. Grelle Sonne, prismatische Regenbögen auf ihrer Wange. Farbpalette: Quarz, Anthrazit, ausgebleichter Himmel, ein Schnittpunkt ihrer blutwarmen Haut. Kinetisch, kein Sattelgewehr, keine Gewalt – Geschwindigkeit. 35mm, Seitenverhältnis 2:3.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

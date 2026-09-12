@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098866288957551034"></a>
 
-### Đang dịch
+### Một bức ảnh tĩnh bom tấn chân thực như ảnh chụp về một người phụ nữ mặc áo khoác cưỡi ngựa màu than đang nhảy qua một dòng sông đá cạn trên lưng một con hươu đực bằng thạch anh sống dưới ánh nắng gay gắt.
 
 Tác giả：[@TraffAlex](https://x.com/TraffAlex) · [Bài gốc](https://x.com/TraffAlex/status/2098866288957551034)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một bức ảnh tĩnh bom tấn chân thực như ảnh chụp về một người phụ nữ mặc áo khoác cưỡi ngựa màu than đang nhảy qua một dòng sông đá cạn trên lưng một con hươu đực bằng thạch anh sống dưới ánh nắng gay gắt.
 
 <img src="images/2098866288957551034-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,7 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh tĩnh bom tấn chân thực như ảnh chụp. Một người phụ nữ mặc áo khoác cưỡi ngựa màu than bám chặt vào cổ một con hươu đực có thân mình bằng thạch anh sống, gạc hươu như một chùm đèn lấp lánh phản chiếu những mảnh ánh sáng ban ngày. Họ đang bay trên không trung nhảy qua một dòng sông cạn toàn đá trắng, móng guốc chưa chạm đất, vạt áo khoác của cô tung bay như lá cờ. Nắng gay gắt, những vệt cầu vồng lăng kính trên má cô. Bảng màu: thạch anh, màu than, bầu trời bạc màu, một nét da thịt ấm áp đầy sức sống của cô. Đầy tính động học, không súng gắn yên, không bạo lực — chỉ có tốc độ. 35mm, tỷ lệ khung hình 2:3.
 ```
 
 [↑ Về danh mục](#catalog)

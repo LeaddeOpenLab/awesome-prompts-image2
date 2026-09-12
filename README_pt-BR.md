@@ -35,13 +35,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098866288957551034"></a>
 
-### Tradução em andamento
+### Um fotograma fotorrealista de grande produção de uma mulher em um casaco de montaria grafite saltando sobre um rio de pedras secas montada em um cervo de quartzo vivo sob sol intenso.
 
 Autor：[@TraffAlex](https://x.com/TraffAlex) · [Publicação original](https://x.com/TraffAlex/status/2098866288957551034)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um fotograma fotorrealista de grande produção de uma mulher em um casaco de montaria grafite saltando sobre um rio de pedras secas montada em um cervo de quartzo vivo sob sol intenso.
 
 <img src="images/2098866288957551034-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Um fotograma fotorrealista de grande produção cinematográfica. Uma mulher com um casaco de montaria grafite se agarra ao pescoço de um cervo cujo corpo é de quartzo vivo, com galhadas que formam um candelabro de pontas projetando fragmentos de luz do dia. Eles estão no meio de um salto sobre um rio seco de pedras brancas, os cascos ainda no ar, o casaco dela esvoaçando como uma bandeira. Sol intenso, arco-íris prismáticos em sua bochecha. Paleta: quartzo, grafite, céu desbotado, um vislumbre de sua pele quente de sangue. Cinético, sem arma na sela, sem violência — apenas velocidade. 35mm, proporção 2:3.
 ```
 
 [↑ Voltar às categorias](#catalog)
