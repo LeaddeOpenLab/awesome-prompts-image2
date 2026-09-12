@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**83** Prompts · Latest addition: **2026-09-12**
+**84** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098868060228927512"></a>
+
+### Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.
+
+Author：[@TraffAlex](https://x.com/TraffAlex) · [Source](https://x.com/TraffAlex/status/2098868060228927512)
+
+Photography · Character · Published
+
+**Summary:** Photorealistic jungle action frame of a woman in muddy khaki fleeing a floral plant monster in the rain.
+
+<img src="images/2098868060228927512-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098868060228927512-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A photorealistic jungle-edge action frame. A woman in mud-spattered khaki runs toward camera, eyes wide; behind her a three-story ogre built of wet heliconia, ginger and bird-of-paradise, a mouth of red bracts opening, pollen like smoke. Rain. Palette: cadmium red, jungle green, khaki, the yellow of a heliconia beak. Petals tear off in her wake. 35mm, rain on the lens. 2:3 aspect ratio.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098799449237782991"></a>
 
