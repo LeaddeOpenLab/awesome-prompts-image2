@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T08:31:54.947Z",
+  "model": "image2.5",
+  "prompt": "このキャラクターと画風を維持して、プロのデザイナーが制作したような、いろいろなライブ衣装やポーズのライブ告知チラシを2×2の4分割で出して。\n\n衣装、ポーズ、音楽ジャンル、背景、照明、チラシのデザインは自由に発想し、4つそれぞれに違った魅力と意外性を持たせて。ライブの熱気や世界観が伝わるビジュアルと印象的なタイポグラフィを取り入れ、公演タイトルや日時・会場などの架空の告知情報も含めて、プロ級の仕上がりにして。\n\n4つすべて同じキャラクター、同じ画風を維持する。全体の比率は4:3で。",
+  "promptTranslations": {
+    "en": "Maintain this character and art style, and present live concert promotional flyers in a 2x2 grid of four panels featuring various live costumes and poses, as if created by a professional designer.\\n\\nFreely conceptualize the costumes, poses, music genres, backgrounds, lighting, and flyer designs, giving each of the four panels a distinct appeal and unexpected flair. Incorporate visuals and striking typography that convey the excitement and worldview of the live performance, and include fictional announcement information such as concert titles, dates, times, and venues to achieve a professional-grade finish.\\n\\nMaintain the exact same character and the same art style across all four panels. The overall aspect ratio should be 4:3."
+  },
+  "summaryTranslations": {
+    "en": "A prompt to generate professional-quality live concert promotional flyers in a 2x2 grid with different costumes, genres, and typography while maintaining the character and art style."
+  },
+  "translationVersion": 2,
+  "summary": "キャラクターと画風を維持しながら、2×2分割で異なる衣装・ジャンル・タイポグラフィを持つプロ品質のライブ告知チラシを生成するプロンプト。",
+  "summaryEn": "Prompt to generate a 2x2 grid of professional concert flyers maintaining a specific character and art style with diverse outfits, genres, and typography.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098616421190435145",
+      "canonicalUrl": "https://x.com/hAru_mAki_ch/status/2098616421190435145",
+      "author": {
+        "username": "hAru_mAki_ch",
+        "displayName": "Maki@Sunwood AI Labs.",
+        "profileUrl": "https://x.com/hAru_mAki_ch"
+      },
+      "originalText": "私もgpt image2.5でファッション誌プロンプトやってみた！！メチャ良い！！ https://t.co/0n60i7JmoF"
+    },
+    "id": "2098634675057238254",
+    "canonicalUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+    "author": {
+      "username": "hAru_mAki_ch",
+      "displayName": "Maki@Sunwood AI Labs.",
+      "profileUrl": "https://x.com/hAru_mAki_ch"
+    },
+    "publishedAt": "2026-09-12T04:47:51.000Z",
+    "collectedAt": "2026-09-12T08:28:30.238Z",
+    "language": "ja",
+    "originalText": "gpt image2.5でライブチラシ風に改造したらメッチャ良いぞ！！！\n\nーーー📒プロンプトーーー\nこのキャラクターと画風を維持して、プロのデザイナーが制作したような、いろいろなライブ衣装やポーズのライブ告知チラシを2×2の4分割で出して。\n\n衣装、ポーズ、音楽ジャンル、背景、照明、チラシのデザインは自由に発想し、4つそれぞれに違った魅力と意外性を持たせて。ライブの熱気や世界観が伝わるビジュアルと印象的なタイポグラフィを取り入れ、公演タイトルや日時・会場などの架空の告知情報も含めて、プロ級の仕上がりにして。\n\n4つすべて同じキャラクター、同じ画風を維持する。全体の比率は4:3で。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_IgwybEAAAcbT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_IgwybEAAAcbT.jpg",
+        "sourcePostId": "2098616421190435145"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_IgwybQAAB4Dd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_IgwybQAAB4Dd.jpg",
+        "sourcePostId": "2098616421190435145"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 666
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hAru_mAki_ch/status/2098634675057238254",
+  "coverUrl": "https://pbs.twimg.com/media/HR_YzAobQAAV_p8.jpg",
+  "coverPath": "images/2098634675057238254-1.jpg",
+  "imagePaths": [
+    "images/2098634675057238254-1.jpg",
+    "images/2098634675057238254-2.jpg",
+    "images/2098634675057238254-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_YzAobQAAV_p8",
+    "x-image:/media/HR_IgwybEAAAcbT",
+    "x-image:/media/HR_IgwybQAAB4Dd",
+    "x-post:2098634675057238254",
+    "x-post:2098616421190435145"
+  ],
+  "analysis": {
+    "summary": "キャラクターと画風を維持しながら、2×2分割で異なる衣装・ジャンル・タイポグラフィを持つプロ品質のライブ告知チラシを生成するプロンプト。",
+    "summaryEn": "Prompt to generate a 2x2 grid of professional concert flyers maintaining a specific character and art style with diverse outfits, genres, and typography.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の1枚目に示されている通り、同一キャラクターの4分割ライブ告知チラシ（4:3比率、タイポグラフィ、架空公演日程等を含む）がプロンプト通りに正確に生成されています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "このキャラクターと画風を維持して、プロのデザイナーが制作したような、いろいろなライブ衣装やポーズのライブ告知チラシを2×2の4分割で出して。\n\n衣装、ポーズ、音楽ジャンル、背景、照明、チラシのデザインは自由に発想し、4つそれぞれに違った魅力と意外性を持たせて。ライブの熱気や世界観が伝わるビジュアルと印象的なタイポグラフィを取り入れ、公演タイトルや日時・会場などの架空の告知情報も含めて、プロ級の仕上がりにして。\n\n4つすべて同じキャラクター、同じ画風を維持する。全体の比率は4:3で。",
+    "sourceRange": {
+      "start": 51,
+      "end": 294
+    },
+    "translations": {
+      "zh": "保持此角色与画风，以2×2四宫格形式生成专业设计师水准的各类演出服装与姿势的现场演出宣传海报。自由构想服装、姿势、音乐流派、背景、灯光与设计，呈现演出狂热感、排版与虚构演出信息，比例4:3。",
+      "en": "Maintain this character and art style, producing a 2x2 grid of professional live concert flyers featuring various stage outfits and poses. Freely imagine costumes, poses, genres, backgrounds, lighting, and flyer designs with typography and fictional event details in a 4:3 ratio."
+    },
+    "targetModels": [
+      "image2.5"
+    ],
+    "category": "image-to-image",
+    "useCase": "live concert flyer design sheet",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
