@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098610123900064236"></a>
 
-### Çeviri sürüyor
+### Fare kulakları takan ve fantastik bir kalenin önünde poz veren Doğu Asyalı bir kadının samimi seyahat enstantanesi.
 
 Yazar：[@Aqsahere\_](https://x.com/Aqsahere_) · [Orijinal gönderi](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fare kulakları takan ve fantastik bir kalenin önünde poz veren Doğu Asyalı bir kadının samimi seyahat enstantanesi.
 
 <img src="images/2098610123900064236-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Masal gibi bir şatoda eğlenceli ve sihirli bir gün geçiren genç bir Doğu Asyalı kadının gerçekçi ve samimi bir seyahat fotoğrafı. Yüksek fildişi kuleleri, zarif mavi çatıları, altın kule uçları, ince taş işlemeleri ve güzel eski dünya mimarisiyle Avrupa tarzı görkemli bir fantastik şatonun önünde duruyor. Şato, arka planın çoğunu kaplayarak sahneye rüya gibi bir tema parkı tatili hissi veriyor. Omuzlarına ve sırtına dökülen, doğal dalgalı uzun kestane kahvesi saçları var. Sevimli, mavi ve lavanta tonlarında simli bir fare kulağı tacı takıyor ve adeta içten, mutlu bir an yakalanmış gibi hafifçe yukarı ve yana doğru bakarken doğal bir şekilde gülümsüyor. Temiz, beyaz yakalı bir gömlek ve desenli ekose kravatın üzerine altın düğmeli, kırpılmış krem beyazı dokulu bir ceket giyiyor. Bej, krem ve mat mavi ekoseli yüksek belli şort eteği, pozuyla doğal bir şekilde hareket eden yumuşak pilelere sahip. Her iki kolunu dışarı doğru uzatıyor ve heyecanlı, neşeli bir enerjiyle kameraya doğru hafifçe eğiliyor. Poz, yapmacık olmaktan ziyade gerçek bir tatil anı gibi kendiliğinden hissettiriyor. Arkasındaki kale avlusunda geniş açık renkli taş basamaklar, dekoratif korkuluklar, renkli bayraklar ve ayrıntılı Orta Çağ esintili mimari bulunuyor. Gökyüzü soluk mavi-gri bulutlarla hafifçe kapalı, bu da yumuşak, hoş bir gün ışığı ve doğal gölgeler yaratıyor. Ultra fotogerçekçi seyahat fotoğrafçılığı, otantik genç görünüm, gerçekçi cilt dokusu, doğal saç telleri, ayrıntılı kumaş dokuları, inandırıcı oranlar, yumuşak alan derinliği, hafif doğal gölgeler, canlı ama hafifçe yumuşatılmış renkler, samimi akıllı telefon fotoğrafı estetiği, rüya gibi tatil atmosferi, yüksek detaylı, dikey 3:4 kompozisyon.
 ```
 
 [↑ Kategorilere dön](#catalog)

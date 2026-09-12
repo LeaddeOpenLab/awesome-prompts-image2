@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098610123900064236"></a>
 
-### Traduction en cours
+### Un instantané de vacances spontané d'une femme est-asiatique portant des oreilles de souris et posant devant un château fantastique.
 
 Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un instantané de vacances spontané d'une femme est-asiatique portant des oreilles de souris et posant devant un château fantastique.
 
 <img src="images/2098610123900064236-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +50,7 @@ Photographie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Une photo de voyage réaliste et spontanée d'une jeune femme est-asiatique passant une journée magique et amusante dans un château de conte de fées. Elle se tient devant un grandiose château fantastique de style européen aux hautes tours d'ivoire, aux toits bleus élégants, aux flèches dorées, aux détails en pierre complexes et à la magnifique architecture d'antan. Le château occupe la majeure partie de l'arrière-plan, conférant à la scène une ambiance de vacances de rêve dans un parc à thème. Elle a de longs cheveux châtain-brun naturellement ondulés qui tombent librement sur ses épaules et son dos. Elle porte un joli serre-tête pailleté à oreilles de souris bleu et lavande et sourit naturellement tout en regardant légèrement vers le haut et sur le côté, comme saisie dans un véritable moment de bonheur. Elle porte une veste courte texturée blanc crème avec des boutons dorés par-dessus une chemise à col blanc impeccable et une cravate à motif écossais. Sa jupe-culotte taille haute à carreaux beige, crème et bleu discret présente des plis souples qui bougent naturellement avec sa pose. Elle écarte les deux bras et se penche légèrement vers l'appareil avec une énergie joyeuse et excitée. La pose semble spontanée plutôt que préparée, à l'image d'un véritable cliché de vacances. La cour du château derrière elle comporte de larges marches en pierre pâle, des balustrades décoratives, des bannières colorées et une architecture détaillée d'inspiration médiévale. Le ciel est doucement couvert de nuages bleu-gris pâle, créant une lumière du jour douce et flatteuse ainsi que des ombres naturelles. Photographie de voyage ultra-photoréaliste, apparence juvénile authentique, texture de peau réaliste, mèches de cheveux naturelles, textures de tissus détaillées, proportions crédibles, faible profondeur de champ, ombres naturelles subtiles, couleurs vives mais légèrement atténuées, esthétique de photo spontanée prise au smartphone, atmosphère de vacances de rêve, hautement détaillée, composition verticale 3:4.
 ```
 
 [↑ Retour aux catégories](#catalog)

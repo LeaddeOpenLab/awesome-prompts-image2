@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098610123900064236"></a>
 
-### Traduzione in corso
+### Uno scatto di viaggio spontaneo di una donna dell'Asia orientale che indossa orecchie da topo e posa di fronte a un castello fantasy.
 
 Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Uno scatto di viaggio spontaneo di una donna dell'Asia orientale che indossa orecchie da topo e posa di fronte a un castello fantasy.
 
 <img src="images/2098610123900064236-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Una foto di viaggio realistica e spontanea di una giovane donna dell'Asia orientale che trascorre una giornata divertente e magica in un castello da fiaba. Si trova di fronte a un grandioso castello fantasy in stile europeo con alte torri d'avorio, eleganti tetti blu, guglie dorate, intricati dettagli in pietra e una splendida architettura d'altri tempi. Il castello occupa la maggior parte dello sfondo, regalando alla scena un'atmosfera da vacanza da sogno in un parco a tema. Ha lunghi capelli castano castagna naturalmente ondulati che le cadono morbidi sulle spalle e sulla schiena. Indossa un grazioso cerchietto glitterato con orecchie da topo blu e lavanda e sorride con naturalezza mentre guarda leggermente verso l'alto e di lato, come catturata in un genuino momento di felicità. Indossa una giacca corta testurizzata bianco crema con bottoni dorati sopra una camicia bianca con colletto pulita e una cravatta scozzese a motivi geometrici. La sua gonna pantalone a vita alta a quadri beige, crema e blu tenue ha morbide pieghe che si muovono naturalmente con la sua posa. Distende entrambe le braccia verso l'esterno e si sporge leggermente verso la fotocamera con un'energia vivace ed eccitata. La posa appare spontanea piuttosto che impostata, come un vero scatto rubato delle vacanze. Il cortile del castello dietro di lei ha ampi gradini di pietra chiara, ringhiere decorative, striscioni colorati e una dettagliata architettura di ispirazione medievale. Il cielo è dolcemente coperto da nuvole pallide blu-grigie, creando una luce diurna morbida e lusinghiera e ombre naturali. Fotografia di viaggio ultra-fotorealistica, autentico aspetto giovanile, texture della pelle realistica, ciocche di capelli naturali, texture dei tessuti dettagliate, proporzioni credibili, morbida profondità di campo, ombre naturali sottili, colori vibranti ma leggermente smorzati, estetica da scatto spontaneo da smartphone, atmosfera da vacanza da sogno, altamente dettagliata, composizione verticale 3:4.
 ```
 
 [↑ Torna alle categorie](#catalog)

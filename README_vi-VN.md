@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098610123900064236"></a>
 
-### Đang dịch
+### Một bức ảnh chụp nhanh du lịch tự nhiên về một phụ nữ Đông Á đeo tai chuột và tạo dáng trước một lâu đài kỳ ảo.
 
 Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một bức ảnh chụp nhanh du lịch tự nhiên về một phụ nữ Đông Á đeo tai chuột và tạo dáng trước một lâu đài kỳ ảo.
 
 <img src="images/2098610123900064236-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,12 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh du lịch chụp tự nhiên chân thực về một phụ nữ trẻ Đông Á đang có một ngày vui vẻ, kỳ diệu tại một lâu đài cổ tích. Cô đứng trước một lâu đài kỳ ảo phong cách châu Âu tráng lệ với những tòa tháp cao màu ngà, mái nhà màu xanh thanh lịch, các ngọn tháp mạ vàng, chi tiết đá chạm khắc tinh xảo và kiến trúc cổ kính tuyệt đẹp. Lâu đài chiếm phần lớn hậu cảnh, mang lại cảm giác như một kỳ nghỉ mơ màng tại công viên giải trí.
+Cô có mái tóc dài gợn sóng tự nhiên màu nâu hạt dẻ xõa nhẹ trên vai và lưng. Cô đeo một chiếc băng đô tai chuột lấp lánh màu xanh lam và hoa oải hương dễ thương, mỉm cười tự nhiên trong khi nhìn hơi chếch lên trên và sang một bên, như thể được ghi lại trong một khoảnh khắc hạnh phúc chân thật.
+Cô mặc một chiếc áo khoác lửng màu trắng kem có gân vải với các cúc áo màu vàng kim bên ngoài áo sơ mi trắng cổ bẻ sạch sẽ và cà vạt kẻ ca rô có hoa văn. Chiếc quần giả váy cạp cao họa tiết kẻ ca rô màu be, kem và xanh lam trầm có những nếp gấp mềm mại chuyển động tự nhiên theo tư thế của cô.
+Cô dang rộng hai tay và hơi nghiêng người về phía máy ảnh với năng lượng phấn khích, tinh nghịch. Tư thế mang lại cảm giác ngẫu hứng hơn là tạo dáng, giống như một bức ảnh chụp nhanh kỳ nghỉ thực sự.
+Sân lâu đài phía sau cô có những bậc thang đá màu nhạt rộng rãi, lan can trang trí, những dải cờ rực rỡ sắc màu và kiến trúc chi tiết lấy cảm hứng từ thời trung cổ. Bầu trời u ám nhẹ với những đám mây màu xám xanh nhạt, tạo ra ánh sáng ban ngày dịu dàng, nịnh mắt và bóng đổ tự nhiên.
+Nhiếp ảnh du lịch siêu chân thực, vẻ ngoài trẻ trung đích thực, kết cấu da chân thực, các lọn tóc tự nhiên, chi tiết chất liệu vải tỉ mỉ, tỷ lệ đáng tin cậy, độ sâu trường ảnh mềm mại, bóng đổ tự nhiên tinh tế, màu sắc rực rỡ nhưng hơi dịu, thẩm mỹ ảnh chụp tự nhiên bằng điện thoại thông minh, không khí kỳ nghỉ mơ màng, độ chi tiết cao, bố cục dọc 3:4.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098610123900064236"></a>
 
-### Tradução em curso
+### Um instantâneo espontâneo de viagem de uma mulher do Leste Asiático a usar orelhas de rato e a posar em frente a um castelo de fantasia.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um instantâneo espontâneo de viagem de uma mulher do Leste Asiático a usar orelhas de rato e a posar em frente a um castelo de fantasia.
 
 <img src="images/2098610123900064236-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Uma fotografia espontânea e realista de viagem de uma jovem mulher do Leste Asiático a desfrutar de um dia divertido e mágico num castelo de conto de fadas. Está de pé em frente a um grandioso castelo de fantasia em estilo europeu, com altas torres de marfim, elegantes telhados azuis, pináculos dourados, detalhes intrincados em pedra e uma bela arquitetura clássica. O castelo ocupa a maior parte do fundo, conferindo à cena uma sensação mágica de férias num parque temático. Tem cabelos longos, castanho-acastanhados e naturalmente ondulados a cair soltos sobre os ombros e as costas. Usa uma bonita bandolete brilhante de orelhas de rato em tons de azul e alfazema e sorri naturalmente enquanto olha ligeiramente para cima e para o lado, como se tivesse sido captada num momento genuíno de felicidade. Veste um casaco curto texturado branco-creme com botões dourados sobre uma camisa branca impecável de colarinho e uma gravata axadrezada com padrão. A sua saia-calção de cintura subida axadrezada em bege, creme e azul suave tem pregas suaves que se movem naturalmente com a sua pose. Estende ambos os braços para fora e inclina-se ligeiramente na direção da câmara com uma energia animada e brincalhona. A pose parece espontânea em vez de posada, como uma verdadeira foto de férias. O pátio do castelo atrás de si tem degraus largos de pedra clara, gradeamentos decorativos, estandartes coloridos e arquitetura detalhada de inspiração medieval. O céu está suavemente nublado com nuvens azul-acinzentadas claras, criando uma luz diurna suave e lisonjeira com sombras naturais. Fotografia de viagem ultrafotorrealista, aparência jovem e autêntica, textura de pele realista, fios de cabelo naturais, texturas de tecido detalhadas, proporções credíveis, profundidade de campo suave, sombras naturais subtis, cores vibrantes mas ligeiramente suaves, estética de fotografia espontânea de smartphone, atmosfera de férias de sonho, altamente detalhada, composição vertical 3:4.
 ```
 
 [↑ Voltar às categorias](#catalog)

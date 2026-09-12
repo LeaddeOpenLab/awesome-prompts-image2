@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098610123900064236"></a>
 
-### Übersetzung läuft
+### Ein spontaner Urlaubsschnappschuss einer ostasiatischen Frau mit Mauseohren, die vor einem Fantasieschloss posiert.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein spontaner Urlaubsschnappschuss einer ostasiatischen Frau mit Mauseohren, die vor einem Fantasieschloss posiert.
 
 <img src="images/2098610123900064236-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein realistisches, spontanes Reisefoto einer jungen ostasiatischen Frau, die einen vergnüglichen, magischen Tag in einem Märchenschloss verbringt. Sie steht vor einem prächtigen Fantasieschloss im europäischen Stil mit hohen elfenbeinfarbenen Türmen, eleganten blauen Dächern, goldenen Türmchen, kunstvollen Steindetails und wunderschöner Architektur der alten Welt. Das Schloss nimmt den Großteil des Hintergrunds ein und verleiht der Szene die traumhafte Stimmung eines Freizeitparkurlaubs. Sie hat langes, natürlich gewelltes, kastanienbraunes Haar, das locker über ihre Schultern und ihren Rücken fällt. Sie trägt ein süßes, blau-lavendelfarbenes, glitzerndes Mauseohren-Stirnband und lächelt natürlich, während sie leicht nach oben und zur Seite blickt, als sei sie in einem echten Moment des Glücks festgehalten worden. Sie trägt eine kurz geschnittene, cremeweiße Strukturjacke mit Goldknöpfen über einem sauberen weißen Hemd mit Kragen und einer gemusterten Karokrawatte. Ihr hoch taillierter Hosenrock mit Karomuster in Beige, Creme und gedecktem Blau hat weiche Falten, die sich natürlich mit ihrer Pose mitbewegen. Sie streckt beide Arme nach außen und beugt sich mit aufgeregter, verspielter Energie leicht zur Kamera. Die Pose wirkt eher spontan als gestellt, wie ein echter Urlaubsschnappschuss. Der Schlosshof hinter ihr bietet breite Stufen aus hellem Stein, dekorative Geländer, farbenfrohe Banner und eine detaillierte, mittelalterlich inspirierte Architektur. Der Himmel ist sanft bedeckt mit blassen blau-grauen Wolken, was ein sanftes, vorteilhaftes Tageslicht und natürliche Schatten erzeugt. Ultrafotorealistische Reisefotografie, authentisches jugendliches Aussehen, realistische Hauttextur, natürliche Haarsträhnen, detaillierte Stofftexturen, glaubwürdige Proportionen, weiche Tiefenschärfe, subtile natürliche Schatten, lebendige, aber leicht gedämpfte Farben, Schnappschuss-Ästhetik eines Smartphones, traumhafte Urlaubsatmosphäre, hochdetailliert, vertikale 3:4-Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

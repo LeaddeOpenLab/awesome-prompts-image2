@@ -35,13 +35,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098610123900064236"></a>
 
-### Traducción en curso
+### Una instantánea de viaje espontánea de una mujer de Asia oriental con orejas de ratón posando frente a un castillo de fantasía.
 
 Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2098610123900064236)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una instantánea de viaje espontánea de una mujer de Asia oriental con orejas de ratón posando frente a un castillo de fantasía.
 
 <img src="images/2098610123900064236-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,12 @@ Fotografía · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una foto de viaje realista y espontánea de una joven mujer de Asia oriental pasando un día divertido y mágico en un castillo de cuento de hadas. Está de pie frente a un imponente castillo de fantasía de estilo europeo con altas torres de color marfil, elegantes tejados azules, agujas doradas, intrincados detalles de piedra y una hermosa arquitectura del viejo mundo. El castillo ocupa la mayor parte del fondo, dando a la escena un aire soñador de vacaciones en un parque temático.
+Tiene el pelo largo, castaño rojizo y con ondas naturales, cayendo suavemente sobre sus hombros y espalda. Lleva una bonita diadema con orejas de ratón brillantes en azul y lavanda y sonríe de forma natural mientras mira ligeramente hacia arriba y hacia un lado, como si hubiera sido capturada en un momento de auténtica felicidad.
+Viste una chaqueta corta texturizada de color blanco crema con botones dorados sobre una impecable camisa blanca de cuello y una corbata de cuadros con estampado. Su falda-pantalón de tiro alto de cuadros en tonos beige, crema y azul apagado tiene suaves pliegues que se mueven de forma natural con su pose.
+Extiende ambos brazos hacia afuera y se inclina ligeramente hacia la cámara con una energía emocionada y juguetona. La postura parece espontánea en lugar de posada, como una instantánea real de vacaciones.
+El patio del castillo detrás de ella tiene amplios escalones de piedra clara, barandillas decorativas, pancartas coloridas y una arquitectura detallada de inspiración medieval. El cielo está suavemente nublado con nubes de color azul grisáceo pálido, creando una luz diurna tenue y favorecedora con sombras naturales.
+Fotografía de viajes ultra fotorrealista, apariencia juvenil auténtica, textura de piel realista, mechones de pelo naturales, texturas de tela detalladas, proporciones creíbles, suave profundidad de campo, sombras naturales sutiles, colores vibrantes pero ligeramente apagados, estética de foto espontánea de smartphone, atmósfera soñadora de vacaciones, altamente detallada, composición vertical de 3:4.
 ```
 
 [↑ Volver a categorías](#catalog)
