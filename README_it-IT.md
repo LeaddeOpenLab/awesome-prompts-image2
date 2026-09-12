@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**75** Prompt · Ultima aggiunta: **2026-09-12**
+**76** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Traduzione in corso
+
+Autore：[@Aqsahere\_](https://x.com/Aqsahere_) · [Post originale](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Fotografia · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098610123900064236-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Prompt per fotografia documentaria di una studentessa sul campo sportivo del campus in stile scatto rubato con iPhone
 
 Autore：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Fotografia · Ritratto / Selfie · Pubblicato
 
 Post originale：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fotografia documentaria di una studentessa sul campo sportivo del campus in stile scatto rubato con iPhone
 
 <img src="images/2098616431122559479-1.jpg" alt="Immagine 1" width="480" />
 
@@ -52,7 +76,7 @@ Post originale：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.c
 **Prompt**
 
 ```text
-Traduzione in corso
+Documentario di vita quotidiana nel campus; coincidenza divertente; scatto rubato con fotocamera originale iPhone; spalle strette e vita sottilissima·studentessa dal seno prosperoso🙆🏻‍♀️
 ```
 
 [↑ Torna alle categorie](#catalog)

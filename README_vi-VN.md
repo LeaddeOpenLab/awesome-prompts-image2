@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**75** Prompt · Bổ sung mới nhất: **2026-09-12**
+**76** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Đang dịch
+
+Tác giả：[@Aqsahere\_](https://x.com/Aqsahere_) · [Bài gốc](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098610123900064236-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Lời nhắc nhiếp ảnh tài liệu nữ sinh trên sân vận động trường học theo phong cách chụp nhanh iPhone
 
 Tác giả：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc nhiếp ảnh tài liệu nữ sinh trên sân vận động trường học theo phong cách chụp nhanh iPhone
 
 <img src="images/2098616431122559479-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -52,7 +76,7 @@ Bài gốc：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCX
 **Câu lệnh**
 
 ```text
-Đang dịch
+Phim tài liệu đời sống thường nhật trong khuôn viên trường; khoảnh khắc tình cờ thú vị; chụp nhanh bằng camera gốc của iPhone; vai hẹp eo siêu thon·nữ sinh có vòng một đầy đặn nổi bật🙆🏻‍♀️
 ```
 
 [↑ Về danh mục](#catalog)

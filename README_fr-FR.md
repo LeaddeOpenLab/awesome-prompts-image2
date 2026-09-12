@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**75** Prompts · Dernier ajout: **2026-09-12**
+**76** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Traduction en cours
+
+Auteur：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publication originale](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098610123900064236-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Prompt de photographie documentaire d'une étudiante sur le terrain de sport du campus dans le style instantané iPhone
 
 Auteur：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Photographie · Portrait / Selfie · Publié
 
 Publication originale：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie documentaire d'une étudiante sur le terrain de sport du campus dans le style instantané iPhone
 
 <img src="images/2098616431122559479-1.jpg" alt="Image 1" width="480" />
 
@@ -52,7 +76,7 @@ Publication originale：[@DDJCXX](https://x.com/DDJCXX) · [Publication original
 **Consigne**
 
 ```text
-Traduction en cours
+Documentaire sur le quotidien du campus; coïncidence amusante; instantané pris avec l'appareil photo d'origine de l'iPhone; épaules étroites, taille ultra fine·étudiante à la poitrine généreuse🙆🏻‍♀️
 ```
 
 [↑ Retour aux catégories](#catalog)

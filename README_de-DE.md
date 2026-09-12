@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**75** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**76** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Übersetzung läuft
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Originalbeitrag](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098610123900064236-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Prompt für Dokumentarfotografie einer Schülerin auf dem Sportplatz im iPhone-Schnappschuss-Stil
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Fotografie · Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Dokumentarfotografie einer Schülerin auf dem Sportplatz im iPhone-Schnappschuss-Stil
 
 <img src="images/2098616431122559479-1.jpg" alt="Bild 1" width="480" />
 
@@ -52,7 +76,7 @@ Originalbeitrag：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x
 **Prompt**
 
 ```text
-Übersetzung läuft
+Campus-Alltagsdokumentation; amüsanter Zufall; Schnappschuss mit der Original-iPhone-Kamera; schmale Schultern, extrem schlanke Taille·Schülerin mit betonter Oberweite🙆🏻‍♀️
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

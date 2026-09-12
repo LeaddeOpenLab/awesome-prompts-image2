@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**75** Prompts · Latest addition: **2026-09-12**
+**76** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098610123900064236"></a>
+
+### A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.
+
+Author：[@Aqsahere\_](https://x.com/Aqsahere_) · [Source](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Photography · Character · Published
+
+**Summary:** A candid travel snapshot of an East Asian woman wearing mouse ears and posing in front of a fantasy castle.
+
+<img src="images/2098610123900064236-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.\nShe has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.\nShe wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.\nShe stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.\nThe castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.\nUltra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098616431122559479"></a>
 

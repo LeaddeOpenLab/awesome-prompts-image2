@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**75** Prompts · Última adição: **2026-09-12**
+**76** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 ## Fotografia
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Tradução em andamento
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicação original](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098610123900064236-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Prompt de fotografia documental de estudante na quadra esportiva do campus no estilo instantânea de iPhone
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Fotografia · Retrato / Selfie · Publicado
 
 Publicação original：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de fotografia documental de estudante na quadra esportiva do campus no estilo instantânea de iPhone
 
 <img src="images/2098616431122559479-1.jpg" alt="Imagem 1" width="480" />
 
@@ -52,7 +76,7 @@ Publicação original：[@DDJCXX](https://x.com/DDJCXX) · [Publicação origina
 **Prompt**
 
 ```text
-Tradução em andamento
+Documentário da rotina no campus; coincidência divertida; foto instantânea com a câmera nativa do iPhone; ombros estreitos e cintura extremamente fina·estudante de busto volumoso🙆🏻‍♀️
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**75** Prompts · Última incorporación: **2026-09-12**
+**76** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,33 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 ## Fotografía
 
-<a name="prompt-2098616431122559479"></a>
+<a name="prompt-2098610123900064236"></a>
 
 ### Traducción en curso
+
+Autor：[@Aqsahere\_](https://x.com/Aqsahere_) · [Publicación original](https://x.com/Aqsahere_/status/2098610123900064236)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098610123900064236-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098610123900064236-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098616431122559479"></a>
+
+### Prompt de fotografía documental de estudiante en el patio del campus estilo instantánea de iPhone
 
 Autor：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2098616431122559479)
 
@@ -43,7 +67,7 @@ Fotografía · Retrato / Selfie · Publicado
 
 Publicación original：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2098240447038767437)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía documental de estudiante en el patio del campus estilo instantánea de iPhone
 
 <img src="images/2098616431122559479-1.jpg" alt="Imagen 1" width="480" />
 
@@ -52,7 +76,7 @@ Publicación original：[@DDJCXX](https://x.com/DDJCXX) · [Publicación origina
 **Prompt**
 
 ```text
-Traducción en curso
+Documental de la vida cotidiana en el campus; momento fortuito y divertido; instantánea con la cámara original de iPhone; hombros estrechos y cintura diminuta·estudiante con busto exuberante🙆🏻‍♀️
 ```
 
 [↑ Volver a categorías](#catalog)
