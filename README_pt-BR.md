@@ -1606,7 +1606,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098634675057238254"></a>
 
-### Tradução em andamento
+### Prompt para gerar panfletos de anúncio de shows de qualidade profissional em grade 2×2 com diferentes trajes, gêneros e tipografias, mantendo o personagem e o estilo artístico.
 
 Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1614,7 +1614,7 @@ Pôster / Flyer · Personagem · Item de Moda · Texto / Tipografia · Publicado
 
 Publicação original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para gerar panfletos de anúncio de shows de qualidade profissional em grade 2×2 com diferentes trajes, gêneros e tipografias, mantendo o personagem e o estilo artístico.
 
 <img src="images/2098634675057238254-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1625,7 +1625,11 @@ Publicação original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Public
 **Prompt**
 
 ```text
-Tradução em andamento
+Mantenha este personagem e o estilo artístico, e crie em uma grade 2×2 com 4 divisões panfletos de anúncio de show ao vivo com vários trajes de palco e poses, como se tivessem sido criados por um designer profissional.
+
+Crie livremente os trajes, as poses, os gêneros musicais, os cenários, a iluminação e o design dos panfletos, conferindo a cada um dos quatro um charme e um toque de surpresa diferentes. Incorpore recursos visuais que transmitam o entusiasmo e a atmosfera do show, além de uma tipografia marcante, incluindo informações fictícias de divulgação como título da apresentação, data, horário e local, proporcionando um acabamento de nível profissional.
+
+Todos os quatro devem manter o mesmo personagem e o mesmo estilo artístico. A proporção geral deve ser 4:3.
 ```
 
 [↑ Voltar às categorias](#catalog)

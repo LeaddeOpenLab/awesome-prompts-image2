@@ -1628,7 +1628,7 @@ Tạo MỘT áp phích biên tập cao cấp độc lập cho MỖI bức ảnh 
 
 <a name="prompt-2098634675057238254"></a>
 
-### Đang dịch
+### Lời nhắc tạo tờ rơi thông báo biểu diễn trực tiếp chất lượng chuyên nghiệp chia ô 2×2 với trang phục, thể loại và nghệ thuật chữ khác nhau trong khi vẫn duy trì nhân vật và phong cách vẽ.
 
 Tác giả：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1636,7 +1636,7 @@ Tác giả：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https
 
 Bài gốc：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo tờ rơi thông báo biểu diễn trực tiếp chất lượng chuyên nghiệp chia ô 2×2 với trang phục, thể loại và nghệ thuật chữ khác nhau trong khi vẫn duy trì nhân vật và phong cách vẽ.
 
 <img src="images/2098634675057238254-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1647,7 +1647,11 @@ Bài gốc：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Bài gốc](https
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy duy trì nhân vật và phong cách vẽ này, tạo ra tờ rơi thông báo buổi biểu diễn trực tiếp với nhiều trang phục biểu diễn và tư thế khác nhau được chia thành 4 ô 2×2 trông như do nhà thiết kế chuyên nghiệp thực hiện.
+
+Hãy tự do sáng tạo về trang phục, tư thế, thể loại âm nhạc, phông nền, ánh sáng và phong cách thiết kế tờ rơi, để mỗi ô trong số 4 ô đều mang một sức hút và sự bất ngờ riêng biệt. Kết hợp hình ảnh truyền tải được sự cuồng nhiệt và thế giới quan của buổi biểu diễn cùng nghệ thuật chữ (typography) ấn tượng, bao gồm cả các thông tin thông báo giả định như tên buổi diễn, ngày giờ và địa điểm, mang lại độ hoàn thiện chuẩn chuyên nghiệp.
+
+Cả 4 ô đều phải giữ nguyên cùng một nhân vật, cùng một phong cách vẽ. Tỉ lệ tổng thể là 4:3.
 ```
 
 [↑ Về danh mục](#catalog)

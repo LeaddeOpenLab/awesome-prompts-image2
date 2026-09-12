@@ -1621,7 +1621,7 @@ Calme, poétique, raffiné, minimaliste, innocent, artistique, réfléchi, haut 
 
 <a name="prompt-2098634675057238254"></a>
 
-### Traduction en cours
+### Prompt pour générer des flyers d'annonce de concert de qualité professionnelle en grille 2×2 avec des tenues, genres et typographies variés, tout en conservant le personnage et le style artistique.
 
 Auteur：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publication originale](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1629,7 +1629,7 @@ Affiche / Flyer · Personnage · Article de mode · Texte / Typographie · Publi
 
 Publication originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publication originale](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer des flyers d'annonce de concert de qualité professionnelle en grille 2×2 avec des tenues, genres et typographies variés, tout en conservant le personnage et le style artistique.
 
 <img src="images/2098634675057238254-1.jpg" alt="Image 1" width="480" />
 
@@ -1640,7 +1640,11 @@ Publication originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Public
 **Consigne**
 
 ```text
-Traduction en cours
+En conservant ce personnage et ce style artistique, génère une grille 2×2 de 4 visuels de flyers d'annonce de concert live avec différentes tenues de scène et poses, comme s'ils avaient été conçus par un designer professionnel.
+
+Imagine librement les tenues, les poses, les genres musicaux, les arrière-plans, l'éclairage et la mise en page des flyers, en apportant à chacun des quatre un charme et un effet de surprise distincts. Intègre des visuels transmettant la ferveur et l'univers du concert ainsi qu'une typographie percutante, en incluant des informations fictives sur l'événement telles que le titre du spectacle, la date, l'heure et la salle, pour un rendu de niveau professionnel.
+
+Les quatre visuels doivent conserver exactement le même personnage et le même style artistique. Le format global doit être en 4:3.
 ```
 
 [↑ Retour aux catégories](#catalog)

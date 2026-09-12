@@ -1621,7 +1621,7 @@ Silenzioso, poetico, raffinato, minimale, innocente, artistico, riflessivo, prem
 
 <a name="prompt-2098634675057238254"></a>
 
-### Traduzione in corso
+### Prompt per generare volantini promozionali per concerti di qualità professionale in formato 2×2 con abiti, generi e tipografie differenti, mantenendo il personaggio e lo stile artistico.
 
 Autore：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Post originale](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1629,7 +1629,7 @@ Poster / Volantino · Personaggio · Articolo di moda · Testo / Tipografia · P
 
 Post originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Post originale](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generare volantini promozionali per concerti di qualità professionale in formato 2×2 con abiti, generi e tipografie differenti, mantenendo il personaggio e lo stile artistico.
 
 <img src="images/2098634675057238254-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1640,7 +1640,11 @@ Post originale：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Post original
 **Prompt**
 
 ```text
-Traduzione in corso
+Mantenendo questo personaggio e questo stile artistico, genera in una griglia 2×2 divisa in 4 riquadri dei volantini di annuncio per concerti dal vivo con vari abiti da esibizione e pose, come se fossero stati realizzati da un designer professionista.
+
+Sviluppa liberamente costumi, pose, generi musicali, sfondi, luci e layout dei volantini, donando a ciascuno dei quattro un fascino e un elemento di sorpresa differenti. Includi elementi visivi che trasmettano l'energia e l'atmosfera del live insieme a una tipografia d'impatto, inserendo informazioni fittizie sull'evento come titolo dello spettacolo, data, ora e location, per una resa di livello professionale.
+
+Tutti e quattro i riquadri devono mantenere lo stesso personaggio e lo stesso stile artistico. Il rapporto complessivo è 4:3.
 ```
 
 [↑ Torna alle categorie](#catalog)

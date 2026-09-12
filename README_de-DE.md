@@ -1621,7 +1621,7 @@ Ruhig, poetisch, raffiniert, minimalistisch, unschuldig, künstlerisch, nachdenk
 
 <a name="prompt-2098634675057238254"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung professioneller Live-Ankündigungsflyer im 2×2-Raster mit unterschiedlichen Outfits, Genres und Typografien bei gleichbleibendem Charakter und Kunststil.
 
 Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Originalbeitrag](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1629,7 +1629,7 @@ Plakat / Flyer · Charakter · Modeartikel · Text / Typografie · Veröffentlic
 
 Originalbeitrag：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Originalbeitrag](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung professioneller Live-Ankündigungsflyer im 2×2-Raster mit unterschiedlichen Outfits, Genres und Typografien bei gleichbleibendem Charakter und Kunststil.
 
 <img src="images/2098634675057238254-1.jpg" alt="Bild 1" width="480" />
 
@@ -1640,7 +1640,11 @@ Originalbeitrag：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Originalbeit
 **Prompt**
 
 ```text
-Übersetzung läuft
+Behalte diesen Charakter und Kunststil bei und erstelle in einem 2×2-Raster mit 4 Feldern Ankündigungsflyer für Live-Konzerte mit verschiedenen Bühnenoutfits und Posen, als wären sie von einem professionellen Designer gestaltet worden.
+
+Entwickle Outfits, Posen, Musikgenres, Hintergründe, Beleuchtung und Flyer-Designs frei und verleihe jedem der vier Felder einen eigenen Charme und Überraschungseffekt. Binde visuelle Elemente ein, die die Energie und die Atmosphäre des Konzerts vermitteln, sowie eine eindrucksvolle Typografie inklusive fiktiver Veranstaltungsdetails wie Titel, Datum, Uhrzeit und Veranstaltungsort, um ein professionelles Ergebnis zu erzielen.
+
+Alle vier Felder müssen denselben Charakter und denselben Kunststil beibehalten. Das Gesamtseitenverhältnis beträgt 4:3.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

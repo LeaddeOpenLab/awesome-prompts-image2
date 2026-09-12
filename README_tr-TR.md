@@ -1606,7 +1606,7 @@ Sakin, şiirsel, zarif, minimal, masum, sanatsal, düşünceli, birinci sınıf 
 
 <a name="prompt-2098634675057238254"></a>
 
-### Çeviri sürüyor
+### Karakteri ve çizim tarzını korurken, 2×2 ızgarada farklı kostüm, müzik türü ve tipografiye sahip profesyonel kalitede canlı konser duyuru afişleri oluşturan istem.
 
 Yazar：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Orijinal gönderi](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1614,7 +1614,7 @@ Poster / El İlanı · Karakter · Moda Ürünü · Metin / Tipografi · Yayıml
 
 Orijinal gönderi：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Orijinal gönderi](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karakteri ve çizim tarzını korurken, 2×2 ızgarada farklı kostüm, müzik türü ve tipografiye sahip profesyonel kalitede canlı konser duyuru afişleri oluşturan istem.
 
 <img src="images/2098634675057238254-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1625,7 +1625,11 @@ Orijinal gönderi：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Orijinal g
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu karakteri ve çizim tarzını koruyarak, profesyonel bir tasarımcı tarafından hazırlanmış gibi görünen, çeşitli sahne kostümleri ve pozlara sahip canlı konser duyuru afişlerini 2×2'lik 4 bölmeli bir ızgara şeklinde oluştur.
+
+Kostümleri, pozları, müzik türlerini, arka planları, ışıklandırmayı ve afiş tasarımlarını özgürce kurgula; dördünün her birine farklı bir çekicilik ve sürpriz unsuru kazandır. Konserin coşkusunu ve dünyasını yansıtan görseller ile etkileyici bir tipografi kullan; etkinlik başlığı, tarih, saat ve mekan gibi kurgusal duyuru bilgilerini de ekleyerek profesyonel kalitede bir sonuç elde et.
+
+Dördünde de aynı karakteri ve aynı çizim tarzını koru. Genel en-boy oranı 4:3 olmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

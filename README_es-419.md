@@ -1621,7 +1621,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, reflexivo, pr�
 
 <a name="prompt-2098634675057238254"></a>
 
-### Traducción en curso
+### Prompt para generar volantes de anuncio de conciertos de calidad profesional en cuadrícula 2×2 con diferentes vestuarios, géneros y tipografías, manteniendo el personaje y el estilo artístico.
 
 Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicación original](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1629,7 +1629,7 @@ Póster / Volante · Personaje · Artículo de moda · Texto / Tipografía · Pu
 
 Publicación original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicación original](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar volantes de anuncio de conciertos de calidad profesional en cuadrícula 2×2 con diferentes vestuarios, géneros y tipografías, manteniendo el personaje y el estilo artístico.
 
 <img src="images/2098634675057238254-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1640,7 +1640,11 @@ Publicación original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Public
 **Prompt**
 
 ```text
-Traducción en curso
+Mantén este personaje y estilo artístico, y genera en una cuadrícula de 4 divisiones (2×2) volantes de anuncio de conciertos en vivo con diversos vestuarios y poses escénicas, como si hubieran sido creados por un diseñador profesional.
+
+Diseña libremente los vestuarios, las poses, los géneros musicales, los fondos, la iluminación y el diseño de los volantes, dándole a cada uno de los cuatro un encanto y un factor sorpresa diferentes. Incorpora elementos visuales que transmitan la energía y el mundo del concierto, junto con una tipografía impactante, e incluye información ficticia del evento como el título del espectáculo, la fecha, la hora y el recinto, logrando un acabado de nivel profesional.
+
+Los cuatro deben mantener el mismo personaje y el mismo estilo artístico. La proporción general debe ser 4:3.
 ```
 
 [↑ Volver a categorías](#catalog)

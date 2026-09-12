@@ -1606,7 +1606,7 @@ Tranquilo, poético, refinado, minimalista, inocente, artístico, ponderado, sof
 
 <a name="prompt-2098634675057238254"></a>
 
-### Tradução em curso
+### Prompt para gerar panfletos de anúncio de concertos de qualidade profissional em grelha 2×2 com diferentes trajes, géneros e tipografias, mantendo a personagem e o estilo artístico.
 
 Autor：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098634675057238254)
 
@@ -1614,7 +1614,7 @@ Pôster / Folheto · Personagem · Item de Moda · Texto / Tipografia · Publica
 
 Publicação original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Publicação original](https://x.com/hAru_mAki_ch/status/2098616421190435145)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para gerar panfletos de anúncio de concertos de qualidade profissional em grelha 2×2 com diferentes trajes, géneros e tipografias, mantendo a personagem e o estilo artístico.
 
 <img src="images/2098634675057238254-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1625,7 +1625,11 @@ Publicação original：[@hAru\_mAki\_ch](https://x.com/hAru_mAki_ch) · [Public
 **Prompt**
 
 ```text
-Tradução em curso
+Mantém esta personagem e o estilo artístico, e gera numa grelha 2×2 de 4 divisões panfletos de anúncio de concertos ao vivo com vários trajes de palco e poses, como se tivessem sido criados por um designer profissional.
+
+Concebe livremente os trajes, as poses, os géneros musicais, os fundos, a iluminação e o design dos panfletos, conferindo a cada um dos quatro um encanto e um elemento de surpresa diferentes. Incorpora elementos visuais que transmitam a energia e a atmosfera do concerto, juntamente com uma tipografia marcante, incluindo informações fictícias de divulgação como título do espetáculo, data, hora e local, garantindo um acabamento de nível profissional.
+
+Todos os quatro devem manter a mesma personagem e o mesmo estilo artístico. A proporção global deve ser 4:3.
 ```
 
 [↑ Voltar às categorias](#catalog)
