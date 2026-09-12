@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**77** Prompts · Latest addition: **2026-09-12**
+**78** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -233,6 +233,28 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098631695855669712"></a>
+
+### A cozy, photorealistic shot of an East Asian woman in a warm camper van gazing at the starry Milky Way sky.
+
+Author：[@laviniavelle](https://x.com/laviniavelle) · [Source](https://x.com/laviniavelle/status/2098631695855669712)
+
+Photography · Character · Published
+
+**Summary:** A cozy, photorealistic shot of an East Asian woman in a warm camper van gazing at the starry Milky Way sky.
+
+<img src="images/2098631695855669712-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A realistic cozy highly detailed photograph of a young East Asian woman with her hair in a soft casual bun sitting comfortably inside a warm camper van at night. She is wrapped in a thick plush floral-patterned pink quilt wearing a cozy pink fuzzy fleece sweater holding a pink ceramic mug with both hands looking out the large van window with a gentle serene smile Outside the window, a breathtaking dark night sky reveals a vivid star filled Milky Way galaxy over distant mountain silhouettes The interior of the van is filled with warm string fairy lights cozy wooden shelves with small house decor framed photos and cute plush stuffed animals a white bunny and a yellow duckling Warm, ambient lighting, cinematic, 8k resolution, photorealistic, dreamy atmosphere.
 ```
 
 [↑ Back to categories](#catalog)
